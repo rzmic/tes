@@ -1,0 +1,1323 @@
+1
+00:00:02,312 --> 00:00:03,312
+Di mana dia?
+
+2
+00:00:04,104 --> 00:00:05,104
+Pelacaknya berhasil.
+
+3
+00:00:05,604 --> 00:00:07,521
+Dia tiba di Jabiim saat ini.
+
+4
+00:00:08,396 --> 00:00:10,729
+Kepung fasilitas itu.
+
+5
+00:00:11,271 --> 00:00:13,104
+(SEBELUMNYA DI OBI-WAN KENOBI)
+
+6
+00:00:14,312 --> 00:00:17,312
+Jika kita kurung, mereka
+bisa bertahan berhari-hari.
+
+7
+00:00:17,396 --> 00:00:19,312
+Jika kita tidak
+hancurkan mereka...
+
+8
+00:00:19,396 --> 00:00:22,812
+Bukan mereka yang
+perlu kita hancurkan.
+
+9
+00:00:22,896 --> 00:00:24,021
+Tembak!
+
+10
+00:00:27,771 --> 00:00:29,271
+Kau bukan mau melayaninya.
+
+11
+00:00:29,354 --> 00:00:30,729
+Kau mau memburunya.
+
+12
+00:00:33,229 --> 00:00:34,646
+Mundur ke posisi kedua!
+
+13
+00:00:36,312 --> 00:00:37,396
+Tala!
+
+14
+00:00:38,104 --> 00:00:38,979
+Tidak!
+
+15
+00:00:39,062 --> 00:00:40,771
+Semoga Force bersamamu.
+
+16
+00:00:44,021 --> 00:00:46,021
+Beri tahu Lord Vader,
+
+17
+00:00:46,521 --> 00:00:49,937
+Kenobi ada di tangan kita.
+
+18
+00:00:50,604 --> 00:00:52,562
+Kau bukan membawanya kepadaku.
+
+19
+00:00:55,687 --> 00:00:58,104
+Aku akan membawanya kepadamu.
+
+20
+00:01:06,896 --> 00:01:11,146
+Kau sungguh mengira aku
+tidak menduganya, Youngling?
+
+21
+00:01:14,104 --> 00:01:18,896
+Balas dendam memang ajaib
+bagi tekad untuk hidup, bukan?
+
+22
+00:01:22,604 --> 00:01:25,771
+Jika dia menemukanmu,
+dan tahu soal anak-anak...
+
+23
+00:01:25,854 --> 00:01:27,187
+Aku akan menuju Tatooine.
+
+24
+00:02:31,229 --> 00:02:32,354
+Kau berani bicara?
+
+25
+00:02:32,937 --> 00:02:34,354
+Aku mau bicara.
+
+26
+00:02:34,437 --> 00:02:35,437
+Tunggu giliranmu.
+
+27
+00:02:36,062 --> 00:02:38,187
+Ambil sisanya
+setelah aku selesai.
+
+28
+00:02:51,687 --> 00:02:53,437
+Aku mencari petani
+
+29
+00:02:54,687 --> 00:02:55,896
+bernama Owen.
+
+30
+00:03:14,646 --> 00:03:16,896
+Tingkatkan daya tembak.
+
+31
+00:03:16,979 --> 00:03:18,354
+Segera, Lord Vader.
+
+32
+00:03:32,562 --> 00:03:34,146
+Hyperdrive hampir siap.
+
+33
+00:03:34,229 --> 00:03:36,312
+Salurkan semua daya
+ke perisai belakang.
+
+34
+00:03:36,396 --> 00:03:37,521
+Kita pergi ke Tessen.
+
+35
+00:03:38,687 --> 00:03:39,937
+Kita transit dari sana.
+
+36
+00:03:51,146 --> 00:03:53,146
+Kita tak akan berhasil
+sampai ke Tessen, bukan?
+
+37
+00:03:54,104 --> 00:03:55,229
+Motivator rusak.
+
+38
+00:03:56,229 --> 00:03:57,812
+Power coupling-nya parah.
+
+39
+00:03:57,896 --> 00:04:00,312
+Aku sedang usahakan, tetapi
+perisainya tak tahan lama.
+
+40
+00:04:00,396 --> 00:04:01,771
+Butuh waktu berapa lama?
+
+41
+00:04:05,187 --> 00:04:06,312
+Lebih dari yang kita punya.
+
+42
+00:04:24,812 --> 00:04:25,854
+Tak apa-apa.
+
+43
+00:04:27,937 --> 00:04:30,312
+Tak apa-apa.
+
+44
+00:04:41,521 --> 00:04:42,521
+Mereka takut.
+
+45
+00:04:43,771 --> 00:04:45,521
+Dia mengalihkan pikiran mereka.
+
+46
+00:04:48,604 --> 00:04:50,354
+Mungkin aku harus
+pinjam dia juga.
+
+47
+00:04:59,729 --> 00:05:00,729
+Halo.
+
+48
+00:05:01,437 --> 00:05:02,646
+Perlu apa, Nak?
+
+49
+00:05:03,187 --> 00:05:05,229
+Kami butuh sabuk
+baru untuk speeder.
+
+50
+00:05:05,312 --> 00:05:07,979
+Ada yang merusak
+sabuk yang terakhir.
+
+51
+00:05:08,729 --> 00:05:10,479
+Pamanmu orang yang sabar.
+
+52
+00:05:10,562 --> 00:05:12,021
+Aku tidak sesabar itu.
+
+53
+00:05:19,312 --> 00:05:20,312
+Owen?
+
+54
+00:05:24,229 --> 00:05:25,729
+Ada yang harus kau ketahui.
+
+55
+00:05:28,354 --> 00:05:30,896
+Tidak! Tidak boleh! Jangan
+tinggalkan aku di sini!
+
+56
+00:05:30,979 --> 00:05:33,396
+Akulah yang Vader inginkan.
+Jika aku pergi, dia ikuti.
+
+57
+00:05:33,479 --> 00:05:35,437
+- Aku tidak izinkan!
+- Leia, tolonglah.
+
+58
+00:05:35,521 --> 00:05:38,729
+Tunggu, bagaimana dengan
+kita semua tetap bersama?
+
+59
+00:05:40,687 --> 00:05:42,396
+Roken butuh waktu
+untuk perbaiki kapal.
+
+60
+00:05:42,479 --> 00:05:43,896
+Ini akan memberinya waktu.
+
+61
+00:05:46,021 --> 00:05:49,312
+Selama sepuluh tahun
+kalian melindungi Jedi.
+
+62
+00:05:49,396 --> 00:05:51,354
+Ini kesempatanku
+untuk membalas budi.
+
+63
+00:05:51,437 --> 00:05:52,729
+Tapi kita sudah dekat.
+
+64
+00:05:52,812 --> 00:05:55,146
+Roken, kau tahu
+rencana ini masuk akal.
+
+65
+00:05:55,229 --> 00:05:57,538
+- Tidak. Kami membutuhkanmu!
+- Kalian membutuhkan waktu ini.
+
+66
+00:05:57,562 --> 00:05:59,271
+Kau harus membawa
+keluar orang-orang ini.
+
+67
+00:05:59,354 --> 00:06:01,771
+Kalian adalah masa depan.
+
+68
+00:06:02,687 --> 00:06:04,437
+Kalianlah yang harus selamat.
+
+69
+00:06:06,437 --> 00:06:07,521
+Tidak.
+
+70
+00:06:07,604 --> 00:06:08,687
+Leia.
+
+71
+00:06:08,771 --> 00:06:10,646
+Aku merasa dia perlu
+diberikan ruang, jadi...
+
+72
+00:06:10,729 --> 00:06:13,146
+Berjanjilah kau akan
+mengantarnya pulang, Haja.
+
+73
+00:06:13,229 --> 00:06:14,729
+Begitu aku sudah cukup jauh.
+
+74
+00:06:16,437 --> 00:06:17,437
+Aku berjanji.
+
+75
+00:06:18,812 --> 00:06:20,312
+Tapi janji seorang pembohong
+
+76
+00:06:20,396 --> 00:06:22,396
+dan Jedi palsu mungkin
+tidak begitu berarti bagimu
+
+77
+00:06:22,479 --> 00:06:23,771
+Itu cukup bagiku.
+
+78
+00:06:37,062 --> 00:06:38,187
+Baik, masuklah.
+
+79
+00:06:39,354 --> 00:06:40,354
+Cepat.
+
+80
+00:06:43,437 --> 00:06:44,479
+Ada apa?
+
+81
+00:06:45,896 --> 00:06:46,896
+Ayo masuk.
+
+82
+00:06:54,562 --> 00:06:55,830
+Bagaimana dia tahu Luke di sini?
+
+83
+00:06:55,854 --> 00:06:57,646
+Entahlah. Aku hanya
+tahu dia datang.
+
+84
+00:06:58,312 --> 00:07:00,146
+- Ben menghilang.
+- Salah siapa itu?
+
+85
+00:07:01,229 --> 00:07:04,104
+Kita harus pergi, Beru.
+Bawa Luke dan bersembunyi.
+
+86
+00:07:04,187 --> 00:07:05,937
+Di mana? Di gurun?
+
+87
+00:07:06,437 --> 00:07:08,937
+Aku tak mau tinggalkan
+rumahku. Di sini kita punya peluang.
+
+88
+00:07:09,021 --> 00:07:10,979
+Jika tinggal di sini,
+kita butuh bantuan.
+
+89
+00:07:11,479 --> 00:07:13,521
+Aku tidak akan membahayakan
+orang lain, Owen.
+
+90
+00:07:14,937 --> 00:07:16,312
+Kita saja cukup.
+
+91
+00:07:16,396 --> 00:07:17,396
+Kau dan aku.
+
+92
+00:07:20,062 --> 00:07:21,104
+Beru, sedang apa?
+
+93
+00:07:21,187 --> 00:07:22,771
+Kita tahu hari ini mungkin tiba.
+
+94
+00:07:27,646 --> 00:07:29,729
+Dia akan datang saat
+matahari terbenam.
+
+95
+00:07:29,812 --> 00:07:31,187
+Sebaiknya kita menuju posisi.
+
+96
+00:07:38,062 --> 00:07:39,062
+Hei.
+
+97
+00:07:45,812 --> 00:07:46,896
+Aku sudah membujuknya.
+
+98
+00:07:47,521 --> 00:07:48,562
+Terima kasih kembali.
+
+99
+00:07:55,437 --> 00:07:57,229
+Kau bilang akan
+mengantarku pulang.
+
+100
+00:07:58,771 --> 00:08:00,312
+Aku ingin sekali, Leia.
+
+101
+00:08:01,396 --> 00:08:02,437
+Sungguh ingin.
+
+102
+00:08:08,021 --> 00:08:10,104
+Beri tahu ayahmu,
+aku sudah berusaha.
+
+103
+00:08:16,604 --> 00:08:17,896
+Aku punya sesuatu untukmu.
+
+104
+00:08:20,021 --> 00:08:21,896
+Roken menemukannya
+sebelum kita keluar.
+
+105
+00:08:23,521 --> 00:08:25,396
+Dia pasti ingin kau memilikinya.
+
+106
+00:08:29,646 --> 00:08:30,646
+Tidak ada isinya.
+
+107
+00:08:31,854 --> 00:08:34,062
+Aku tidak akan
+memberimu blaster, Leia.
+
+108
+00:08:34,146 --> 00:08:35,437
+Kau baru sepuluh tahun.
+
+109
+00:08:39,312 --> 00:08:40,604
+Tapi kelak kau akan dewasa.
+
+110
+00:09:03,604 --> 00:09:04,604
+Kembalilah.
+
+111
+00:09:06,021 --> 00:09:07,146
+Kumohon.
+
+112
+00:09:10,896 --> 00:09:11,896
+Aku janji.
+
+113
+00:09:31,437 --> 00:09:33,229
+Aku harus menghadapinya, Master.
+
+114
+00:09:35,604 --> 00:09:37,521
+Siapa pun yang mati,
+
+115
+00:09:38,812 --> 00:09:40,229
+ini berakhir hari ini.
+
+116
+00:09:48,854 --> 00:09:49,854
+Sudah siap?
+
+117
+00:09:51,354 --> 00:09:52,604
+Kapal pengantar sudah siap.
+
+118
+00:09:53,646 --> 00:09:55,646
+Kau tidak harus melakukan ini.
+
+119
+00:09:56,396 --> 00:09:57,796
+Kita masih bisa
+perbaiki drive-nya.
+
+120
+00:09:57,854 --> 00:09:58,896
+Aku harus pergi.
+
+121
+00:10:00,646 --> 00:10:02,062
+Ini bukan tentang kami, ya?
+
+122
+00:10:03,937 --> 00:10:05,104
+Kau ingin melakukannya.
+
+123
+00:10:06,479 --> 00:10:07,896
+Ini tentang kau dan dia.
+
+124
+00:10:11,104 --> 00:10:12,312
+Lindungi saja mereka.
+
+125
+00:10:13,437 --> 00:10:14,854
+Lindungi dirimu juga.
+
+126
+00:10:19,062 --> 00:10:20,062
+Roken.
+
+127
+00:10:20,937 --> 00:10:22,771
+Tidak banyak
+pemimpin yang tersisa.
+
+128
+00:10:23,937 --> 00:10:25,229
+Rakyat mengikutimu.
+
+129
+00:10:26,812 --> 00:10:27,812
+Jangan berhenti.
+
+130
+00:10:31,104 --> 00:10:32,437
+Aku baru saja mulai.
+
+131
+00:10:53,604 --> 00:10:55,104
+Kami melacak sebuah sekoci.
+
+132
+00:10:55,187 --> 00:10:57,146
+Ada satu kehidupan di dalamnya.
+
+133
+00:10:57,229 --> 00:10:58,229
+Itu dia.
+
+134
+00:10:58,979 --> 00:11:02,646
+Tuanku, kita harus teruskan
+mengejar para pemberontak.
+
+135
+00:11:02,729 --> 00:11:08,062
+Ini kesempatan kita untuk
+menghabisi seluruh jaringan ini.
+
+136
+00:11:08,146 --> 00:11:12,562
+Kita tidak bisa mengutamakan
+seorang Jedi saja.
+
+137
+00:11:12,646 --> 00:11:15,646
+Dia bukan Jedi biasa.
+
+138
+00:11:22,437 --> 00:11:24,354
+Ikuti Kenobi.
+
+139
+00:11:24,437 --> 00:11:25,562
+Segera, Lord Vader.
+
+140
+00:11:52,854 --> 00:11:53,854
+Ayo.
+
+141
+00:11:55,896 --> 00:11:56,896
+Luke,
+
+142
+00:11:57,396 --> 00:11:58,646
+tolong dengarkan Paman.
+
+143
+00:11:59,521 --> 00:12:02,896
+Para Tusken sedang berburu lagi.
+Menjarah pertanian di sepanjang gurun.
+
+144
+00:12:02,979 --> 00:12:04,021
+Jadi, tunggu di sini.
+
+145
+00:12:04,104 --> 00:12:06,979
+Jika ada masalah, kau
+tahu harus bagaimana. Lari.
+
+146
+00:12:07,062 --> 00:12:08,479
+Aku tidak takut.
+
+147
+00:12:08,562 --> 00:12:09,562
+Aku tahu.
+
+148
+00:12:09,646 --> 00:12:11,354
+Semua akan baik-baik saja.
+
+149
+00:12:15,646 --> 00:12:16,729
+Semua pasti beres.
+
+150
+00:12:35,271 --> 00:12:36,604
+Siapkan kapalku.
+
+151
+00:12:37,854 --> 00:12:40,271
+Aku akan menghadapinya sendiri.
+
+152
+00:14:04,937 --> 00:14:06,104
+Itu perimeternya.
+
+153
+00:14:07,562 --> 00:14:08,562
+Dia di sini.
+
+154
+00:14:13,104 --> 00:14:14,104
+Sudah saatnya.
+
+155
+00:15:19,937 --> 00:15:23,521
+Apa kau datang untuk
+menghancurkanku, Obi-Wan?
+
+156
+00:15:26,104 --> 00:15:27,687
+Aku akan lakukan
+yang seharusnya.
+
+157
+00:15:34,104 --> 00:15:35,896
+Maka kau akan mati!
+
+158
+00:16:56,021 --> 00:16:57,146
+Pergi!
+
+159
+00:16:59,354 --> 00:17:00,354
+Lari!
+
+160
+00:17:04,396 --> 00:17:05,396
+Pergi!
+
+161
+00:17:49,062 --> 00:17:51,687
+Kekuatanmu sudah kembali.
+
+162
+00:17:54,062 --> 00:17:55,771
+Tapi kelemahannya
+
+163
+00:17:56,854 --> 00:17:58,729
+masih ada.
+
+164
+00:18:19,812 --> 00:18:24,271
+Itu sebabnya kau
+akan selalu kalah.
+
+165
+00:18:53,062 --> 00:18:56,062
+Kau sungguh percaya
+kau bisa mengalahkanku?
+
+166
+00:18:58,146 --> 00:18:59,771
+Kau sudah gagal,
+
+167
+00:19:00,771 --> 00:19:01,854
+Master.
+
+168
+00:19:19,937 --> 00:19:21,377
+Kau benar-benar
+menyayangi anak itu.
+
+169
+00:19:23,687 --> 00:19:24,896
+Seolah dia anakmu.
+
+170
+00:19:26,021 --> 00:19:27,354
+Dia memang anakku.
+
+171
+00:19:35,229 --> 00:19:36,396
+Apa maumu?
+
+172
+00:19:37,896 --> 00:19:38,896
+Keadilan.
+
+173
+00:19:50,521 --> 00:19:52,271
+Beru, dia datang!
+
+174
+00:19:56,896 --> 00:19:57,896
+Pergi!
+
+175
+00:20:44,812 --> 00:20:46,687
+Ini akhir untukmu, Master-ku.
+
+176
+00:20:46,771 --> 00:20:49,062
+Akuilah kalau kau kalah.
+
+177
+00:20:49,146 --> 00:20:51,104
+Kau tidak bisa lari, Obi-Wan.
+
+178
+00:20:51,187 --> 00:20:53,187
+Aku melihat
+kebohongan para Jedi.
+
+179
+00:20:53,271 --> 00:20:54,271
+Kau musuhku.
+
+180
+00:20:54,312 --> 00:20:56,687
+Seharusnya kau
+bunuh aku waktu itu.
+
+181
+00:20:56,771 --> 00:20:59,021
+Aku tak pernah
+takut pada Sisi Gelap.
+
+182
+00:20:59,104 --> 00:21:01,979
+Tubuh yang kau ciptakan.
+
+183
+00:24:19,854 --> 00:24:20,854
+Anakin.
+
+184
+00:24:31,521 --> 00:24:32,896
+Anakin sudah tiada.
+
+185
+00:24:36,187 --> 00:24:37,854
+Akulah yang tersisa.
+
+186
+00:24:51,187 --> 00:24:52,187
+Maaf.
+
+187
+00:24:55,729 --> 00:24:56,937
+Maafkan aku, Anakin.
+
+188
+00:24:59,146 --> 00:25:00,146
+Untuk segalanya.
+
+189
+00:25:08,437 --> 00:25:11,521
+Aku bukan kegagalanmu, Obi-Wan.
+
+190
+00:25:15,521 --> 00:25:20,604
+Bukan kau yang
+membunuh Anakin Skywalker,
+
+191
+00:25:25,604 --> 00:25:26,604
+tapi aku.
+
+192
+00:25:36,396 --> 00:25:40,312
+Sama seperti, aku
+akan menghancurkanmu!
+
+193
+00:25:45,771 --> 00:25:47,729
+Kalau begitu, temanku
+sungguh sudah mati.
+
+194
+00:25:58,812 --> 00:25:59,812
+Selamat tinggal,
+
+195
+00:26:01,562 --> 00:26:02,562
+Darth.
+
+196
+00:26:12,062 --> 00:26:13,396
+Obi-Wan!
+
+197
+00:26:26,729 --> 00:26:28,479
+Obi-Wan!
+
+198
+00:27:11,229 --> 00:27:12,229
+Luke!
+
+199
+00:28:38,354 --> 00:28:39,354
+Luke!
+
+200
+00:28:40,396 --> 00:28:41,396
+Luke!
+
+201
+00:28:41,854 --> 00:28:42,854
+Luke!
+
+202
+00:28:45,479 --> 00:28:46,479
+Luke!
+
+203
+00:28:50,312 --> 00:28:51,187
+Luke!
+
+204
+00:28:51,271 --> 00:28:52,271
+Luke!
+
+205
+00:28:55,271 --> 00:28:56,271
+Di mana dia?
+
+206
+00:28:57,562 --> 00:28:58,562
+Dia lenyap.
+
+207
+00:28:59,146 --> 00:29:01,646
+Aku akan cari di Lautan Pasir.
+Kita akan cari sampai ketemu.
+
+208
+00:29:04,354 --> 00:29:05,354
+Ben!
+
+209
+00:30:36,521 --> 00:30:37,604
+Aku tidak sanggup.
+
+210
+00:30:42,312 --> 00:30:43,521
+Aku tidak sanggup.
+
+211
+00:30:46,187 --> 00:30:47,646
+Aku mengecewakan mereka.
+
+212
+00:30:51,187 --> 00:30:54,146
+Dia membunuh mereka
+semua, dan aku tidak sanggup.
+
+213
+00:30:56,937 --> 00:30:58,146
+Bukan mengecewakan.
+
+214
+00:30:59,646 --> 00:31:00,979
+Dengan mengampuni,
+
+215
+00:31:02,187 --> 00:31:03,812
+kau memberi mereka kedamaian.
+
+216
+00:31:05,521 --> 00:31:06,979
+Menghormati mereka.
+
+217
+00:31:12,437 --> 00:31:13,854
+Apa aku sudah menjadi dia?
+
+218
+00:31:16,229 --> 00:31:17,229
+Tidak.
+
+219
+00:31:19,104 --> 00:31:20,479
+Kau memilih tidak.
+
+220
+00:31:24,479 --> 00:31:25,771
+Siapa dirimu ke depannya,
+
+221
+00:31:27,979 --> 00:31:29,104
+itu tergantung dirimu.
+
+222
+00:32:19,937 --> 00:32:21,021
+Sekarang kau bebas.
+
+223
+00:32:23,604 --> 00:32:24,604
+Kita bebas.
+
+224
+00:32:45,562 --> 00:32:49,271
+Satelit melacak setiap
+sistem dalam jangkauan.
+
+225
+00:32:49,354 --> 00:32:55,396
+Kita akan hancurkan semua yang
+ada di jalur kita sampai dia ditemukan.
+
+226
+00:32:57,979 --> 00:33:01,146
+Kau tampak marah, Kawan.
+
+227
+00:33:01,896 --> 00:33:04,729
+Dia tidak akan
+menghindariku lagi.
+
+228
+00:33:06,937 --> 00:33:09,687
+Aku ingin tahu apakah pikiranmu
+
+229
+00:33:11,187 --> 00:33:14,521
+jernih tentang ini, Lord Vader.
+
+230
+00:33:16,104 --> 00:33:22,271
+Mungkin perasaanmu terhadap
+master lamamu membuatmu lemah.
+
+231
+00:33:25,312 --> 00:33:28,604
+Jika masa lalumu
+tidak bisa dilupakan...
+
+232
+00:33:32,812 --> 00:33:35,146
+Kenobi tidak berarti.
+
+233
+00:33:37,604 --> 00:33:42,062
+Aku hanya melayanimu, Master-ku.
+
+234
+00:34:46,854 --> 00:34:49,937
+Baiklah, ayo, Nona
+Muda. Jangan sampai kita...
+
+235
+00:34:55,604 --> 00:34:56,937
+Itu sarung pistol?
+
+236
+00:35:06,812 --> 00:35:07,979
+Ibu suka.
+
+237
+00:35:10,104 --> 00:35:11,104
+Ayo.
+
+238
+00:35:26,312 --> 00:35:28,021
+Ayah bilang ada
+banyak cara memimpin.
+
+239
+00:35:28,896 --> 00:35:30,062
+Sepertinya Ayah benar.
+
+240
+00:35:31,479 --> 00:35:34,687
+Jika aku harus melakukan ini,
+aku ingin mengubah beberapa hal.
+
+241
+00:35:36,562 --> 00:35:38,729
+Kalau begitu, kita ubah bersama.
+
+242
+00:35:41,854 --> 00:35:44,146
+Jadi, siapa tamunya
+hari ini? Sepupu lagi?
+
+243
+00:35:44,979 --> 00:35:45,979
+Tidak juga.
+
+244
+00:35:54,979 --> 00:35:55,979
+Lola!
+
+245
+00:35:56,771 --> 00:35:59,396
+Apa hakku memisahkan
+gadis kecil dari droid miliknya?
+
+246
+00:36:02,937 --> 00:36:03,937
+Obi-Wan.
+
+247
+00:36:06,854 --> 00:36:08,354
+- Terima kasih.
+- Sama-sama.
+
+248
+00:36:08,437 --> 00:36:10,271
+Kami tak akan bisa
+membalas budimu.
+
+249
+00:36:11,187 --> 00:36:13,896
+Dia sudah melakukannya.
+
+250
+00:36:14,437 --> 00:36:15,562
+Aku merindukanmu.
+
+251
+00:36:17,562 --> 00:36:18,937
+Aku mengkhawatirkan
+masa depannya.
+
+252
+00:36:20,854 --> 00:36:22,437
+Kekaisaran semakin kuat
+
+253
+00:36:24,021 --> 00:36:25,021
+dan berani.
+
+254
+00:36:27,479 --> 00:36:29,312
+Jika kau butuh bantuanku lagi,
+
+255
+00:36:30,146 --> 00:36:31,437
+kau tahu aku di mana.
+
+256
+00:36:33,354 --> 00:36:34,954
+Mari berharap hari
+itu tidak pernah tiba.
+
+257
+00:36:47,229 --> 00:36:48,812
+Jadi, apa rencanamu sekarang?
+
+258
+00:36:51,271 --> 00:36:52,271
+Entahlah.
+
+259
+00:36:53,021 --> 00:36:54,437
+Menurutmu apa
+yang harus kulakukan?
+
+260
+00:36:55,229 --> 00:36:56,562
+Kurasa kau harus tidur.
+
+261
+00:37:00,146 --> 00:37:01,562
+Kurasa kau benar.
+
+262
+00:37:10,437 --> 00:37:11,437
+Leia,
+
+263
+00:37:14,687 --> 00:37:18,812
+Saat kubilang kalau aku
+tidak mengenal orang tuamu
+
+264
+00:37:22,521 --> 00:37:24,354
+Putri Leia Organa,
+
+265
+00:37:25,937 --> 00:37:27,354
+kau bijaksana,
+
+266
+00:37:28,104 --> 00:37:29,104
+cerdas,
+
+267
+00:37:30,562 --> 00:37:31,646
+baik hati.
+
+268
+00:37:34,229 --> 00:37:36,646
+Ini adalah sifat yang
+berasal dari ibumu.
+
+269
+00:37:39,062 --> 00:37:41,312
+Tapi kau juga bersemangat,
+
+270
+00:37:42,146 --> 00:37:43,271
+tidak kenal takut,
+
+271
+00:37:44,271 --> 00:37:45,271
+gamblang.
+
+272
+00:37:46,354 --> 00:37:48,229
+Semua itu karunia dari ayahmu.
+
+273
+00:37:51,271 --> 00:37:53,271
+Keduanya orang luar biasa
+
+274
+00:37:54,104 --> 00:37:56,146
+yang melahirkan
+putri yang luar biasa.
+
+275
+00:37:59,854 --> 00:38:01,396
+Andai aku bisa
+bercerita lebih banyak.
+
+276
+00:38:02,854 --> 00:38:03,854
+Tak apa-apa.
+
+277
+00:38:04,604 --> 00:38:05,687
+Tidak perlu.
+
+278
+00:38:10,021 --> 00:38:11,021
+Terima kasih.
+
+279
+00:38:13,896 --> 00:38:15,354
+Apa kita akan bertemu lagi?
+
+280
+00:38:16,521 --> 00:38:17,521
+Mungkin.
+
+281
+00:38:18,271 --> 00:38:19,271
+Kelak.
+
+282
+00:38:19,979 --> 00:38:22,729
+Jika kau butuh bantuan
+dari pria tua yang lelah.
+
+283
+00:38:23,729 --> 00:38:25,104
+Tapi kita harus berhati-hati.
+
+284
+00:38:25,896 --> 00:38:28,771
+Tidak ada yang boleh tahu,
+atau itu bisa membahayakan kita.
+
+285
+00:38:34,771 --> 00:38:35,896
+Selamat tinggal,
+
+286
+00:38:37,187 --> 00:38:38,187
+Obi-Wan.
+
+287
+00:38:44,312 --> 00:38:45,437
+Selamat tinggal, Putri.
+
+288
+00:38:46,646 --> 00:38:47,979
+Semoga Force menyertaimu.
+
+289
+00:41:10,604 --> 00:41:12,521
+Sedang apa kau di sini?
+
+290
+00:41:14,146 --> 00:41:16,187
+Kupikir kau akan menjaga jarak.
+
+291
+00:41:16,896 --> 00:41:17,896
+Tentu saja.
+
+292
+00:41:22,229 --> 00:41:23,562
+Kau benar.
+
+293
+00:41:25,854 --> 00:41:27,354
+Dia cuma perlu
+menjadi anak kecil.
+
+294
+00:41:32,562 --> 00:41:34,562
+Masa depan akan
+terselesaikan sendiri.
+
+295
+00:41:39,062 --> 00:41:42,021
+Perlindungan yang dia butuhkan
+sekarang, Owen, hanyalah kau
+
+296
+00:41:42,896 --> 00:41:43,896
+dan Beru.
+
+297
+00:41:46,812 --> 00:41:48,021
+Jaga dia baik-baik.
+
+298
+00:41:56,062 --> 00:41:57,062
+Pastinya.
+
+299
+00:42:07,437 --> 00:42:08,437
+Ben?
+
+300
+00:42:14,729 --> 00:42:15,812
+Mau bertemu dengannya?
+
+301
+00:42:45,771 --> 00:42:46,854
+Halo.
+
+302
+00:43:28,979 --> 00:43:30,104
+Master Qui-Gon.
+
+303
+00:43:34,104 --> 00:43:35,104
+Wah,
+
+304
+00:43:35,479 --> 00:43:36,729
+akhirnya sampai juga.
+
+305
+00:43:39,396 --> 00:43:41,104
+Aku mulai berpikir
+kau tidak akan datang.
+
+306
+00:43:42,271 --> 00:43:44,229
+Aku selalu di sini, Obi-Wan.
+
+307
+00:43:45,187 --> 00:43:47,854
+Kau hanya belum siap melihat.
+
+308
+00:43:51,479 --> 00:43:52,479
+Ayo.
+
+309
+00:43:52,562 --> 00:43:53,812
+Perjalanan kita masih jauh.
+
+310
+00:43:58,135 --> 00:44:04,285
+(Sampai ketemu di
+season berikutnya)
+
