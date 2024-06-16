@@ -1,0 +1,6092 @@
+﻿1
+00:00:44,120 --> 00:00:47,039
+<i>Generasiku lahir pada masa perang.</i>
+
+2
+00:00:51,877 --> 00:00:54,088
+<i>Monster-monster raksasa
+menyerang dunia kami.</i>
+
+3
+00:00:55,839 --> 00:00:58,008
+<i>Kami menyebutnya Kaiju.</i>
+
+4
+00:01:00,010 --> 00:01:02,095
+<i>Mereka datang dari Celah.</i>
+
+5
+00:01:02,638 --> 00:01:06,892
+<i>Gerbang ke dimensi lain
+di dasar Samudra Pasifik.</i>
+
+6
+00:01:07,642 --> 00:01:11,938
+<i>Mereka dikirim oleh ras alien
+di sisi lain, Precursor.</i>
+
+7
+00:01:13,606 --> 00:01:15,692
+<i>Kami melawan,</i>
+
+8
+00:01:15,775 --> 00:01:17,735
+<i>membuat monster kami sendiri.</i>
+
+9
+00:01:18,152 --> 00:01:20,905
+<i>Jaeger, robot raksasa.</i>
+
+10
+00:01:21,239 --> 00:01:23,783
+<i>Begitu besar sampai butuh dua pilot
+untuk mengendalikannya.</i>
+
+11
+00:01:25,618 --> 00:01:27,203
+<i>Ayahku salah satunya.</i>
+
+12
+00:01:28,996 --> 00:01:31,790
+<i>Dia berkorban demi menyelamatkan dunia.</i>
+
+13
+00:01:35,669 --> 00:01:38,130
+<i>Aku bukan ayahku.</i>
+
+14
+00:01:41,758 --> 00:01:43,802
+<i>Sudah sepuluh tahun sejak kami menang</i>
+
+15
+00:01:43,927 --> 00:01:44,970
+<i>dan menutup Celah.</i>
+
+16
+00:01:47,138 --> 00:01:49,182
+<i>Hampir seluruh dunia sudah diperbaiki.</i>
+
+17
+00:01:49,557 --> 00:01:52,143
+<i>Tapi beberapa kota pesisir
+hancur selamanya.</i>
+
+18
+00:01:52,268 --> 00:01:54,937
+<i>Dan dunia masih dalam pemulihan.</i>
+
+19
+00:02:01,610 --> 00:02:04,280
+<i>Tapi beberapa dari kami
+hidup lebih baik di dunia yang kacau.</i>
+
+20
+00:02:08,742 --> 00:02:11,119
+<i>Tinggal di rumah yang rusak,</i>
+
+21
+00:02:11,245 --> 00:02:13,789
+<i>lebih baik dari sewa apartemen.</i>
+
+22
+00:02:15,207 --> 00:02:17,959
+<i>Di zona bantuan, kau harus kreatif.</i>
+
+23
+00:02:18,126 --> 00:02:21,046
+<i>Kau harus gerak cepat,
+atau orang lain mengambil sarapanmu.</i>
+
+24
+00:02:23,840 --> 00:02:25,091
+<i>Dan kuemu.</i>
+
+25
+00:02:28,052 --> 00:02:29,887
+<i>Dan saus pedasmu.</i>
+
+26
+00:02:30,012 --> 00:02:32,390
+<i>Di sini setiap barang memiliki nilai
+yang berbeda-beda.</i>
+
+27
+00:02:35,893 --> 00:02:38,771
+<i>Korps Pertahanan Pan Pasifik
+biasanya tak peduli</i>
+
+28
+00:02:38,896 --> 00:02:41,774
+<i>selama kau tidak masuk
+ke tempat terlarang.</i>
+
+29
+00:02:42,232 --> 00:02:46,028
+<i>Contohnya tempat rongsokan Jaeger.</i>
+
+30
+00:02:47,362 --> 00:02:49,406
+<i>Risiko besar berarti imbalan besar.</i>
+
+31
+00:02:50,282 --> 00:02:53,034
+<i>Dan suku cadang Jaeger curian
+sangat mahal.</i>
+
+32
+00:02:53,785 --> 00:02:57,789
+<i>Banyak orang sinting di sini
+coba merakit Jaeger.</i>
+
+33
+00:03:00,291 --> 00:03:02,335
+<i>Tapi mereka butuh suku cadang.</i>
+
+34
+00:03:04,128 --> 00:03:07,215
+<i>Jadi jika bisa mencuri sesuatu
+yang tak bisa dicuri orang lain...</i>
+
+35
+00:03:09,967 --> 00:03:11,886
+<i>Kau bisa hidup bagai raja.</i>
+
+36
+00:03:17,808 --> 00:03:19,184
+Kau yakin ada di sini?
+
+37
+00:03:19,268 --> 00:03:21,853
+Inti tenaga dilucuti
+sebelum mereka dinonaktifkan.
+
+38
+00:03:22,187 --> 00:03:24,940
+Tapi terkadang mereka melewatkan
+kapasitor plasma ketiga.
+
+39
+00:03:25,774 --> 00:03:28,235
+Itu mahal. Yang ini masih bertenaga.
+
+40
+00:03:31,446 --> 00:03:32,989
+Sebaiknya begitu.
+
+41
+00:03:33,698 --> 00:03:34,866
+Baik.
+
+42
+00:03:35,200 --> 00:03:37,160
+Tenanglah. Jangan senang dahulu.
+
+43
+00:03:37,327 --> 00:03:38,369
+Aku mengambil risiko.
+
+44
+00:03:38,703 --> 00:03:41,414
+Kau menipu Barada di Juarez,
+mencuri dari Chau di Hong Kong.
+
+45
+00:03:41,747 --> 00:03:44,083
+- Itu salah paham.
+- Dan mencuri dariku
+
+46
+00:03:44,208 --> 00:03:45,418
+di daerahku sendiri.
+
+47
+00:03:45,960 --> 00:03:48,879
+Kini aku mencuri untukmu.
+Siklus kehidupan.
+
+48
+00:03:49,421 --> 00:03:50,464
+Ada masalah?
+
+49
+00:03:50,756 --> 00:03:52,049
+Jika barangnya ada,
+
+50
+00:03:52,966 --> 00:03:56,762
+maka ya, tak ada masalah.
+
+51
+00:03:57,346 --> 00:03:58,722
+Baik.
+
+52
+00:04:06,146 --> 00:04:07,230
+Ayo hasilkan uang.
+
+53
+00:04:07,856 --> 00:04:08,857
+Ayo.
+
+54
+00:04:18,824 --> 00:04:20,159
+<i>Sasaran terkunci.</i>
+
+55
+00:04:20,951 --> 00:04:22,244
+Ada di mana?
+
+56
+00:04:22,828 --> 00:04:23,913
+<i>Sasaran terkunci.</i>
+
+57
+00:04:23,996 --> 00:04:26,290
+Hanya masalah kecil.
+
+58
+00:04:26,457 --> 00:04:28,125
+Di sini dibilang,
+
+59
+00:04:28,292 --> 00:04:29,793
+seharusnya ada di sana,
+
+60
+00:04:29,877 --> 00:04:31,253
+tapi biar kupikirkan.
+
+61
+00:04:32,296 --> 00:04:33,922
+<i>Sasaran terkunci.</i>
+
+62
+00:04:34,256 --> 00:04:35,924
+Tolong bunuh orang ini.
+
+63
+00:04:37,133 --> 00:04:38,718
+<i>Sasaran bergerak.</i>
+
+64
+00:04:38,969 --> 00:04:40,095
+Tidak. Di sini.
+
+65
+00:04:40,178 --> 00:04:41,221
+Kau, tunggu!
+
+66
+00:04:41,388 --> 00:04:43,098
+Ada orang lain
+yang ambil kapasitornya.
+
+67
+00:04:43,223 --> 00:04:44,891
+- Ayo.
+- Jake!
+
+68
+00:04:45,225 --> 00:04:46,851
+Jake! Tunggu!
+
+69
+00:04:47,977 --> 00:04:49,187
+Dasar kau...
+
+70
+00:04:52,356 --> 00:04:53,899
+Cepat!
+
+71
+00:04:54,692 --> 00:04:56,318
+Berpencar!
+
+72
+00:05:17,130 --> 00:05:18,131
+Ayolah, Jake!
+
+73
+00:05:23,720 --> 00:05:26,055
+<i>- Bos, dia ke sini!
+- Cepat!</i>
+
+74
+00:05:26,138 --> 00:05:27,682
+<i>Aku melihatnya.</i>
+
+75
+00:05:43,322 --> 00:05:44,823
+Jake.
+
+76
+00:05:45,699 --> 00:05:46,825
+Usahamu hebat.
+
+77
+00:05:52,122 --> 00:05:53,206
+Ya.
+
+78
+00:05:53,289 --> 00:05:55,166
+- Jake!
+- Kita tak ada masalah.
+
+79
+00:05:55,250 --> 00:05:56,292
+Jake!
+
+80
+00:05:57,960 --> 00:05:59,003
+PERINGATAN
+MENJAUH DARI PINTU
+
+81
+00:05:59,087 --> 00:06:00,129
+<i>Jake, dasar kau...</i>
+
+82
+00:06:03,215 --> 00:06:04,842
+<i>Sasaran terkunci.</i>
+
+83
+00:06:05,092 --> 00:06:06,093
+<i>Sasaran terkunci.</i>
+
+84
+00:06:08,721 --> 00:06:09,805
+<i>Sasaran terkunci.</i>
+
+85
+00:06:09,930 --> 00:06:11,890
+Hei! Kembalikan itu!
+
+86
+00:06:52,846 --> 00:06:54,181
+<i>Sasaran bergerak.</i>
+
+87
+00:07:31,299 --> 00:07:33,426
+BANTU MENANGKAN PERANG INI
+
+88
+00:07:36,387 --> 00:07:39,265
+AKHIR DARI KAIJU
+PERANG KAIJU BERAKHIR!
+
+89
+00:07:39,390 --> 00:07:40,850
+PENGAMBILALIHAN TEKNOLOGI SHAO
+
+90
+00:07:40,933 --> 00:07:42,351
+JAEGER MARK VI
+LEBIH CEPAT LEBIH KUAT
+
+91
+00:08:26,435 --> 00:08:28,812
+- Berapa usiamu?
+- Cukup dewasa untuk menghajarmu.
+
+92
+00:08:29,897 --> 00:08:31,231
+Tunggu. Mundur.
+
+93
+00:08:31,356 --> 00:08:32,858
+Mundur.
+
+94
+00:08:33,150 --> 00:08:34,401
+Kau yang merakitnya?
+
+95
+00:08:34,735 --> 00:08:35,944
+Pikirmu apa?
+
+96
+00:08:36,028 --> 00:08:38,280
+Aku bisa jual mainanmu
+dengan harga tinggi.
+
+97
+00:08:38,363 --> 00:08:40,866
+Scrapper bukan mainan, dan tidak dijual.
+
+98
+00:08:40,991 --> 00:08:43,993
+Orang yang pegang pipa bilang dia dijual.
+Dengar...
+
+99
+00:08:46,329 --> 00:08:47,372
+Kau tuntun mereka kemari?
+
+100
+00:08:47,455 --> 00:08:48,748
+Itu mustahil.
+
+101
+00:08:49,499 --> 00:08:50,500
+Hei!
+
+102
+00:08:51,959 --> 00:08:53,461
+Apa-apaan?
+
+103
+00:09:10,060 --> 00:09:11,395
+Ayo!
+
+104
+00:09:12,896 --> 00:09:15,315
+Ya! Berhasil!
+
+105
+00:09:17,275 --> 00:09:18,318
+Baiklah.
+
+106
+00:09:23,990 --> 00:09:25,491
+Hei! Keluar.
+
+107
+00:09:25,825 --> 00:09:27,326
+Apa yang kau lakukan? Tidak.
+
+108
+00:09:27,827 --> 00:09:29,078
+- Di mana?
+- Hentikan!
+
+109
+00:09:29,203 --> 00:09:30,288
+Jangan sentuh itu.
+
+110
+00:09:30,454 --> 00:09:32,164
+Kau mau apa? Hentikan!
+
+111
+00:09:32,289 --> 00:09:33,416
+- Mana satunya lagi?
+- Apa?
+
+112
+00:09:33,499 --> 00:09:35,126
+Kemudi. Jaeger butuh dua pilot.
+
+113
+00:09:35,209 --> 00:09:37,419
+Scrapper cukup kecil
+untuk dioperasikan oleh satu otak.
+
+114
+00:09:37,753 --> 00:09:39,421
+Berarti kau keluar, aku pilotnya.
+
+115
+00:09:39,755 --> 00:09:40,756
+Keluar!
+
+116
+00:09:40,923 --> 00:09:42,007
+Masa bodoh.
+
+117
+00:09:50,265 --> 00:09:52,851
+- Sudah kubilang dia bukan mainan.
+- Kau bisa membunuh kita.
+
+118
+00:09:52,934 --> 00:09:55,145
+- Biar kubantu kabur.
+- Aku baru saja kabur.
+
+119
+00:10:01,567 --> 00:10:02,693
+Astaga.
+
+120
+00:10:02,777 --> 00:10:03,945
+PERINGATAN JARAK
+
+121
+00:10:05,488 --> 00:10:06,781
+Itu November Ajax.
+
+122
+00:10:07,156 --> 00:10:09,492
+<i>Pilot Jaeger tak terdaftar,</i>
+
+123
+00:10:09,825 --> 00:10:12,411
+<i>ini Korps Pertahanan Pan Pasifik.</i>
+
+124
+00:10:13,037 --> 00:10:15,497
+<i>Matikan tenaga dan keluar dari Conn-Pod.</i>
+
+125
+00:10:18,125 --> 00:10:20,043
+Tidak, jangan menyerah.
+
+126
+00:10:20,210 --> 00:10:21,420
+Kau terlalu mudah menyerah.
+
+127
+00:10:21,837 --> 00:10:23,088
+Itu yang mereka pikir.
+
+128
+00:10:33,473 --> 00:10:35,183
+<i>Berhenti.</i>
+
+129
+00:10:37,477 --> 00:10:40,229
+<i>Kau melanggar Kode 10 Pasal 14.</i>
+
+130
+00:10:40,313 --> 00:10:42,481
+<i>Operasi Jaeger tak terdaftar.</i>
+
+131
+00:10:43,315 --> 00:10:44,900
+- Pegangan.
+- Aku pegangan!
+
+132
+00:10:45,025 --> 00:10:46,026
+Pegang lebih kuat.
+
+133
+00:10:58,121 --> 00:10:59,372
+<i>Serius?</i>
+
+134
+00:11:01,833 --> 00:11:03,001
+<i>Berhenti.</i>
+
+135
+00:11:19,850 --> 00:11:21,018
+Lihat?
+
+136
+00:11:21,101 --> 00:11:23,270
+Aku baru saja mengalahkan
+November Ajax.
+
+137
+00:11:23,729 --> 00:11:24,772
+Tidak.
+
+138
+00:11:24,855 --> 00:11:25,939
+Ya.
+
+139
+00:11:28,859 --> 00:11:29,901
+Tidak.
+
+140
+00:11:31,486 --> 00:11:34,823
+Apa saranmu? Aku tak mau keluar.
+
+141
+00:11:35,949 --> 00:11:37,325
+Itu sel ion?
+
+142
+00:11:37,409 --> 00:11:39,035
+- Bukan!
+- Sekarang ya.
+
+143
+00:11:39,119 --> 00:11:40,912
+- Kita membutuhkannya.
+- Naik ke kepala Ajax.
+
+144
+00:11:41,037 --> 00:11:42,497
+- Apa?
+- Cepat!
+
+145
+00:11:57,094 --> 00:11:58,387
+<i>Matikan tenaga.</i>
+
+146
+00:12:04,893 --> 00:12:06,978
+<i>Peringatan tenaga menipis, 12 persen.</i>
+
+147
+00:12:07,145 --> 00:12:08,480
+Sudah kubilang kita butuh itu!
+
+148
+00:12:08,813 --> 00:12:09,856
+Berhasil, bukan?
+
+149
+00:12:09,981 --> 00:12:11,399
+<i>Sebelas persen.</i>
+
+150
+00:12:15,195 --> 00:12:17,780
+Berapa lama Ajax mengulang sistemnya?
+
+151
+00:12:22,076 --> 00:12:23,077
+Selama itu.
+
+152
+00:12:28,332 --> 00:12:29,333
+<i>Matikan tenaga.</i>
+
+153
+00:12:30,042 --> 00:12:31,961
+<i>Ini peringatan terakhirmu.</i>
+
+154
+00:12:48,935 --> 00:12:50,937
+<i>Ayo keluar.</i>
+
+155
+00:13:02,114 --> 00:13:05,117
+Lihat perbuatanmu kepada Jaeger-ku!
+
+156
+00:13:17,254 --> 00:13:18,922
+Mestinya aku yang kendalikan.
+
+157
+00:13:19,839 --> 00:13:21,383
+Seolah-olah ini salahku.
+
+158
+00:13:22,008 --> 00:13:23,426
+Kau merusak pusat kendaliku.
+
+159
+00:13:23,760 --> 00:13:25,803
+Wah. Pusat kendalimu?
+
+160
+00:13:25,929 --> 00:13:27,347
+- Pusat kendali.
+- Maaf. Tak dengar.
+
+161
+00:13:27,430 --> 00:13:28,431
+- Pusat kendalimu?
+- Ya!
+
+162
+00:13:28,514 --> 00:13:31,309
+Kau tak berhak masuk
+dan kau mengaturku.
+
+163
+00:13:31,434 --> 00:13:32,977
+Aku bisa ke mana saja.
+Ini dunia baru.
+
+164
+00:13:33,144 --> 00:13:34,854
+Berjalan baik, bukan?
+Lihat kita di mana.
+
+165
+00:13:34,979 --> 00:13:37,148
+Bibir atas dan bawahmu
+harus bertemu dan berteman.
+
+166
+00:13:37,231 --> 00:13:38,232
+Pintar. Itu bagus.
+
+167
+00:13:38,315 --> 00:13:39,733
+Tutup mulutmu. Diamlah.
+
+168
+00:13:39,858 --> 00:13:41,235
+- Diam. Bicara selesai.
+- Aku diam.
+
+169
+00:13:41,318 --> 00:13:42,361
+Bagus.
+
+170
+00:13:42,444 --> 00:13:43,946
+Anak rongsokan.
+
+171
+00:13:48,909 --> 00:13:50,035
+Kenapa kau merakitnya?
+
+172
+00:13:50,160 --> 00:13:51,411
+Kau menyuruhku diam.
+
+173
+00:13:51,495 --> 00:13:54,247
+Katamu tidak mau jual,
+jadi apa yang akan kau lakukan?
+
+174
+00:13:55,040 --> 00:13:56,374
+Merampok bank?
+
+175
+00:13:58,126 --> 00:14:00,879
+Aku membuatnya
+karena suatu hari mereka akan kembali.
+
+176
+00:14:02,672 --> 00:14:03,756
+Kaiju.
+
+177
+00:14:04,173 --> 00:14:05,716
+Saat mereka kembali, aku tidak mau
+
+178
+00:14:05,842 --> 00:14:08,344
+menunggu orang datang menolongku.
+
+179
+00:14:11,347 --> 00:14:12,973
+Tidak seperti dahulu.
+
+180
+00:14:21,190 --> 00:14:22,482
+Kau. Ayo.
+
+181
+00:14:22,816 --> 00:14:24,109
+CATATAN KRIMINAL
+
+182
+00:14:43,210 --> 00:14:44,211
+<i>Halo, Jake.</i>
+
+183
+00:14:46,839 --> 00:14:48,215
+<i>Kita bertemu lagi.</i>
+
+184
+00:14:48,465 --> 00:14:50,759
+Hanya nasib buruk.
+Akan kucari jalan keluarnya.
+
+185
+00:14:50,884 --> 00:14:54,346
+<i>Ayah bilang kita menentukan
+nasib kita sendiri.</i>
+
+186
+00:14:54,888 --> 00:14:56,473
+Ayah bilang banyak hal.
+
+187
+00:14:56,807 --> 00:14:58,392
+<i>Kau ditangkap dengan Jaeger curian.</i>
+
+188
+00:14:58,934 --> 00:15:01,311
+Tunggu. Itu bukan Jaeger-ku.
+Ada anak kecil.
+
+189
+00:15:01,478 --> 00:15:03,772
+- Dia setinggi ini...
+<i>- Kau pernah melanggar hukum.</i>
+
+190
+00:15:04,105 --> 00:15:05,940
+<i>Ini serius.</i>
+
+191
+00:15:06,024 --> 00:15:07,025
+Baik.
+
+192
+00:15:07,108 --> 00:15:10,987
+Karena itu aku perlu kakakku
+untuk menolongku.
+
+193
+00:15:11,112 --> 00:15:12,405
+Untuk terakhir kali.
+
+194
+00:15:12,780 --> 00:15:17,326
+<i>Mereka takkan melepaskanmu.
+Tapi ada jalan lain.</i>
+
+195
+00:15:17,410 --> 00:15:19,036
+Itu yang ingin kudengar.
+
+196
+00:15:19,203 --> 00:15:21,414
+Itu yang ingin kubicarakan, jalan lain.
+
+197
+00:15:21,497 --> 00:15:22,790
+Katakan. Aku harus lakukan apa?
+
+198
+00:15:22,873 --> 00:15:25,084
+<i>Daftar ulang
+dan selesaikan yang kau mulai.</i>
+
+199
+00:15:25,918 --> 00:15:28,796
+Tidak. Aku terlalu tua untuk jadi kadet.
+
+200
+00:15:28,879 --> 00:15:32,215
+<i>Bukan jadi kadet.
+Aku ingin kau melatih mereka.</i>
+
+201
+00:15:32,299 --> 00:15:34,468
+Siapa? Melatih apa?
+Aku tak mau melatih anak-anak.
+
+202
+00:15:34,801 --> 00:15:37,971
+<i>Transportasi menunggu
+untuk mengantar kalian ke Moyulan.</i>
+
+203
+00:15:38,054 --> 00:15:39,097
+Kami berdua?
+
+204
+00:15:39,180 --> 00:15:41,015
+<i>Kau dan rekrut barumu.</i>
+
+205
+00:15:41,099 --> 00:15:42,100
+Mako.
+
+206
+00:15:48,356 --> 00:15:51,192
+Aku tak percaya dia pakai hologram.
+
+207
+00:15:56,322 --> 00:15:58,824
+AKADEMI PILOT PPDC
+
+208
+00:16:12,254 --> 00:16:14,297
+Dengar. Aku tak punya pilihan.
+
+209
+00:16:14,381 --> 00:16:16,925
+Aku tahu, aku mengerti. Tapi kenapa aku?
+
+210
+00:16:17,050 --> 00:16:18,968
+Kenapa mereka ingin aku ikut program?
+
+211
+00:16:19,135 --> 00:16:20,970
+Kau merakit dan mengendalikan Jaeger.
+
+212
+00:16:21,137 --> 00:16:22,764
+Mereka suka hal semacam itu.
+
+213
+00:16:23,139 --> 00:16:26,767
+Lalu kenapa aku hanya kadet,
+dan kau jadi ranger?
+
+214
+00:16:28,394 --> 00:16:29,812
+Valor Omega.
+
+215
+00:16:31,772 --> 00:16:32,940
+Astaga.
+
+216
+00:16:33,941 --> 00:16:35,734
+Itu Valor Omega!
+
+217
+00:16:37,736 --> 00:16:38,737
+Scrapper!
+
+218
+00:16:43,116 --> 00:16:44,159
+Hei!
+
+219
+00:16:46,203 --> 00:16:47,871
+Yang benar saja.
+
+220
+00:16:48,204 --> 00:16:50,165
+Aku tak percaya
+saat mereka bilang kau datang.
+
+221
+00:16:50,832 --> 00:16:51,833
+Apa kabar, Nate?
+
+222
+00:16:52,000 --> 00:16:53,001
+Panggil Ranger Lambert.
+
+223
+00:16:53,334 --> 00:16:54,377
+Kau bercanda?
+
+224
+00:16:54,711 --> 00:16:55,795
+Ini markas militer.
+
+225
+00:16:55,878 --> 00:16:58,131
+Kau tahu cara kerjanya, Ranger Pentecost.
+
+226
+00:16:59,465 --> 00:17:00,967
+Kau pasti Amara Namani.
+
+227
+00:17:01,801 --> 00:17:03,844
+Ya, Pak. Ranger, Pak.
+
+228
+00:17:03,928 --> 00:17:05,805
+Ayo persiapkan dirimu.
+
+229
+00:17:07,431 --> 00:17:10,434
+Dan jangan mencuri apa pun
+selama kau di sini.
+
+230
+00:17:12,186 --> 00:17:14,062
+Rambut lucu itu memanggilmu Pentecost?
+
+231
+00:17:14,229 --> 00:17:16,898
+Maksudnya Stacker Pentecost yang terkenal?
+
+232
+00:17:16,982 --> 00:17:21,194
+Pilot Coyote Tango,
+pahlawan seluruh dunia?
+
+233
+00:17:21,361 --> 00:17:22,904
+Itu hanya nama.
+
+234
+00:17:22,988 --> 00:17:24,239
+Nama yang keren.
+
+235
+00:17:26,991 --> 00:17:28,952
+Latihan simulasi mulai pukul enam pagi.
+
+236
+00:17:29,118 --> 00:17:30,745
+Jika terlambat, kau melewatkannya.
+
+237
+00:17:30,828 --> 00:17:32,830
+Jika tertinggal, kau akan dipulangkan
+
+238
+00:17:32,955 --> 00:17:34,332
+ke tempat kau ditemukan.
+
+239
+00:17:34,415 --> 00:17:36,375
+Itu Titan Redeemer!
+
+240
+00:17:38,711 --> 00:17:40,045
+Dan Bracer Phoenix!
+
+241
+00:17:40,171 --> 00:17:42,131
+Dia butuh tiga pilot!
+
+242
+00:17:42,256 --> 00:17:43,382
+Saber Athena!
+
+243
+00:17:43,882 --> 00:17:45,384
+Aku suka Saber Athena!
+
+244
+00:17:45,718 --> 00:17:47,386
+Dia Jaeger tercepat di armada. Kau tahu?
+
+245
+00:17:47,719 --> 00:17:50,389
+<i>Peringatan. Menjauhlah dari lift.</i>
+
+246
+00:17:50,722 --> 00:17:52,349
+Yang mana punyamu?
+
+247
+00:17:55,310 --> 00:17:56,394
+Gipsy.
+
+248
+00:18:00,398 --> 00:18:02,025
+Kau pilot Gipsy Avenger?
+
+249
+00:18:02,150 --> 00:18:03,193
+Tadinya.
+
+250
+00:18:03,359 --> 00:18:06,320
+Sampai kopilotnya dapat tawaran lebih baik
+di sektor swasta.
+
+251
+00:18:06,654 --> 00:18:08,406
+Jules Reyes. Teknologi Jaeger.
+
+252
+00:18:08,823 --> 00:18:10,658
+Amara. Kadet.
+
+253
+00:18:11,659 --> 00:18:12,827
+Jake.
+
+254
+00:18:12,910 --> 00:18:14,036
+Ranger, tampaknya.
+
+255
+00:18:14,286 --> 00:18:15,746
+Banyak dengar tentangmu, Pentecost.
+
+256
+00:18:15,955 --> 00:18:16,997
+Begitu?
+
+257
+00:18:17,081 --> 00:18:18,207
+Kau tahu masih pegang rekor?
+
+258
+00:18:18,290 --> 00:18:19,750
+- Rekor apa?
+- Diamlah.
+
+259
+00:18:20,125 --> 00:18:23,420
+Dengan apa kau dipancing kembali?
+Pasti bukan karena gaji, jadi...
+
+260
+00:18:23,754 --> 00:18:24,922
+Ceritanya panjang.
+
+261
+00:18:25,088 --> 00:18:27,132
+Kalau kau mau bicarakan,
+kita bisa bertemu...
+
+262
+00:18:27,257 --> 00:18:28,967
+Dia sibuk.
+
+263
+00:18:30,177 --> 00:18:31,219
+Ranger.
+
+264
+00:18:34,055 --> 00:18:35,682
+Lihat ke depan, Pentecost.
+
+265
+00:18:41,270 --> 00:18:43,356
+- Renata, jangan di wajah!
+- Maaf.
+
+266
+00:18:47,652 --> 00:18:49,862
+Tambah taruhan dua kupon mandi.
+
+267
+00:18:50,738 --> 00:18:53,032
+Tutup, Ilya.
+Kau butuh mandi sebanyak mungkin.
+
+268
+00:18:53,365 --> 00:18:56,702
+Ini musk! Kau mencium aroma musk.
+
+269
+00:18:57,327 --> 00:18:58,787
+Ranger hadir!
+
+270
+00:18:58,871 --> 00:19:00,789
+<i>Sistem suara dimatikan.</i>
+
+271
+00:19:02,791 --> 00:19:05,418
+Kadet, ini Amara Namani.
+
+272
+00:19:05,752 --> 00:19:07,921
+Dia akan ikut simulasi latihan besok pagi.
+
+273
+00:19:08,088 --> 00:19:09,881
+Dan ini Ranger Pentecost.
+
+274
+00:19:10,006 --> 00:19:11,424
+Dia akan mengarahkan kalian
+
+275
+00:19:11,716 --> 00:19:14,385
+sampai aku dapat kopilot baru
+pengganti Ranger Burke.
+
+276
+00:19:15,053 --> 00:19:16,304
+Ada yang ingin kau tambahkan?
+
+277
+00:19:18,264 --> 00:19:19,724
+Kau tak ingin mendengarnya.
+
+278
+00:19:22,893 --> 00:19:25,437
+Malikova, siapkan Namani untuk latihan.
+
+279
+00:19:25,771 --> 00:19:26,855
+Baik, Pak!
+
+280
+00:19:27,773 --> 00:19:28,983
+Lanjutkan.
+
+281
+00:19:33,403 --> 00:19:34,905
+Pentecost.
+
+282
+00:19:35,656 --> 00:19:37,240
+Kita akan dilatih oleh Pentecost!
+
+283
+00:19:37,324 --> 00:19:38,325
+Lalu?
+
+284
+00:19:38,408 --> 00:19:41,494
+Bukan dia yang mati ketika menutup Celah.
+
+285
+00:19:41,745 --> 00:19:43,913
+Dia tak pernah berperang.
+
+286
+00:19:43,997 --> 00:19:45,915
+Renata, ayo babak dua.
+
+287
+00:19:46,082 --> 00:19:47,834
+Hei, Ilya, kau lihat ini?
+
+288
+00:19:49,419 --> 00:19:52,255
+Hei. Di mana tempatku...
+
+289
+00:19:52,338 --> 00:19:54,131
+Kudengar kau merakit Jaeger.
+
+290
+00:19:54,215 --> 00:19:55,216
+Ya.
+
+291
+00:19:55,383 --> 00:19:57,134
+Itu benar. Scrapper.
+
+292
+00:19:57,802 --> 00:19:59,804
+Aku mengendalikannya tunggal...
+
+293
+00:19:59,929 --> 00:20:02,264
+Jika mau merakit rongsokan,
+jadilah mekanik.
+
+294
+00:20:02,389 --> 00:20:04,058
+Moyulan untuk pilot.
+
+295
+00:20:06,310 --> 00:20:07,978
+Tak apa, aku akan menolongmu.
+
+296
+00:20:08,061 --> 00:20:09,688
+- Terima kasih.
+- Ya.
+
+297
+00:20:11,273 --> 00:20:13,066
+Jinhai. Ou-yang Jinhai.
+
+298
+00:20:13,191 --> 00:20:15,235
+Kau dan Vik sudah berteman?
+
+299
+00:20:15,402 --> 00:20:17,320
+- Vik?
+- Singkatan dari Viktoria.
+
+300
+00:20:17,404 --> 00:20:18,863
+Tapi jangan panggil dia begitu.
+
+301
+00:20:18,988 --> 00:20:20,073
+Apa masalahnya?
+
+302
+00:20:20,156 --> 00:20:21,991
+Dia mencoba tiga kali
+untuk lulus tes masuk.
+
+303
+00:20:22,116 --> 00:20:24,077
+Dia tak suka caramu ikut program ini.
+
+304
+00:20:24,202 --> 00:20:25,703
+Itu bukan salahku.
+
+305
+00:20:25,787 --> 00:20:27,830
+Perekrut tak pernah datang ke kotaku.
+
+306
+00:20:27,914 --> 00:20:29,749
+Bisa bahasa Rusia?
+
+307
+00:20:29,832 --> 00:20:30,833
+Tidak.
+
+308
+00:20:30,916 --> 00:20:33,085
+Nanti kuajarkan. Bisa membuatnya tenang.
+
+309
+00:20:33,210 --> 00:20:35,212
+Ayo. Kita persiapkan dirimu.
+
+310
+00:21:07,827 --> 00:21:09,870
+<i>Belahan otak tidak sejajar.</i>
+
+311
+00:21:09,954 --> 00:21:10,955
+<i>Peringatan.</i>
+
+312
+00:21:11,038 --> 00:21:12,206
+Perlu hubung ulang!
+
+313
+00:21:12,373 --> 00:21:13,832
+Aku tahu! Aku berusaha!
+
+314
+00:21:23,258 --> 00:21:25,302
+<i>MAGLEV dimatikan.</i>
+
+315
+00:21:25,468 --> 00:21:27,095
+Aku tak bisa melakukan ini.
+
+316
+00:21:27,178 --> 00:21:28,221
+Sayang sekali.
+
+317
+00:21:28,304 --> 00:21:30,390
+<i>Simulasi sinkron dimatikan.</i>
+
+318
+00:21:32,809 --> 00:21:34,018
+AMARA GAGAL
+SURESH GAGAL
+
+319
+00:21:34,102 --> 00:21:37,438
+Saat kudengar kau membuat
+November Ajax kesulitan,
+
+320
+00:21:38,439 --> 00:21:40,191
+kupikir kau istimewa.
+
+321
+00:21:40,274 --> 00:21:42,151
+Sekarang aku ragu.
+
+322
+00:21:42,443 --> 00:21:44,236
+Mana bisa sinkron dengan alat ini?
+
+323
+00:21:44,904 --> 00:21:46,238
+Baunya seperti kaki.
+
+324
+00:21:46,322 --> 00:21:48,240
+Aku tidak minta alasanmu, Kadet.
+
+325
+00:21:48,365 --> 00:21:52,035
+Mengadunya dengan Kaiju
+yang hampir membunuh pilot veteran,
+
+326
+00:21:52,160 --> 00:21:53,453
+tidaklah masuk akal.
+
+327
+00:21:53,537 --> 00:21:55,539
+Mungkin bukan hanya dia
+yang tidak pantas di sini.
+
+328
+00:21:56,039 --> 00:21:57,040
+Wah.
+
+329
+00:21:57,791 --> 00:21:59,501
+Nate, aku tahu kau punya masalah denganku.
+
+330
+00:21:59,834 --> 00:22:01,961
+Tapi ayolah. Dia masih kecil.
+
+331
+00:22:02,045 --> 00:22:04,172
+Dahulu kita juga. Itu intinya.
+
+332
+00:22:04,339 --> 00:22:06,883
+Koneksimu lebih kuat ketika muda.
+
+333
+00:22:06,966 --> 00:22:08,926
+Ikatan seperti itu bagus
+untuk sinkronisasi pilot.
+
+334
+00:22:09,010 --> 00:22:11,179
+Ya. Aku ingat argumennya.
+
+335
+00:22:11,262 --> 00:22:12,305
+Terima kasih.
+
+336
+00:22:13,806 --> 00:22:15,766
+Ryoichi, Renata, giliran kalian.
+
+337
+00:22:15,933 --> 00:22:17,935
+Tunjukkan rekrut baru kita caranya.
+
+338
+00:22:31,907 --> 00:22:34,367
+Pakaian macam apa itu?
+
+339
+00:22:35,952 --> 00:22:36,953
+Jules menyukainya.
+
+340
+00:22:37,203 --> 00:22:40,165
+Dia bilang senang
+ada yang punya gaya di sini.
+
+341
+00:22:40,248 --> 00:22:41,958
+Jangan salahkan dia. Aku seksi.
+
+342
+00:22:42,041 --> 00:22:43,876
+- Ya.
+- Mau minum?
+
+343
+00:22:44,877 --> 00:22:46,087
+Tentu.
+
+344
+00:22:49,173 --> 00:22:50,216
+Terima kasih.
+
+345
+00:22:50,299 --> 00:22:51,926
+Es krim di atasnya.
+
+346
+00:22:52,259 --> 00:22:53,469
+Ya.
+
+347
+00:22:54,178 --> 00:22:55,221
+Ya.
+
+348
+00:22:55,304 --> 00:22:58,390
+Sekali lagi?
+Untuk membuktikan ayahmu salah?
+
+349
+00:22:58,474 --> 00:23:01,185
+Tidak, aku hanya ingin lihat
+apakah cangkok dagumu cocok.
+
+350
+00:23:01,268 --> 00:23:03,103
+Kurasa cocok sekali.
+
+351
+00:23:03,270 --> 00:23:05,522
+Ya. Sangat berwibawa.
+Anak-anak pasti suka.
+
+352
+00:23:05,856 --> 00:23:08,984
+Jake, anak-anak ini menghormati kita.
+
+353
+00:23:09,651 --> 00:23:12,070
+Kita harus tunjukkan
+kita bisa bekerja sama.
+
+354
+00:23:13,238 --> 00:23:16,824
+Perang berakhir 10 tahun lalu.
+Berhentilah mencemaskan itu.
+
+355
+00:23:16,908 --> 00:23:18,201
+Tenang saja.
+
+356
+00:23:18,284 --> 00:23:20,411
+Kau harus memahami tujuan musuh...
+
+357
+00:23:22,914 --> 00:23:24,248
+Kau harus...
+
+358
+00:23:25,499 --> 00:23:26,542
+Maaf.
+
+359
+00:23:26,917 --> 00:23:29,920
+Kau harus memahami tujuan musuhmu
+agar tahu cara mengalahkannya.
+
+360
+00:23:30,045 --> 00:23:31,046
+Kita belum tahu.
+
+361
+00:23:31,130 --> 00:23:33,257
+Aku bisa bantu soal itu.
+
+362
+00:23:33,382 --> 00:23:35,050
+Menurutku ada kaitannya
+
+363
+00:23:35,134 --> 00:23:37,427
+dengan mereka mengirim monster
+untuk menghabisi kita.
+
+364
+00:23:37,511 --> 00:23:40,263
+Tidak. Precursor takkan mengirim Kaiju
+
+365
+00:23:40,347 --> 00:23:42,557
+untuk meratakan sejumlah kota
+jika ingin musnahkan kita.
+
+366
+00:23:42,891 --> 00:23:44,935
+Dengar, Nate,
+aku tak punya masalah denganmu.
+
+367
+00:23:45,101 --> 00:23:46,478
+Tapi aku harus memilih.
+
+368
+00:23:46,811 --> 00:23:48,897
+Antara wajah tampanmu dan penjara.
+
+369
+00:23:49,230 --> 00:23:50,899
+Kupilih wajah tampanmu.
+
+370
+00:23:51,274 --> 00:23:53,067
+Aku terharu.
+
+371
+00:23:53,151 --> 00:23:54,902
+Kau butuh berapa hiasan?
+
+372
+00:23:55,069 --> 00:23:57,863
+Jangan usik hiasanku.
+Jangan urusi hiasanku.
+
+373
+00:23:59,156 --> 00:24:02,409
+Para kadet punya dua bulan untuk lulus?
+
+374
+00:24:03,077 --> 00:24:04,328
+- Enam.
+- Baik.
+
+375
+00:24:04,453 --> 00:24:05,454
+Begini saja.
+
+376
+00:24:05,788 --> 00:24:07,539
+Setiap kau bicara kemiliteran
+dengan mereka,
+
+377
+00:24:07,748 --> 00:24:08,874
+aku mengangguk saja.
+
+378
+00:24:08,957 --> 00:24:11,126
+Atau bilang, "Ya, seperti katanya."
+
+379
+00:24:11,210 --> 00:24:13,253
+Lalu tiba-tiba mereka sudah jadi pilot.
+
+380
+00:24:13,337 --> 00:24:15,047
+- Aku bisa kembali ke hidupku.
+- Bagus.
+
+381
+00:24:15,130 --> 00:24:16,256
+Beres.
+
+382
+00:24:17,966 --> 00:24:19,467
+Mungkin lebih cepat dari perkiraanmu.
+
+383
+00:24:20,260 --> 00:24:21,261
+Kenapa?
+
+384
+00:24:21,344 --> 00:24:23,096
+Besok presentasi besar.
+
+385
+00:24:23,221 --> 00:24:27,183
+Shao dan regunya mempresentasikan
+program drone yang baru.
+
+386
+00:24:27,350 --> 00:24:28,476
+Kita bisa tak berguna lagi.
+
+387
+00:24:28,810 --> 00:24:31,354
+Bagiku itu kartu bebas penjara.
+
+388
+00:24:34,190 --> 00:24:37,067
+Silakan berpura-pura semaumu
+
+389
+00:24:38,444 --> 00:24:41,155
+tapi kita tahu kau bisa berhasil.
+
+390
+00:24:54,542 --> 00:24:57,045
+Nn. Shao. Marsekal Quan.
+
+391
+00:24:57,962 --> 00:24:59,130
+Kehormatan bertemu denganmu.
+
+392
+00:24:59,339 --> 00:25:00,340
+Maaf.
+
+393
+00:25:00,423 --> 00:25:02,216
+Dia tidak berjabat tangan.
+
+394
+00:25:02,342 --> 00:25:05,928
+Dr. Newton Geiszler. Kepala riset
+dan pengembangan Shao Industries.
+
+395
+00:25:06,095 --> 00:25:09,223
+Kau punya jabat tangan yang kuat.
+
+396
+00:25:09,765 --> 00:25:11,809
+Tangan keras sangat berjabatan.
+
+397
+00:25:11,892 --> 00:25:12,935
+Terima kasih undangannya.
+
+398
+00:25:13,018 --> 00:25:15,187
+Ranger Lambert dan aku akan membantumu.
+
+399
+00:25:21,193 --> 00:25:23,153
+Kau terlihat lebih baik.
+
+400
+00:25:23,236 --> 00:25:26,114
+Lebih baik dari baju tahanan. Hampir.
+
+401
+00:25:27,240 --> 00:25:29,909
+Inikah orangnya? Pasti dia, bukan?
+
+402
+00:25:29,993 --> 00:25:31,828
+Kau anak Stacker. Hei, aku Newt.
+
+403
+00:25:31,995 --> 00:25:34,080
+Aku penggemar ayahmu.
+
+404
+00:25:34,163 --> 00:25:35,290
+Penulis pidato yang lihai.
+
+405
+00:25:35,373 --> 00:25:37,250
+Pernah dengar pidatonya
+soal gagalkan kiamat?
+
+406
+00:25:37,333 --> 00:25:38,334
+Newton!
+
+407
+00:25:38,418 --> 00:25:40,419
+- Hermann.
+- Aku berharap kau ikut.
+
+408
+00:25:40,503 --> 00:25:43,297
+Aku perlu bantuanmu untuk eksperimenku.
+
+409
+00:25:43,839 --> 00:25:46,509
+Ini hanya sebentar.
+Aku tahu kau sibuk.
+
+410
+00:25:46,842 --> 00:25:48,886
+- Ya.
+- Tak ingin memaksa, tapi...
+
+411
+00:25:49,428 --> 00:25:51,889
+Ayolah, kau tak bisa memaksaku.
+
+412
+00:25:52,014 --> 00:25:54,349
+Kita satu pikiran, bukan?
+
+413
+00:25:54,433 --> 00:25:56,351
+Kita menyelamatkan dunia!
+
+414
+00:25:56,435 --> 00:25:58,228
+Kita sinkron dengan Kaiju!
+
+415
+00:25:58,395 --> 00:26:00,981
+Jika kita tidak mengambil
+informasi itu dari otak Kaiju,
+
+416
+00:26:01,106 --> 00:26:02,899
+Raleigh takkan bisa menutup Celah itu.
+
+417
+00:26:02,983 --> 00:26:04,776
+Itu hasil usaha kau dan aku!
+
+418
+00:26:05,485 --> 00:26:08,780
+Sebenarnya lebih ke usahaku,
+tapi bisa kita lakukan ini dengan cepat?
+
+419
+00:26:09,155 --> 00:26:10,281
+Pengerahan.
+
+420
+00:26:10,907 --> 00:26:12,158
+Jaeger.
+
+421
+00:26:12,325 --> 00:26:14,827
+Mengirim mereka ke perang butuh waktu.
+
+422
+00:26:14,994 --> 00:26:17,872
+Kerusakan yang bisa ditimbulkan Kaiju
+sebelum mereka...
+
+423
+00:26:17,955 --> 00:26:20,916
+Ini. Aku menemukan solusinya.
+
+424
+00:26:23,877 --> 00:26:26,130
+Hermann, kau tahu aku tak bisa membaca...
+
+425
+00:26:27,548 --> 00:26:29,091
+Pendorong roket?
+
+426
+00:26:30,050 --> 00:26:31,134
+Ya.
+
+427
+00:26:31,301 --> 00:26:32,427
+Tidak.
+
+428
+00:26:32,761 --> 00:26:36,223
+Tak ada bahan bakar yang bisa
+memberikan daya dorong sebesar itu.
+
+429
+00:26:36,306 --> 00:26:37,766
+Di dunia ini.
+
+430
+00:26:42,103 --> 00:26:43,188
+Tidak.
+
+431
+00:26:43,354 --> 00:26:44,856
+Itu darah Kaiju?
+
+432
+00:26:44,981 --> 00:26:46,024
+Tepat!
+
+433
+00:26:47,108 --> 00:26:49,944
+Kutemukan darah Kaiju sangat reaktif
+
+434
+00:26:50,027 --> 00:26:53,531
+ketika dipadukan dengan
+elemen langka bumi.
+
+435
+00:26:53,864 --> 00:26:55,199
+Aku tahu itu.
+
+436
+00:26:55,324 --> 00:26:57,952
+Jangan main-main dengan ini.
+Kau bisa meledak.
+
+437
+00:26:58,035 --> 00:27:01,121
+Kau yang paling tahu soal morfologi Kaiju!
+
+438
+00:27:01,205 --> 00:27:02,498
+Kumohon, lihatlah.
+
+439
+00:27:02,831 --> 00:27:04,208
+Tidak, Hermann, harus kuhentikan.
+
+440
+00:27:04,291 --> 00:27:06,084
+Semua ini tak penting.
+
+441
+00:27:06,168 --> 00:27:07,878
+Begitu drone atasanku disetujui,
+
+442
+00:27:07,961 --> 00:27:09,754
+waktu pengerahan takkan jadi masalah.
+
+443
+00:27:09,921 --> 00:27:13,174
+Dalam setahun,
+akan ada drone di mana-mana.
+
+444
+00:27:14,551 --> 00:27:16,094
+Kau tak mau membantuku?
+
+445
+00:27:16,761 --> 00:27:19,180
+Mari bicarakan sambil makan malam
+di tempatku.
+
+446
+00:27:19,264 --> 00:27:20,932
+Kau bisa bertemu Alice.
+
+447
+00:27:21,182 --> 00:27:22,433
+Aku tak perlu makanan, Newton.
+
+448
+00:27:22,767 --> 00:27:25,019
+Aku perlu solusi untuk masalah
+yang sangat spesifik.
+
+449
+00:27:26,437 --> 00:27:28,272
+Panggilan. Maaf.
+
+450
+00:27:28,397 --> 00:27:30,149
+Tugas memanggil. Senang bisa mengobrol.
+
+451
+00:27:31,108 --> 00:27:32,151
+Newton.
+
+452
+00:27:36,405 --> 00:27:38,490
+Aku masih bermimpi buruk
+
+453
+00:27:39,491 --> 00:27:41,034
+tentang yang kita lihat
+
+454
+00:27:41,827 --> 00:27:44,996
+ketika sinkron
+dengan otak Kaiju menjijikkan.
+
+455
+00:27:45,080 --> 00:27:46,122
+Ya.
+
+456
+00:27:49,417 --> 00:27:51,252
+Tapi itu seru, bukan?
+
+457
+00:27:53,254 --> 00:27:55,298
+Dr. Geiszler. Waktunya berangkat.
+
+458
+00:27:55,840 --> 00:27:56,883
+Baik.
+
+459
+00:28:01,053 --> 00:28:03,139
+Kau dan Gottlieb dahulu dekat, bukan?
+
+460
+00:28:03,222 --> 00:28:04,265
+Ketika perang?
+
+461
+00:28:05,474 --> 00:28:07,184
+Kami berbagi laboratorium...
+
+462
+00:28:07,518 --> 00:28:08,519
+Pakai bahasa Inggris.
+
+463
+00:28:08,852 --> 00:28:11,105
+Bahasa Mandarinmu terdengar aneh.
+
+464
+00:28:11,188 --> 00:28:13,023
+Aku tahu aku buruk.
+Ya, kami berbagi lab.
+
+465
+00:28:13,190 --> 00:28:15,359
+Apa yang kau dan Dr. Gottlieb bicarakan?
+
+466
+00:28:15,442 --> 00:28:18,487
+Ide gilanya tentang kapsul roket
+untuk Jaeger.
+
+467
+00:28:18,779 --> 00:28:21,781
+Sebelum Sekretaris Jenderal Mori
+menyampaikan rekomendasi di Rapat Dewan,
+
+468
+00:28:21,865 --> 00:28:22,991
+aku tak boleh salah langkah.
+
+469
+00:28:23,283 --> 00:28:25,034
+Jangan bicara dengannya
+
+470
+00:28:25,410 --> 00:28:26,536
+sampai pemungutan suara.
+
+471
+00:28:28,246 --> 00:28:29,872
+Dia tidak berbahaya.
+
+472
+00:28:31,165 --> 00:28:32,166
+Baiklah.
+
+473
+00:28:32,250 --> 00:28:36,796
+Bisa ulangi lagi dan kali ini
+80 persen lebih lambat?
+
+474
+00:28:36,963 --> 00:28:39,924
+Kubilang, jangan sampai aku
+meragukan kesetiaanmu.
+
+475
+00:28:40,007 --> 00:28:41,050
+Mengerti?
+
+476
+00:28:42,968 --> 00:28:44,094
+Apa yang mau diragukan?
+
+477
+00:28:45,888 --> 00:28:47,764
+Aku jarang bicara dengannya.
+
+478
+00:28:47,848 --> 00:28:48,849
+Berarti tak masalah.
+
+479
+00:28:49,182 --> 00:28:50,517
+Dan latih bahasa Mandarinmu.
+
+480
+00:28:51,059 --> 00:28:52,352
+Aku tak suka mengulang ucapanku.
+
+481
+00:28:53,019 --> 00:28:54,187
+Dalam bahasa apa pun.
+
+482
+00:28:54,855 --> 00:28:58,066
+Drone-ku adalah langkah berikut
+dalam evolusi Jaeger.
+
+483
+00:28:58,149 --> 00:28:59,818
+Sistem yang kurancang
+
+484
+00:28:59,984 --> 00:29:02,987
+memproses perintah
+lewat inti data kuantum.
+
+485
+00:29:03,071 --> 00:29:04,989
+Berarti seorang pilot
+
+486
+00:29:05,073 --> 00:29:07,867
+bisa mengendalikan drone dari jauh
+
+487
+00:29:07,992 --> 00:29:09,452
+dari mana pun di dunia ini.
+
+488
+00:29:10,328 --> 00:29:12,747
+Begitu dewan menyetujui penggunaannya,
+
+489
+00:29:12,913 --> 00:29:16,000
+berdasarkan laporan terakhir
+Sekretaris Jenderal Mori,
+
+490
+00:29:16,083 --> 00:29:19,920
+usaha keras mencari dan melatih
+pilot yang cocok
+
+491
+00:29:20,087 --> 00:29:21,797
+akan berakhir.
+
+492
+00:29:21,922 --> 00:29:24,466
+Menurutmu pegawai kantoran
+lebih baik dari kami?
+
+493
+00:29:24,800 --> 00:29:26,968
+Kami tidak ingin menutupmu.
+
+494
+00:29:27,052 --> 00:29:30,388
+Kerja sama antara program kita
+sangat penting.
+
+495
+00:29:31,223 --> 00:29:33,850
+- Jika ada pertanyaan.
+- Ya, aku punya pertanyaan.
+
+496
+00:29:35,435 --> 00:29:37,812
+Kami pilot, bukan pegawai kantoran!
+
+497
+00:29:37,896 --> 00:29:40,314
+Kini kita berteriak.
+Tak perlu berteriak.
+
+498
+00:29:46,279 --> 00:29:47,279
+Itu berjalan baik.
+
+499
+00:29:47,780 --> 00:29:50,407
+Berapa lama lagi kita ditutup
+agar aku bisa pulang?
+
+500
+00:29:50,533 --> 00:29:53,118
+Aku tak percaya teknologinya.
+Setidaknya belum.
+
+501
+00:29:53,285 --> 00:29:54,912
+Menurutku bagus.
+
+502
+00:29:55,245 --> 00:29:59,041
+Sistem jarak jauh
+bisa diretas atau dirusak.
+
+503
+00:29:59,207 --> 00:30:01,126
+Tidak, suaramu menentukan.
+
+504
+00:30:01,209 --> 00:30:03,086
+Beres. Tergantung keputusanmu.
+
+505
+00:30:04,171 --> 00:30:07,215
+Andai aku bisa langsung menyetujuinya.
+
+506
+00:30:07,382 --> 00:30:10,844
+Hampir separuh dewan mendukung Liwen.
+
+507
+00:30:11,803 --> 00:30:14,222
+Mereka takkan suka keputusanku.
+
+508
+00:30:14,889 --> 00:30:18,017
+Siapa peduli apa yang mereka suka
+dan tidak suka?
+
+509
+00:30:18,184 --> 00:30:20,311
+Begini saja, aku akan ikut.
+
+510
+00:30:20,394 --> 00:30:21,854
+Untuk dukungan moral.
+
+511
+00:30:21,937 --> 00:30:23,397
+Karena aku ingin pergi dari sini.
+
+512
+00:30:23,481 --> 00:30:25,149
+Baguslah,
+
+513
+00:30:25,232 --> 00:30:28,235
+karena aku sudah minta Gipsy Avenger
+
+514
+00:30:28,319 --> 00:30:30,195
+sebagai pengawal kehormatan
+di Rapat Dewan.
+
+515
+00:30:30,320 --> 00:30:31,989
+Kau tahu Gipsy milik Nate.
+
+516
+00:30:32,072 --> 00:30:35,409
+Kopilotnya bekerja untuk Liwen sekarang.
+Dia butuh yang baru.
+
+517
+00:30:35,492 --> 00:30:38,245
+Orang yang kau tahu sudah cocok.
+
+518
+00:30:39,454 --> 00:30:40,455
+Baiklah.
+
+519
+00:30:41,456 --> 00:30:43,083
+Aku akan bantu.
+
+520
+00:30:43,166 --> 00:30:44,459
+Aku mau lihat kau beri tahu Nate
+
+521
+00:30:44,793 --> 00:30:46,961
+karena aku ingin lihat wajahnya.
+Dia pasti kesal.
+
+522
+00:30:47,086 --> 00:30:48,796
+Dia akan berdiri dan bilang,
+
+523
+00:30:48,880 --> 00:30:51,257
+"Menurutku kau tidak pantas
+di Jaeger, Jake.
+
+524
+00:30:51,340 --> 00:30:52,508
+Keluar dari Jaeger-ku.
+
+525
+00:30:52,842 --> 00:30:54,844
+Aku tampan dan seksi."
+
+526
+00:30:56,095 --> 00:30:57,888
+Dia memang tampan dan seksi.
+
+527
+00:30:58,347 --> 00:30:59,431
+Terima kasih, Jake.
+
+528
+00:31:15,530 --> 00:31:18,074
+<i>Selamat datang kembali.
+Hari ini cerah.</i>
+
+529
+00:31:18,158 --> 00:31:19,325
+KORPS PERTAHANAN PAN PASIFIK
+RAPAT DEWAN
+
+530
+00:31:19,409 --> 00:31:20,827
+<i>Selamat sore, Pemirsa.</i>
+
+531
+00:31:20,910 --> 00:31:23,413
+<i>Peter Overton tayang
+dari Nine Studios di Sydney...</i>
+
+532
+00:31:23,871 --> 00:31:27,458
+<i>Sejauh ini, polisi bilang
+sedikitnya 49 petugas terluka.</i>
+
+533
+00:31:27,792 --> 00:31:30,544
+<i>Pemuja Kaiju memakai topeng hitam
+melemparkan botol dan batu.</i>
+
+534
+00:31:30,878 --> 00:31:32,505
+<i>Keamanan PPDC berusaha...</i>
+
+535
+00:31:32,838 --> 00:31:37,843
+JAEGER ANDALAN TIBA DI KTT PPDC
+
+536
+00:31:37,926 --> 00:31:40,137
+<i>Gipsy Avenger, ini Marsekal Quan.</i>
+
+537
+00:31:40,262 --> 00:31:43,015
+<i>Kau hanya perlu berdiri dan tampil cantik.</i>
+
+538
+00:31:43,473 --> 00:31:46,309
+<i>Tetap fokus, jangan sampai jatuh.</i>
+
+539
+00:31:46,393 --> 00:31:48,228
+- Baik, Pak.
+- <i>Bersiap untuk turun.</i>
+
+540
+00:31:48,520 --> 00:31:52,023
+Dalam 3, 2, 1... Turun!
+
+541
+00:32:03,242 --> 00:32:04,243
+Jake!
+
+542
+00:32:05,494 --> 00:32:07,413
+<i>Sinkronisasi tidak stabil.</i>
+
+543
+00:32:07,747 --> 00:32:10,207
+Tenang. Aku mulai ingat.
+
+544
+00:32:10,541 --> 00:32:13,210
+- Kau yakin?
+<i>- Sel ion aktif.</i>
+
+545
+00:32:13,502 --> 00:32:15,003
+Kita satu pikiran, ingat?
+
+546
+00:32:15,087 --> 00:32:17,256
+Tolong berhenti memikirkan Jules.
+
+547
+00:32:18,090 --> 00:32:19,341
+Tidak akan terjadi.
+
+548
+00:32:19,424 --> 00:32:22,219
+Berhentilah berpikir menghajarku.
+
+549
+00:32:22,302 --> 00:32:24,095
+Juga tidak akan terjadi.
+
+550
+00:32:25,221 --> 00:32:26,389
+Hari ini akan panjang.
+
+551
+00:32:26,806 --> 00:32:28,433
+Belahan otak dikalibrasi, Pak.
+
+552
+00:32:29,767 --> 00:32:32,020
+Sinkronisasi saraf lemah, tapi bertahan.
+
+553
+00:32:36,274 --> 00:32:37,441
+<i>Transportasi datang.</i>
+
+554
+00:32:37,775 --> 00:32:38,901
+SEKRETARIS JENDERAL MAKO MORI
+
+555
+00:32:44,990 --> 00:32:46,200
+DRONE JAEGER
+LAPORAN KETAHANAN
+
+556
+00:32:46,367 --> 00:32:48,786
+<i>Perkiraan tiba ke daratan dua menit.</i>
+
+557
+00:32:58,420 --> 00:33:00,005
+HENTIKAN JAEGER
+HENTIKAN PENINDASAN PPDC
+
+558
+00:33:19,315 --> 00:33:21,233
+<i>- Peringatan.</i>
+- Gipsy kepada Komando. Lihat ini?
+
+559
+00:33:35,955 --> 00:33:37,457
+Gipsy, ini Komando.
+
+560
+00:33:37,791 --> 00:33:39,792
+<i>Waspada. Ada Jaeger pengacau.</i>
+
+561
+00:33:42,503 --> 00:33:44,422
+<i>Pilot Jaeger ilegal.</i>
+
+562
+00:33:44,505 --> 00:33:47,383
+Matikan tenaga dan keluar dari Conn-Pod.
+
+563
+00:33:48,259 --> 00:33:52,346
+<i>Aku ulangi. Matikan tenaga
+dan keluar dari Conn-Pod sekarang.</i>
+
+564
+00:33:54,181 --> 00:33:55,307
+Rudal ditembakkan!
+
+565
+00:34:16,953 --> 00:34:18,538
+<i>- Peringatan.</i>
+- Kita kehilangan tenaga!
+
+566
+00:34:30,215 --> 00:34:31,175
+SINYAL DAYA
+
+567
+00:34:31,884 --> 00:34:34,303
+Jake! Sinyal tenaga Jaeger itu...
+
+568
+00:34:37,931 --> 00:34:39,266
+Dia merusak komunikasi kita!
+
+569
+00:34:42,477 --> 00:34:44,312
+- Nate!
+- Tenaga kembali!
+
+570
+00:35:33,442 --> 00:35:35,069
+Sial.
+
+571
+00:35:57,882 --> 00:35:59,300
+- Bagaimana ini?
+- Ikuti aku!
+
+572
+00:36:15,899 --> 00:36:17,025
+Mako kena!
+
+573
+00:36:18,527 --> 00:36:19,862
+Dia jatuh! Kita harus cepat!
+
+574
+00:36:20,028 --> 00:36:21,405
+Aktifkan lontaran gravitasi!
+
+575
+00:36:39,172 --> 00:36:42,466
+Mayday!
+Ini Mike, Mike, Charlie, 0-5-2.
+
+576
+00:36:42,800 --> 00:36:43,801
+Kami kena dan akan jatuh!
+
+577
+00:36:43,926 --> 00:36:44,927
+KECOCOKAN DITEMUKAN
+BERKAS DIKUMPULKAN
+
+578
+00:36:45,845 --> 00:36:46,929
+<i>Mengirim.</i>
+
+579
+00:37:12,203 --> 00:37:13,246
+Mako!
+
+580
+00:37:13,329 --> 00:37:14,497
+Jake! Tunggu!
+
+581
+00:38:40,370 --> 00:38:42,039
+<i>Sinkronisasi gagal.</i>
+
+582
+00:38:42,122 --> 00:38:43,790
+Sarah, lakukan sesuatu!
+
+583
+00:38:43,957 --> 00:38:47,294
+<i>- Sinkronisasi gagal.</i>
+- Otak bodoh!
+
+584
+00:38:47,377 --> 00:38:49,921
+TIDAK ADA SINYAL
+
+585
+00:38:50,004 --> 00:38:51,089
+Hei.
+
+586
+00:38:51,256 --> 00:38:52,298
+Hei.
+
+587
+00:38:57,303 --> 00:39:03,142
+Aku tak mahir dalam
+percakapan emosional, tapi...
+
+588
+00:39:04,769 --> 00:39:06,854
+aku turut berduka soal kakakmu.
+
+589
+00:39:08,272 --> 00:39:10,357
+Kakak tiri?
+
+590
+00:39:10,899 --> 00:39:13,735
+Keluarganya tewas dalam serangan Onibaba.
+
+591
+00:39:14,444 --> 00:39:16,113
+Ayahku mengadopsinya.
+
+592
+00:39:17,072 --> 00:39:20,867
+Dia kakakku. Keluargaku.
+
+593
+00:39:21,993 --> 00:39:23,244
+Kenapa tak pakai seragam?
+
+594
+00:39:25,288 --> 00:39:27,790
+Aku banyak pikiran sejak Sydney.
+
+595
+00:39:28,499 --> 00:39:30,418
+Aku ingin merasa nyaman.
+
+596
+00:39:30,752 --> 00:39:33,254
+Jangan sampai Ranger Lambert melihatmu
+berpakaian begitu.
+
+597
+00:39:33,337 --> 00:39:35,756
+Dia bisa ambil tongkat dari bokongnya
+dan memukulmu.
+
+598
+00:39:35,923 --> 00:39:38,134
+Aku aman.
+Tongkatnya terjepit di situ cukup ketat.
+
+599
+00:39:40,719 --> 00:39:42,763
+Mereka masih menggunakan Sarah.
+
+600
+00:39:43,472 --> 00:39:47,267
+Ya. Entah kenapa
+aku tak bisa sinkron dengannya.
+
+601
+00:39:47,351 --> 00:39:51,188
+Kadet lain sudah berlatih bertahun-tahun,
+dan aku baru...
+
+602
+00:39:51,813 --> 00:39:53,398
+Aku kesal merasa lamban.
+
+603
+00:39:53,482 --> 00:39:54,941
+Kau harus tenang.
+
+604
+00:39:55,025 --> 00:39:57,110
+Atau usahamu akan sia-sia.
+Nanti kubantu.
+
+605
+00:39:57,193 --> 00:39:58,903
+- Baik, Pelatih.
+- Jangan panggil Pelatih.
+
+606
+00:39:58,987 --> 00:40:00,071
+Baik, Guru.
+
+607
+00:40:00,822 --> 00:40:02,156
+Konsentrasi.
+
+608
+00:40:02,865 --> 00:40:04,325
+Perlu buat koneksi yang baik.
+
+609
+00:40:04,409 --> 00:40:06,911
+Tak bisa jika kau banyak bicara.
+
+610
+00:40:12,375 --> 00:40:13,793
+Siap?
+
+611
+00:40:13,876 --> 00:40:14,877
+Siap.
+
+612
+00:40:15,753 --> 00:40:17,087
+Baiklah.
+
+613
+00:40:17,254 --> 00:40:19,131
+Kita lihat apa kita bisa sinkron.
+
+614
+00:40:24,011 --> 00:40:25,304
+Tangkap dia!
+
+615
+00:40:34,020 --> 00:40:35,980
+<i>Muatan saraf melampaui batas.</i>
+
+616
+00:40:36,064 --> 00:40:37,982
+Tetap fokus, Amara.
+
+617
+00:40:38,399 --> 00:40:42,904
+Ingat, semakin kuat koneksimu,
+semakin baik kau bertarung.
+
+618
+00:40:43,821 --> 00:40:45,031
+Bagus.
+
+619
+00:40:46,949 --> 00:40:49,243
+Amara! Ayo, lompat!
+Lompat kemari, sayang!
+
+620
+00:40:49,326 --> 00:40:50,953
+Harus, Amara! Lompat!
+
+621
+00:40:51,036 --> 00:40:53,455
+Amara! Jangan terus memikirkan kenangan.
+
+622
+00:40:53,789 --> 00:40:56,125
+Biarkan saja mengalir. Amara!
+
+623
+00:40:56,333 --> 00:40:58,043
+Amara! Ayo gabung!
+
+624
+00:40:58,418 --> 00:41:01,713
+Berdekatan. Siap? Satu, dua...
+
+625
+00:41:01,880 --> 00:41:02,881
+Senyum!
+
+626
+00:41:03,882 --> 00:41:06,092
+Dapat. Mau lihat?
+
+627
+00:41:06,760 --> 00:41:07,927
+Tunggu sebentar.
+
+628
+00:41:11,014 --> 00:41:14,892
+Amara, kau harus melupakannya. Amara!
+
+629
+00:41:16,352 --> 00:41:17,812
+Dengarkan suaraku!
+
+630
+00:41:19,313 --> 00:41:20,398
+Amara!
+
+631
+00:41:37,497 --> 00:41:40,208
+- Amara!
+- Ayah!
+
+632
+00:41:40,750 --> 00:41:42,377
+Amara! Lompat!
+
+633
+00:41:42,460 --> 00:41:45,839
+- Amara! Batalkan sinkronisasi!
+- Lompat kemari! Ayo!
+
+634
+00:41:45,922 --> 00:41:47,090
+Aku takut!
+
+635
+00:41:47,173 --> 00:41:48,800
+Ayah akan menangkapmu!
+
+636
+00:41:48,883 --> 00:41:49,884
+Amara!
+
+637
+00:41:49,967 --> 00:41:51,094
+Amara, ayo!
+
+638
+00:41:51,177 --> 00:41:52,345
+Lompat!
+
+639
+00:41:57,183 --> 00:41:59,393
+Amara! Lepaskan!
+
+640
+00:42:01,478 --> 00:42:02,896
+Hei.
+
+641
+00:42:03,480 --> 00:42:05,149
+Kau baik-baik saja?
+
+642
+00:42:09,903 --> 00:42:11,988
+Aku di sana.
+
+643
+00:42:14,407 --> 00:42:16,034
+Aku merasakannya.
+
+644
+00:42:16,159 --> 00:42:17,410
+Ya.
+
+645
+00:42:18,244 --> 00:42:20,038
+Aku juga merasakannya.
+
+646
+00:42:21,748 --> 00:42:23,875
+<i>Jake, ini aku. Kau dengar?</i>
+
+647
+00:42:25,043 --> 00:42:26,085
+Ya.
+
+648
+00:42:26,169 --> 00:42:28,212
+<i>Temui aku di lab.
+Marsekal ingin bertemu kita.</i>
+
+649
+00:42:28,296 --> 00:42:29,964
+Baik. Aku ke sana.
+
+650
+00:42:31,966 --> 00:42:33,342
+Kau baik-baik saja?
+
+651
+00:42:44,853 --> 00:42:47,022
+- Apa itu?
+- Pesan. Dari Mako.
+
+652
+00:42:47,147 --> 00:42:50,400
+Dia mengirimnya dari helikopter
+sebelum jatuh.
+
+653
+00:42:50,734 --> 00:42:52,944
+Ini paket data. Kepadatan tinggi.
+
+654
+00:42:53,111 --> 00:42:56,406
+Obsidian Fury merusak komunikasi.
+Bagaimana sinyalnya bisa tembus?
+
+655
+00:42:56,739 --> 00:42:58,366
+Tidak dalam keadaan utuh.
+
+656
+00:42:58,449 --> 00:42:59,450
+Jadi hilang?
+
+657
+00:42:59,534 --> 00:43:01,327
+Itu relatif dalam dunia digital.
+
+658
+00:43:01,410 --> 00:43:03,788
+Menggunakan algoritme fraktal modifikasi,
+
+659
+00:43:03,871 --> 00:43:06,957
+aku bisa bentuk ulang beberapa megabit.
+
+660
+00:43:10,377 --> 00:43:11,420
+Itu dia.
+
+661
+00:43:14,047 --> 00:43:15,174
+Itu Kaiju?
+
+662
+00:43:16,133 --> 00:43:19,302
+Kubandingkan dengan berkas Kaiju PPDC.
+
+663
+00:43:19,720 --> 00:43:21,972
+NEGATIF
+
+664
+00:43:24,015 --> 00:43:25,475
+Tak ada kecocokan.
+
+665
+00:43:25,809 --> 00:43:28,937
+Cari terus. Jelas itu penting baginya.
+
+666
+00:43:29,229 --> 00:43:30,438
+Aku ingin tahu sebabnya.
+
+667
+00:43:30,772 --> 00:43:33,441
+Dan aku ingin tahu
+siapa pilot Jaeger pengacau itu.
+
+668
+00:43:52,042 --> 00:43:55,962
+Maaf terlambat.
+Kupikir kau masih di Sydney.
+
+669
+00:43:56,046 --> 00:43:59,132
+Dewan menyetujui pengerahan Drone
+dalam situasi darurat.
+
+670
+00:44:02,260 --> 00:44:03,261
+Baguslah.
+
+671
+00:44:03,344 --> 00:44:05,722
+Kupikir kau akan lebih antusias, Dok.
+
+672
+00:44:06,306 --> 00:44:08,808
+Aku senang sekali. Ini berita bagus.
+
+673
+00:44:08,975 --> 00:44:11,936
+Hanya saja dengan adanya
+serangan dan lainnya, terasa sedikit...
+
+674
+00:44:12,103 --> 00:44:14,772
+Aku di situ. Aku tahu kejadiannya.
+
+675
+00:44:15,856 --> 00:44:17,441
+Itu bisa dicegah
+
+676
+00:44:18,108 --> 00:44:20,194
+jika Drone kita di lapangan.
+
+677
+00:44:20,277 --> 00:44:22,112
+<i>Koneksi saraf dimatikan.</i>
+
+678
+00:44:22,988 --> 00:44:25,032
+Kini semua orang mengerti itu.
+
+679
+00:44:25,407 --> 00:44:27,909
+Ya. Kurasa mereka mengerti.
+
+680
+00:44:27,993 --> 00:44:29,411
+Berarti serangannya berefek positif
+
+681
+00:44:29,911 --> 00:44:31,413
+mengingat situasinya.
+
+682
+00:44:33,790 --> 00:44:35,458
+Jika kau melihatnya dari sisi berbeda,
+
+683
+00:44:35,834 --> 00:44:38,086
+maka kau boleh bilang begitu.
+
+684
+00:44:38,169 --> 00:44:40,255
+Maaf, ada apa ini?
+
+685
+00:44:40,338 --> 00:44:43,174
+Dewan minta pengerahan penuh
+dalam 48 jam.
+
+686
+00:44:44,467 --> 00:44:45,468
+48...
+
+687
+00:44:45,551 --> 00:44:47,094
+Aku bekerja keras untuk ini.
+
+688
+00:44:47,303 --> 00:44:48,804
+Selesaikan.
+
+689
+00:44:49,305 --> 00:44:52,475
+Baiklah. Tidak masalah. Itu cukup.
+
+690
+00:44:52,808 --> 00:44:53,976
+48 jam?
+
+691
+00:44:54,059 --> 00:44:55,227
+Tak mungkin bisa siap.
+
+692
+00:44:55,311 --> 00:44:58,272
+Menurutmu tak mungkin?
+Kalau begitu kau dipecat.
+
+693
+00:44:58,439 --> 00:44:59,898
+Bagaimana?
+
+694
+00:44:59,982 --> 00:45:02,150
+Atau mungkin nanti kau naik pangkat.
+Kita lihat saja.
+
+695
+00:45:02,276 --> 00:45:03,402
+Pokoknya selesaikan!
+
+696
+00:45:04,486 --> 00:45:06,071
+Berikan.
+
+697
+00:45:26,006 --> 00:45:28,467
+Hei, Sayang. Aku pulang.
+
+698
+00:45:28,801 --> 00:45:32,221
+Maaf terlambat. Ya ampun, keadaannya...
+
+699
+00:45:32,304 --> 00:45:35,766
+Keadaan hari ini kacau
+akibat peristiwa di Sydney.
+
+700
+00:45:37,267 --> 00:45:40,395
+Orang-orang itu malang sekali.
+
+701
+00:45:40,479 --> 00:45:43,231
+Bosku hampir mati. Itu buruk.
+
+702
+00:45:43,315 --> 00:45:45,066
+Mungkin. Entahlah.
+
+703
+00:45:45,984 --> 00:45:49,362
+Tapi mungkin bagus juga,
+karena dia selalu mengomeliku.
+
+704
+00:45:49,445 --> 00:45:50,947
+Dia tak memberiku peluang!
+
+705
+00:45:51,281 --> 00:45:52,907
+Aku meracau. Cukup soal pekerjaan.
+
+706
+00:45:53,282 --> 00:45:56,285
+Cukup tentang dia,
+mestinya aku fokus kepadamu.
+
+707
+00:45:56,369 --> 00:45:59,205
+Mau senang-senang di kamar?
+
+708
+00:45:59,455 --> 00:46:00,706
+Bagaimana harimu?
+
+709
+00:46:03,834 --> 00:46:07,337
+Itu bagus. Ya, itu menarik.
+
+710
+00:46:07,713 --> 00:46:08,714
+Apa?
+
+711
+00:46:09,965 --> 00:46:11,800
+Sedikit hiburan?
+
+712
+00:46:12,426 --> 00:46:16,304
+Aku bisa bilang apa?
+
+713
+00:46:17,389 --> 00:46:19,224
+Kau membaca pikiranku.
+
+714
+00:46:26,481 --> 00:46:27,899
+<i>Ratusan polisi...</i>
+
+715
+00:46:28,066 --> 00:46:30,067
+Mereka menyebutnya Obsidian Fury.
+
+716
+00:46:30,234 --> 00:46:32,069
+Belum pernah ada pengacau seperti ini.
+
+717
+00:46:32,153 --> 00:46:34,905
+Berita bilang mereka menaruh
+selusin Jaeger di memorial.
+
+718
+00:46:35,197 --> 00:46:37,032
+Aku ingin sebanyak itu di pemakamanku.
+
+719
+00:46:37,199 --> 00:46:40,077
+Ayahmu akan menyuruhmu
+mengerjakan payudara kalau gagal.
+
+720
+00:46:40,244 --> 00:46:41,995
+Jaeger takkan ada
+kalau pria payudara mati.
+
+721
+00:46:42,162 --> 00:46:43,330
+Ayahmu mengerjakan payudara?
+
+722
+00:46:43,497 --> 00:46:46,333
+Dia dokter bedah plastik.
+Tak hanya mengerjakan...
+
+723
+00:46:46,500 --> 00:46:49,044
+Aku tidak akan gagal.
+Aku akan jadi pilot.
+
+724
+00:46:49,127 --> 00:46:52,422
+Tetap saja. Kalau kau mati,
+kukirim satu Jaeger di pemakamanmu.
+
+725
+00:46:53,465 --> 00:46:54,841
+Mungkin separuh Jaeger.
+
+726
+00:46:56,134 --> 00:46:59,429
+Kudengar di situ mereka menemukan Amara.
+Dalam separuh Jaeger.
+
+727
+00:46:59,762 --> 00:47:01,431
+Itu Jaeger yang utuh.
+
+728
+00:47:01,931 --> 00:47:04,433
+Hanya tidak terlalu besar...
+
+729
+00:47:05,101 --> 00:47:06,477
+Viktoria.
+
+730
+00:47:09,271 --> 00:47:10,981
+Lebih besar lebih baik.
+
+731
+00:47:14,443 --> 00:47:15,486
+Kau bodoh.
+
+732
+00:47:16,820 --> 00:47:17,946
+Apa katamu?
+
+733
+00:47:18,489 --> 00:47:19,948
+Kau bodoh.
+
+734
+00:47:20,032 --> 00:47:21,867
+- Kata-kataku tepat?
+- Ya.
+
+735
+00:47:25,078 --> 00:47:27,998
+Aku berusaha keras untuk tiba di sini.
+Kau tak berbuat apa-apa.
+
+736
+00:47:28,123 --> 00:47:29,999
+Kau dipungut dari jalanan, seperti sampah!
+
+737
+00:47:31,000 --> 00:47:32,877
+Teman-teman, hentikan!
+
+738
+00:47:35,213 --> 00:47:36,839
+Tahu di mana aku belajar ini?
+
+739
+00:47:36,923 --> 00:47:38,466
+Di jalanan, kau bodoh.
+
+740
+00:47:38,800 --> 00:47:39,967
+Ranger hadir!
+
+741
+00:47:42,470 --> 00:47:44,430
+- Dia menyerangku!
+- Tempatnya bukan di sini!
+
+742
+00:47:44,764 --> 00:47:46,891
+Aku tak peduli!
+
+743
+00:47:48,225 --> 00:47:51,395
+Saat pertama bergabung dengan Korps,
+aku sepertimu.
+
+744
+00:47:52,146 --> 00:47:55,315
+Lebih buruk. Aku bukan siapa-siapa.
+
+745
+00:47:57,234 --> 00:48:01,029
+Tapi wanita yang kita makamkan hari ini,
+Mako Mori,
+
+746
+00:48:01,112 --> 00:48:02,864
+dia bilang, "Siapa pun dirimu,
+
+747
+00:48:02,948 --> 00:48:04,949
+begitu masuk program ini,
+kau punya keluarga.
+
+748
+00:48:06,159 --> 00:48:07,452
+Apa pun yang mereka perbuat,
+
+749
+00:48:07,994 --> 00:48:10,997
+seberapa pun bodohnya kelakuan mereka,
+
+750
+00:48:13,332 --> 00:48:15,376
+maafkan mereka dan lupakan."
+
+751
+00:48:17,336 --> 00:48:21,131
+Mulailah percaya itu. Di sini.
+
+752
+00:48:22,049 --> 00:48:24,426
+Maka kau akan mulai percaya Jaeger.
+
+753
+00:48:25,010 --> 00:48:26,053
+Hei.
+
+754
+00:48:26,929 --> 00:48:30,265
+Marsekal mencari kalian.
+Katanya Gottlieb menemukan sesuatu.
+
+755
+00:48:32,225 --> 00:48:35,353
+Bukan sesuatu, tapi suatu tempat.
+
+756
+00:48:35,896 --> 00:48:39,899
+Severnaya Zemlya.
+Di luar Semenanjung Taymyr, Siberia.
+
+757
+00:48:39,983 --> 00:48:42,360
+- Ada apa di Zemlya?
+- Tak ada apa-apa lagi.
+
+758
+00:48:42,902 --> 00:48:44,279
+Fasilitas di lokasi ini
+
+759
+00:48:44,404 --> 00:48:47,323
+dahulu digunakan untuk produksi
+inti tenaga Jaeger pada awal perang
+
+760
+00:48:47,698 --> 00:48:49,450
+tapi tutup bertahun-tahun lalu.
+
+761
+00:48:49,784 --> 00:48:52,286
+Kenapa Mako memberi tahu kita
+tentang pabrik kosong
+
+762
+00:48:52,370 --> 00:48:54,038
+di tempat terpencil?
+
+763
+00:48:54,121 --> 00:49:00,044
+Pak, minta izin membawa Gipsy Avenger
+untuk memeriksanya.
+
+764
+00:49:29,280 --> 00:49:30,823
+<i>Memindai.</i>
+
+765
+00:49:30,906 --> 00:49:33,242
+Tampaknya pesan Mako tak berguna.
+
+766
+00:49:34,368 --> 00:49:36,203
+Tempat ini kosong.
+
+767
+00:49:36,286 --> 00:49:37,371
+Tunggu.
+
+768
+00:49:39,790 --> 00:49:41,833
+Aku dapat sinyal yang aneh.
+
+769
+00:49:42,209 --> 00:49:43,293
+Serangan!
+
+770
+00:49:59,308 --> 00:50:00,476
+Serang kakinya!
+
+771
+00:50:38,220 --> 00:50:39,305
+Kita harus menghindar!
+
+772
+00:51:15,130 --> 00:51:16,173
+Meriam plasma!
+
+773
+00:51:23,889 --> 00:51:25,057
+Kita membuatnya marah.
+
+774
+00:51:25,432 --> 00:51:26,808
+Bagus.
+
+775
+00:51:32,856 --> 00:51:34,315
+Ingat gerakan lama kita?
+
+776
+00:51:34,399 --> 00:51:35,483
+Ya.
+
+777
+00:51:48,287 --> 00:51:49,371
+Sepertinya dia terluka!
+
+778
+00:51:49,705 --> 00:51:50,956
+Serang inti tenaganya!
+
+779
+00:52:06,971 --> 00:52:07,972
+<i>Peringatan.</i>
+
+780
+00:52:11,601 --> 00:52:12,602
+<i>Peringatan.</i>
+
+781
+00:52:40,211 --> 00:52:42,213
+<i>Pilot Obsidian Fury,</i>
+
+782
+00:52:42,714 --> 00:52:43,965
+keluar dari Conn-Pod.
+
+783
+00:52:56,018 --> 00:52:57,186
+Apa itu?
+
+784
+00:53:04,943 --> 00:53:06,945
+Jelas itu Kaiju.
+
+785
+00:53:07,154 --> 00:53:09,239
+Otak kedua untuk menggerakkan
+bagian belakang.
+
+786
+00:53:09,323 --> 00:53:10,365
+Bagaimana bisa masuk?
+
+787
+00:53:10,699 --> 00:53:12,242
+Tidak ada celah selama 10 tahun.
+
+788
+00:53:12,325 --> 00:53:13,910
+Sensor tentu akan mendeteksinya.
+
+789
+00:53:14,244 --> 00:53:16,079
+Menurutku tidak ada celah.
+
+790
+00:53:16,162 --> 00:53:19,999
+Daging Kaiju memancarkan
+radioaktif separuh hidup.
+
+791
+00:53:20,083 --> 00:53:21,751
+Ciri khas Anteverse.
+
+792
+00:53:21,834 --> 00:53:24,170
+Spesimen ini tidak.
+
+793
+00:53:24,879 --> 00:53:27,882
+Maksudmu dia dari alam semesta kita?
+
+794
+00:53:28,049 --> 00:53:32,052
+Sidik jari genetika menunjukkan
+teknik modifikasi bumi,
+
+795
+00:53:32,136 --> 00:53:35,347
+mungkin dibentuk dari daging Kaiju
+sisa peperangan.
+
+796
+00:53:35,431 --> 00:53:37,808
+Ini bukan ulah Precursor.
+
+797
+00:53:39,810 --> 00:53:41,103
+Melainkan manusia.
+
+798
+00:53:45,857 --> 00:53:49,903
+Astaga. Bongkahan lendir itu
+pilot Obsidian Fury?
+
+799
+00:53:50,195 --> 00:53:52,447
+- Kita harus lihat ke dalam.
+- Ke dalam?
+
+800
+00:53:52,864 --> 00:53:54,157
+Makhluk itu bagian dari Kaiju.
+
+801
+00:53:55,074 --> 00:53:56,242
+Ayolah.
+
+802
+00:53:56,409 --> 00:53:58,911
+Kapan lagi ada peluang
+melihat sesuatu seperti ini?
+
+803
+00:53:59,078 --> 00:54:01,122
+Tidak akan pernah, dan itu bagus.
+
+804
+00:54:01,205 --> 00:54:03,833
+Silakan kalau mau di sini. Aku pergi.
+
+805
+00:54:03,958 --> 00:54:05,960
+Tidak. Amara!
+
+806
+00:54:06,877 --> 00:54:10,047
+Teman-teman, kita tak boleh di sini.
+
+807
+00:54:17,054 --> 00:54:19,306
+Terhubung sampai ke sistem.
+
+808
+00:54:20,265 --> 00:54:23,268
+Seperti jaringan otot.
+
+809
+00:54:25,895 --> 00:54:29,107
+Pantas dia bisa bergerak
+seperti itu. Keren.
+
+810
+00:54:29,274 --> 00:54:31,150
+Ya, keren.
+
+811
+00:54:32,276 --> 00:54:34,695
+Mengerjakan payudara
+terdengar semakin baik.
+
+812
+00:54:35,279 --> 00:54:36,322
+Arahkan lampumu kemari.
+
+813
+00:54:38,532 --> 00:54:42,620
+Ya, cabik saja usus
+robot pembunuh Kaiju yang aneh.
+
+814
+00:54:45,205 --> 00:54:46,707
+Apa itu?
+
+815
+00:54:46,915 --> 00:54:48,375
+Kurasa itu semacam...
+
+816
+00:54:49,042 --> 00:54:50,043
+Jinhai!
+
+817
+00:54:50,210 --> 00:54:52,963
+- Sudah kubilang jangan ditarik.
+- Cari bantuan! Cepat!
+
+818
+00:54:53,046 --> 00:54:55,173
+Celakalah kita!
+
+819
+00:54:56,174 --> 00:54:58,802
+- Hukumannya lebih dari yang dia perbuat.
+- Sudah diputuskan.
+
+820
+00:54:58,927 --> 00:55:01,221
+Keamanan akan ambil alih.
+Kita sudah selesai.
+
+821
+00:55:08,144 --> 00:55:09,771
+Jinhai baik-baik saja?
+
+822
+00:55:09,854 --> 00:55:11,772
+Terluka, tapi dia akan hidup.
+
+823
+00:55:11,898 --> 00:55:13,149
+Marsekal beri masa percobaan.
+
+824
+00:55:13,774 --> 00:55:16,110
+Meilin dan Suresh juga.
+Salah sedikit, mereka dikeluarkan.
+
+825
+00:55:16,277 --> 00:55:18,779
+Itu bukan salah mereka.
+Aku yang mengajak mereka.
+
+826
+00:55:18,904 --> 00:55:20,364
+Maaf, aku sudah bujuk Marsekal
+
+827
+00:55:20,906 --> 00:55:22,699
+tapi kau dikeluarkan dari program.
+
+828
+00:55:24,118 --> 00:55:26,119
+Aku memang tak cocok di sini.
+
+829
+00:55:26,411 --> 00:55:27,412
+Benarkah?
+
+830
+00:55:28,997 --> 00:55:32,209
+Dahulu aku juga berkata seperti itu.
+
+831
+00:55:33,043 --> 00:55:36,337
+Sebenarnya dahulu aku tidak mau di sini.
+
+832
+00:55:36,671 --> 00:55:37,964
+Aku masih tidak mau.
+
+833
+00:55:38,131 --> 00:55:39,757
+Kenapa mendaftar?
+
+834
+00:55:41,009 --> 00:55:45,304
+Saat itu masa perang.
+Ayahku memimpin serangan, dan kupikir
+
+835
+00:55:45,680 --> 00:55:47,014
+aku bisa lebih sering melihatnya.
+
+836
+00:55:47,974 --> 00:55:49,934
+Mungkin sinkronisasi dengannya.
+
+837
+00:55:50,768 --> 00:55:52,978
+Suatu malam, aku dan Nate bertengkar.
+
+838
+00:55:53,062 --> 00:55:55,981
+Gara-gara hal bodoh.
+Bahkan aku sudah lupa.
+
+839
+00:55:56,065 --> 00:55:58,859
+Maka aku naik ke Mark-4 tua
+
+840
+00:55:58,984 --> 00:56:01,737
+untuk menunjukkan
+bahwa aku tak butuh dia.
+
+841
+00:56:01,820 --> 00:56:04,322
+- Itu bodoh.
+- Ya.
+
+842
+00:56:04,906 --> 00:56:05,907
+Sampai sejauh mana?
+
+843
+00:56:06,116 --> 00:56:08,076
+Kurang lebih tujuh langkah.
+
+844
+00:56:08,159 --> 00:56:09,327
+Sampai sejauh mana?
+
+845
+00:56:09,411 --> 00:56:12,247
+Sekitar dua langkah,
+aku pingsan akibat tekanan.
+
+846
+00:56:12,330 --> 00:56:15,041
+Yang pertama kulihat ketika sadar
+adalah ayahku,
+
+847
+00:56:15,208 --> 00:56:17,335
+berdiri diam di depanku, terlihat kaku.
+
+848
+00:56:17,710 --> 00:56:19,212
+Dia bilang apa?
+
+849
+00:56:19,754 --> 00:56:21,339
+Katanya aku dikeluarkan dari program.
+
+850
+00:56:21,464 --> 00:56:25,134
+Dia bilang aku tak pantas jadi
+pilot Jaeger. Dia berkata banyak hal.
+
+851
+00:56:27,928 --> 00:56:30,055
+Setahun kemudian, ayahku wafat.
+
+852
+00:56:31,390 --> 00:56:33,058
+Aku tak sempat buktikan bahwa dia salah.
+
+853
+00:56:33,142 --> 00:56:36,228
+Terutama, aku tak sempat membuktikan
+kepada diriku sendiri.
+
+854
+00:56:37,688 --> 00:56:39,106
+Dengar.
+
+855
+00:56:39,981 --> 00:56:43,026
+Jangan biarkan pendapat orang
+menentukan jati dirimu.
+
+856
+00:56:43,318 --> 00:56:47,155
+Kau takkan suka hasilnya. Mengerti?
+
+857
+00:56:51,743 --> 00:56:53,077
+Dan tetap bertahan.
+
+858
+00:56:54,078 --> 00:56:56,706
+Mungkin kau akan seindah aku
+dalam situasi seperti ini.
+
+859
+00:56:57,206 --> 00:56:58,332
+Serius.
+
+860
+00:56:58,416 --> 00:57:03,087
+Wajah ini ditata dengan sempurna.
+Keindahan adalah beban.
+
+861
+00:57:06,256 --> 00:57:08,050
+Kau akan baik-baik saja.
+
+862
+00:57:11,970 --> 00:57:13,096
+Shao Industries.
+
+863
+00:57:15,265 --> 00:57:16,308
+Apa?
+
+864
+00:57:17,183 --> 00:57:20,437
+Obsidian Fury punya teknologi
+yang dibuat oleh Shao Industries.
+
+865
+00:57:20,770 --> 00:57:22,105
+Itu mustahil.
+
+866
+00:57:22,188 --> 00:57:24,274
+Jules dan regunya memindai
+setiap inci Jaeger itu.
+
+867
+00:57:24,357 --> 00:57:28,986
+Menyekat luka metamaterial berlawanan
+arah jarum jam pada kabel arus.
+
+868
+00:57:29,779 --> 00:57:31,989
+Hanya Shao perusahaan
+yang membelitnya seperti itu.
+
+869
+00:57:32,948 --> 00:57:35,326
+Amara, kau yakin dengan kata-katamu?
+
+870
+00:57:36,285 --> 00:57:39,955
+Ya. Aku banyak mencuri
+untuk merakit Scrapper.
+
+871
+00:57:43,000 --> 00:57:44,334
+Kupikir itu penting.
+
+872
+00:57:45,877 --> 00:57:48,922
+Ya. Terima kasih.
+
+873
+00:57:49,339 --> 00:57:52,842
+Shao Industries?
+Mereka tak punya divisi bio.
+
+874
+00:57:53,093 --> 00:57:54,469
+Setahu kita tidak.
+
+875
+00:57:54,803 --> 00:57:56,930
+Kabelnya mungkin curian,
+seperti Jaeger Amara.
+
+876
+00:57:57,096 --> 00:57:59,349
+Kita perlu lebih dari itu
+untuk mengaitkan Fury ke Shao.
+
+877
+00:57:59,682 --> 00:58:00,725
+Bagaimana dengan Newt?
+
+878
+00:58:00,808 --> 00:58:03,352
+Dia punya akses berkas internal,
+manifes pengiriman.
+
+879
+00:58:03,686 --> 00:58:06,355
+Temui dia. Jangan menarik perhatian.
+
+880
+00:58:06,689 --> 00:58:08,816
+Aku punya misi? Akhirnya!
+
+881
+00:58:09,108 --> 00:58:11,402
+Kita bicarakan ini dengan Marsekal.
+
+882
+00:58:23,455 --> 00:58:25,290
+Gedungnya aman, Nona.
+
+883
+00:58:26,249 --> 00:58:28,209
+Jangan ada tamu tanpa kredensial resmi.
+
+884
+00:58:28,626 --> 00:58:30,795
+Aku tak mau pengerahan terganggu.
+
+885
+00:58:33,631 --> 00:58:34,924
+Ada apa?
+
+886
+00:58:36,300 --> 00:58:37,427
+Aku di kantorku.
+
+887
+00:58:37,969 --> 00:58:39,011
+Baik.
+
+888
+00:58:45,684 --> 00:58:46,894
+Ini tidak adil.
+
+889
+00:58:49,980 --> 00:58:52,858
+Maaf. Kau tak pantas menerima ini.
+
+890
+00:58:54,026 --> 00:58:55,694
+Ini salahku.
+
+891
+00:58:57,279 --> 00:58:59,030
+Ini tanggung jawabku.
+
+892
+00:59:09,165 --> 00:59:10,416
+Amara.
+
+893
+00:59:12,668 --> 00:59:14,795
+Kali berikut kau merakit Jaeger,
+
+894
+00:59:16,047 --> 00:59:17,840
+buatlah yang besar.
+
+895
+00:59:29,184 --> 00:59:30,394
+<i>Sistem terhubung.</i>
+
+896
+00:59:31,103 --> 00:59:35,982
+- Pengerahan pada 100%.
+<i>- Sistem terhubung.</i>
+
+897
+00:59:36,066 --> 00:59:39,069
+Seratus persen! Itu kerja yang bagus!
+
+898
+00:59:39,152 --> 00:59:41,070
+Sudah kubilang kita bisa,
+dan ternyata benar!
+
+899
+00:59:41,154 --> 00:59:42,155
+<i>Malafungsi.</i>
+
+900
+00:59:42,238 --> 00:59:44,198
+Komunikasi ke drone 375 terputus!
+
+901
+00:59:44,449 --> 00:59:46,200
+Kenapa?
+
+902
+00:59:46,325 --> 00:59:47,702
+Cari tahu sebabnya!
+
+903
+00:59:48,119 --> 00:59:49,870
+Kita sampaikan ke dewan.
+
+904
+00:59:50,413 --> 00:59:51,664
+Siapkan transportasi.
+
+905
+00:59:53,916 --> 00:59:54,959
+Tunggu sebentar.
+
+906
+00:59:55,125 --> 00:59:56,377
+Drone mengalami malafungsi!
+
+907
+00:59:56,669 --> 00:59:57,962
+Hentikan yang sedang kembali!
+
+908
+01:00:06,803 --> 01:00:08,138
+Pergi ke Gipsy! Cepat!
+
+909
+01:00:20,858 --> 01:00:24,028
+<i>Semua pilot,
+masuk ke Jaeger dan serang musuh!</i>
+
+910
+01:00:39,876 --> 01:00:43,839
+Kau bisa. Kau baik-baik saja?
+Ya, sangat. Tenang saja...
+
+911
+01:00:43,922 --> 01:00:45,423
+Dr. Geiszler! Shao mencarimu.
+
+912
+01:00:45,507 --> 01:00:46,549
+Aku tahu! Aku menuju...
+
+913
+01:00:48,093 --> 01:00:50,929
+Hermann. Kenapa di sini?
+Bagaimana kau bisa masuk?
+
+914
+01:00:51,012 --> 01:00:52,347
+Aku punya kredensial PPDC.
+
+915
+01:00:52,430 --> 01:00:54,724
+Lagi pula, semua orang sibuk
+
+916
+01:00:54,807 --> 01:00:56,809
+mengurus drone pembunuh
+yang diluncurkan atasanmu!
+
+917
+01:01:26,754 --> 01:01:28,172
+- Dia memanfaatkanmu.
+- Tidak.
+
+918
+01:01:28,256 --> 01:01:30,883
+- Dia memancingmu dengan uang dan jabatan.
+- Tak mungkin.
+
+919
+01:01:30,967 --> 01:01:32,718
+Sementara kau merasa sukses,
+
+920
+01:01:32,844 --> 01:01:34,929
+dia ambil risetmu dan mengubahnya.
+
+921
+01:01:35,346 --> 01:01:37,348
+Bantu aku menghentikannya, Newton.
+
+922
+01:01:37,431 --> 01:01:38,974
+Bantu selamatkan dunia seperti dahulu.
+
+923
+01:01:39,058 --> 01:01:41,227
+Secara teknis, kau yang membantuku.
+
+924
+01:01:41,393 --> 01:01:42,394
+Biar kuperjelas itu.
+
+925
+01:01:42,728 --> 01:01:45,856
+Baik. Bantu aku menolongmu
+menyelamatkan dunia.
+
+926
+01:01:46,023 --> 01:01:48,150
+- Bagaimana?
+- Jawabanku...
+
+927
+01:01:48,233 --> 01:01:49,318
+Jawabanku... Jangan tembak!
+
+928
+01:01:52,195 --> 01:01:54,114
+Kenapa aku tak bisa bahasa ini?
+
+929
+01:01:57,742 --> 01:01:59,786
+- Apa yang terjadi?
+- Amara! Itu Jaeger?
+
+930
+01:01:59,953 --> 01:02:01,329
+Bukan, itu drone Shao Industries.
+
+931
+01:02:01,663 --> 01:02:03,706
+- Mereka kenapa?
+- Entah! Mereka tak terkendali!
+
+932
+01:02:03,790 --> 01:02:05,875
+Pergi dari sini sekarang juga!
+
+933
+01:02:05,958 --> 01:02:07,919
+Kembali ke kamarmu!
+
+934
+01:02:10,755 --> 01:02:12,089
+- Ya, Pak!
+- Cepat!
+
+935
+01:02:17,886 --> 01:02:20,347
+Cepat! Pergi dari sini! Ayo!
+
+936
+01:02:20,430 --> 01:02:22,057
+Ayo. Bangun.
+
+937
+01:02:33,651 --> 01:02:34,652
+Serius?
+
+938
+01:02:35,195 --> 01:02:36,237
+Sekarang?
+
+939
+01:02:53,462 --> 01:02:54,505
+Hermann!
+
+940
+01:02:55,422 --> 01:02:56,423
+Tolong!
+
+941
+01:02:56,798 --> 01:02:59,885
+Lain waktu, belajarlah
+menggunakan pistol. Rasakan!
+
+942
+01:03:00,010 --> 01:03:01,803
+Orang hina!
+
+943
+01:03:03,889 --> 01:03:05,098
+- Terima kasih, Newton.
+- Ya.
+
+944
+01:03:05,181 --> 01:03:07,308
+Kau kupeluk jika aku tak malu
+intim di muka umum.
+
+945
+01:03:07,392 --> 01:03:08,768
+- Tak apa-apa.
+- Masa bodoh.
+
+946
+01:03:08,852 --> 01:03:10,728
+Sudah selesai merabaku?
+
+947
+01:03:10,812 --> 01:03:12,814
+Mari kita urus drone itu.
+
+948
+01:03:12,897 --> 01:03:13,898
+KESALAHAN
+BAHAYA
+
+949
+01:03:14,440 --> 01:03:15,942
+Matikan semua sistem! Sekarang!
+
+950
+01:03:16,025 --> 01:03:18,361
+Semuanya, keluar dari lab atau kutembak!
+
+951
+01:03:18,694 --> 01:03:19,737
+Akan kutembak dua kali!
+
+952
+01:03:19,820 --> 01:03:21,447
+Aku tahu kau akan jadi gila!
+
+953
+01:03:21,655 --> 01:03:22,782
+Kalian dipecat! Keluar!
+
+954
+01:03:23,324 --> 01:03:24,742
+Bagaimana cara menghentikannya?
+
+955
+01:03:24,825 --> 01:03:25,951
+Ada pintu belakang, Hermann.
+
+956
+01:03:26,076 --> 01:03:28,287
+- Untuk apa?
+- Untuk subrutin drone.
+
+957
+01:03:28,787 --> 01:03:29,955
+Kutambahkan subrutin
+
+958
+01:03:30,038 --> 01:03:32,708
+siapa tahu nanti
+aku perlu memeriksa sesuatu di sini.
+
+959
+01:03:32,791 --> 01:03:33,917
+Dasar licik.
+
+960
+01:03:35,085 --> 01:03:36,294
+Hebat, bukan?
+
+961
+01:03:38,255 --> 01:03:41,007
+DIKONFIRMASI
+MEMULAI PROTOKOL CELAH
+
+962
+01:03:41,675 --> 01:03:43,218
+Apa yang kau lakukan?
+
+963
+01:03:43,343 --> 01:03:45,970
+Yang kurencanakan 10 tahun ini.
+
+964
+01:03:49,057 --> 01:03:50,433
+Mengakhiri dunia.
+
+965
+01:03:52,185 --> 01:03:53,936
+HONOLULU
+AMERIKA SERIKAT
+
+966
+01:04:00,693 --> 01:04:01,819
+HONOLULU, HAWAII
+CELAH TERDETEKSI
+
+967
+01:04:03,028 --> 01:04:05,030
+HONG KONG, TIONGKOK
+CELAH TERDETEKSI
+
+968
+01:04:06,823 --> 01:04:09,659
+ANCHORAGE, ALASKA
+CELAH TERDETEKSI
+
+969
+01:04:20,420 --> 01:04:21,713
+Mana pilot-pilotku?
+
+970
+01:04:21,963 --> 01:04:23,006
+Melapor!
+
+971
+01:04:23,089 --> 01:04:24,090
+Banyak celah terdeteksi!
+
+972
+01:04:24,173 --> 01:04:25,174
+Ulah drone, Pak!
+
+973
+01:04:27,510 --> 01:04:28,511
+Semua pilot,
+
+974
+01:04:28,761 --> 01:04:29,970
+celah terdeteksi.
+
+975
+01:04:30,054 --> 01:04:33,349
+Drone membuka sejumlah celah
+di sepanjang Lingkar Pasifik!
+
+976
+01:04:45,652 --> 01:04:46,862
+Kenapa?
+
+977
+01:04:46,945 --> 01:04:48,780
+Kenapa kau lakukan ini?
+
+978
+01:04:48,863 --> 01:04:50,448
+Kenapa kulakukan ini?
+
+979
+01:04:52,283 --> 01:04:53,535
+Aku tak ingin melakukannya.
+
+980
+01:04:53,618 --> 01:04:55,411
+Harusnya tidak,
+ini bukan ciri khas diriku.
+
+981
+01:04:56,245 --> 01:04:58,081
+Mungkin aku benci kalian
+
+982
+01:04:58,247 --> 01:05:00,249
+karena tidak menganggapku serius.
+
+983
+01:05:00,374 --> 01:05:03,127
+Mungkin itu alasan dia, Hermann.
+Itu alasanku.
+
+984
+01:05:03,753 --> 01:05:05,129
+Begini...
+
+985
+01:05:05,212 --> 01:05:06,964
+Itu dia.
+
+986
+01:05:07,089 --> 01:05:08,883
+Ini masalahnya.
+
+987
+01:05:10,801 --> 01:05:14,179
+Aku merasa berbeda belakangan ini.
+
+988
+01:05:14,680 --> 01:05:15,847
+Kau.
+
+989
+01:05:17,140 --> 01:05:18,642
+OTAK KAIJU
+SPESIMEN
+
+990
+01:05:22,437 --> 01:05:23,855
+Precursor.
+
+991
+01:05:26,775 --> 01:05:28,860
+Bagus, Hermann, kau menebaknya.
+
+992
+01:05:28,943 --> 01:05:31,321
+Dan seperti biasa, selangkah terlambat.
+
+993
+01:05:31,654 --> 01:05:32,780
+Newton.
+
+994
+01:05:33,656 --> 01:05:35,408
+- Kau orang yang baik.
+- Tidak. Hermann.
+
+995
+01:05:35,741 --> 01:05:37,159
+- Hentikan.
+- Percuma melawan.
+
+996
+01:05:37,243 --> 01:05:39,078
+- Lawanlah.
+- Aku tak cukup kuat, Hermann.
+
+997
+01:05:39,245 --> 01:05:41,080
+- Coba, Newton. Harus!
+- Aku tak cukup kuat.
+
+998
+01:05:41,205 --> 01:05:43,374
+Dia tak cukup kuat!
+
+999
+01:05:43,999 --> 01:05:46,960
+Kalian semua tak cukup kuat!
+
+1000
+01:05:50,756 --> 01:05:52,674
+Maaf, Hermann.
+
+1001
+01:05:54,968 --> 01:05:56,303
+Mereka mengendalikan pikiranku.
+
+1002
+01:05:57,304 --> 01:05:58,305
+Lepaskan dia!
+
+1003
+01:05:58,388 --> 01:06:00,765
+Kau tak boleh merusak karya hidupku.
+
+1004
+01:06:01,057 --> 01:06:02,142
+Hei, Bos.
+
+1005
+01:06:17,031 --> 01:06:19,158
+Kenapa kalian di sini?
+Sudah kubilang masuk kamar!
+
+1006
+01:06:19,408 --> 01:06:21,702
+- Semua pintu terkunci!
+- Bagaimana ini?
+
+1007
+01:06:22,077 --> 01:06:23,871
+Bagaimana kau melakukannya
+tanpa setahuku?
+
+1008
+01:06:24,246 --> 01:06:28,291
+38 persen perusahaanmu
+sepenuhnya otomatis.
+
+1009
+01:06:28,375 --> 01:06:32,087
+Tak sulit memindahkan sedikit ke sini
+
+1010
+01:06:32,170 --> 01:06:33,296
+dan sedikit ke sana.
+
+1011
+01:06:33,380 --> 01:06:35,924
+Menyelipkan kejutan Kaiju tanpa setahumu.
+
+1012
+01:06:36,883 --> 01:06:40,011
+Terutama karena kau selalu menganggap
+
+1013
+01:06:40,386 --> 01:06:42,263
+dirimu yang paling pintar.
+
+1014
+01:06:42,722 --> 01:06:44,348
+Sebentar lagi, aku yang paling pintar.
+
+1015
+01:06:44,432 --> 01:06:47,935
+Hentikan! Tunggu.
+Newt tidak mengendalikan dirinya!
+
+1016
+01:06:48,185 --> 01:06:49,687
+Itu bukan dia! Tapi Precursor.
+
+1017
+01:06:49,854 --> 01:06:52,064
+Mereka pasti pengaruhi dia
+saat sinkron dengan Kaiju.
+
+1018
+01:06:52,147 --> 01:06:53,148
+Diam!
+
+1019
+01:06:54,108 --> 01:06:55,776
+Keamanan, temukan dan tahan Geiszler.
+
+1020
+01:06:55,859 --> 01:06:57,444
+Jika melawan, tembak kepalanya.
+
+1021
+01:06:57,736 --> 01:06:59,988
+Diam di sini! Kami akan coba ke Gipsy.
+
+1022
+01:07:02,407 --> 01:07:03,742
+Kau siap?
+
+1023
+01:07:03,825 --> 01:07:04,951
+Tidak! Kau?
+
+1024
+01:07:05,076 --> 01:07:07,037
+- Tidak. Hitungan ketiga.
+- Bagus.
+
+1025
+01:07:07,203 --> 01:07:08,705
+Satu, dua...
+
+1026
+01:07:08,872 --> 01:07:10,290
+<i>Halo? Ada orang?</i>
+
+1027
+01:07:10,749 --> 01:07:11,791
+Gottlieb?
+
+1028
+01:07:11,875 --> 01:07:13,751
+Jake! Syukurlah!
+
+1029
+01:07:13,835 --> 01:07:15,795
+Kami diserang. Kau harus paksa Liwen...
+
+1030
+01:07:15,878 --> 01:07:17,296
+<i>- matikan drone!</i>
+- Bukan dia.
+
+1031
+01:07:17,380 --> 01:07:19,298
+Bukan Liwen. Tapi Newt.
+
+1032
+01:07:19,841 --> 01:07:21,717
+Precursor memengaruhinya.
+
+1033
+01:07:21,801 --> 01:07:23,386
+<i>Mereka mengendalikan pikirannya.</i>
+
+1034
+01:07:23,719 --> 01:07:25,429
+Gottlieb, bisa buat dia mematikan drone?
+
+1035
+01:07:25,763 --> 01:07:27,139
+Tidak. Dia kabur.
+
+1036
+01:07:31,977 --> 01:07:33,729
+Gottlieb, matikan drone.
+
+1037
+01:07:33,812 --> 01:07:35,814
+Aku menembus subrutin.
+
+1038
+01:07:37,065 --> 01:07:38,775
+Aksesmu mau ditutup.
+
+1039
+01:07:38,859 --> 01:07:39,985
+Putaran umpan balik.
+
+1040
+01:07:49,661 --> 01:07:51,913
+Gottlieb, apa yang terjadi? Gottlieb!
+
+1041
+01:08:12,391 --> 01:08:14,392
+Gottlieb, matikan atau kita mati!
+
+1042
+01:08:16,937 --> 01:08:18,188
+Matikan!
+
+1043
+01:08:18,938 --> 01:08:20,106
+GRANAT UMPAN BALIK
+UNGGAH
+
+1044
+01:08:28,948 --> 01:08:30,032
+Bagus!
+
+1045
+01:08:56,057 --> 01:08:58,101
+CELAH
+
+1046
+01:08:58,268 --> 01:09:00,019
+Liwen mematikan drone.
+
+1047
+01:09:00,103 --> 01:09:03,981
+Celah telah ditutup.
+Aku ulangi, celah telah ditutup.
+
+1048
+01:09:07,651 --> 01:09:08,819
+Celaka.
+
+1049
+01:09:08,944 --> 01:09:10,196
+"Celaka" apa?
+
+1050
+01:09:10,279 --> 01:09:12,364
+Tiga Kaiju berhasil lewat.
+
+1051
+01:09:12,865 --> 01:09:16,034
+Korea Selatan, pesisir Rusia
+dan Laut Tiongkok Timur.
+
+1052
+01:09:16,869 --> 01:09:18,871
+Dua Kategori 4 dan satu Kategori 5.
+
+1053
+01:09:18,954 --> 01:09:19,955
+<i>Diterima.</i>
+
+1054
+01:09:20,330 --> 01:09:21,748
+Kembali ke markas.
+
+1055
+01:09:21,832 --> 01:09:24,126
+<i>Kita butuh bantuan sebanyak mungkin.</i>
+
+1056
+01:09:27,879 --> 01:09:29,798
+- Kalian baik-baik saja?
+- Ya, Bu.
+
+1057
+01:09:37,889 --> 01:09:38,931
+Ada kabar apa?
+
+1058
+01:09:39,056 --> 01:09:40,057
+Laporan masih berdatangan
+
+1059
+01:09:40,141 --> 01:09:42,309
+tapi Jaeger dan Shatterdome
+hancur di area Lingkar.
+
+1060
+01:09:42,393 --> 01:09:43,686
+Baik. Berapa Jaeger di sini?
+
+1061
+01:09:43,769 --> 01:09:45,354
+Beroperasi? Gipsy Avenger, nyaris.
+
+1062
+01:09:45,521 --> 01:09:46,689
+- Hanya itu?
+- Ya.
+
+1063
+01:09:46,772 --> 01:09:49,733
+Butuh lebih banyak Jaeger
+atau pertarungan ini akan singkat.
+
+1064
+01:09:49,817 --> 01:09:52,277
+Walaupun ada, pilot-pilot lain tewas
+atau cedera berat.
+
+1065
+01:09:52,361 --> 01:09:55,072
+Satu demi satu bencana.
+Kita fokus dahulu dengan Jaeger.
+
+1066
+01:09:57,824 --> 01:09:59,659
+Anak kecil, kemarilah.
+
+1067
+01:10:03,913 --> 01:10:05,915
+Bantu Jules dengan perbaikan. Kau bisa?
+
+1068
+01:10:06,708 --> 01:10:07,709
+Bukankah aku dikeluarkan?
+
+1069
+01:10:08,084 --> 01:10:09,711
+Kutendang kau masuk kembali.
+
+1070
+01:10:10,294 --> 01:10:11,963
+Dia bisa mengubah rongsokan jadi Jaeger.
+
+1071
+01:10:12,130 --> 01:10:13,631
+Kau tak keberatan?
+
+1072
+01:10:14,882 --> 01:10:16,008
+Ya.
+
+1073
+01:10:16,092 --> 01:10:17,301
+Kita banyak pekerjaan
+
+1074
+01:10:17,385 --> 01:10:18,928
+dan hanya sedikit waktu.
+
+1075
+01:10:20,971 --> 01:10:21,972
+Ada yang datang!
+
+1076
+01:10:47,747 --> 01:10:49,707
+Kubawa bantuan!
+
+1077
+01:10:54,628 --> 01:10:56,755
+Hakuja, Shrikethorn,
+
+1078
+01:10:56,839 --> 01:10:58,757
+dan si besar Raijin.
+
+1079
+01:10:58,841 --> 01:11:01,385
+Aku yang menamakan mereka.
+
+1080
+01:11:01,760 --> 01:11:03,011
+Si duri dan si besar bodoh
+
+1081
+01:11:03,095 --> 01:11:05,138
+menjauh dari perkotaan menuju lautan.
+
+1082
+01:11:05,222 --> 01:11:06,223
+Apa artinya?
+
+1083
+01:11:06,681 --> 01:11:10,101
+Mungkin ingin menemui Hakuja
+di Laut Tiongkok Timur.
+
+1084
+01:11:10,227 --> 01:11:12,729
+Newt tentu tahu rencana mereka
+
+1085
+01:11:12,896 --> 01:11:14,189
+jika kita bisa interogasi dia.
+
+1086
+01:11:14,272 --> 01:11:16,316
+Kita harus menemukannya lebih dahulu.
+
+1087
+01:11:18,901 --> 01:11:20,862
+Ada Jaeger yang lebih dekat
+dengan Kaiju itu?
+
+1088
+01:11:21,028 --> 01:11:23,864
+Yang tersisa dari Chin-do
+dan Sakhalinsk coba mencegatnya.
+
+1089
+01:11:23,948 --> 01:11:25,157
+Garis bawahi "coba".
+
+1090
+01:11:25,241 --> 01:11:28,077
+- Tak ada bantuan.
+- Pasti ada sesuatu di sini.
+
+1091
+01:11:28,661 --> 01:11:30,704
+Sesuatu di Laut Tiongkok Timur.
+
+1092
+01:11:31,830 --> 01:11:33,374
+Mungkin mereka tidak ke sana.
+
+1093
+01:11:33,707 --> 01:11:35,959
+Tampilkan peta gerakan Kaiju dari perang.
+
+1094
+01:11:36,043 --> 01:11:37,753
+Menampilkan data ke layar utama.
+
+1095
+01:11:38,670 --> 01:11:40,297
+Apa, kau tahu sesuatu?
+
+1096
+01:11:40,380 --> 01:11:43,258
+Katamu kita perlu
+memahami tujuan musuh kita
+
+1097
+01:11:43,633 --> 01:11:45,343
+untuk mengalahkan mereka.
+
+1098
+01:11:45,677 --> 01:11:48,763
+Bagaimana jika Kaiju tidak sebarang
+menyerang pada saat perang?
+
+1099
+01:11:48,930 --> 01:11:50,765
+Bagaimana jika kita menghalangi mereka?
+
+1100
+01:11:54,852 --> 01:11:55,978
+Di sini.
+
+1101
+01:11:56,813 --> 01:11:58,147
+Gunung Fuji, Jepang.
+
+1102
+01:11:58,689 --> 01:12:01,192
+Perkirakan gerak Hakuja, Shrikethorn,
+dan Raijin.
+
+1103
+01:12:03,777 --> 01:12:04,778
+GUNUNG FUJI
+
+1104
+01:12:04,904 --> 01:12:06,780
+Gunung Fuji? Kenapa?
+
+1105
+01:12:07,990 --> 01:12:09,074
+Elemen langka bumi.
+
+1106
+01:12:11,076 --> 01:12:15,038
+Gunung Fuji kaya elemen langka bumi.
+
+1107
+01:12:15,122 --> 01:12:18,166
+Reaksi ekstrem darah Kaiju
+dengan elemen langka bumi
+
+1108
+01:12:18,250 --> 01:12:21,002
+adalah dasar dari eksperimen
+roket pendorongku. Permisi.
+
+1109
+01:12:21,628 --> 01:12:24,047
+- Sepertinya buruk. Itu buruk, bukan?
+- Sangat.
+
+1110
+01:12:24,214 --> 01:12:26,925
+Gunung Fuji aktif.
+Titik tekanan geologis.
+
+1111
+01:12:27,091 --> 01:12:29,135
+Berdasarkan darah rasio massa Kaiju,
+
+1112
+01:12:29,218 --> 01:12:31,846
+akibatnya akan terjadi reaksi berantai
+
+1113
+01:12:31,929 --> 01:12:35,141
+memicu Cincin Api
+di sekeliling Lingkar Pasifik.
+
+1114
+01:12:36,017 --> 01:12:41,105
+Miliaran ton gas beracun dan abu
+akan dimuntahkan ke atmosfer,
+
+1115
+01:12:41,188 --> 01:12:43,023
+memusnahkan seluruh kehidupan.
+
+1116
+01:12:43,107 --> 01:12:44,691
+Menyelesaikan pengubahan Bumi
+
+1117
+01:12:45,192 --> 01:12:46,693
+bagi Precursor.
+
+1118
+01:12:46,777 --> 01:12:48,362
+Jangan sampai mereka capai Gunung Fuji.
+
+1119
+01:12:48,654 --> 01:12:50,155
+Aku tanya Jules
+soal perbaikan Jaeger.
+
+1120
+01:12:50,238 --> 01:12:53,825
+Meski punya seratus Jaeger,
+tak mungkin mencegatnya tepat waktu.
+
+1121
+01:12:54,326 --> 01:12:55,827
+Bagaimana dengan kapsul roketmu?
+
+1122
+01:12:55,994 --> 01:12:57,871
+Tidak. Belum siap.
+
+1123
+01:12:58,121 --> 01:12:59,122
+Apa bisa?
+
+1124
+01:12:59,998 --> 01:13:02,750
+Secara teori mungkin saja,
+dengan bantuanmu.
+
+1125
+01:13:02,834 --> 01:13:04,961
+Gottlieb, apa maksudmu "secara teori"?
+
+1126
+01:13:07,380 --> 01:13:08,381
+Hari ini...
+
+1127
+01:13:09,382 --> 01:13:11,967
+artinya bisa.
+
+1128
+01:13:55,801 --> 01:13:57,928
+<i>Tenaga sebagian pulih di sektor dua...</i>
+
+1129
+01:13:58,011 --> 01:14:00,806
+Saber Athena, Guardian Bravo
+dan Bracer Phoenix sudah siap.
+
+1130
+01:14:00,889 --> 01:14:02,057
+Itu tidak banyak.
+
+1131
+01:14:02,224 --> 01:14:04,851
+Liwen memasang teknologi Fury
+di Gipsy yang bisa membantu.
+
+1132
+01:14:06,269 --> 01:14:08,354
+- Siapkan semuanya untuk pengerahan.
+- Baik.
+
+1133
+01:14:08,980 --> 01:14:10,773
+Jangan terbunuh.
+
+1134
+01:14:13,234 --> 01:14:14,777
+Kau juga.
+
+1135
+01:14:20,241 --> 01:14:21,951
+Itu membingungkan.
+
+1136
+01:14:25,120 --> 01:14:26,830
+Mari kita tetap fokus.
+
+1137
+01:14:26,914 --> 01:14:29,917
+Kita punya empat Jaeger melawan
+dua Kategori 4 dan satu Kategori 5.
+
+1138
+01:14:30,083 --> 01:14:31,668
+Lebih baik dari hanya Gipsy saja.
+
+1139
+01:14:31,793 --> 01:14:33,337
+Kita masih butuh pilot.
+
+1140
+01:14:33,920 --> 01:14:35,088
+Kita punya.
+
+1141
+01:14:35,630 --> 01:14:36,882
+Sial.
+
+1142
+01:14:53,397 --> 01:14:56,150
+Jika ayahku di sini,
+mungkin dia akan beri ceramah.
+
+1143
+01:14:57,902 --> 01:14:59,320
+Membuatmu merasa tak terkalahkan.
+
+1144
+01:15:02,322 --> 01:15:04,116
+Aku bukan ayahku.
+
+1145
+01:15:05,325 --> 01:15:07,160
+Aku bukan pahlawan seperti beliau.
+
+1146
+01:15:08,954 --> 01:15:10,372
+Seperti Raleigh Becket
+
+1147
+01:15:11,081 --> 01:15:12,415
+dan Mako Mori.
+
+1148
+01:15:13,750 --> 01:15:15,752
+Tapi awalnya mereka tidak seperti itu.
+
+1149
+01:15:16,795 --> 01:15:19,672
+Mereka mulai sebagai kadet,
+seperti kalian.
+
+1150
+01:15:20,715 --> 01:15:23,676
+Kita mengingat mereka sebagai raksasa
+karena mereka berdiri teguh.
+
+1151
+01:15:23,801 --> 01:15:25,052
+Karena mereka berdiri bersama.
+
+1152
+01:15:26,345 --> 01:15:27,972
+Tidak masalah siapa orang tuamu,
+
+1153
+01:15:29,056 --> 01:15:32,184
+dari mana asalmu,
+siapa yang memercayaimu dan yang tidak.
+
+1154
+01:15:32,351 --> 01:15:34,061
+Kita keluarga sekarang.
+
+1155
+01:15:34,353 --> 01:15:36,188
+Kita pertahanan terakhir Bumi.
+
+1156
+01:15:36,730 --> 01:15:40,317
+Ini waktu bagi kita, ini peluang kita
+untuk membuat perbedaan.
+
+1157
+01:15:41,068 --> 01:15:43,403
+Ayo kita naik Jaeger dan habisi mereka!
+
+1158
+01:15:43,737 --> 01:15:44,905
+Kalian mengerti?
+
+1159
+01:15:44,988 --> 01:15:46,031
+Ya, Pak!
+
+1160
+01:15:46,114 --> 01:15:48,617
+Pilot Jaeger, kalian mengerti?
+
+1161
+01:15:48,700 --> 01:15:49,701
+Ya, Pak!
+
+1162
+01:15:49,784 --> 01:15:50,785
+Kalian mengerti?
+
+1163
+01:15:50,869 --> 01:15:52,078
+Ya, Pak!
+
+1164
+01:15:52,245 --> 01:15:54,414
+Bantu aku menyelamatkan dunia.
+
+1165
+01:15:54,747 --> 01:15:55,790
+Ayo kita mulai.
+
+1166
+01:16:00,253 --> 01:16:01,295
+<i>Sistem terhubung.</i>
+
+1167
+01:16:01,379 --> 01:16:03,047
+Memulai koneksi saraf.
+
+1168
+01:16:03,339 --> 01:16:05,382
+<i>Menghubungkan saraf.</i>
+
+1169
+01:16:05,716 --> 01:16:07,218
+<i>Amara! Ayo gabung!</i>
+
+1170
+01:16:09,845 --> 01:16:12,056
+Hubungan saraf kuat dan stabil.
+
+1171
+01:16:13,223 --> 01:16:15,309
+Bagaimana rasanya di dalam Jaeger asli?
+
+1172
+01:16:17,311 --> 01:16:18,687
+Lebih besar tidaklah buruk.
+
+1173
+01:16:18,770 --> 01:16:19,938
+Semua Jaeger melapor.
+
+1174
+01:16:20,021 --> 01:16:21,898
+<i>Siap atau batalkan peluncuran.</i>
+
+1175
+01:16:21,982 --> 01:16:23,942
+Guardian Bravo, siap.
+
+1176
+01:16:24,025 --> 01:16:25,360
+Saber Athena, siap.
+
+1177
+01:16:25,694 --> 01:16:28,112
+Bracer Phoenix, ayo cepatlah.
+
+1178
+01:16:28,196 --> 01:16:29,405
+Diterima.
+
+1179
+01:16:30,657 --> 01:16:33,743
+Komando, kami siap meluncur.
+
+1180
+01:16:33,910 --> 01:16:35,077
+Diterima, Gipsy Avenger.
+
+1181
+01:16:35,828 --> 01:16:38,080
+Pengapian dalam 10 detik.
+
+1182
+01:16:38,247 --> 01:16:39,665
+Sembilan.
+
+1183
+01:16:39,749 --> 01:16:41,250
+<i>Delapan.</i>
+
+1184
+01:16:41,333 --> 01:16:43,752
+<i>Tujuh, enam.</i>
+
+1185
+01:16:43,836 --> 01:16:46,714
+<i>Lima, empat.</i>
+
+1186
+01:16:46,797 --> 01:16:48,841
+<i>Tiga, dua.</i>
+
+1187
+01:16:48,924 --> 01:16:50,217
+<i>Satu.</i>
+
+1188
+01:16:50,300 --> 01:16:51,760
+Pengapian!
+
+1189
+01:17:16,742 --> 01:17:17,785
+<i>Peringatan.</i>
+
+1190
+01:17:17,868 --> 01:17:20,079
+<i>Melampaui batas struktural.</i>
+
+1191
+01:17:34,884 --> 01:17:36,219
+Apa-apaan?
+
+1192
+01:17:36,302 --> 01:17:38,638
+Nenekku suka memainkannya untukku.
+
+1193
+01:17:38,763 --> 01:17:39,847
+Membuatku tenang.
+
+1194
+01:17:39,931 --> 01:17:42,934
+Bagaimana denganku? Aku tidak tenang.
+
+1195
+01:17:55,112 --> 01:17:56,864
+Sudah kuduga akan berhasil.
+
+1196
+01:17:58,282 --> 01:18:01,159
+TOKYO, JEPANG
+
+1197
+01:19:14,771 --> 01:19:16,356
+Gipsy ke Komando. Sasaran terlihat.
+
+1198
+01:19:16,690 --> 01:19:17,857
+<i>Diterima, Gipsy.</i>
+
+1199
+01:19:17,941 --> 01:19:20,068
+Warga kota aman
+di perlindungan bawah tanah.
+
+1200
+01:19:20,235 --> 01:19:21,736
+Silakan menyerang.
+
+1201
+01:19:21,861 --> 01:19:23,238
+Mengerti. Siap menyerang.
+
+1202
+01:19:23,321 --> 01:19:25,239
+Bracer Phoenix, ikuti aku.
+Kita lawan Raijin.
+
+1203
+01:19:25,323 --> 01:19:26,324
+Mengerti, Gipsy.
+
+1204
+01:19:26,407 --> 01:19:27,992
+Saber Athena, Guardian Bravo,
+
+1205
+01:19:28,075 --> 01:19:30,286
+<i>- kalian lawan dua lainnya.</i>
+- Mengerti.
+
+1206
+01:19:30,369 --> 01:19:31,954
+Giliran kita menyelamatkan dunia.
+
+1207
+01:19:32,038 --> 01:19:33,914
+- Semoga saja.
+<i>- Pada hitunganku.</i>
+
+1208
+01:19:33,998 --> 01:19:37,293
+Tiga, dua, satu, mulai!
+
+1209
+01:20:25,255 --> 01:20:26,298
+Tembak!
+
+1210
+01:20:41,645 --> 01:20:43,147
+<i>Gipsy, pelat wajah Raijin</i>
+
+1211
+01:20:43,230 --> 01:20:45,649
+menyerap serangan
+dan melempar balik energinya!
+
+1212
+01:20:45,816 --> 01:20:47,067
+Coba apa dia menyerap ini!
+
+1213
+01:21:03,750 --> 01:21:05,793
+Makhluk ini kuat menahan berapa gedung?
+
+1214
+01:21:30,108 --> 01:21:31,151
+Shrikethorn datang!
+
+1215
+01:21:31,234 --> 01:21:34,821
+Teman-teman, kami butuh bantuan! Segera!
+
+1216
+01:21:34,905 --> 01:21:36,031
+Baik, Saber.
+
+1217
+01:21:36,197 --> 01:21:38,199
+Vik, serang Shrikethorn!
+
+1218
+01:21:38,366 --> 01:21:39,367
+Baik.
+
+1219
+01:21:52,630 --> 01:21:54,965
+Saber Athena,
+Guardian Bravo datang membantu!
+
+1220
+01:21:55,049 --> 01:21:56,634
+Aktifkan cambuk listrik!
+
+1221
+01:22:14,818 --> 01:22:17,320
+<i>Ya, benar! Larilah!</i>
+
+1222
+01:22:17,862 --> 01:22:19,238
+Mereka tidak tangguh.
+
+1223
+01:22:29,832 --> 01:22:31,709
+Bracer Phoenix, awas belakangmu!
+
+1224
+01:22:31,792 --> 01:22:32,960
+Musuh datang!
+
+1225
+01:22:33,127 --> 01:22:34,211
+<i>Diterima!</i>
+
+1226
+01:22:53,855 --> 01:22:55,982
+Memakai robot raksasa lagi.
+
+1227
+01:22:56,065 --> 01:22:58,067
+Benar-benar orisinal.
+
+1228
+01:22:58,150 --> 01:22:59,652
+Aku tidak kagum.
+
+1229
+01:22:59,735 --> 01:23:02,613
+Aku tidak kagum.
+
+1230
+01:23:11,830 --> 01:23:14,291
+Ada gerakan! Sejumlah musuh,
+tiga kilometer arah tenggara.
+
+1231
+01:23:15,625 --> 01:23:17,127
+Liwen! Kau melihat ini?
+
+1232
+01:23:17,252 --> 01:23:19,254
+<i>Itu salah satu pabrik otomatisku.</i>
+
+1233
+01:23:21,715 --> 01:23:24,384
+Itu ulah Newt. Dia di Tokyo.
+
+1234
+01:23:24,551 --> 01:23:25,677
+<i>Mencari posisinya.</i>
+
+1235
+01:23:25,760 --> 01:23:27,971
+Musuh satu kilometer dan mendekat cepat!
+
+1236
+01:23:28,054 --> 01:23:29,347
+Semua Jaeger, bersiaplah.
+
+1237
+01:23:29,680 --> 01:23:31,265
+<i>Hentikan serangan dan bersiaplah!</i>
+
+1238
+01:23:40,858 --> 01:23:42,359
+Baiklah.
+
+1239
+01:23:43,610 --> 01:23:46,822
+Ayo! Bagus! Ayo, Sayang!
+
+1240
+01:23:46,989 --> 01:23:48,073
+MENGARAHKAN RIPPERS
+AKTIF
+
+1241
+01:23:51,326 --> 01:23:52,327
+Mereka ke mana?
+
+1242
+01:24:49,173 --> 01:24:51,050
+Dia lumayan besar.
+
+1243
+01:25:04,771 --> 01:25:05,897
+Semua Jaeger,
+
+1244
+01:25:05,980 --> 01:25:08,858
+maju dan serang dengan kekuatan penuh
+begitu kuperintahkan!
+
+1245
+01:25:17,033 --> 01:25:18,117
+Maju!
+
+1246
+01:25:43,266 --> 01:25:44,601
+Guardian, mundur!
+
+1247
+01:25:44,684 --> 01:25:45,977
+Kami bisa!
+
+1248
+01:25:46,060 --> 01:25:47,854
+Tidak! Itu perintah!
+
+1249
+01:25:47,937 --> 01:25:49,147
+Dasar remaja!
+
+1250
+01:25:49,230 --> 01:25:51,232
+- Bidik matanya!
+- Yang mana?
+
+1251
+01:25:51,315 --> 01:25:52,650
+Semuanya.
+
+1252
+01:26:21,219 --> 01:26:23,179
+Ilya, Suresh, melapor.
+
+1253
+01:26:23,721 --> 01:26:26,349
+<i>Kalian dengar? Ayolah, melapor!</i>
+
+1254
+01:26:26,849 --> 01:26:30,019
+<i>Guardian Bravo, melaporlah.
+Kalian baik-baik saja?</i>
+
+1255
+01:26:30,936 --> 01:26:32,771
+Guardian lumpuh.
+
+1256
+01:26:32,855 --> 01:26:34,815
+Aku terjepit di Conn-Pod.
+
+1257
+01:26:35,357 --> 01:26:36,442
+Suresh?
+
+1258
+01:26:40,028 --> 01:26:41,738
+Suresh tidak selamat, Pak.
+
+1259
+01:26:43,156 --> 01:26:44,199
+Diterima, Guardian.
+
+1260
+01:26:45,075 --> 01:26:47,869
+Diam di situ,
+kami akan kirim bantuan secepatnya.
+
+1261
+01:26:51,956 --> 01:26:53,791
+Bracer Phoenix, melapor.
+
+1262
+01:26:54,584 --> 01:26:55,752
+<i>Kalian baik-baik saja?</i>
+
+1263
+01:26:55,918 --> 01:26:59,338
+Kami mengalami kerusakan
+tapi masih bisa bertarung.
+
+1264
+01:26:59,714 --> 01:27:01,716
+Kami juga, Saber.
+
+1265
+01:27:01,882 --> 01:27:04,176
+Maksudku, Saber Athena, Pak!
+
+1266
+01:27:04,260 --> 01:27:07,012
+Saber, Bracer, bersiaplah mencegat
+pada koordinat berikut.
+
+1267
+01:27:07,096 --> 01:27:08,180
+Ayo kita selesaikan.
+
+1268
+01:27:08,264 --> 01:27:09,807
+Cepatlah. Jangan terlambat.
+
+1269
+01:27:09,890 --> 01:27:12,726
+Baik. Bracer Phoenix bergerak cepat!
+
+1270
+01:27:15,103 --> 01:27:16,229
+Gipsy ke Komando,
+
+1271
+01:27:16,313 --> 01:27:18,148
+sudah lakukan pemeriksaan taktis musuh?
+
+1272
+01:27:18,315 --> 01:27:20,066
+Memeriksa data dari sensor mereka.
+
+1273
+01:27:20,150 --> 01:27:22,068
+Ya, Gipsy, tapi belum selesai.
+
+1274
+01:27:22,152 --> 01:27:24,321
+<i>Tak ada waktu. Bisa temukan otaknya?</i>
+
+1275
+01:27:24,654 --> 01:27:27,365
+Otak pusatnya tertutup rapat.
+Senjatamu takkan bisa menembusnya.
+
+1276
+01:27:27,699 --> 01:27:30,702
+Otak cadangan? Apa dia punya itu?
+
+1277
+01:27:30,827 --> 01:27:33,162
+Musuh punya tiga otak cadangan.
+
+1278
+01:27:33,246 --> 01:27:35,122
+Satu untuk setiap Kaiju.
+
+1279
+01:27:35,665 --> 01:27:36,999
+Mengirim informasi.
+
+1280
+01:27:37,917 --> 01:27:40,044
+Paket diterima Saber Athena.
+
+1281
+01:27:42,254 --> 01:27:44,214
+Bracer Phoenix terima.
+
+1282
+01:27:44,715 --> 01:27:47,050
+Baiklah, ikuti aku dan tetap waspada!
+
+1283
+01:27:47,217 --> 01:27:50,012
+Ayo gunakan teknologi Fury dari Liwen.
+
+1284
+01:27:50,095 --> 01:27:51,680
+Kau membaca pikiranku.
+
+1285
+01:28:35,180 --> 01:28:36,181
+<i>Kerusakan terdeteksi.</i>
+
+1286
+01:28:36,264 --> 01:28:37,265
+Melontar!
+
+1287
+01:28:41,019 --> 01:28:42,061
+Semua pilot, melontar!
+
+1288
+01:29:38,073 --> 01:29:39,115
+Amara!
+
+1289
+01:30:18,778 --> 01:30:21,698
+<i>Peringatan. Muatan saraf melampaui batas.</i>
+
+1290
+01:30:22,115 --> 01:30:24,117
+- Nate!
+<i>- Peringatan.</i>
+
+1291
+01:30:24,992 --> 01:30:26,327
+<i>Nate, tetaplah sadar!</i>
+
+1292
+01:30:26,661 --> 01:30:28,663
+<i>Bangun! Nate!</i>
+
+1293
+01:30:28,955 --> 01:30:29,956
+Pilot cedera!
+
+1294
+01:30:37,671 --> 01:30:40,090
+Coba bangkit dari serangan itu, rongsokan!
+
+1295
+01:31:04,238 --> 01:31:05,823
+Sampai jumpa!
+
+1296
+01:31:05,906 --> 01:31:07,908
+Liwen! Ada yang bisa kau lakukan?
+
+1297
+01:31:08,075 --> 01:31:09,160
+Aku perlu waktu!
+
+1298
+01:31:09,243 --> 01:31:10,244
+Tak ada waktu!
+
+1299
+01:31:10,327 --> 01:31:12,371
+- Jika musuh mencapai Gunung Fuji...
+<i>- Mengerti.</i>
+
+1300
+01:31:13,330 --> 01:31:15,165
+Takkan kubiarkan.
+
+1301
+01:31:19,920 --> 01:31:22,339
+Jake, kau tak bisa kendalikan Gipsy
+tanpa kopilot!
+
+1302
+01:31:22,672 --> 01:31:25,133
+<i>Tekanannya bisa merusak pikiranmu!</i>
+
+1303
+01:31:29,012 --> 01:31:30,763
+Bagaimana ini?
+
+1304
+01:31:30,847 --> 01:31:32,682
+- Berkumpul dengan yang lain.
+- Amara!
+
+1305
+01:31:34,809 --> 01:31:35,935
+<i>Gipsy Avenger,</i>
+
+1306
+01:31:36,310 --> 01:31:38,104
+<i>ini Amara Namani.</i>
+
+1307
+01:31:38,271 --> 01:31:39,272
+Aku akan membantumu.
+
+1308
+01:31:39,939 --> 01:31:40,940
+Amara, jangan.
+
+1309
+01:31:41,607 --> 01:31:43,025
+<i>- Kau takkan berhasil.</i>
+- Pasti bisa!
+
+1310
+01:31:43,109 --> 01:31:44,235
+Jangan!
+
+1311
+01:32:02,669 --> 01:32:03,753
+Sudah kubilang.
+
+1312
+01:32:05,129 --> 01:32:06,172
+Sejak kapan kudengarkan?
+
+1313
+01:32:06,631 --> 01:32:07,799
+Amara,
+
+1314
+01:32:07,924 --> 01:32:09,217
+giliranmu.
+
+1315
+01:32:09,967 --> 01:32:11,010
+Kau sedang apa?
+
+1316
+01:32:12,011 --> 01:32:13,971
+Menyingkir dari jalanmu.
+
+1317
+01:32:14,055 --> 01:32:15,639
+Kau bisa, Kawan.
+
+1318
+01:32:18,726 --> 01:32:20,978
+<i>Proses pelontaran dimulai.</i>
+
+1319
+01:32:24,606 --> 01:32:26,733
+<i>Proses pelontaran berhasil.</i>
+
+1320
+01:32:26,817 --> 01:32:28,193
+Kau siap, Anak Kecil?
+
+1321
+01:32:28,277 --> 01:32:29,861
+Kita lihat saja.
+
+1322
+01:32:31,988 --> 01:32:32,989
+Baik.
+
+1323
+01:32:33,949 --> 01:32:37,327
+Siaga, Komando.
+Memulai sinkronisasi saraf.
+
+1324
+01:32:37,660 --> 01:32:39,037
+<i>Menghubungkan saraf.</i>
+
+1325
+01:32:39,120 --> 01:32:40,205
+Ayo.
+
+1326
+01:32:56,929 --> 01:32:58,889
+Seharusnya terlihat keren,
+
+1327
+01:32:58,972 --> 01:33:00,098
+- tapi tidak.
+- Jelas.
+
+1328
+01:33:00,265 --> 01:33:03,977
+<i>Peringatan. Kegagalan rangkaian.
+Sejumlah sistem mati.</i>
+
+1329
+01:33:04,061 --> 01:33:05,479
+- Ulang sistem.
+- Baik.
+
+1330
+01:33:05,562 --> 01:33:06,605
+<i>Komando kepada Gipsy.</i>
+
+1331
+01:33:06,688 --> 01:33:10,692
+Musuh dua kilometer dari puncak
+Gunung Fuji dan mendekat cepat!
+
+1332
+01:33:25,956 --> 01:33:28,626
+Gottlieb, kau punya cukup bahan bakar
+
+1333
+01:33:28,709 --> 01:33:30,044
+untuk meluncur ke atmosfer?
+
+1334
+01:33:30,127 --> 01:33:31,670
+- Atmosfer?
+- Ya.
+
+1335
+01:33:31,795 --> 01:33:33,964
+Mungkin, tapi tak cukup
+mengurangi kecepatan masuk.
+
+1336
+01:33:34,131 --> 01:33:35,257
+<i>Tak perlu dikurangi.</i>
+
+1337
+01:33:35,340 --> 01:33:37,259
+Kita jatuhkan Gipsy di atas monster itu.
+
+1338
+01:33:37,593 --> 01:33:39,261
+Kapsul daruratku sudah digunakan.
+
+1339
+01:33:39,344 --> 01:33:41,805
+Ya. Kita gunakan punyaku.
+
+1340
+01:33:41,888 --> 01:33:44,266
+Jake, hanya satu roket
+dengan cukup bahan bakar.
+
+1341
+01:33:44,599 --> 01:33:45,684
+Mengirim lokasi.
+
+1342
+01:33:45,809 --> 01:33:46,893
+Baiklah, memeriksa.
+
+1343
+01:33:47,352 --> 01:33:48,728
+Kita terlalu jauh.
+
+1344
+01:33:50,813 --> 01:33:51,940
+Kita takkan berhasil.
+
+1345
+01:33:52,023 --> 01:33:53,941
+<i>Gipsy Avenger, transportasi datang.</i>
+
+1346
+01:33:54,025 --> 01:33:56,611
+Sistem jarak jauh terhubung.
+Mengirim bantuan!
+
+1347
+01:34:01,866 --> 01:34:02,992
+Scrapper!
+
+1348
+01:34:19,799 --> 01:34:21,718
+Aku menemukan roketnya!
+
+1349
+01:34:21,801 --> 01:34:22,927
+Siaga!
+
+1350
+01:34:31,561 --> 01:34:33,020
+Ayo! Bergegaslah!
+
+1351
+01:34:33,104 --> 01:34:36,065
+Roketnya terlalu kuat, tak mungkin
+bisa terus mencengkeramnya!
+
+1352
+01:34:36,232 --> 01:34:37,983
+<i>Liwen, ada ide?</i>
+
+1353
+01:34:38,359 --> 01:34:39,902
+Aku bisa patri ke tanganmu.
+
+1354
+01:34:39,985 --> 01:34:41,612
+<i>Kutingkatkan senjata Scrapper.</i>
+
+1355
+01:34:41,695 --> 01:34:43,197
+Bagus. Aku baru mau melakukan itu.
+
+1356
+01:34:43,280 --> 01:34:44,323
+Tidak.
+
+1357
+01:34:44,656 --> 01:34:45,699
+Ya.
+
+1358
+01:34:53,123 --> 01:34:54,332
+Kita hanya punya satu peluang.
+
+1359
+01:34:54,624 --> 01:34:56,626
+Ya! Gunakan sebaiknya.
+
+1360
+01:35:10,848 --> 01:35:12,057
+Aku tersangkut!
+
+1361
+01:35:12,141 --> 01:35:14,893
+Diam di situ! Kau tambahan satu ton
+untuk menimpanya!
+
+1362
+01:35:36,164 --> 01:35:38,124
+- Dia mengalami kerusakan!
+- Sedikit lagi!
+
+1363
+01:36:04,065 --> 01:36:05,191
+Kita keluar dari jalur!
+
+1364
+01:36:05,358 --> 01:36:06,734
+Gunakan meriam plasma!
+
+1365
+01:36:07,026 --> 01:36:08,736
+Matikan prosedur keamanan!
+
+1366
+01:36:08,820 --> 01:36:10,113
+<i>Meriam plasma digunakan.</i>
+
+1367
+01:36:14,826 --> 01:36:16,869
+<i>Peringatan. Melampaui batas struktural.</i>
+
+1368
+01:36:16,953 --> 01:36:17,995
+Berhasil!
+
+1369
+01:36:18,079 --> 01:36:19,163
+<i>Struktural gagal.</i>
+
+1370
+01:36:19,246 --> 01:36:20,289
+Bertahanlah!
+
+1371
+01:36:24,710 --> 01:36:25,794
+Ayo!
+
+1372
+01:36:25,878 --> 01:36:26,754
+SASARAN TERKUNCI
+
+1373
+01:36:26,837 --> 01:36:28,005
+Sasaran dikunci!
+
+1374
+01:36:28,088 --> 01:36:29,965
+Jake, Amara, cepat melontar!
+
+1375
+01:36:34,136 --> 01:36:35,137
+Lepaskan!
+
+1376
+01:36:35,846 --> 01:36:37,055
+Amara, lepaskan!
+
+1377
+01:36:37,722 --> 01:36:39,891
+Aku akan menangkapmu! Aku berjanji!
+
+1378
+01:36:40,809 --> 01:36:41,976
+Ayo!
+
+1379
+01:36:46,731 --> 01:36:48,024
+Aku menangkapmu.
+
+1380
+01:36:48,107 --> 01:36:51,152
+Gipsy ke Komando, kami pergi dari sini!
+
+1381
+01:36:52,737 --> 01:36:53,863
+<i>Kapsul darurat gagal.</i>
+
+1382
+01:36:54,613 --> 01:36:55,698
+Tidak.
+
+1383
+01:36:55,781 --> 01:36:56,991
+Tidak!
+
+1384
+01:37:00,994 --> 01:37:02,121
+Maaf, Anak Kecil.
+
+1385
+01:37:04,665 --> 01:37:05,791
+Untuk apa?
+
+1386
+01:37:06,124 --> 01:37:07,959
+Kita menyelamatkan dunia.
+
+1387
+01:37:10,212 --> 01:37:12,005
+Ayahmu tentu akan bangga.
+
+1388
+01:37:16,968 --> 01:37:17,969
+Scrapper!
+
+1389
+01:37:18,678 --> 01:37:20,763
+- Cepat!
+- Kemari! Cepatlah!
+
+1390
+01:37:22,181 --> 01:37:24,142
+Cepat! Kita harus pergi!
+
+1391
+01:37:24,225 --> 01:37:26,686
+20 kilometer menjelang tabrakan.
+Pergi dari situ!
+
+1392
+01:37:27,853 --> 01:37:28,938
+Cepat!
+
+1393
+01:37:36,737 --> 01:37:38,071
+Kami di dalam! Tutup pintunya!
+
+1394
+01:37:45,162 --> 01:37:46,997
+- Pegangan!
+- Aku pegangan!
+
+1395
+01:37:47,080 --> 01:37:48,081
+Pegangan lebih kuat!
+
+1396
+01:38:34,959 --> 01:38:36,294
+TERBUNUH
+
+1397
+01:38:49,723 --> 01:38:50,766
+MEGA KAIJU MATI
+
+1398
+01:38:50,849 --> 01:38:52,601
+Tidak!
+
+1399
+01:38:54,895 --> 01:38:56,229
+Kau tahu?
+
+1400
+01:38:56,313 --> 01:38:58,189
+Rencana B. Selalu Rencana B.
+
+1401
+01:39:02,569 --> 01:39:03,861
+Bagi yang dengar,
+
+1402
+01:39:04,153 --> 01:39:05,988
+<i>ini Ranger Lambert.</i>
+
+1403
+01:39:06,114 --> 01:39:08,324
+<i>Perhatian, Newt sudah ditangkap.</i>
+
+1404
+01:39:08,491 --> 01:39:09,617
+<i>Diterima.</i>
+
+1405
+01:39:09,784 --> 01:39:10,952
+Itu dia.
+
+1406
+01:39:11,285 --> 01:39:12,870
+Syukurlah kau baik-baik saja.
+
+1407
+01:39:12,953 --> 01:39:15,664
+<i>Sama-sama. Aku tahu kau bisa.</i>
+
+1408
+01:39:17,249 --> 01:39:18,584
+Aku dapat banyak bantuan.
+
+1409
+01:39:20,335 --> 01:39:21,879
+Kerjamu bagus, Ranger Namani.
+
+1410
+01:39:21,962 --> 01:39:22,963
+Terima kasih, Pak.
+
+1411
+01:39:28,093 --> 01:39:30,136
+Aku belum pernah melihat salju.
+
+1412
+01:39:30,303 --> 01:39:32,263
+Di antara semua hal,
+itu yang menarik perhatianmu?
+
+1413
+01:39:33,306 --> 01:39:35,183
+Ada bangkai Kaiju besar di situ.
+
+1414
+01:39:35,308 --> 01:39:36,601
+- Baiklah.
+- Aku ragu apa kau...
+
+1415
+01:39:36,684 --> 01:39:39,145
+Sekarang kau akan memberikan
+ceramah konyol?
+
+1416
+01:39:39,312 --> 01:39:41,314
+Semua bilang konyol,
+atau hanya pendapatmu?
+
+1417
+01:39:41,647 --> 01:39:43,065
+Jujur. Berapa kali kau latihan?
+
+1418
+01:39:43,149 --> 01:39:45,276
+Itu memotivasi.
+Kau bisa menjadi siapa saja.
+
+1419
+01:39:46,986 --> 01:39:48,279
+- Tembak!
+- Kau mau main itu?
+
+1420
+01:39:48,612 --> 01:39:50,739
+- Aku alami soal melempar salju.
+- Tidak, karena...
+
+1421
+01:39:50,823 --> 01:39:52,241
+Beri aku peluang. Aku belum pernah!
+
+1422
+01:39:54,868 --> 01:39:56,286
+Itu dia. Bum!
+
+1423
+01:39:59,289 --> 01:40:01,166
+Kita berhasil!
+
+1424
+01:40:22,770 --> 01:40:23,813
+Kalian pikir sudah usai?
+
+1425
+01:40:23,979 --> 01:40:26,649
+Kalian pikir sudah berhasil
+menyelamatkan dunia kecilmu?
+
+1426
+01:40:27,107 --> 01:40:28,901
+Kami akan terus datang!
+
+1427
+01:40:29,902 --> 01:40:31,236
+Kami takkan berhenti,
+
+1428
+01:40:31,570 --> 01:40:32,821
+dan cepat atau lambat
+
+1429
+01:40:32,905 --> 01:40:35,198
+keberuntungan kalian akan habis!
+
+1430
+01:40:38,910 --> 01:40:39,995
+Tidak.
+
+1431
+01:40:40,579 --> 01:40:42,163
+Suara di kepalamu?
+
+1432
+01:40:42,247 --> 01:40:43,540
+Precursor?
+
+1433
+01:40:44,332 --> 01:40:45,834
+Bilang aku tidak takut.
+
+1434
+01:40:46,209 --> 01:40:47,710
+Bilang, lain kali,
+
+1435
+01:40:47,794 --> 01:40:49,796
+tak usah repot-repot datang kemari.
+
+1436
+01:40:50,880 --> 01:40:53,007
+Karena kami akan menyerang mereka.
+
+1437
+01:40:53,031 --> 01:41:05,031
+v ip2 1.e u. or g
+
