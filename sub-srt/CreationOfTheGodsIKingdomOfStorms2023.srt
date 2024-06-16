@@ -1,0 +1,5836 @@
+﻿1
+00:01:29,166 --> 00:01:30,958
+<i>Diangkat dari novel Ming,
+The Investiture of the Gods,</i>
+
+2
+00:01:30,982 --> 00:01:32,982
+<i>dan ditulis Song/Yuan,
+Attack of the Shang karya Raja Zhou</i>
+
+3
+00:01:48,200 --> 00:01:51,700
+<i>Pada mulanya, dunia belum ada.</i>
+
+4
+00:01:52,991 --> 00:01:54,950
+<i>Dengan memisahkan langit dan bumi,</i>
+
+5
+00:01:54,950 --> 00:01:57,700
+<i>Pangu berubah menjadi matahari,
+bulan, gunung dan sungai,</i>
+
+6
+00:01:58,450 --> 00:02:00,991
+<i>sehingga terciptalah dunia.</i>
+
+7
+00:02:02,908 --> 00:02:04,908
+<i>Nuwa membuat patung dari tanah liat,</i>
+
+8
+00:02:04,908 --> 00:02:07,616
+<i>meniupkan roh kedalam patung itu...</i>
+
+9
+00:02:08,116 --> 00:02:10,616
+<i>sehingga terciptalah manusia.</i>
+
+10
+00:02:13,408 --> 00:02:16,616
+<i>Sebelum meninggal,
+Nuwa meninggalkan sebuah pusaka suci,</i>
+
+11
+00:02:16,616 --> 00:02:19,408
+<i>yang disebut "Fengshen Bang",</i>
+
+12
+00:02:20,408 --> 00:02:22,866
+<i>dan memerintahkan Dewa Kunlun
+untuk menjaganya.</i>
+
+13
+00:02:23,200 --> 00:02:25,825
+<i>Pusaka itu punya kekuatan
+yang bisa menyelamatkan dunia...</i>
+
+14
+00:02:26,075 --> 00:02:30,075
+<i>...dan hanya bisa dibuka
+oleh Raja dari Segala Raja.</i>
+
+15
+00:02:32,616 --> 00:02:34,575
+<i>Seiring generasi muncul silih berganti,</i>
+
+16
+00:02:34,783 --> 00:02:36,950
+<i>Cheng Tang mendirikan Dinasti Shang.</i>
+
+17
+00:02:37,450 --> 00:02:40,200
+<i>4 Adipati dari Timur, Barat,
+Selatan dan Utara..</i>
+
+18
+00:02:40,200 --> 00:02:42,408
+<i>bersama 800 Raja lainnya,</i>
+
+19
+00:02:42,408 --> 00:02:46,450
+<i>mengakui raja Shang
+sebagai Raja dari Segala Raja.</i>
+
+20
+00:02:47,241 --> 00:02:48,533
+<i>Namun tiba saatnya,</i>
+
+21
+00:02:48,866 --> 00:02:51,575
+<i>500 tahun setelah
+masa pemerintahan Shang,</i>
+
+22
+00:02:52,158 --> 00:02:55,741
+<i>Su Hu, Raja Jizhou,
+tak mau menyerahkan upeti...</i>
+
+23
+00:02:56,491 --> 00:02:59,283
+<i>dan menentang Raja Yi dari Dinasti Shang.</i>
+
+24
+00:02:59,991 --> 00:03:03,575
+<i>Setelah pengepungan
+yang cukup lama dan sengit,</i>
+
+25
+00:03:03,575 --> 00:03:07,575
+<i>Raja Yi menugaskan putra keduanya,
+Yin Shou, ke medan perang.</i>
+
+26
+00:03:08,658 --> 00:03:15,366
+<i>Yin Shou membawa
+pasukan khusus yang dia latih sendiri.</i>
+
+27
+00:04:40,616 --> 00:04:42,991
+<i>Aku Ji Fa, putra Ji Chang,
+Adipati Barat.</i>
+
+28
+00:04:44,325 --> 00:04:47,700
+<i>Di sebelahku adalah sahabatku, Yin Jiao.</i>
+
+29
+00:04:50,908 --> 00:04:53,658
+<i>Ayahnya adalah
+panglima dan pahlawan kami.</i>
+
+30
+00:04:56,241 --> 00:04:58,658
+<i>Semoga kelak aku bisa seperti dia.</i>
+
+31
+00:05:18,741 --> 00:05:19,450
+Sebutkan namamu.
+
+32
+00:05:19,700 --> 00:05:21,200
+Su Quanxiao, putra Su Hu,
+
+33
+00:05:21,491 --> 00:05:22,450
+Raja Jizhou.
+
+34
+00:05:22,741 --> 00:05:25,158
+Yang keras, mereka tak dengar.
+
+35
+00:05:30,075 --> 00:05:32,241
+Su Quanxiao, putra Su Hu,
+
+36
+00:05:32,950 --> 00:05:34,283
+Raja Jizhou.
+
+37
+00:05:34,533 --> 00:05:35,408
+Apa pangkatmu.
+
+38
+00:05:36,075 --> 00:05:38,408
+Perwira Brigade Penawanan Shang,
+
+39
+00:05:38,783 --> 00:05:40,033
+Batalyon Utara.
+
+40
+00:05:40,491 --> 00:05:41,991
+Jelaskan kenapa di namakan "Tawanan".
+
+41
+00:05:42,575 --> 00:05:44,408
+800 Raja...
+
+42
+00:05:44,408 --> 00:05:48,325
+dari Timur, Barat, Selatan dan Utara
+wajib mengirimkan satu putranya...
+
+43
+00:05:48,325 --> 00:05:49,866
+sebagai tawanan di istana Shang.
+
+44
+00:05:50,116 --> 00:05:52,283
+Jika ada Raja yang berani
+menentang Kaisar,
+
+45
+00:05:52,283 --> 00:05:54,325
+putra tawanannya
+akan dieksekusi lebih dulu,
+
+46
+00:05:54,325 --> 00:05:56,575
+setelah itu barulah seluruh keluarganya.
+
+47
+00:05:57,241 --> 00:06:01,075
+Ayahmu Su Hu telah memberontak
+melawan Jizhou.
+
+48
+00:06:03,866 --> 00:06:05,616
+Bicaralah padanya.
+
+49
+00:06:20,491 --> 00:06:25,616
+Ayah!
+Tolong menyerahlah!
+
+50
+00:07:20,866 --> 00:07:22,866
+Aku sudah pergi 8 tahun lamanya.
+
+51
+00:07:23,700 --> 00:07:25,450
+Aku sudah besar.
+
+52
+00:07:26,533 --> 00:07:29,575
+Ayahku sudah tak mengenaliku.
+
+53
+00:07:31,075 --> 00:07:32,866
+Orang itu tak pantas jadi Ayahmu.
+
+54
+00:07:38,033 --> 00:07:39,908
+Kau adalah putraku.
+
+55
+00:07:43,366 --> 00:07:46,158
+Dan kau harus jadi anak yang pemberani.
+
+56
+00:07:58,366 --> 00:07:59,825
+Selamat jalan,
+
+57
+00:08:02,325 --> 00:08:03,450
+Ayah!
+
+58
+00:08:31,116 --> 00:08:32,491
+Baru saja,
+
+59
+00:08:32,783 --> 00:08:34,575
+di hadapan kalian,
+
+60
+00:08:35,575 --> 00:08:37,825
+salah satu saudaramu tewas!
+
+61
+00:08:38,450 --> 00:08:40,783
+Salah satu putraku tewas!
+
+62
+00:08:41,658 --> 00:08:43,616
+Siapa yang membunuhnya?
+
+63
+00:08:43,616 --> 00:08:45,616
+Pengkhianat Su Hu!
+
+64
+00:08:45,616 --> 00:08:47,575
+Siapa yang membunuhnya?
+
+65
+00:08:47,575 --> 00:08:49,116
+Pengkhianat Su Hu!
+
+66
+00:08:49,491 --> 00:08:51,575
+Siapa yang membunuhnya?
+
+67
+00:08:51,616 --> 00:08:53,158
+Pengkhianat Su Hu!
+
+68
+00:08:53,366 --> 00:08:55,075
+Pengkhianat Su Hu!
+
+69
+00:08:55,283 --> 00:08:57,075
+Pengkhianat Su Hu!
+
+70
+00:08:57,075 --> 00:08:57,950
+Tembak!
+
+71
+00:09:46,283 --> 00:09:48,366
+Prajurit Shang...
+
+72
+00:09:48,366 --> 00:09:50,408
+hancurkan Jizhou!
+
+73
+00:09:50,575 --> 00:09:54,950
+Hancurkan Jizhou!
+
+74
+00:09:58,116 --> 00:10:01,241
+Serang!
+
+75
+00:10:01,741 --> 00:10:03,283
+Ji Fa, ayo!
+
+76
+00:10:06,325 --> 00:10:07,116
+Awas!
+
+77
+00:10:11,075 --> 00:10:11,908
+Maju!
+
+78
+00:10:12,033 --> 00:10:13,075
+Tembak!
+
+79
+00:10:32,075 --> 00:10:33,200
+Maju!
+
+80
+00:10:34,366 --> 00:10:36,116
+Terobos!
+
+81
+00:10:47,408 --> 00:10:49,241
+Maju!
+
+82
+00:11:01,325 --> 00:11:02,158
+Minggir!
+
+83
+00:11:47,866 --> 00:11:48,950
+Ji Fa!
+
+84
+00:11:50,991 --> 00:11:52,075
+Ji Fa!
+
+85
+00:12:00,866 --> 00:12:03,325
+Yin Jiao, kau mundur karena takut.
+
+86
+00:12:03,325 --> 00:12:04,408
+Kau sangat mengecewakan.
+
+87
+00:12:04,408 --> 00:12:05,450
+Maafkan aku, Ayah!
+
+88
+00:12:06,200 --> 00:12:06,825
+Tuan,
+
+89
+00:12:07,283 --> 00:12:08,408
+kami tak mundur!
+
+90
+00:12:08,408 --> 00:12:11,116
+Kuda kami lari ketakutan
+saat melihat api.
+
+91
+00:12:13,200 --> 00:12:13,866
+Ayah!
+
+92
+00:12:19,408 --> 00:12:21,950
+Kuda-kuda ini melihat
+apa yang kita lihat!
+
+93
+00:12:27,325 --> 00:12:28,241
+Cepat!
+
+94
+00:12:36,575 --> 00:12:38,991
+Serang!
+
+95
+00:12:43,658 --> 00:12:45,741
+Serang!
+
+96
+00:12:47,325 --> 00:12:49,116
+Serang!
+
+97
+00:12:50,616 --> 00:12:51,658
+Serang!
+
+98
+00:12:52,325 --> 00:12:54,741
+Serang!
+
+99
+00:13:13,533 --> 00:13:16,491
+<i>Setelah kota direbut,
+kami memburu keluarga Su...</i>
+
+100
+00:13:16,491 --> 00:13:18,408
+<i>sampai ke Makam Xuanyuan.</i>
+
+101
+00:13:18,950 --> 00:13:22,200
+<i>Kami pastikan akan memenggal
+kepala Su Hu...</i>
+
+102
+00:13:22,200 --> 00:13:24,525
+<i>untuk membalaskan
+dendam putranya, Su Quanxiao.</i>
+
+103
+00:13:27,075 --> 00:13:27,575
+Kakak!
+
+104
+00:13:27,908 --> 00:13:28,408
+Kakak!
+
+105
+00:14:31,283 --> 00:14:32,283
+Kakak!
+
+106
+00:14:35,075 --> 00:14:36,241
+Ingatlah...
+
+107
+00:14:36,408 --> 00:14:39,616
+keluarga Su takkan pernah
+menyerah pada Raja Shang!
+
+108
+00:15:22,366 --> 00:15:23,200
+Ayah.
+
+109
+00:15:36,158 --> 00:15:37,825
+Lari!
+
+110
+00:16:36,908 --> 00:16:38,116
+Hati-hati.
+
+111
+00:17:10,075 --> 00:17:11,283
+Seorang gadis.
+
+112
+00:17:14,283 --> 00:17:15,325
+Siapa dia?
+
+113
+00:17:16,241 --> 00:17:17,700
+Putri Su Hu,
+
+114
+00:17:18,241 --> 00:17:19,283
+Su Daji.
+
+115
+00:17:21,325 --> 00:17:22,533
+Putri pengkhianat...
+
+116
+00:17:23,825 --> 00:17:25,033
+]harus dihukum mati.
+
+117
+00:17:26,533 --> 00:17:27,283
+Ji Fa,
+
+118
+00:17:28,825 --> 00:17:29,616
+habisi dia.
+
+119
+00:17:31,575 --> 00:17:32,533
+Membunuh seorang wanita?
+
+120
+00:17:34,700 --> 00:17:36,033
+Aku tak tega.
+
+121
+00:17:37,033 --> 00:17:37,908
+Jiang Wenhuan,
+
+122
+00:17:38,616 --> 00:17:39,283
+kau saja.
+
+123
+00:17:39,616 --> 00:17:40,158
+E Shun,
+
+124
+00:17:40,658 --> 00:17:41,283
+bunuh dia.
+
+125
+00:17:41,783 --> 00:17:43,116
+Kenapa bukan kau saja?
+
+126
+00:17:52,116 --> 00:17:53,616
+Jepitan rambutku...
+
+127
+00:18:00,450 --> 00:18:00,825
+Ji Fa!
+
+128
+00:18:00,950 --> 00:18:01,491
+Ji Fa!
+
+129
+00:18:21,825 --> 00:18:22,950
+Percuma saja...
+
+130
+00:18:23,991 --> 00:18:25,200
+membunuh gadis seperti ini.
+
+131
+00:18:26,325 --> 00:18:27,575
+Ayo bawa dia ke Panglima.
+
+132
+00:18:28,366 --> 00:18:29,575
+Kalian pengecut!
+
+133
+00:18:30,533 --> 00:18:31,241
+Biar aku saja.
+
+134
+00:18:31,408 --> 00:18:31,866
+Yin Jiao!
+
+135
+00:18:32,158 --> 00:18:32,741
+Yin Jiao!
+
+136
+00:18:40,241 --> 00:18:40,908
+Tuan!
+
+137
+00:18:42,241 --> 00:18:42,700
+Tuan!
+
+138
+00:18:43,033 --> 00:18:43,616
+Tuan!
+
+139
+00:18:58,950 --> 00:19:00,950
+Mari bersulang!
+Prajurit...
+
+140
+00:19:01,158 --> 00:19:03,075
+Dinasti Shang!
+
+141
+00:19:03,408 --> 00:19:04,908
+Dengar.
+
+142
+00:19:06,116 --> 00:19:07,325
+Aku mau bersulang...
+
+143
+00:19:08,533 --> 00:19:09,866
+untuk saudara kita,
+
+144
+00:19:10,408 --> 00:19:11,200
+Su Quanxiao.
+
+145
+00:19:11,991 --> 00:19:13,158
+Untuk saudara kita.
+
+146
+00:19:13,241 --> 00:19:13,866
+Untuk saudara kita.
+
+147
+00:19:13,908 --> 00:19:16,533
+Putra pengkhianat Su Hu...
+
+148
+00:19:16,908 --> 00:19:18,991
+tak layak jadi saudara kita.
+
+149
+00:19:18,991 --> 00:19:21,283
+Ayah dan anak itu tak selalu sama.
+
+150
+00:19:22,241 --> 00:19:23,533
+Meski Ayahnya seorang pengkhianat,
+
+151
+00:19:23,825 --> 00:19:25,283
+tapi Su Quanxiao tak salah apa-apa.
+
+152
+00:19:25,491 --> 00:19:27,450
+Ayah dan anak sama saja.
+
+153
+00:19:27,825 --> 00:19:30,241
+Ayahmu, Ji Chang, Adipati Barat,
+
+154
+00:19:30,741 --> 00:19:32,575
+cuma tahu membajak sawah.
+
+155
+00:19:32,575 --> 00:19:34,616
+Meski kau kenakan baju besi ini, Ji Fa,
+
+156
+00:19:34,616 --> 00:19:36,700
+kau masih tetap seorang petani Xiqi,
+
+157
+00:19:37,575 --> 00:19:39,658
+bau pupuk kandang.
+
+158
+00:19:41,241 --> 00:19:42,783
+Ayo minum.
+
+159
+00:19:43,325 --> 00:19:45,825
+Ayahmu, Chong Houhu,
+Adipati Negeri Utara,
+
+160
+00:19:45,825 --> 00:19:49,533
+cuma tahu berburu binatang.
+
+161
+00:19:50,658 --> 00:19:52,033
+Meski kau kenakan baju besi itu,
+
+162
+00:19:52,616 --> 00:19:53,491
+kau masih...
+
+163
+00:19:53,866 --> 00:19:55,241
+tetap seorang pemburu,
+
+164
+00:19:55,700 --> 00:19:56,783
+berbau... apa?
+
+165
+00:19:57,033 --> 00:19:58,866
+Dia berbau apa?
+
+166
+00:19:59,366 --> 00:20:00,408
+Berbau binatang buas.
+
+167
+00:21:08,283 --> 00:21:10,116
+Aku tahu maumu.
+
+168
+00:21:27,408 --> 00:21:28,700
+Kau mau jadi...
+
+169
+00:21:29,908 --> 00:21:36,283
+Raja Seluruh Dunia.
+
+170
+00:21:48,783 --> 00:21:51,366
+Tahu bagaimana nasib
+seorang putri pengkhianat?
+
+171
+00:21:54,700 --> 00:21:57,575
+Besok, kau akan dikorbankan
+untuk panji-panji kami.
+
+172
+00:22:00,866 --> 00:22:02,533
+Aku beda dengan yang lainnya.
+
+173
+00:22:04,408 --> 00:22:05,658
+Aku bisa membantumu.
+
+174
+00:22:42,408 --> 00:22:44,325
+<i>Setelah ditawan 8 lamanya di Zhaoge,</i>
+
+175
+00:22:45,408 --> 00:22:46,283
+<i>hari ini,</i>
+
+176
+00:22:46,783 --> 00:22:49,325
+<i>akhirnya aku kembali sebagai pahlawan...</i>
+
+177
+00:22:49,991 --> 00:22:52,991
+<i>yang disambut sorak-sorai
+di seluruh kota.</i>
+
+178
+00:23:39,533 --> 00:23:43,491
+Aku, Yin Shou,
+menghadap pada Baginda Raja dan Yang Mulia.
+
+179
+00:23:51,533 --> 00:23:54,575
+Untukmu, Ayah,
+kupersembahkan kepala Su Hu.
+
+180
+00:24:04,575 --> 00:24:07,950
+Dan untukmu, Kakak,
+bendera perang Jizhou.
+
+181
+00:24:15,200 --> 00:24:16,700
+Su Hu,
+
+182
+00:24:17,366 --> 00:24:20,950
+kau pernah bersumpah
+tak bakalan pernah tunduk padaku,
+
+183
+00:24:21,408 --> 00:24:22,700
+malah, rupanya kau di sini.
+
+184
+00:24:22,783 --> 00:24:24,283
+Dalam perayaan kemenangan besok,
+
+185
+00:24:24,283 --> 00:24:26,075
+tengkoraknya akan dipakai sebagai cangkir...
+
+186
+00:24:26,241 --> 00:24:27,900
+dan minum dengan ini sampai pagi!
+
+187
+00:24:29,283 --> 00:24:36,783
+Kaisar Shang, Raja dari Segala Raja!
+
+188
+00:24:37,616 --> 00:24:40,408
+Brigade Penawanan,
+yang kembali dengan kemenangan,
+
+189
+00:24:40,408 --> 00:24:43,991
+akan menarikan tarian perang
+untuk Yang Mulia.
+
+190
+00:24:48,908 --> 00:24:50,200
+Serang!
+
+191
+00:24:56,033 --> 00:24:58,658
+Panjang umur Yang Mulia Kaisar!
+
+192
+00:25:14,200 --> 00:25:16,033
+Anakku...
+
+193
+00:25:16,033 --> 00:25:19,533
+putra kesayanganku menarilah!
+
+194
+00:25:20,116 --> 00:25:22,908
+Bagus sekali!
+
+195
+00:26:05,825 --> 00:26:06,658
+Melindungi dia!
+
+196
+00:26:08,825 --> 00:26:09,533
+Formasi Pelindung!
+
+197
+00:26:51,908 --> 00:26:52,700
+Yang Mulia...
+
+198
+00:26:59,366 --> 00:27:00,700
+Dia meninggal!
+
+199
+00:27:01,658 --> 00:27:02,825
+Ji Fa,
+
+200
+00:27:03,491 --> 00:27:05,908
+kau sudah bunuh Pangeran.
+
+201
+00:27:05,908 --> 00:27:07,408
+Semua keluargamu akan dihukum mati.
+
+202
+00:27:08,366 --> 00:27:09,533
+Ji Fa.
+
+203
+00:27:10,950 --> 00:27:13,533
+Membunuh Pangeran adalah kejahatan berat,
+
+204
+00:27:13,533 --> 00:27:15,616
+dan hukumannya adalah hukuman mati.
+
+205
+00:27:15,616 --> 00:27:16,950
+Kejahatan yang tak bisa diampuni!
+
+206
+00:27:23,950 --> 00:27:24,991
+Ayah!
+
+207
+00:27:46,741 --> 00:27:50,325
+Saudaraku Yin Qi membunuh Ayah kita, Raja.
+
+208
+00:27:54,325 --> 00:27:54,908
+Ji Fa,
+
+209
+00:28:00,741 --> 00:28:03,075
+perbuatanmu selain tak di benarkan,
+
+210
+00:28:04,075 --> 00:28:07,575
+tapi kau juga sudah mengabdi
+untuk kerajaan kita.
+
+211
+00:28:44,866 --> 00:28:46,950
+<i>Jika Yin Jiao tidak membelaku...</i>
+
+212
+00:28:46,950 --> 00:28:48,866
+<i>dan Panglima tidak mengampuniku,</i>
+
+213
+00:28:48,866 --> 00:28:51,783
+<i>semua keluargaku akan di hukum mati.</i>
+
+214
+00:28:52,158 --> 00:28:54,158
+<i>Tapi karena Raja sudah meninggal,</i>
+
+215
+00:28:54,158 --> 00:28:56,741
+<i>bagaimana nasib dinasti Shang kelak?</i>
+
+216
+00:29:19,075 --> 00:29:22,866
+Karena hal itu, Yang Mulia Agung
+memanggil kami berdua...
+
+217
+00:29:23,325 --> 00:29:24,950
+ke Istana Yuxu.
+
+218
+00:29:25,575 --> 00:29:27,075
+Dunia manusia penuh penderitaan.
+
+219
+00:29:27,075 --> 00:29:29,491
+Beginikah masa depan umat manusia?
+
+220
+00:29:30,950 --> 00:29:33,283
+Ini Kutukan Besar.
+Beritahu kami, Yang Maha Agung,
+
+221
+00:29:33,366 --> 00:29:36,133
+apa salah manusia
+sehingga menanggung semua ini?
+
+222
+00:29:36,158 --> 00:29:37,866
+Saat peperangan berkecamuk...
+
+223
+00:29:37,866 --> 00:29:39,116
+dan siluman merajalela,
+
+224
+00:29:39,783 --> 00:29:42,491
+Kutukan Besar
+pasti akan melanda semua manusia.
+
+225
+00:29:43,158 --> 00:29:43,908
+Pada mulanya,
+
+226
+00:29:44,366 --> 00:29:46,116
+saat Pangu membebaskan kekacauan,
+
+227
+00:29:46,741 --> 00:29:48,575
+Qi murni naik membentuk langit...
+
+228
+00:29:48,575 --> 00:29:50,541
+dan yang tak murni
+turun membentuk bumi.
+
+229
+00:29:50,825 --> 00:29:52,325
+Terciptalah langit dan bumi,
+
+230
+00:29:52,450 --> 00:29:54,033
+dan kehidupan bertumbuh subur.
+
+231
+00:29:55,116 --> 00:29:56,825
+Kutukan Besar bisa...
+
+232
+00:29:56,825 --> 00:29:58,491
+memutarbalikkan semuanya.
+
+233
+00:29:59,158 --> 00:30:01,491
+Dunia kembali dilanda kekacauan...
+
+234
+00:30:01,866 --> 00:30:03,533
+dan semua makhluk hidup musnah.
+
+235
+00:30:04,116 --> 00:30:06,908
+Meski manusia pantas dimusnahkan,
+
+236
+00:30:07,366 --> 00:30:10,408
+tapi kami tak bisa
+cuma duduk dan diam saja.
+
+237
+00:30:11,325 --> 00:30:13,283
+Dewi Nuwa meninggalkan Fengshen Bang...
+
+238
+00:30:13,283 --> 00:30:15,041
+di Kunlun, dalam penjagaan kami...
+
+239
+00:30:15,158 --> 00:30:17,658
+karena dia
+sudah meramalkan ini sebelumnya.
+
+240
+00:30:18,700 --> 00:30:22,533
+Sudah saatnya Fengshen Bang
+dikirim ke dunia.
+
+241
+00:30:22,991 --> 00:30:25,491
+Setelah Fengshen Bang diserahkan...
+
+242
+00:30:25,491 --> 00:30:27,075
+ke Raja dari Segala Kerajaan,
+
+243
+00:30:27,075 --> 00:30:29,691
+jika dia bisa membukanya
+dan mengamanahkan dewa baru,
+
+244
+00:30:29,691 --> 00:30:31,533
+Kutukan Besar akan dicabut...
+
+245
+00:30:31,533 --> 00:30:33,325
+dan manusia akan terselamatkan.
+
+246
+00:30:33,575 --> 00:30:35,741
+Aku yakin kalian tahu
+akan konsekuensinya...
+
+247
+00:30:35,741 --> 00:30:38,033
+selaku pengemban Fengshen Bang ini.
+
+248
+00:30:38,866 --> 00:30:40,825
+Yang Maha Agung, perkenankan aku.
+
+249
+00:30:41,325 --> 00:30:42,908
+Seharusnya aku kali ini.
+
+250
+00:30:43,450 --> 00:30:44,783
+Giliranku.
+
+251
+00:30:45,116 --> 00:30:46,325
+Aku yang seharusnya.
+
+252
+00:30:47,408 --> 00:30:49,616
+Tak boleh ada kesalahan.
+
+253
+00:30:50,075 --> 00:30:52,033
+Biarkan Yang Maha Agung memutuskan...
+
+254
+00:30:52,366 --> 00:30:54,075
+siapa yang akan ditugaskan.
+
+255
+00:31:33,200 --> 00:31:34,116
+Manusia sudah sangat menderita.
+
+256
+00:31:34,116 --> 00:31:37,000
+Biar aku yang antar
+Fengshen Bang itu ke mereka.
+
+257
+00:31:37,658 --> 00:31:38,450
+Ziya,
+
+258
+00:31:39,366 --> 00:31:40,658
+ketahuilah,
+
+259
+00:31:41,033 --> 00:31:44,075
+saat Dewa menyentuhkan Fengshen Bang itu,
+
+260
+00:31:44,075 --> 00:31:45,741
+semua kekuatannya akan hilang,
+
+261
+00:31:45,741 --> 00:31:47,116
+dan menjadi manusia kembali,
+
+262
+00:31:47,658 --> 00:31:50,850
+akibatnya,
+kau tak bisa kembali ke Kunlun lagi.
+
+263
+00:31:52,825 --> 00:31:54,991
+Karena itu, lebih baik aku saja.
+
+264
+00:31:55,783 --> 00:31:59,950
+Kenapa?
+
+265
+00:32:00,241 --> 00:32:03,241
+Kalian semua sudah berlatih
+ribuan tahun...
+
+266
+00:32:03,241 --> 00:32:05,033
+agar menjadi seperti sekarang ini.
+
+267
+00:32:05,575 --> 00:32:07,533
+Jangan sampai itu tersia-siakan.
+
+268
+00:32:07,950 --> 00:32:10,033
+Aku baru berlatih 40 tahun.
+
+269
+00:32:10,033 --> 00:32:11,200
+Itu bukanlah masalah besar...
+
+270
+00:32:11,200 --> 00:32:12,741
+jika kekuatanku yang hilang.
+
+271
+00:32:13,158 --> 00:32:14,825
+Dan, sebelum aku mulai berlatih,
+
+272
+00:32:14,825 --> 00:32:16,158
+dulunya aku seorang pedagang.
+
+273
+00:32:16,158 --> 00:32:17,408
+Aku sering bepergian...
+
+274
+00:32:17,408 --> 00:32:19,366
+dan sudah sangat berpengalaman di dunia.
+
+275
+00:32:20,908 --> 00:32:22,475
+Dengan rendah hati
+aku mengajukan diri...
+
+276
+00:32:22,491 --> 00:32:23,866
+untuk mengemban tugas ini.
+
+277
+00:32:24,575 --> 00:32:27,283
+Ziya, kau belum lama bersama kami,
+
+278
+00:32:27,450 --> 00:32:28,908
+dan belum mampu...
+
+279
+00:32:29,116 --> 00:32:31,116
+menerawang masa depan,
+
+280
+00:32:31,116 --> 00:32:33,491
+makanya aku tak memanggilmu hari ini.
+
+281
+00:32:33,825 --> 00:32:36,700
+Karena intervensimu akan simpatimu...
+
+282
+00:32:36,700 --> 00:32:38,325
+terhadap manusia,
+
+283
+00:32:38,325 --> 00:32:40,366
+sudah mengacaukan pandangan kami
+dari Kutukan Besar.
+
+284
+00:32:41,783 --> 00:32:46,116
+Mungkinkah ini sudah takdirmu?
+
+285
+00:33:22,075 --> 00:33:23,241
+Jiang Ziya,
+
+286
+00:33:23,866 --> 00:33:25,491
+apa kau rela melepaskan...
+
+287
+00:33:25,491 --> 00:33:28,200
+keabadian dan kekuatanmu selama 40 tahun...
+
+288
+00:33:28,783 --> 00:33:30,825
+dan kembali menjadi manusia biasa?
+
+289
+00:34:18,741 --> 00:34:26,200
+Burung Hitam Agung...
+
+290
+00:34:26,200 --> 00:34:32,950
+melahirkan bangsa Shang.
+
+291
+00:34:34,533 --> 00:34:36,616
+Leluhur, dengarkan aku!
+
+292
+00:34:36,616 --> 00:34:40,491
+Aku, Yin Shou,
+tak pernah berkeinginan menjadi Raja,
+
+293
+00:34:40,491 --> 00:34:43,825
+tapi negara ini harus ada seorang raja,
+
+294
+00:34:43,825 --> 00:34:47,116
+dan cuma aku dari anak Ayahku
+yang masih hidup,
+
+295
+00:34:47,116 --> 00:34:49,075
+dengan terpaksa duduk di atas takhta...
+
+296
+00:34:49,075 --> 00:34:51,491
+dan mempertahankan dinasti Shang.
+
+297
+00:34:52,116 --> 00:34:53,658
+Kumohon pamanku,
+Pendeta Agung Bi Gan...
+
+298
+00:34:53,658 --> 00:34:56,033
+meramalkan masa depan kerajaan kita.
+
+299
+00:36:03,575 --> 00:36:04,866
+Dinasti ini akan hancur!
+
+300
+00:36:04,950 --> 00:36:06,075
+Dinasti ini akan hancur!
+
+301
+00:36:06,158 --> 00:36:07,033
+Dinasti ini akan hancur!
+
+302
+00:36:07,158 --> 00:36:08,033
+Dinasti ini akan hancur!
+
+303
+00:36:10,741 --> 00:36:12,366
+Dinasti ini akan hancur!
+
+304
+00:36:17,366 --> 00:36:19,700
+Dinasti ini akan ditimpa malapetaka!
+
+305
+00:36:28,491 --> 00:36:30,116
+Paman, maksudmu apa?
+
+306
+00:36:30,200 --> 00:36:32,366
+Para Dewa sudah menubuatkan
+kehancuran kita...
+
+307
+00:36:32,366 --> 00:36:35,616
+dengan menghancurkan ramalan kita.
+
+308
+00:36:36,075 --> 00:36:37,725
+Apa salah kita
+hingga menerima kutukan ini?
+
+309
+00:36:37,950 --> 00:36:39,366
+Ada anggota keluarga kerajaan...
+
+310
+00:36:39,366 --> 00:36:42,533
+membunuh Ayah dan Rajanya sendiri.
+
+311
+00:36:42,533 --> 00:36:46,283
+Tidak ada dosa yang lebih besar dari itu,
+
+312
+00:36:46,658 --> 00:36:49,866
+dan para dewa telah murka.
+
+313
+00:36:50,491 --> 00:36:52,158
+Keturunan Cheng Tang...
+
+314
+00:36:52,158 --> 00:36:55,366
+tak bisa lagi menjadi Raja Segala Kerajaan.
+
+315
+00:36:55,783 --> 00:36:58,033
+Akan ku-kurbankan ratusan nyawa manusia...
+
+316
+00:36:58,200 --> 00:36:59,908
+untuk menenangkan kemarahan mereka.
+
+317
+00:36:59,908 --> 00:37:00,991
+Percuma saja.
+
+318
+00:37:01,366 --> 00:37:02,491
+Ribuan, kalau begitu.
+
+319
+00:37:02,491 --> 00:37:06,241
+Meski puluhan ribu pun cuma akan sia-sia.
+
+320
+00:37:06,575 --> 00:37:07,825
+Dahulu kala,
+
+321
+00:37:07,950 --> 00:37:11,825
+saat leluhur kita Cheng Tang
+menyatukan negeri ini,
+
+322
+00:37:12,283 --> 00:37:15,825
+begitu banyak nyawa yang melayang
+sehingga Kutukan Besar pun diturunkan.
+
+323
+00:37:16,241 --> 00:37:20,033
+Kemarau panjang 7 tahun lamanya...
+
+324
+00:37:20,033 --> 00:37:22,825
+membuah tanah menjadi tandus.
+
+325
+00:37:23,575 --> 00:37:28,158
+Dengan menyusun tumpukan kayu kurban...
+
+326
+00:37:28,158 --> 00:37:29,491
+dan mengorbankan dirinya sendiri,
+
+327
+00:37:29,491 --> 00:37:34,408
+Cheng Tang akhirnya menggugah
+para Dewa dan kutukan itu dicabut.
+
+328
+00:37:34,408 --> 00:37:38,491
+Kau sarankan aku lakukan itu?
+
+329
+00:37:39,158 --> 00:37:40,325
+Beraninya kau, Bi Gan!
+
+330
+00:37:48,033 --> 00:37:49,658
+Ayahku baru saja menduduki takhta...
+
+331
+00:37:49,950 --> 00:37:51,658
+dan kau suruh dia mengorbankan dirinya!
+
+332
+00:37:51,950 --> 00:37:53,991
+Benar-benar...
+
+333
+00:37:53,991 --> 00:37:54,741
+pengkhianatan!
+
+334
+00:37:54,783 --> 00:37:56,033
+Dasar bodoh!
+
+335
+00:37:56,033 --> 00:37:58,241
+Kutukan Besar baru saja berjalan.
+
+336
+00:37:58,658 --> 00:38:00,033
+Tak lama lagi,
+
+337
+00:38:00,033 --> 00:38:02,450
+rakyat kita akan mengalami penderitaan....
+
+338
+00:38:02,450 --> 00:38:04,075
+dan tidak ada lagi persembahan
+buat leluhur kita.
+
+339
+00:38:04,075 --> 00:38:05,033
+Bila tiba waktunya,
+
+340
+00:38:05,033 --> 00:38:08,491
+Dinasti Shang akan lenyap selamanya!
+
+341
+00:38:10,741 --> 00:38:12,616
+Ayah, serahkan saja tahta padaku.
+
+342
+00:38:12,741 --> 00:38:14,575
+Aku siap korbankan diriku
+menggantikanmu.
+
+343
+00:38:20,366 --> 00:38:21,783
+Apa artinya seorang raja...
+
+344
+00:38:22,991 --> 00:38:26,325
+jika tak mau menanggung dosa dunia?
+
+345
+00:38:28,741 --> 00:38:31,700
+Akan kuikuti ajaran leluhur kita, Cheng Tang...
+
+346
+00:38:32,700 --> 00:38:35,158
+dan menyusun
+tumpukan kayu kurban di Zhaoge.
+
+347
+00:38:36,616 --> 00:38:38,075
+Jika itu sudah selesai,
+
+348
+00:38:38,741 --> 00:38:43,450
+akan kukurbankan diriku dibakar
+untuk menyelamatkan kerajaan ini.
+
+349
+00:38:46,408 --> 00:38:49,616
+Semoga kerajaan ini diberkati!
+
+350
+00:38:49,950 --> 00:38:52,283
+Berlutut!
+
+351
+00:38:53,825 --> 00:38:55,825
+Semoga kerajaan ini diberkati!
+
+352
+00:38:55,991 --> 00:38:57,866
+Semoga kerajaan ini diberkati!
+
+353
+00:38:57,991 --> 00:38:59,783
+Semoga kerajaan ini diberkati!
+
+354
+00:38:59,866 --> 00:39:02,908
+Bersujud!
+
+355
+00:39:17,700 --> 00:39:19,825
+Sejam aku menunggu di luar Teras Rusa....
+
+356
+00:39:19,991 --> 00:39:21,075
+tapi Yang Mulia...
+
+357
+00:39:22,158 --> 00:39:23,533
+tak mau menemuiku.
+
+358
+00:39:28,991 --> 00:39:30,241
+Aku akan jemput dia.
+
+359
+00:39:31,991 --> 00:39:33,991
+Bicaramu tadi sudah melampui batas.
+
+360
+00:39:36,241 --> 00:39:37,741
+Kau sudah menggugah
+keraguan Ayahmu.
+
+361
+00:39:38,575 --> 00:39:40,575
+Aku memintanya
+menyerahkan takhta padaku...
+
+362
+00:39:40,950 --> 00:39:42,575
+agar aku bisa mati menggantikannya.
+
+363
+00:39:43,283 --> 00:39:44,408
+Tentu saja dia pasti tahu.
+
+364
+00:39:47,658 --> 00:39:49,658
+Kau tak mengenal Ayahmu.
+
+365
+00:39:50,950 --> 00:39:51,741
+Ibu,
+
+366
+00:39:53,700 --> 00:39:54,866
+kau terlalu kuatir.
+
+367
+00:39:56,033 --> 00:39:57,658
+Aku akan ajak Ayah ke sini,
+
+368
+00:39:58,283 --> 00:39:59,950
+agar kita semua bisa berkumpul.
+
+369
+00:41:16,491 --> 00:41:16,866
+Ji Fa.
+
+370
+00:41:17,033 --> 00:41:17,700
+Yin Jiao.
+
+371
+00:41:18,325 --> 00:41:19,116
+Ada siluman rubah.
+
+372
+00:41:19,116 --> 00:41:20,550
+Ikuti aku.
+
+373
+00:41:32,116 --> 00:41:33,908
+Kau yakin dia ke arah sini?
+
+374
+00:41:37,908 --> 00:41:40,158
+Itu, di Ruang Istana Langit.
+
+375
+00:41:50,908 --> 00:41:52,200
+Yang Mulia lagi beristirahat,
+
+376
+00:41:52,408 --> 00:41:54,033
+tak ada yang boleh masuk.
+
+377
+00:41:55,241 --> 00:41:56,450
+Ayahku dalam bahaya.
+
+378
+00:41:56,783 --> 00:41:58,075
+Kau diam saja!
+
+379
+00:42:30,241 --> 00:42:30,991
+Siapa?
+
+380
+00:42:32,825 --> 00:42:33,575
+Ayah,
+
+381
+00:42:34,033 --> 00:42:35,075
+ini aku.
+
+382
+00:42:35,366 --> 00:42:37,658
+Nyelonong malam begini,
+bawa pedang lagi!
+
+383
+00:42:38,825 --> 00:42:40,325
+Apa kau sudah tak sabaran...
+
+384
+00:42:40,575 --> 00:42:42,200
+menggantikan Ayah!
+
+385
+00:42:42,325 --> 00:42:43,283
+Aku tak pernah berniat begitu!
+
+386
+00:42:43,450 --> 00:42:47,408
+Aku lagi mengejar siluman rubah...
+
+387
+00:42:47,866 --> 00:42:49,158
+Kami masuk kemari karena khawatir...
+
+388
+00:42:49,450 --> 00:42:51,700
+akan keselamatan Yang Mulia.
+Mohon ampuni kami.
+
+389
+00:42:51,825 --> 00:42:52,950
+Siluman rubah apanya?
+
+390
+00:42:53,866 --> 00:42:55,200
+Kenapa dia ada di sini?
+
+391
+00:42:56,283 --> 00:42:57,200
+Keluar!
+
+392
+00:42:57,866 --> 00:42:58,825
+Siap, Yang Mulia!
+
+393
+00:43:07,575 --> 00:43:09,866
+Mestinya aku membunuhnya
+saat tadi melihatnya!
+
+394
+00:43:10,908 --> 00:43:13,116
+Yang Mulia rela mengorbankan dirinya
+untuk menyelamatkan dunia.
+
+395
+00:43:13,200 --> 00:43:14,325
+Dia seorang pahlawan.
+
+396
+00:43:18,408 --> 00:43:19,950
+Jangan bikin marah dia lagi.
+
+397
+00:43:23,991 --> 00:43:25,783
+Andai dia Ayahmu,
+
+398
+00:43:26,158 --> 00:43:27,616
+kau akan berbuat apa?
+
+399
+00:43:35,783 --> 00:43:37,241
+Aku sudah pergi selama 8 tahun.
+
+400
+00:43:38,491 --> 00:43:39,950
+Ayahku...
+
+401
+00:43:41,033 --> 00:43:43,491
+mungkin sudah tak mengenaliku lagi.
+
+402
+00:44:05,575 --> 00:44:08,075
+Takutnya panen tahun ini gagal.
+
+403
+00:44:10,950 --> 00:44:13,866
+Karena Kutukan Besar
+yang menimpa Zhaoge,
+
+404
+00:44:13,866 --> 00:44:18,283
+Xiqi ikut terdampak juga.
+
+405
+00:44:18,950 --> 00:44:20,616
+Berkat kepedulianmu, Ayah,
+
+406
+00:44:20,991 --> 00:44:22,866
+persediaan makanan kita akan cukup...
+
+407
+00:44:22,866 --> 00:44:24,575
+untuk 3 tahun ke depan.
+
+408
+00:44:25,325 --> 00:44:27,533
+Bagaimana setelah itu?
+
+409
+00:44:39,033 --> 00:44:40,200
+Di malam yang sama,
+
+410
+00:44:40,616 --> 00:44:43,241
+Raja dan Pangeran terbunuh.
+
+411
+00:44:43,283 --> 00:44:44,616
+Anehnya,
+
+412
+00:44:45,533 --> 00:44:48,075
+Raja baru begitu ngotot naik takhta,
+
+413
+00:44:48,825 --> 00:44:51,908
+dan langsung memanggil 4 Adipati,
+
+414
+00:44:51,908 --> 00:44:53,783
+dengan niat jahat, menurutku.
+
+415
+00:44:54,158 --> 00:44:55,533
+Perjalanan ke Zhaoge ini...
+
+416
+00:44:55,533 --> 00:44:57,283
+bisa jadi sangat berbahaya.
+
+417
+00:44:57,658 --> 00:44:58,866
+Mohon dipikirkan lagi, Ayah.
+
+418
+00:44:59,950 --> 00:45:00,783
+Tuanku.
+
+419
+00:45:02,241 --> 00:45:06,408
+Jika aku tak mematuhi Raja,
+perang akan terjadi...
+
+420
+00:45:06,408 --> 00:45:10,325
+dan seluruh negeri ini
+bakal menanggung akibatnya.
+
+421
+00:45:13,033 --> 00:45:16,450
+Meski ada pergantian kekuasaan,
+
+422
+00:45:17,033 --> 00:45:20,533
+tugasku masih tetap sama.
+
+423
+00:45:25,075 --> 00:45:28,491
+Ini kesempatan juga
+mengunjungi Ji Fa.
+
+424
+00:45:29,408 --> 00:45:31,158
+Sudah 8 tahun.
+
+425
+00:45:31,616 --> 00:45:33,908
+Pasti sudah setinggi kau sekarang.
+
+426
+00:45:36,283 --> 00:45:37,950
+Mungkin saja dia lebih tinggi.
+
+427
+00:45:44,658 --> 00:45:48,033
+Saat aku pergi, kau penjaga Xiqi,
+
+428
+00:45:48,700 --> 00:45:50,408
+dan jagalah tetap aman.
+
+429
+00:45:50,700 --> 00:45:52,491
+Apa pun yang terjadi,
+
+430
+00:45:53,575 --> 00:45:56,908
+jangan pernah tinggalkan Xiqi.
+
+431
+00:45:59,616 --> 00:46:01,950
+Semoga selamat sampai tujuan, Ayah.
+
+432
+00:46:29,325 --> 00:46:30,366
+Berbaris.
+
+433
+00:46:30,533 --> 00:46:31,575
+Biarkan mereka masuk.
+
+434
+00:46:32,283 --> 00:46:33,325
+Jangan maksa.
+
+435
+00:46:34,200 --> 00:46:35,241
+Hentikan mereka.
+
+436
+00:46:35,616 --> 00:46:36,241
+Jangan saling dorong.
+
+437
+00:46:38,200 --> 00:46:39,700
+Mundur, kalian semua!
+
+438
+00:46:39,825 --> 00:46:40,616
+Kau masuk.
+
+439
+00:46:40,616 --> 00:46:41,908
+Tak punya tanda pengenal,
+dilarang masuk.
+
+440
+00:46:42,575 --> 00:46:43,991
+Harus ada tanda pengenal?
+
+441
+00:46:44,741 --> 00:46:45,866
+Sungguh merepotkan.
+
+442
+00:46:45,866 --> 00:46:46,575
+Guru Ziya,
+
+443
+00:46:46,575 --> 00:46:48,408
+aku akan menerbangkanmu
+dengan Roda Apiku.
+
+444
+00:46:48,741 --> 00:46:51,741
+Teleportasi Lima Elemenku lebih cepat.
+
+445
+00:46:51,741 --> 00:46:54,408
+Tidak. Saat kita berangkat,
+Dewa Maha Agung...
+
+446
+00:46:54,408 --> 00:46:56,408
+melarang kita menggunakan kekuatan kita.
+
+447
+00:46:58,450 --> 00:47:00,991
+Tapi dunia manusia ini
+punya caranya sendiri.
+
+448
+00:47:02,533 --> 00:47:03,616
+Lihat ini.
+
+449
+00:47:07,533 --> 00:47:10,075
+Selamat siang, tuan.
+
+450
+00:47:10,783 --> 00:47:11,825
+Kau siapa?
+
+451
+00:47:13,408 --> 00:47:18,033
+Kami makhluk abadi,
+jauh-jauh dari Kunlun.
+
+452
+00:47:18,033 --> 00:47:20,783
+Jadi kami tak punya tanda pengenal.
+
+453
+00:47:20,783 --> 00:47:22,533
+Tak punya tanda pengenal?
+
+454
+00:47:24,991 --> 00:47:26,908
+Tapi, kami punya ini.
+
+455
+00:47:32,200 --> 00:47:33,408
+Ambillah.
+
+456
+00:47:36,825 --> 00:47:37,700
+Apa ini?
+
+457
+00:47:39,366 --> 00:47:40,700
+Obat mujarab.
+
+458
+00:47:41,783 --> 00:47:42,408
+Khasiatnya apa?
+
+459
+00:47:42,825 --> 00:47:43,908
+Apa khasiatnya?!
+
+460
+00:47:44,033 --> 00:47:47,700
+Obat mujarab ini mengandung Qi murni,
+
+461
+00:47:47,700 --> 00:47:49,241
+sari air,
+
+462
+00:47:49,241 --> 00:47:50,991
+berkah para dewa murah hati,
+
+463
+00:47:50,991 --> 00:47:56,033
+dan obat terbaik
+dari Langit, Bumi, dan Manusia.
+
+464
+00:47:56,033 --> 00:47:57,200
+Baulah itu.
+
+465
+00:47:57,575 --> 00:47:58,658
+Kau akan merasa segar kembali.
+
+466
+00:47:58,658 --> 00:47:59,825
+Cicipi sedikit.
+
+467
+00:47:59,825 --> 00:48:01,783
+Dan rasa nyeri akan hilang.
+
+468
+00:48:03,491 --> 00:48:06,325
+Obat mujarab ini tak bisa dibeli...
+
+469
+00:48:06,908 --> 00:48:09,616
+meski kau tawar berapa pun.
+
+470
+00:48:09,950 --> 00:48:11,325
+Anggaplah itu hadiah kami...
+
+471
+00:48:11,450 --> 00:48:12,750
+sebagai teman baru kami.
+
+472
+00:48:15,283 --> 00:48:18,075
+Guru Ziya, tipuanmu berhasil!
+
+473
+00:48:18,075 --> 00:48:19,741
+Ayo,
+
+474
+00:48:19,741 --> 00:48:21,283
+aku akan melayanimu dengan baik.
+
+475
+00:48:21,283 --> 00:48:22,033
+Kau baik sekali.
+
+476
+00:48:22,033 --> 00:48:24,158
+Aku yang akan mengantarmu ke kota.
+
+477
+00:48:26,075 --> 00:48:28,283
+Apa harus Yang Mulia
+mengorbankan dirinya...
+
+478
+00:48:29,325 --> 00:48:32,325
+di tumpukan kayu
+untuk menolak Kutukan Besar itu?
+
+479
+00:48:39,866 --> 00:48:41,158
+Hanya...
+
+480
+00:48:43,241 --> 00:48:45,491
+para dewa yang tahu jawabannya.
+
+481
+00:48:52,075 --> 00:48:52,866
+Sudah sampai.
+
+482
+00:48:52,950 --> 00:48:53,825
+Turun.
+
+483
+00:48:54,075 --> 00:48:55,116
+Teruslah.
+
+484
+00:48:55,408 --> 00:48:56,200
+Cepat.
+
+485
+00:49:21,075 --> 00:49:21,658
+Guru Ziya.
+
+486
+00:50:08,241 --> 00:50:10,575
+Guru Ziya, ada apa?
+
+487
+00:50:15,450 --> 00:50:16,450
+Sepertinya...
+
+488
+00:50:17,408 --> 00:50:18,783
+kita sudah dijual.
+
+489
+00:50:18,783 --> 00:50:19,700
+Dijual?
+
+490
+00:50:19,783 --> 00:50:22,700
+Aku kira kau tahu daerah sini.
+
+491
+00:50:24,575 --> 00:50:26,283
+Sudah 40 tahun aku belum pernah kembali.
+
+492
+00:50:26,283 --> 00:50:28,658
+Dulunya tak begini.
+
+493
+00:50:29,158 --> 00:50:30,575
+Bawa mereka.
+
+494
+00:50:32,366 --> 00:50:33,116
+Tuan,
+
+495
+00:50:33,116 --> 00:50:35,408
+kami bawakan sesuatu untuk Yang Mulia.
+
+496
+00:50:35,408 --> 00:50:36,783
+Diamlah.
+
+497
+00:50:58,658 --> 00:50:59,616
+Sudah cukup.
+
+498
+00:51:08,908 --> 00:51:09,491
+Oh, tidak.
+
+499
+00:51:26,491 --> 00:51:26,950
+Lihat!
+
+500
+00:51:29,908 --> 00:51:31,158
+Petir!
+
+501
+00:51:33,366 --> 00:51:34,700
+Cepat selamatkan orang-orang itu!
+
+502
+00:51:34,866 --> 00:51:35,950
+Apa boleh gunakan kekuatan kita?
+
+503
+00:51:35,950 --> 00:51:36,658
+Tentu saja.
+
+504
+00:51:37,575 --> 00:51:38,991
+Akhirnya!
+
+505
+00:52:23,991 --> 00:52:25,833
+Jadi Dewa itu memang benar-benar ada!
+
+506
+00:52:26,283 --> 00:52:27,325
+Masih ada harapan untuk Yang Mulia!
+
+507
+00:52:31,533 --> 00:52:35,450
+Sang Alkemis Shen Gongbao,
+dari Pulau Penyu Emas...
+
+508
+00:52:35,450 --> 00:52:38,283
+kemari mau menunjukkan
+kekuatannya untuk Yang Mulia.
+
+509
+00:52:58,700 --> 00:53:00,491
+Suatu kehormatan bagiku.
+
+510
+00:53:06,241 --> 00:53:07,116
+Menarik juga.
+
+511
+00:53:07,783 --> 00:53:08,825
+Sihir macam apa ini?
+
+512
+00:53:09,116 --> 00:53:10,158
+Yang Mulia.
+
+513
+00:53:10,408 --> 00:53:13,366
+Dengan mantra ini
+aku bisa selamat dari hukuman pancung.
+
+514
+00:53:14,116 --> 00:53:15,783
+Kalau hukum bakar?
+
+515
+00:53:17,491 --> 00:53:19,616
+Jika ada yang bisa hidup tanpa kepala,
+
+516
+00:53:20,200 --> 00:53:23,241
+api kecil tak perlu dikhawatirkan lagi.
+
+517
+00:53:23,908 --> 00:53:26,616
+Hebat.
+Berapa lama menguasai ilmu itu?
+
+518
+00:53:27,075 --> 00:53:31,116
+Aku butuh waktu seribu tahun,
+
+519
+00:53:31,575 --> 00:53:34,575
+tapi,
+dengan ilmu hebat Yang Mulia,
+
+520
+00:53:34,950 --> 00:53:37,950
+500 tahun harusnya cukup.
+
+521
+00:53:39,158 --> 00:53:40,200
+500 tahun?
+
+522
+00:53:40,325 --> 00:53:41,366
+Benar.
+
+523
+00:53:42,908 --> 00:53:43,741
+Konyol!
+
+524
+00:53:43,741 --> 00:53:44,783
+Sakit.
+
+525
+00:53:48,325 --> 00:53:48,825
+Tidak!
+
+526
+00:53:49,158 --> 00:53:49,658
+Jangan.
+
+527
+00:53:52,200 --> 00:53:53,241
+Di sini.
+
+528
+00:53:53,533 --> 00:53:54,575
+Di sini.
+
+529
+00:53:55,033 --> 00:53:56,075
+Cepatlah!
+
+530
+00:53:57,616 --> 00:54:00,158
+Jiang Ziya, Biksu Tao dari Kunlun,
+
+531
+00:54:00,700 --> 00:54:02,700
+membawakan persembahan untuk Yang Mulia.
+
+532
+00:54:11,616 --> 00:54:12,658
+Apa itu?
+
+533
+00:54:13,116 --> 00:54:14,491
+Yang kupegang ini..
+
+534
+00:54:15,116 --> 00:54:17,533
+adalah Fengshen Bang.
+
+535
+00:54:20,741 --> 00:54:22,658
+Gunanya apa?
+
+536
+00:54:23,033 --> 00:54:25,241
+Tak lama lagi akan terjadi kekacauan besar.
+
+537
+00:54:25,700 --> 00:54:30,283
+Aku diutus guruku, Yang Maha Agung,
+untuk membawakan Fengshen Bang ini...
+
+538
+00:54:30,741 --> 00:54:33,616
+kepada Raja Segala Kerajaan.
+
+539
+00:54:34,491 --> 00:54:38,491
+Saat Raja membukanya
+dan mengamanahkan dewa baru,
+
+540
+00:54:38,700 --> 00:54:41,825
+Fengshen Bang
+akan menghilangkan Kutukan Besar itu...
+
+541
+00:54:42,200 --> 00:54:45,408
+dan seluruh manusia akan terselamatkan.
+
+542
+00:54:47,158 --> 00:54:49,116
+Apa bisa gulungan sekecil ini...
+
+543
+00:54:49,366 --> 00:54:50,908
+mampu mencabut Kutukan Besar itu?
+
+544
+00:54:50,950 --> 00:54:53,158
+Bahkan lebih dari itu!
+
+545
+00:55:00,950 --> 00:55:05,158
+Fengshen Bang ini pusaka suci
+yang ditinggalkan oleh Dewi Nuwa.
+
+546
+00:55:05,658 --> 00:55:09,908
+Pusaka suci ini
+menyerap energi Qi orang mati,
+
+547
+00:55:10,491 --> 00:55:14,825
+atau yang kita sebut "Roh".
+
+548
+00:55:14,991 --> 00:55:18,200
+Begitu Yang Mulia membuka segel
+Fengshen Bang ini...
+
+549
+00:55:18,533 --> 00:55:21,616
+semua energi itu, Yang Mulia...
+
+550
+00:55:22,033 --> 00:55:25,200
+bisa memerintahkannya.
+
+551
+00:55:25,866 --> 00:55:26,908
+Artinya,
+
+552
+00:55:27,450 --> 00:55:28,991
+makin banyak yang mati,
+
+553
+00:55:29,325 --> 00:55:31,325
+makin kuat Fengshen Bang ini?
+
+554
+00:55:31,408 --> 00:55:33,575
+Yang Mulia sangat berwawasan.
+
+555
+00:55:34,116 --> 00:55:37,283
+Kutukan Besar ini
+sebenarnya bisa jadi sebuah berkah.
+
+556
+00:55:37,366 --> 00:55:39,116
+Yang Mulia tahu semuanya.
+
+557
+00:55:40,408 --> 00:55:41,700
+Penyihir ini siluman.
+
+558
+00:55:42,075 --> 00:55:42,700
+Baiklah...
+
+559
+00:55:43,200 --> 00:55:44,575
+kita akan berbagi hadiah!
+
+560
+00:55:44,741 --> 00:55:45,658
+Sebentar.
+
+561
+00:55:46,783 --> 00:55:48,908
+Keaslian...
+
+562
+00:55:50,950 --> 00:55:53,241
+Fengshen Bang ini...
+
+563
+00:55:55,741 --> 00:55:58,366
+masih harus dibuktikan.
+
+564
+00:55:58,700 --> 00:56:00,116
+Bagaimana cara membuktikannya?
+
+565
+00:56:00,325 --> 00:56:04,033
+Aku bisa...
+
+566
+00:56:04,825 --> 00:56:07,283
+jika aku diberikan
+manusia yang baru saja meninggal.
+
+567
+00:56:18,700 --> 00:56:21,616
+Wahyu Jiwa!
+
+568
+00:56:55,491 --> 00:56:59,241
+Cuma Yang Mulia yang bisa membukanya,
+
+569
+00:56:59,866 --> 00:57:02,908
+tapi ada cara lain.
+
+570
+00:57:03,241 --> 00:57:06,991
+Butuh gerakan pola
+untuk membuka segel Fengshen Bang.
+
+571
+00:57:07,741 --> 00:57:09,658
+Akan kutunjukkan caranya.
+
+572
+00:57:09,658 --> 00:57:11,075
+Perhatikan baik-baik.
+
+573
+00:57:30,200 --> 00:57:31,658
+Apa ini...?
+
+574
+00:57:38,741 --> 00:57:40,783
+Mungkinkah ini...
+
+575
+00:57:41,450 --> 00:57:44,616
+gerakan Jurus Kosmos?
+
+576
+00:57:45,825 --> 00:57:47,866
+Tunggu dulu, Saudara Tao-ku.
+
+577
+00:57:47,908 --> 00:57:48,950
+Kabur!
+
+578
+00:57:49,075 --> 00:57:50,116
+Tangkap mereka!
+
+579
+00:57:59,991 --> 00:58:01,241
+Jangan bunuh siapa pun!
+
+580
+00:58:01,241 --> 00:58:02,158
+Baik!
+
+581
+00:58:29,283 --> 00:58:30,200
+Tenang!
+
+582
+00:58:43,991 --> 00:58:45,325
+Guru Ziya!
+
+583
+00:58:59,908 --> 00:59:02,158
+Yin Jiao!  Ji Fa!
+Rebut Fengshen Bang itu!
+
+584
+00:59:07,116 --> 00:59:07,658
+Ayo!
+
+585
+00:59:08,116 --> 00:59:09,241
+Minggir!
+
+586
+00:59:11,533 --> 00:59:12,658
+Kejar mereka!
+
+587
+00:59:40,741 --> 00:59:41,491
+Teleportasi Air!
+
+588
+01:00:08,658 --> 01:00:10,408
+Ji Fa, kau sana!
+
+589
+01:00:42,450 --> 01:00:44,783
+Berbahaya!
+Berhentilah!
+
+590
+01:00:47,408 --> 01:00:48,283
+Kaunya yang berhenti!
+
+591
+01:00:49,033 --> 01:00:50,116
+Ini jalan buntu.
+
+592
+01:00:50,241 --> 01:00:51,158
+Jika kau mendekat,
+
+593
+01:00:51,575 --> 01:00:52,866
+aku lompat.
+
+594
+01:00:52,908 --> 01:00:54,366
+Kau jauh-jauh datang kemari,
+
+595
+01:00:54,825 --> 01:00:55,825
+kenapa tiba-tiba berubah pikiran?
+
+596
+01:00:56,075 --> 01:00:57,700
+Anggap saja aku tak pernah kemari.
+
+597
+01:00:58,075 --> 01:00:59,783
+Masalahnya selesai, kan?
+
+598
+01:01:00,033 --> 01:01:01,700
+Pergilah!
+
+599
+01:01:02,075 --> 01:01:04,325
+Fengshen Bang itu
+milik Raja dari Segala Kerajaan,
+
+600
+01:01:04,491 --> 01:01:05,783
+dan Raja itu adalah Ayahku.
+
+601
+01:01:05,950 --> 01:01:07,450
+Apa hakmu menyimpannya?
+
+602
+01:01:07,450 --> 01:01:09,200
+Tadinya aku mau berikan,
+
+603
+01:01:09,533 --> 01:01:11,200
+tapi aku batalkan.
+
+604
+01:01:11,200 --> 01:01:12,075
+Dasar penipu munafik.
+
+605
+01:01:16,616 --> 01:01:17,533
+Katakan,
+
+606
+01:01:17,950 --> 01:01:19,950
+apa Raja Segala Kerajaan itu?
+
+607
+01:01:20,658 --> 01:01:23,908
+Apa dia bisa seenaknya membunuh
+orang yang tak bersalah,
+
+608
+01:01:23,908 --> 01:01:27,075
+mana mungkin dia bisa dipercaya
+oleh semua manusia?
+
+609
+01:01:27,825 --> 01:01:28,616
+Ayahku bersedia...
+
+610
+01:01:28,616 --> 01:01:29,908
+Kutukan Besar akan datang,
+
+611
+01:01:31,950 --> 01:01:33,991
+dan akan banyak yang mati nantinya.
+
+612
+01:01:34,200 --> 01:01:37,533
+Malah dia menganggapnya sebuah berkah!
+
+613
+01:01:37,533 --> 01:01:38,325
+Jawablah.
+
+614
+01:01:38,741 --> 01:01:40,075
+Jika kau Raja-nya,
+
+615
+01:01:40,200 --> 01:01:41,200
+kau akan berbuat begitu juga?
+
+616
+01:01:41,283 --> 01:01:42,033
+Diam!
+
+617
+01:01:43,366 --> 01:01:45,325
+Kembalikan Fengshen Bang itu ke ayahku!
+
+618
+01:02:19,325 --> 01:02:22,158
+Pak Tua,
+serahkan Fengshen Bang itu.
+
+619
+01:02:22,950 --> 01:02:25,075
+Tanpa itu, Yang Mulia akan mati.
+
+620
+01:02:25,783 --> 01:02:27,158
+Jika aku berikan,
+
+621
+01:02:28,116 --> 01:02:30,991
+takutnya seluruh dunia akan bernasib sama.
+
+622
+01:02:31,533 --> 01:02:32,450
+Ngawur!
+
+623
+01:02:33,241 --> 01:02:34,491
+Yang Mulia itu seorang pahlawan!
+
+624
+01:02:34,700 --> 01:02:36,908
+Tapi dia menganggapmu bodoh.
+
+625
+01:02:39,616 --> 01:02:42,033
+Dia tak peduli orang lain.
+
+626
+01:02:42,533 --> 01:02:44,658
+Cuma peduli dirinya sendiri.
+
+627
+01:02:45,283 --> 01:02:46,200
+Yin Jiao.
+
+628
+01:02:50,158 --> 01:02:50,616
+Yin Jiao,
+
+629
+01:02:51,033 --> 01:02:52,116
+dia tadi menyelamatkanmu.
+
+630
+01:02:52,158 --> 01:02:52,991
+Bodoh amat.
+
+631
+01:02:53,491 --> 01:02:54,866
+Aku harus selamatkan Ayahku.
+
+632
+01:03:09,366 --> 01:03:10,491
+Guru Ziya!
+
+633
+01:03:15,575 --> 01:03:17,033
+Jangan lukai dia.
+Jangan!
+
+634
+01:03:29,783 --> 01:03:31,033
+Mana Fengshen Bang-ku?
+
+635
+01:03:31,200 --> 01:03:32,533
+Lepaskan dia!
+
+636
+01:03:36,825 --> 01:03:37,491
+Ji Fa,
+
+637
+01:03:37,491 --> 01:03:38,741
+bawa lari Fengshen Bang itu!
+
+638
+01:03:38,741 --> 01:03:40,158
+Jangan buang.
+
+639
+01:03:40,700 --> 01:03:42,033
+Kau tak bakal berani.
+
+640
+01:03:42,033 --> 01:03:43,075
+Jangan buang!
+
+641
+01:03:44,075 --> 01:03:45,533
+Jangan lakukan itu!
+
+642
+01:03:49,158 --> 01:03:50,366
+Dia sudah membuangnya.
+
+643
+01:03:51,116 --> 01:03:52,658
+Petir!
+
+644
+01:03:58,575 --> 01:03:59,950
+Dia lompat beneran!
+
+645
+01:04:16,366 --> 01:04:17,033
+Yin Jiao.
+
+646
+01:05:18,200 --> 01:05:19,741
+Guru,
+
+647
+01:05:20,575 --> 01:05:22,616
+ada sesuatu penting yang mau kulaporkan.
+
+648
+01:05:23,116 --> 01:05:24,241
+Fengshen Bang.
+
+649
+01:05:24,658 --> 01:05:27,575
+Alu sudah lihat Fengshen Bang itu.
+
+650
+01:05:28,283 --> 01:05:31,366
+Jika kau memang sudah lihat,
+
+651
+01:05:31,366 --> 01:05:34,433
+terus kenapa
+kau tak mengambilnya untukku?
+
+652
+01:05:34,533 --> 01:05:36,700
+Maafkan aku, Guru.
+
+653
+01:05:38,325 --> 01:05:39,825
+Bukannya aku tak mau,
+
+654
+01:05:40,616 --> 01:05:44,200
+tapi biksu Kunlun itu ada yang bantu.
+
+655
+01:05:45,033 --> 01:05:46,116
+Aku...
+
+656
+01:05:47,033 --> 01:05:48,908
+Biksu Kunlun yang mana?
+
+657
+01:05:50,533 --> 01:05:52,908
+Beraninya dia mempermainkanmu?
+
+658
+01:05:53,200 --> 01:05:56,325
+Guru, kita beri mereka pelajaran!
+
+659
+01:06:00,658 --> 01:06:03,075
+Mantra ini untuk "Penyaduran Roh".
+
+660
+01:06:04,408 --> 01:06:06,183
+Guru kita sudah baik padamu.
+
+661
+01:06:06,783 --> 01:06:08,158
+Tunggu apa lagi?
+Pergilah!
+
+662
+01:06:08,783 --> 01:06:10,158
+Terima kasih, Guru.
+
+663
+01:06:40,950 --> 01:06:41,783
+Guru Ziya.
+
+664
+01:06:42,658 --> 01:06:44,533
+Kau sudah sadar.
+
+665
+01:06:45,116 --> 01:06:46,741
+Yin Shou itu Raja Segala Kerajaan,
+
+666
+01:06:46,866 --> 01:06:49,075
+tapi guru tak mau berikan
+Fengshen Bang itu sama dia.
+
+667
+01:06:49,325 --> 01:06:51,283
+Apa gunanya kita kemari?
+
+668
+01:06:51,658 --> 01:06:53,700
+Betul!
+Kita belum pernah bertemu orang baik...
+
+669
+01:06:53,700 --> 01:06:55,033
+sejak memulai pengembaran ini.
+
+670
+01:06:55,033 --> 01:06:56,991
+Guru tadi hampir mati.
+
+671
+01:06:58,575 --> 01:07:00,408
+Gimana kalau kita kembalikan
+Fengshen Bang ini ke Kunlun...
+
+672
+01:07:00,408 --> 01:07:02,700
+dan biarkan saja manusia
+berusaha sendiri?
+
+673
+01:07:05,200 --> 01:07:07,741
+Yin Jiao adalah Putra Mahkota.
+
+674
+01:07:07,741 --> 01:07:10,533
+Dia penerus Raja Segala Kerajaan.
+
+675
+01:07:13,700 --> 01:07:15,866
+Dia tak seperti Ayahnya.
+
+676
+01:07:15,866 --> 01:07:18,533
+Yin Jiao?
+Sampai kapan kita menunggu...
+
+677
+01:07:18,533 --> 01:07:20,325
+agar dia jadi Raja?
+
+678
+01:07:24,116 --> 01:07:25,950
+Siapa yang bilang menunggu?
+
+679
+01:07:30,450 --> 01:07:33,491
+Jangan-jangan itu siluman lain?
+
+680
+01:07:45,408 --> 01:07:46,533
+Berhenti.
+
+681
+01:08:04,616 --> 01:08:07,658
+Bayi siapa ini?
+
+682
+01:08:09,991 --> 01:08:12,200
+Aneh sekali.
+Pasti bayi siluman.
+
+683
+01:08:14,866 --> 01:08:16,908
+Tuanku, hati-hati.
+
+684
+01:08:44,450 --> 01:08:49,491
+Kasihan sekali, ditinggal sendirian.
+
+685
+01:09:00,700 --> 01:09:01,700
+Tuan,
+
+686
+01:09:02,783 --> 01:09:04,991
+yang kau gendong itu siluman.
+
+687
+01:09:06,866 --> 01:09:08,700
+Sebaiknya bunuh dia sekarang,
+
+688
+01:09:09,950 --> 01:09:11,783
+sebelum dia sangat berbahaya.
+
+689
+01:09:14,908 --> 01:09:17,200
+Jika kau tak bisa, biar kami saja.
+
+690
+01:09:17,575 --> 01:09:19,200
+Ini cuma bayi.
+
+691
+01:09:21,408 --> 01:09:23,366
+Meski dia siluman,
+
+692
+01:09:23,616 --> 01:09:27,575
+apa besarnya nanti
+dia jadi baik atau jahat...
+
+693
+01:09:27,658 --> 01:09:31,450
+tergantung cara didikan dia dibesarkan.
+
+694
+01:09:31,825 --> 01:09:33,950
+Kita tak bisa langusng memutuskan.
+
+695
+01:09:33,950 --> 01:09:36,325
+Betul sekali.
+
+696
+01:09:36,825 --> 01:09:39,366
+Nezha, Yang Jian, cukup sudah.
+
+697
+01:09:40,783 --> 01:09:45,616
+Aku Jiang Ziya.
+Kami dari Kunlun.
+
+698
+01:09:46,741 --> 01:09:49,283
+Aku Ji Chang, dari Xiqi.
+
+699
+01:09:51,325 --> 01:09:53,741
+Adipati Barat.
+Sebuah kehormatan.
+
+700
+01:10:01,033 --> 01:10:02,908
+Kondisi bayi ini lemah.
+
+701
+01:10:03,325 --> 01:10:05,158
+Jika mau selamatkan dia,
+
+702
+01:10:05,158 --> 01:10:08,283
+aku sarankan kirim saja ke Kunlun...
+
+703
+01:10:08,283 --> 01:10:12,283
+biar di dibesarkan Guruku,
+Yang Maha Agung.
+
+704
+01:10:14,408 --> 01:10:17,658
+Aku sudah sering dengar
+tentang Yang Maha Agung.
+
+705
+01:10:17,866 --> 01:10:22,950
+Beruntung sekali jika anak ini
+di didik olehnya.
+
+706
+01:10:24,325 --> 01:10:27,533
+Kalau begitu kau harus namai anak ini,
+
+707
+01:10:27,783 --> 01:10:29,658
+agar kau bisa mengenalnya
+jika bertemu kelak.
+
+708
+01:10:31,616 --> 01:10:36,950
+Kelahirannya disertai dengan guntur.
+
+709
+01:10:37,700 --> 01:10:41,158
+Kunamai dia Lei Zhenzi.
+
+710
+01:10:42,241 --> 01:10:46,200
+Yang Jian, Nezha,
+bawa Lei Zhenzi ke Kunlun.
+
+711
+01:10:46,200 --> 01:10:47,116
+Baik,
+
+712
+01:10:57,783 --> 01:11:01,408
+Banyak kejadian aneh
+sering terjadi belakangan ini.
+
+713
+01:11:02,116 --> 01:11:06,741
+Makanya kau ke Zhaoge?
+
+714
+01:11:06,866 --> 01:11:08,325
+Sekarang sudah ada Raja baru.
+
+715
+01:11:08,325 --> 01:11:12,575
+Itu hal yang lazim bagi ke-Empat Adipati...
+
+716
+01:11:12,575 --> 01:11:14,991
+memberikan penghormatan
+secara langsung.
+
+717
+01:11:14,991 --> 01:11:17,533
+Jadi, ketiga Adipati lainnya
+juga sedang ke sana?
+
+718
+01:11:17,575 --> 01:11:18,241
+Ya.
+
+719
+01:11:24,075 --> 01:11:27,491
+Kau suruh Ji Chang memanggil kami...
+
+720
+01:11:27,491 --> 01:11:31,616
+untuk melengserkan Yin Shou
+dan mengangkat Yin Jiao sebagai Raja baru.
+
+721
+01:11:32,075 --> 01:11:32,950
+Benar sekali.
+
+722
+01:11:33,325 --> 01:11:34,575
+Yin Shou sudah berjanji...
+
+723
+01:11:34,991 --> 01:11:37,491
+akan mengorbankan dirinya untuk
+mencabut Kutukan Besar itu.
+
+724
+01:11:37,491 --> 01:11:38,491
+Bodoh!
+
+725
+01:11:39,283 --> 01:11:41,200
+Kau yakin dia mau bakar dirinya?
+
+726
+01:11:41,950 --> 01:11:43,875
+Saat tumpukan kayu itu sudah di susun,
+
+727
+01:11:43,908 --> 01:11:46,158
+kita lihat saja
+apa dia akan menepati janjinya.
+
+728
+01:11:46,158 --> 01:11:46,533
+Bisa-bisanya kau...
+
+729
+01:11:46,533 --> 01:11:48,741
+Jangan berdebat lagi.
+
+730
+01:11:49,116 --> 01:11:52,533
+Kutukan Besar itu
+sudah menyebar ke seluruh dunia.
+
+731
+01:11:52,533 --> 01:11:56,200
+Wabah di Utara,
+
+732
+01:11:56,450 --> 01:11:59,116
+air membusuk di Timur,
+
+733
+01:11:59,741 --> 01:12:03,825
+bayi yang lahir mati di Selatan,
+
+734
+01:12:04,241 --> 01:12:07,575
+dan gagal panen di Barat.
+
+735
+01:12:07,991 --> 01:12:11,366
+Makin lama kita menunggu,
+akan makin besar kehancurannya.
+
+736
+01:12:12,325 --> 01:12:14,491
+Kutukan ini datangnya dari keluarga Yin.
+
+737
+01:12:14,575 --> 01:12:16,408
+Itu tanggung jawab mereka
+untuk mengakhirinya.
+
+738
+01:12:16,991 --> 01:12:19,241
+Raja Shang adalah Raja Segala Kerajaan.
+
+739
+01:12:19,241 --> 01:12:20,366
+Dunia adalah miliknya.
+
+740
+01:12:20,366 --> 01:12:21,991
+Dunia ini...
+
+741
+01:12:21,991 --> 01:12:24,491
+bukanlah milik Raja,
+
+742
+01:12:24,491 --> 01:12:27,033
+tapi milik semua orang.
+
+743
+01:12:27,033 --> 01:12:27,950
+Luar biasa.
+
+744
+01:12:30,533 --> 01:12:32,450
+Luar biasa.
+
+745
+01:12:34,075 --> 01:12:38,950
+Ramalan Adipati Barat tak pernah meleset.
+
+746
+01:12:38,950 --> 01:12:40,200
+Jadi, apa ramalannya?
+
+747
+01:12:40,491 --> 01:12:43,825
+Heksagram ini meramalkan "Penipuan".
+
+748
+01:12:44,366 --> 01:12:48,200
+Pembunuhan seorang raja tidaklah wajar,
+
+749
+01:12:48,700 --> 01:12:52,700
+dan takhta jatuh ke tangan
+yang tak berhak.
+
+750
+01:12:53,325 --> 01:12:55,950
+Sepertinya memang benar,
+
+751
+01:12:57,325 --> 01:13:04,241
+Raja tak dibunuh oleh Yin Qi,
+melainkan orang lain.
+
+752
+01:13:05,366 --> 01:13:06,866
+Siapa?
+
+753
+01:13:06,866 --> 01:13:10,616
+Siapa lagi kalau bukan Yin Shou?
+
+754
+01:13:10,616 --> 01:13:13,575
+Tak pantas
+jika langsung meyimpulkan begitu.
+
+755
+01:13:17,991 --> 01:13:20,033
+Kau bersama kami, tidak?
+
+756
+01:13:20,033 --> 01:13:21,450
+Ini pengkhianatan,
+
+757
+01:13:23,866 --> 01:13:26,158
+tapi hampir berhasil.
+
+758
+01:13:30,700 --> 01:13:33,241
+Kalau kau, Ji Chang?
+
+759
+01:13:33,575 --> 01:13:40,491
+Jangan lupakan
+putra-putra kita ditawan di Zhaoge.
+
+760
+01:13:44,491 --> 01:13:45,908
+Jadi biarkan saja.
+
+761
+01:13:47,575 --> 01:13:48,991
+Jadi biarkan saja!
+
+762
+01:13:48,991 --> 01:13:51,241
+Aku akan kembali ke selatan
+dan mengerahkan pasukanku.
+
+763
+01:13:51,325 --> 01:13:54,450
+Aku bisa lakukan ini tanpa kalian.
+
+764
+01:13:55,908 --> 01:13:57,683
+Berhenti!
+Jangan ada yang pergi!
+
+765
+01:14:01,658 --> 01:14:04,783
+Beraninya kalian rencanakan pengkhianatan!
+
+766
+01:14:05,116 --> 01:14:07,783
+Dia sendirian.
+Bunuh dia.
+
+767
+01:14:07,783 --> 01:14:09,825
+Tidak!
+
+768
+01:14:12,158 --> 01:14:15,158
+Ini putraku, Ji Fa.
+
+769
+01:14:17,908 --> 01:14:20,491
+Aku Ji Fa, pengawal istana kerajaan.
+
+770
+01:14:21,158 --> 01:14:24,658
+Aku melihatnya sendiri
+Yin Qi membunuh Ayahnya,
+
+771
+01:14:25,450 --> 01:14:27,783
+malah kau berusaha menfitnah Yang Mulia...
+
+772
+01:14:27,950 --> 01:14:29,491
+dengan ramalan palsu ini!
+
+773
+01:14:30,033 --> 01:14:31,366
+Kau lihat?
+
+774
+01:14:31,575 --> 01:14:33,533
+Dia sudah begitu lama di tawan...
+
+775
+01:14:33,950 --> 01:14:35,991
+dan sudah menganggap
+Yin Shou sebagai Ayahnya.
+
+776
+01:14:36,366 --> 01:14:38,616
+Apa gunanya anak yang beginian?
+
+777
+01:14:38,908 --> 01:14:40,283
+Bunuh dia.
+
+778
+01:14:50,533 --> 01:14:52,575
+Kalian takkan lolos!
+
+779
+01:14:57,616 --> 01:14:58,950
+- Ji Fa!  Akhirnya kami menemukanmu.
+- Saudara!
+
+780
+01:14:59,033 --> 01:15:01,158
+Kami pengawal kerajaan.
+Jatuhkan senjata kalian!
+
+781
+01:15:01,158 --> 01:15:02,575
+Minggir!
+
+782
+01:15:10,116 --> 01:15:11,825
+Katanya kau bisa menerawang masa depan.
+
+783
+01:15:12,575 --> 01:15:13,450
+Ji Chang,
+
+784
+01:15:14,783 --> 01:15:16,408
+kau bisa ramal...
+
+785
+01:15:17,408 --> 01:15:18,866
+kematianmu sendiri?
+
+786
+01:15:20,158 --> 01:15:22,033
+Yang Mulia,
+
+787
+01:15:23,033 --> 01:15:24,491
+seorang peramal...
+
+788
+01:15:24,991 --> 01:15:27,366
+bisa menerawang semua...
+
+789
+01:15:27,366 --> 01:15:29,366
+masa depan...
+
+790
+01:15:29,908 --> 01:15:30,908
+kecuali...
+
+791
+01:15:31,700 --> 01:15:33,741
+nasibnya sendiri.
+
+792
+01:15:33,866 --> 01:15:35,450
+Apa ramalannya?
+
+793
+01:15:36,533 --> 01:15:38,533
+Ramalannya,
+
+794
+01:15:39,783 --> 01:15:41,075
+Yang Mulia,
+
+795
+01:15:42,158 --> 01:15:46,658
+akan mati di tangan putramu sendiri.
+
+796
+01:15:55,450 --> 01:15:56,950
+Semuanya pada tahu...
+
+797
+01:15:57,533 --> 01:15:59,450
+kalau aku rela mengorbankan diriku...
+
+798
+01:15:59,658 --> 01:16:01,533
+untuk menyelamatkan dunia.
+
+799
+01:16:01,575 --> 01:16:02,533
+Ji Chang,
+
+800
+01:16:03,616 --> 01:16:05,158
+kau bukan apa-apa selain penipu!
+
+801
+01:16:06,450 --> 01:16:08,950
+Cepat!
+Berdirilah di hadapan ayah kalian.
+
+802
+01:16:17,700 --> 01:16:19,366
+Saat Yin Qi membunuh Ayah kami,
+
+803
+01:16:20,116 --> 01:16:21,783
+putra kalian ada di sana,
+
+804
+01:16:22,408 --> 01:16:23,575
+mereka melihat apa yang terjadi.
+
+805
+01:16:24,700 --> 01:16:25,825
+Malah kalian berempat...
+
+806
+01:16:26,325 --> 01:16:28,533
+lebih mempercayai rumor tak jelas...
+
+807
+01:16:28,950 --> 01:16:31,533
+daripada yang mereka lihat sendiri.
+
+808
+01:16:32,283 --> 01:16:33,741
+Kalian memang tak bodoh.
+
+809
+01:16:34,575 --> 01:16:36,950
+Tapi sudah berkhianat.
+
+810
+01:16:41,325 --> 01:16:44,325
+Lihatlah para pengkhianat ini.
+
+811
+01:16:46,366 --> 01:16:48,200
+Mereka dulunya ayah kalian.
+
+812
+01:16:49,325 --> 01:16:50,033
+Sekarang,
+
+813
+01:16:50,825 --> 01:16:53,325
+mereka adalah pendosa
+yang mengkhianati Shang.
+
+814
+01:16:53,825 --> 01:16:55,283
+Adikku adalah istrimu,
+
+815
+01:16:55,616 --> 01:16:57,533
+Ratu.
+
+816
+01:16:57,783 --> 01:16:59,991
+Putra Mahkota, Yin Jiao,
+adalah keponakanku.
+
+817
+01:17:00,783 --> 01:17:02,408
+Mana mungkin aku berkhianat?
+
+818
+01:17:04,408 --> 01:17:05,866
+Para dewa adalah saksiku,
+
+819
+01:17:05,866 --> 01:17:07,991
+aku tak pernah berniat mengkhianatimu.
+
+820
+01:17:08,533 --> 01:17:09,825
+Yin Shou!
+
+821
+01:17:12,200 --> 01:17:15,283
+Kau bunuh ayah dan saudaramu,
+dan penyebab Kutukan Besar itu.
+
+822
+01:17:15,358 --> 01:17:16,233
+Kaulah...
+
+823
+01:17:16,866 --> 01:17:19,491
+yang berdosa.
+
+824
+01:17:22,866 --> 01:17:24,075
+Ayah kalian...
+
+825
+01:17:24,825 --> 01:17:27,575
+berusaha agar putra kesayangannya
+tetap dekat,
+
+826
+01:17:28,700 --> 01:17:31,225
+cukup dengan kenyang
+dan berpakaian bagus,
+
+827
+01:17:32,116 --> 01:17:33,700
+menunggu kelak mewarisi...
+
+828
+01:17:33,700 --> 01:17:35,366
+takhta mereka.
+
+829
+01:17:37,158 --> 01:17:38,491
+Sedangkan kau...
+
+830
+01:17:38,866 --> 01:17:42,075
+ditinggalkan di sini, di Zhaoge yang jauh,
+
+831
+01:17:42,075 --> 01:17:44,033
+untuk mengurus dirimu sendiri.
+
+832
+01:17:47,158 --> 01:17:47,991
+Dan sekarang,
+
+833
+01:17:49,825 --> 01:17:51,158
+kau sudah dewasa,
+
+834
+01:17:52,408 --> 01:17:55,491
+dilatih olehku sendiri
+untuk menjadi prajurit Shang.
+
+835
+01:17:57,616 --> 01:17:58,991
+Kekuatan dan keberanian kalian...
+
+836
+01:17:59,241 --> 01:18:02,491
+sudah ditempa
+dalam pertempuran hidup dan mati.
+
+837
+01:18:04,283 --> 01:18:06,325
+Tidak ada yang bisa memerintahkan kalian.
+
+838
+01:18:08,575 --> 01:18:11,908
+Kalian jauh lebih kuat
+ketimbang saudaramu di rumah.
+
+839
+01:18:12,575 --> 01:18:16,241
+Kalianlah yang lebih pantas
+menggantikan Ayah kalian.
+
+840
+01:18:18,950 --> 01:18:22,700
+Sekarang, kuberi kalian kesempatan
+merebut apa yang seharusnya milikmu.
+
+841
+01:18:24,783 --> 01:18:27,033
+Siapapun yang membunuh Ayahnya...
+
+842
+01:18:30,741 --> 01:18:32,491
+bisa menggantikannya.
+
+843
+01:18:39,783 --> 01:18:40,950
+Cabut pedang kalian!
+
+844
+01:19:03,116 --> 01:19:06,408
+Kalian sudah lupa
+bagaimana Su Quanxiao tewas?
+
+845
+01:19:09,991 --> 01:19:11,325
+Ayah!
+
+846
+01:19:13,158 --> 01:19:14,791
+Jika kalian tak bunuh,
+
+847
+01:19:15,825 --> 01:19:18,533
+kelak dialah yang akan membunuhmu.
+
+848
+01:19:26,450 --> 01:19:27,575
+Ayah!
+
+849
+01:19:49,241 --> 01:19:50,075
+Bagus.
+
+850
+01:19:50,366 --> 01:19:51,241
+Chong Yingbiao,
+
+851
+01:19:51,700 --> 01:19:53,783
+sekarang kau Adipati Negeri Utara.
+
+852
+01:20:00,783 --> 01:20:01,908
+Dasar bodoh!
+
+853
+01:20:04,658 --> 01:20:06,741
+Bunuh aku!
+
+854
+01:20:10,325 --> 01:20:11,158
+Tidak!
+
+855
+01:20:11,450 --> 01:20:12,200
+Tidak!
+
+856
+01:20:12,241 --> 01:20:12,950
+Tidak!
+
+857
+01:20:14,616 --> 01:20:16,158
+Anakku!
+
+858
+01:20:18,825 --> 01:20:19,741
+Anakku!
+
+859
+01:20:38,575 --> 01:20:39,700
+Kau harus...
+
+860
+01:20:39,950 --> 01:20:41,533
+hidup.
+
+861
+01:20:43,366 --> 01:20:44,408
+Jiang Wenhuan,
+
+862
+01:20:45,200 --> 01:20:46,908
+sekarang kau Adipati Timur.
+
+863
+01:20:47,783 --> 01:20:48,616
+Ayah!
+
+864
+01:21:08,741 --> 01:21:09,700
+Ji Fa,
+
+865
+01:21:10,158 --> 01:21:11,866
+tunggu apa lagi?
+
+866
+01:21:17,950 --> 01:21:20,116
+Kau memohon agar Ayahmu di ampuni?
+
+867
+01:21:21,950 --> 01:21:22,491
+Tidak.
+
+868
+01:21:23,658 --> 01:21:25,200
+Ji Chang-lah yang pengkhianat...
+
+869
+01:21:25,200 --> 01:21:27,075
+yang pantas dihukum mati.
+
+870
+01:21:27,116 --> 01:21:29,366
+Ke-4 Adipati ini
+merencanakan pengkhianatan...
+
+871
+01:21:29,950 --> 01:21:32,241
+karena mereka termakan tipuan Ji Chang.
+
+872
+01:21:32,241 --> 01:21:33,616
+Ji Chang adalah pelakunya,
+
+873
+01:21:33,825 --> 01:21:34,866
+dialah yang memulai persekongkolan ini.
+
+874
+01:21:35,283 --> 01:21:36,241
+Jika kita bunuh dia,
+
+875
+01:21:36,616 --> 01:21:38,700
+dosa-dosanya akan disembuyikan...
+
+876
+00:00:04,000 --> 00:00:22,000
+v ip2 1.e u. or g
+
+877
+01:21:38,700 --> 01:21:40,533
+dan tidak ada yang akan tahu.
+
+878
+01:21:44,283 --> 01:21:46,908
+Dia harus minta maaf di depan umum...
+
+879
+01:21:47,825 --> 01:21:49,533
+agar orang-orang tahu kalau...
+
+880
+01:21:50,075 --> 01:21:52,408
+Empat Adipati
+telah melakukan pengkhianatan,
+
+881
+01:21:53,075 --> 01:21:55,325
+dan atas keteguhan Yang Mulia-lah...
+
+882
+01:21:55,575 --> 01:21:57,408
+yang menyelamatkan Shang.
+
+883
+01:22:04,158 --> 01:22:06,575
+Kau biarkan Fengshen Bang itu diambil.
+
+884
+01:22:07,033 --> 01:22:08,116
+Itu suatu kegagalan.
+
+885
+01:22:08,991 --> 01:22:11,658
+Tapi kau menangkap 4 pengkhianat Shang.
+
+886
+01:22:11,991 --> 01:22:12,908
+Itu penghargaanmu.
+
+887
+01:22:14,325 --> 01:22:15,241
+Pengawal!
+
+888
+01:22:18,991 --> 01:22:21,283
+Seret Ji Chang ke penjara bawah tanah.
+
+889
+01:22:54,408 --> 01:22:55,325
+Ayah.
+
+890
+01:22:59,575 --> 01:23:00,491
+Ayah.
+
+891
+01:23:17,991 --> 01:23:19,783
+Kalung giok itu...
+
+892
+01:23:21,741 --> 01:23:26,158
+hadiah Ayah untukmu...
+
+893
+01:23:26,491 --> 01:23:28,866
+saat aku mengirimmu ke sini
+sebagai tawanan.
+
+894
+01:23:29,366 --> 01:23:32,158
+Kau masih ingat apa maksudnya?
+
+895
+01:23:33,450 --> 01:23:34,533
+Yang Mulia sudah janji,
+
+896
+01:23:34,908 --> 01:23:36,150
+begitu kau mengakui kejahatan Ayah,
+
+897
+01:23:36,241 --> 01:23:37,808
+dia akan mengizinkan Ayah pulang ke Xiqi.
+
+898
+01:23:38,283 --> 01:23:39,741
+Kalung itu...
+
+899
+01:23:40,741 --> 01:23:43,450
+maksudnya kelak kau harus kembali.
+
+900
+01:23:45,741 --> 01:23:47,658
+Tak lama lagi musim tanam tiba.
+
+901
+01:23:48,283 --> 01:23:48,783
+Xi Qi...
+
+902
+01:23:48,783 --> 01:23:51,908
+Ramalan palsu Ayah
+sudah menghasut pengkhianatan.
+
+903
+01:23:52,950 --> 01:23:54,366
+Kenapa Ayah tak mau mengakuinya?
+
+904
+01:23:59,283 --> 01:24:00,658
+Ayah yang salah.
+
+905
+01:24:03,325 --> 01:24:04,658
+Seharusnya Ayah...
+
+906
+01:24:05,991 --> 01:24:11,950
+tak mengirimmu tinggal bersama
+orang jahat seperti Yin Shou.
+
+907
+01:24:12,533 --> 01:24:14,158
+Kau masih berani menganggap dia jahat?
+
+908
+01:24:16,116 --> 01:24:17,575
+Aku sudah lihat sendiri...
+
+909
+01:24:17,575 --> 01:24:19,450
+bagaimana dia berjuang demi negara kita.
+
+910
+01:24:19,866 --> 01:24:21,200
+Aku mendengarnya sendiri...
+
+911
+01:24:21,741 --> 01:24:23,408
+kalau dia rela mengorbankan dirinya...
+
+912
+01:24:23,658 --> 01:24:25,491
+untuk menghentikan Kutukan Besar itu.
+
+913
+01:24:26,658 --> 01:24:27,825
+Sedangkan Ayah,
+
+914
+01:24:28,450 --> 01:24:29,700
+ada di Xiqi.
+
+915
+01:24:30,241 --> 01:24:31,616
+Ayah tak melihat semua itu,
+
+916
+01:24:32,533 --> 01:24:35,075
+dan ayah menilai dia
+sebagian kecil hidupnya saja.
+
+917
+01:24:36,533 --> 01:24:38,408
+Konyol sekali.
+
+918
+01:24:42,825 --> 01:24:44,200
+Nak,
+
+919
+01:24:45,158 --> 01:24:47,283
+mungkin yang kau lihat itu...
+
+920
+01:24:48,200 --> 01:24:53,033
+apa yang Yin Shou ingin kau lihat,
+
+921
+01:24:54,616 --> 01:24:56,283
+dan yang kau yakini itu...
+
+922
+01:24:57,200 --> 01:25:01,283
+mungkin itu yang Yin Shou
+ingin kau percayai.
+
+923
+01:25:07,158 --> 01:25:08,283
+Ayah.
+
+924
+01:25:13,408 --> 01:25:14,866
+Jika...
+
+925
+01:25:15,450 --> 01:25:18,325
+kau percaya akan semua itu,
+
+926
+01:25:19,491 --> 01:25:23,700
+kau pasti sudah bunuh Ayah
+kemarin di istana.
+
+927
+01:25:29,741 --> 01:25:31,200
+Aku putramu.
+
+928
+01:25:32,366 --> 01:25:34,075
+Mana mungkin aku membunuh Ayah?
+
+929
+01:25:40,616 --> 01:25:41,991
+Ingat,
+
+930
+01:25:43,158 --> 01:25:46,658
+tak penting kau anak siapa.
+
+931
+01:25:48,075 --> 01:25:52,700
+Yang terpenting adalah siapa dirimu.
+
+932
+01:26:13,991 --> 01:26:16,366
+Tubuh yang indah.
+
+933
+01:26:18,408 --> 01:26:19,616
+Sayang sekali...
+
+934
+01:26:20,616 --> 01:26:22,408
+jika dibunuh, kan?
+
+935
+01:26:25,116 --> 01:26:26,950
+Semuanya berawal darimu,
+
+936
+01:26:28,033 --> 01:26:29,783
+mungkin itu akan berakhir
+denganmu juga.
+
+937
+01:26:34,700 --> 01:26:35,825
+Kayaknya...
+
+938
+01:26:37,158 --> 01:26:39,991
+aku sudah membangunkan seekor monster.
+
+939
+01:26:47,450 --> 01:26:48,575
+Biarkan aku tetap di sini.
+
+940
+01:26:50,866 --> 01:26:52,408
+Aku tahu cara agar kita...
+
+941
+01:26:54,325 --> 01:26:59,283
+bisa menikmati kehidupan abadi.
+
+942
+01:27:05,075 --> 01:27:07,533
+Aku memohon Yang Mulia
+untuk menghukum mati aku.
+
+943
+01:27:09,950 --> 01:27:11,491
+Atas tuduhan apa?
+
+944
+01:27:12,200 --> 01:27:14,783
+Jiang Huanchu, Adipati Timur,
+
+945
+01:27:14,783 --> 01:27:16,533
+di hukum mati oleh Yang Mulia.
+
+946
+01:27:16,950 --> 01:27:19,491
+Sebagai adiknya,
+aku pantas dihukum mati juga.
+
+947
+01:27:20,658 --> 01:27:22,241
+Kau yakin dia bersalah?
+
+948
+01:27:25,283 --> 01:27:27,241
+Empat Adipati itu sangat setia.
+
+949
+01:27:28,116 --> 01:27:29,866
+Dengan membunuh mereka,
+
+950
+01:27:30,200 --> 01:27:32,200
+kau sudah mengkhianati
+kepercayaan rakyatmu.
+
+951
+01:27:32,908 --> 01:27:35,616
+Putra mereka adalah
+anak yang penyayang.
+
+952
+01:27:35,616 --> 01:27:37,491
+Memaksa mereka
+membunuh Ayah mereka,
+
+953
+01:27:37,491 --> 01:27:39,283
+kau sama sekali sudah tak bermoral.
+
+954
+01:27:40,950 --> 01:27:42,491
+Kau sudah bunuh...
+
+955
+01:27:42,491 --> 01:27:44,616
+lebih 4 orang.
+
+956
+01:27:44,616 --> 01:27:46,575
+Kau sudah membunuh kepercayaan dunia...
+
+957
+01:27:46,575 --> 01:27:49,200
+dan masa pemerintahan Shang
+selama 500 tahun terakhir.
+
+958
+01:27:50,533 --> 01:27:51,908
+Sebagai Ratu...
+
+959
+01:27:52,575 --> 01:27:54,783
+di negara ini,
+
+960
+01:27:54,783 --> 01:27:57,366
+sudah tugasku menasihati Raja.
+
+961
+01:27:57,366 --> 01:27:59,491
+Sebagai istrimu,
+
+962
+01:27:59,491 --> 01:28:02,783
+sudah tugasku menyampaikan dosa-dosamu.
+
+963
+01:28:02,783 --> 01:28:04,783
+Mungkin dengan kematianku bisa...
+
+964
+01:28:04,783 --> 01:28:06,741
+menyadarkanmu.
+
+965
+01:28:06,991 --> 01:28:08,991
+Orang mati sudah pergi.
+
+966
+01:28:11,491 --> 01:28:13,950
+Kenapa kau mau sia-siakan hidupmu?
+
+967
+01:28:20,200 --> 01:28:22,366
+Tubuh sepertimu...
+
+968
+01:28:23,283 --> 01:28:24,950
+sulit untuk didapatkan.
+
+969
+01:28:28,325 --> 01:28:29,991
+Sebagai Ratu,
+
+970
+01:28:31,991 --> 01:28:34,033
+kau berhak atas semua...
+
+971
+01:28:34,033 --> 01:28:35,825
+kesenangan yang ada di dunia ini.
+
+972
+01:28:45,200 --> 01:28:47,158
+Gimana kalau kau bergabung...
+
+973
+01:28:48,325 --> 01:28:50,741
+untuk bersenang-senang?
+
+974
+01:29:55,158 --> 01:29:57,616
+Pantas saja Yang Mulia sangat menyukaimu.
+
+975
+01:30:00,533 --> 01:30:02,241
+Aku sendiri bahkan...
+
+976
+01:30:03,200 --> 01:30:05,866
+merasa tertarik padamu.
+
+977
+01:30:12,991 --> 01:30:16,033
+Sungguh aneh tempat sedingin
+dan terpencil seperti Jizhou...
+
+978
+01:30:17,575 --> 01:30:21,975
+bisa menghasilkan kecantikan yang
+membuat terpana seperti dirimu.
+
+979
+01:30:32,741 --> 01:30:33,950
+Andaika aku Raja,
+
+980
+01:30:33,950 --> 01:30:37,033
+aku juga akan takluk pada rayuanmu.
+
+981
+01:30:39,950 --> 01:30:42,283
+Dasar wanita penggoda,
+
+982
+01:30:42,658 --> 01:30:44,325
+pergilah dari dunia ini!
+
+983
+01:31:46,241 --> 01:31:47,158
+Siluman!
+
+984
+01:32:50,450 --> 01:32:51,366
+Yang Mulia!
+
+985
+01:32:51,450 --> 01:32:54,366
+Jadi kau memang berniat membunuh Ayah!
+
+986
+01:32:54,491 --> 01:32:55,241
+Ayah!
+
+987
+01:32:58,825 --> 01:32:59,366
+Dia bukan manusia!
+
+988
+01:32:59,658 --> 01:33:00,616
+Dia itu siluman rubah!
+
+989
+01:33:01,033 --> 01:33:02,200
+Lindungi Yang Mulia!
+
+990
+01:33:05,700 --> 01:33:06,891
+Pengawal!
+
+991
+01:33:35,658 --> 01:33:36,950
+Ji Fa.
+
+992
+01:33:41,158 --> 01:33:42,741
+Aku harus bagaimana?
+
+993
+01:33:48,200 --> 01:33:50,283
+Ini jalan ke luar Gerbang Meridian.
+
+994
+01:33:50,533 --> 01:33:53,033
+Temui Pendeta Agung Bi Gan
+dan bersembunyilah di sana.
+
+995
+01:33:56,825 --> 01:33:58,016
+Jika kau lepaskan aku,
+
+996
+01:33:58,741 --> 01:34:00,333
+bagaimana denganmu?
+
+997
+01:34:01,575 --> 01:34:03,441
+Berikan pedang Siluman Adipati itu.
+
+998
+01:34:15,116 --> 01:34:15,700
+Ji Fa.
+
+999
+01:34:20,533 --> 01:34:21,366
+Chong Yingbiao,
+
+1000
+01:34:22,116 --> 01:34:22,950
+gelap di dalam sana.
+
+1001
+01:34:23,200 --> 01:34:24,658
+Akan kuambilkan obor.
+
+1002
+01:34:26,866 --> 01:34:27,658
+Ambilkan...
+
+1003
+01:34:28,700 --> 01:34:29,491
+obor!
+
+1004
+01:34:39,366 --> 01:34:41,366
+Kutukan Besar sudah melanda kita,
+
+1005
+01:34:41,366 --> 01:34:42,825
+dan para penjahat ada di mana-mana.
+
+1006
+01:34:42,825 --> 01:34:45,533
+Ini sudah dalam masa krisis.
+
+1007
+01:34:45,533 --> 01:34:46,950
+Untuk menghilangkan Kutukan Besar itu,
+
+1008
+01:34:46,950 --> 01:34:48,575
+para penjahat harus dihabisi.
+
+1009
+01:34:48,575 --> 01:34:51,366
+Ini sudah bentuk kepedulian
+Baginda Raja terhadap rakyatnya.
+
+1010
+01:34:51,366 --> 01:34:52,825
+Empat Adipati...
+
+1011
+01:34:52,825 --> 01:34:54,241
+Timur, Barat, Selatan dan Utara...
+
+1012
+01:34:54,241 --> 01:34:55,866
+adalah pengkhianat yang tak tahu
+berterima kasih...
+
+1013
+01:34:55,866 --> 01:34:57,616
+dan sudah merencanakan pengkhianatan.
+
+1014
+01:34:57,616 --> 01:34:59,491
+Tapi mereka gagal,
+
+1015
+01:34:59,491 --> 01:35:01,116
+mati dan dipenjara.
+
+1016
+01:35:01,116 --> 01:35:02,741
+Ratu, Jiang,
+
+1017
+01:35:02,741 --> 01:35:05,366
+tak tahu diri sebagai seorang wanita,
+dan bicaranya sudah kelewatan.
+
+1018
+01:35:05,366 --> 01:35:07,075
+Malu atas perbuatannya,
+
+1019
+01:35:07,075 --> 01:35:08,991
+- dia mati tenggelam.
+- Berlututlah di hadapan Adapti Timur!
+
+1020
+01:35:08,991 --> 01:35:10,575
+Putra Mahkota, Yin Jiao,
+
+1021
+01:35:10,575 --> 01:35:12,283
+sikapnya yang tak bermoral,
+
+1022
+01:35:12,283 --> 01:35:13,866
+menyusup ke istana malam hari...
+
+1023
+01:35:13,866 --> 01:35:15,825
+mau membunuh Ayah dan Rajanya.
+
+1024
+01:35:15,825 --> 01:35:17,783
+Setelah dia gagal, dia kabur...
+
+1025
+01:35:17,783 --> 01:35:20,408
+dan sekarang jadi buronan.
+
+1026
+01:35:30,700 --> 01:35:33,033
+Pedang Yin Jiao ini memang tajam.
+
+1027
+01:35:45,158 --> 01:35:46,908
+Aku sudah mengawasimu jauh hari.
+
+1028
+01:35:47,783 --> 01:35:49,408
+Kau sembunyikan dimana Yin Jiao?
+
+1029
+01:35:51,075 --> 01:35:52,075
+Di kandang kuda?
+
+1030
+01:35:52,950 --> 01:35:53,700
+Di barak?
+
+1031
+01:35:55,616 --> 01:35:57,075
+Atau di tempat kumuh?
+
+1032
+01:36:01,283 --> 01:36:02,450
+Bangsat.
+
+1033
+01:36:05,241 --> 01:36:05,866
+Ayo.
+
+1034
+01:36:06,158 --> 01:36:06,783
+Ayo maju!
+
+1035
+01:36:33,616 --> 01:36:34,491
+Kakak!
+
+1036
+01:36:39,283 --> 01:36:40,783
+Bertahun-tahun sendirian di Zhaoge,
+
+1037
+01:36:40,908 --> 01:36:42,325
+pasti kau sering di ledek.
+
+1038
+01:36:43,408 --> 01:36:44,366
+Tidaklah.
+
+1039
+01:36:45,908 --> 01:36:47,325
+Justru akulah yang penganggu!
+
+1040
+01:36:47,491 --> 01:36:49,908
+Kau dari dulu suka ingin bersaing,
+
+1041
+01:36:50,366 --> 01:36:51,950
+selalu mau jadi pahlawan.
+
+1042
+01:36:52,866 --> 01:36:55,241
+Kakak ingat saat Shang datang
+mengambil tawanan...
+
+1043
+01:36:55,908 --> 01:36:58,158
+dan Ayah menyuruh kita
+berlomba memanah...
+
+1044
+01:36:58,158 --> 01:36:59,833
+agar tahu siapa yang pergi.
+
+1045
+01:37:00,075 --> 01:37:01,583
+Jangan kira Kakak tak tahu...
+
+1046
+01:37:01,783 --> 01:37:04,366
+kau sudah merusak panahku.
+
+1047
+01:37:04,450 --> 01:37:05,908
+Jika tidak,
+
+1048
+01:37:05,908 --> 01:37:07,475
+mana bisa aku mengalahkanmu?
+
+1049
+01:37:09,075 --> 01:37:10,116
+Kakak tahu...
+
+1050
+01:37:10,575 --> 01:37:13,033
+kau belum puas dengan
+kehidupan tenang di Xiqi.
+
+1051
+01:37:13,658 --> 01:37:16,075
+Kau mau sekali jadi prajurit di Zhaoge.
+
+1052
+01:37:16,825 --> 01:37:19,033
+Sekarang kau pengawal kerajaan,
+
+1053
+01:37:19,908 --> 01:37:21,908
+kakak turut bahagia.
+
+1054
+01:37:27,575 --> 01:37:28,408
+Kakak.
+
+1055
+01:37:28,741 --> 01:37:30,241
+kau-kan jadi penerus
+Adipati Xiqi selanjutnya.
+
+1056
+01:37:30,825 --> 01:37:32,241
+Mestinya kau tinggal di sana.
+
+1057
+01:37:40,075 --> 01:37:43,116
+Di gerbong itu penuh dengan harta.
+
+1058
+01:37:43,241 --> 01:37:44,158
+Katakan...
+
+1059
+01:37:45,033 --> 01:37:47,241
+itu sudah cukup menyelamatkan Ayah?
+
+1060
+01:37:55,991 --> 01:37:58,308
+Harta sebanyak apa pun tak bakal cukup.
+
+1061
+01:38:04,616 --> 01:38:06,241
+Aku sudah bicara dengan Ayah,
+
+1062
+01:38:08,325 --> 01:38:10,075
+tapi Ayah tak mau mengakui kesalahannya.
+
+1063
+01:38:11,283 --> 01:38:13,366
+Ayah memang orangnya begitu.
+
+1064
+01:38:15,200 --> 01:38:16,866
+Dia tak bakal mau...
+
+1065
+01:38:18,491 --> 01:38:20,241
+yang dia tak yakini.
+
+1066
+01:38:22,408 --> 01:38:22,991
+Kakak,
+
+1067
+01:38:24,700 --> 01:38:25,908
+jangan khawatir.
+
+1068
+01:38:26,325 --> 01:38:27,700
+Akan kuusahakan.
+
+1069
+01:38:30,700 --> 01:38:31,991
+Takutnya...
+
+1070
+01:38:33,450 --> 01:38:35,325
+Ayah sudah tua dan lemah.
+
+1071
+01:38:36,491 --> 01:38:38,600
+Dia tak bisa bertahan lebih lama lagi.
+
+1072
+01:38:45,158 --> 01:38:46,533
+Naga Saljuku!
+
+1073
+01:38:50,033 --> 01:38:51,408
+Kau sudah besar.
+
+1074
+01:38:51,991 --> 01:38:53,783
+Mereka masih mengenaliku!
+
+1075
+01:38:56,366 --> 01:38:58,116
+Kau sudah lama pergi.
+
+1076
+01:38:58,241 --> 01:39:00,616
+Mungkin kau sudah tak tahu
+jalan pulang lagi.
+
+1077
+01:39:01,533 --> 01:39:04,616
+Kedua Naga Salju ini
+hadiah dari Ayah,
+
+1078
+01:39:05,283 --> 01:39:07,033
+tapi aku sudah melatihnya.
+
+1079
+01:39:08,200 --> 01:39:09,491
+Mereka cepat...
+
+1080
+01:39:10,033 --> 01:39:11,283
+dan tahu jalan pulang.
+
+1081
+01:40:24,741 --> 01:40:26,450
+Harta yang kau bawa itu...
+
+1082
+01:40:26,450 --> 01:40:27,783
+tidaklah membuatku senang,
+
+1083
+01:40:29,325 --> 01:40:30,883
+tapi kehadiranmu-lah...
+
+1084
+01:40:31,116 --> 01:40:32,491
+sangat membuatku senang.
+
+1085
+01:40:38,283 --> 01:40:39,200
+Katakan,
+
+1086
+01:40:39,866 --> 01:40:41,241
+kau mau apa?
+
+1087
+01:40:41,741 --> 01:40:43,450
+Akan kukabulkan semua permintaanmu.
+
+1088
+01:41:04,616 --> 01:41:06,158
+Ayahku sudah terlalu tua dan lemah...
+
+1089
+01:41:06,408 --> 01:41:08,450
+hidup di penjara.
+
+1090
+01:41:08,783 --> 01:41:10,283
+Bersediakah Yang Mulia mengampuninya...
+
+1091
+01:41:10,408 --> 01:41:11,741
+dan membebaskannya?
+
+1092
+01:41:11,908 --> 01:41:13,700
+Hukumlah aku...
+
+1093
+01:41:14,408 --> 01:41:16,033
+sebagai gantinya.
+
+1094
+01:41:18,241 --> 01:41:20,408
+Ayahmu sudah dijatuhi hukuman mati.
+
+1095
+01:41:25,658 --> 01:41:27,491
+Kalau begitu aku rela mati demi dia.
+
+1096
+01:42:22,366 --> 01:42:23,908
+Ji Fa, ini aku.
+
+1097
+01:42:26,825 --> 01:42:27,783
+Biksu iblis!
+
+1098
+01:42:28,491 --> 01:42:31,033
+Setiap kali kau datang,
+pasti terjadi sesuatu yang buruk.
+
+1099
+01:42:31,866 --> 01:42:32,866
+Dimana Yin Jiao?
+
+1100
+01:42:33,200 --> 01:42:34,033
+Antar aku temui dia!
+
+1101
+01:42:34,033 --> 01:42:35,741
+Kau belum puas
+sampai kami semua terbunuh!
+
+1102
+01:42:35,741 --> 01:42:37,158
+Cuma aku yang bisa menyelamatkannya.
+
+1103
+01:42:37,158 --> 01:42:38,825
+Dia tak bisa tinggal lagi di Zhaoge.
+
+1104
+01:42:41,700 --> 01:42:43,075
+Terakhir kali kau berhasil lolos,
+
+1105
+01:42:43,158 --> 01:42:45,075
+malah kali ini
+kau mau menyerahkan diri.
+
+1106
+01:42:45,533 --> 01:42:46,408
+Tak usah banyak ngomong.
+
+1107
+01:42:46,408 --> 01:42:47,950
+Ikutlah bersamaku.
+
+1108
+01:42:49,116 --> 01:42:50,533
+Tinggalkan Zhaoge.
+
+1109
+01:42:50,950 --> 01:42:52,700
+Kunlun akan melindungimu.
+
+1110
+01:42:53,116 --> 01:42:55,200
+Kaulah penerus Raja Segala Kerajaan.
+
+1111
+01:42:55,783 --> 01:42:57,116
+Masa depan rakyat...
+
+1112
+01:42:57,116 --> 01:42:57,783
+tergantung...
+
+1113
+01:42:59,991 --> 01:43:01,908
+Ayahku Raja Segala Kerajaan.
+
+1114
+01:43:02,283 --> 01:43:03,575
+Dialah yang akan buka
+Fengshen Bang itu...
+
+1115
+01:43:03,616 --> 01:43:04,825
+dan menyelamatkan dunia!
+
+1116
+01:43:06,200 --> 01:43:07,408
+Sudah kubilang, pak tua.
+
+1117
+01:43:08,450 --> 01:43:09,658
+Dia tak akan nurut.
+
+1118
+01:43:09,950 --> 01:43:11,366
+Kau masih percaya sama Ayahmu?
+
+1119
+01:43:11,575 --> 01:43:13,533
+Ayahku sudah di sihir oleh siluman rubah.
+
+1120
+01:43:14,950 --> 01:43:16,491
+Nasib baik dan buruk itu...
+
+1121
+01:43:17,616 --> 01:43:19,241
+tidaklah terjadi dengan sendirinya.
+
+1122
+01:43:20,491 --> 01:43:22,241
+Siapa saja yang berniat jahat...
+
+1123
+01:43:22,991 --> 01:43:24,950
+akan menarik siluman.
+
+1124
+01:43:26,325 --> 01:43:27,741
+Bagaimana kalau...
+
+1125
+01:43:28,575 --> 01:43:33,783
+Bagaimana kalau Ayahmu
+tak terkena sihir oleh siluman rubah itu?
+
+1126
+01:43:38,116 --> 01:43:39,908
+Jika kita bisa memancing Daji
+ke tempat ini...
+
+1127
+01:43:39,908 --> 01:43:41,200
+dan membunuh siluman rubah itu,
+
+1128
+01:43:41,200 --> 01:43:44,241
+maka kita akan tahu yang sebenarnya.
+
+1129
+01:43:51,616 --> 01:43:54,408
+Pedih rasanya melihat penderitaanmu.
+
+1130
+01:43:57,783 --> 01:43:59,533
+Kau kemari mau membunuhku?
+
+1131
+01:44:13,616 --> 01:44:15,283
+Aku iri padamu...
+
+1132
+01:44:15,991 --> 01:44:17,700
+karena kedua putramu sangat baik.
+
+1133
+01:44:18,950 --> 01:44:20,450
+Malah, aku...
+
+1134
+01:44:20,866 --> 01:44:22,366
+yang hanya punya satu,
+
+1135
+01:44:23,033 --> 01:44:24,733
+tapi mau membunuhku.
+
+1136
+01:44:26,366 --> 01:44:27,866
+Kita berdua seorang ayah.
+
+1137
+01:44:29,033 --> 01:44:30,533
+Kenapa aku begitu menderita?
+
+1138
+01:44:32,783 --> 01:44:36,200
+Bagaimanapun,
+caramu memperlakukan Ayahmu sendiri,
+
+1139
+01:44:36,866 --> 01:44:41,783
+tabiat itu akan dikuti oleh putramu.
+
+1140
+01:44:42,450 --> 01:44:43,866
+Tapi kau tak tahu...
+
+1141
+01:44:44,408 --> 01:44:46,575
+cara ayahku memperlakukanku.
+
+1142
+01:45:00,700 --> 01:45:02,575
+Aku begitu mengagumimu.
+
+1143
+01:45:03,658 --> 01:45:05,283
+Aku harus bagaimana?
+
+1144
+01:45:05,700 --> 01:45:07,908
+Aku mau dengar nasihatmu.
+
+1145
+01:45:10,408 --> 01:45:13,033
+Jika kau tepati janjimu...
+
+1146
+01:45:13,950 --> 01:45:15,766
+dan mengorbankan dirimu,
+
+1147
+01:45:16,116 --> 01:45:17,783
+dosa-dosamu...
+
+1148
+01:45:18,700 --> 01:45:21,033
+akan diampuni,
+
+1149
+01:45:22,450 --> 01:45:27,158
+dan kau akan dihormati
+sebagai keturunan Cheng Tang.
+
+1150
+01:45:28,741 --> 01:45:30,283
+Masalahnya,
+
+1151
+01:45:31,158 --> 01:45:34,116
+apa kau mampu?
+
+1152
+01:45:45,408 --> 01:45:48,866
+Bo Yikao datang?
+Di Zhaoge?
+
+1153
+01:45:50,200 --> 01:45:51,200
+Dimana dia?
+
+1154
+01:45:56,033 --> 01:45:58,366
+Kau sangat menyayangi putramu.
+
+1155
+01:45:58,991 --> 01:46:02,658
+Kau tidak tahu
+rasanya mencicipi dia?
+
+1156
+01:46:09,616 --> 01:46:12,075
+Bahkan binatang buas pun
+tak akan memakan anaknya.
+
+1157
+01:46:13,700 --> 01:46:16,241
+Kau lebih rendah dari seekor binatang.
+
+1158
+01:46:27,950 --> 01:46:29,950
+Kau mau makan?
+
+1159
+01:46:32,991 --> 01:46:34,616
+Makanlah.
+
+1160
+01:46:36,116 --> 01:46:37,741
+Makan!
+
+1161
+01:46:40,533 --> 01:46:42,158
+Makan!
+
+1162
+01:46:43,700 --> 01:46:46,325
+Dasar monster!
+
+1163
+01:46:46,825 --> 01:46:50,950
+Bunuh aku!
+
+1164
+01:46:50,950 --> 01:46:52,575
+Aku sudah janji sama Bo Yikao...
+
+1165
+01:46:52,991 --> 01:46:56,100
+kalau aku tak akan membunuhmu
+dan membebaskanmu.
+
+1166
+01:46:57,491 --> 01:46:59,283
+Kau tahu harus bagaimana.
+
+1167
+01:47:07,325 --> 01:47:08,658
+Ingatlah,
+
+1168
+01:47:09,408 --> 01:47:13,033
+Putramu yang satunya ada ditanganku.
+
+1169
+01:48:02,116 --> 01:48:04,158
+Aku sudah berdosa.
+
+1170
+01:48:05,908 --> 01:48:09,408
+Aku sudah melakukan ramalan palsu.
+
+1171
+01:48:09,700 --> 01:48:12,950
+Aku merencanakan pengkhianatan.
+
+1172
+01:48:13,741 --> 01:48:16,908
+Aku menghasut pemberontakan.
+
+1173
+01:48:18,158 --> 01:48:21,366
+Aku seorang penjahat.
+
+1174
+01:48:21,366 --> 01:48:24,283
+Aku tak bisa diampuni.
+
+1175
+01:48:25,950 --> 01:48:28,283
+Aku sudah berdosa.
+
+1176
+01:48:29,200 --> 01:48:32,783
+Aku sudah melakukan ramalan palsu.
+
+1177
+01:48:32,783 --> 01:48:36,325
+Aku merencanakan pengkhianatan.
+
+1178
+01:48:36,991 --> 01:48:38,075
+Aku.
+
+1179
+01:48:39,491 --> 01:48:42,825
+Aku menghasut pemberontakan.
+
+1180
+01:48:46,033 --> 01:48:49,616
+Aku membuat ramalan palsu.
+
+1181
+01:48:51,575 --> 01:48:54,533
+Aku merencanakan pengkhianatan.
+
+1182
+01:48:56,241 --> 01:48:57,825
+Aku...
+
+1183
+01:48:58,783 --> 01:49:00,366
+menghasut pemberontakan.
+
+1184
+01:49:02,158 --> 01:49:03,741
+Aku seorang penjahat.
+
+1185
+01:49:10,741 --> 01:49:12,325
+Aku seorang penjahat.
+
+1186
+01:49:14,741 --> 01:49:16,325
+Aku...
+
+1187
+01:49:16,325 --> 01:49:19,908
+sudah membuat ramalan palsu.
+
+1188
+01:49:30,783 --> 01:49:32,783
+Aku, Yin Shou,
+
+1189
+01:49:32,783 --> 01:49:35,700
+membawa Ny. Su untuk menemui leluhur...
+
+1190
+01:49:36,866 --> 01:49:39,325
+dan memohon doa restu mereka.
+
+1191
+01:49:48,491 --> 01:49:50,533
+Mendekatlah.
+
+1192
+01:49:50,741 --> 01:49:53,825
+Biar leluhur melihatmu.
+
+1193
+01:50:10,075 --> 01:50:13,450
+Jika aku tak melihatnya sendiri,
+
+1194
+01:50:13,991 --> 01:50:18,241
+aku tak bakal percaya kecantikan
+seperti ini benar ada.
+
+1195
+01:50:19,325 --> 01:50:21,158
+Ulurkan tanganmu.
+
+1196
+01:50:30,075 --> 01:50:30,866
+Siluman Rubah,
+
+1197
+01:50:30,866 --> 01:50:34,241
+aku sudah mentotok titik kulminasimu!
+
+1198
+01:50:34,825 --> 01:50:36,491
+Bersiaplah untuk mati.
+
+1199
+01:50:36,491 --> 01:50:38,908
+Kenapa bilangi dia siluman rubah?
+
+1200
+01:50:40,241 --> 01:50:41,575
+Yin Jiao.
+
+1201
+01:50:47,200 --> 01:50:50,325
+Jadi di sini kau rupanya bersembunyi.
+
+1202
+01:50:56,241 --> 01:50:57,908
+Aku melihatnya sendiri...
+
+1203
+01:50:58,783 --> 01:51:01,133
+bagaimana siluman rubah ini
+merasuki tubuh Daji.
+
+1204
+01:51:01,866 --> 01:51:03,408
+Ayah, aku tak sengaja melukaimu,
+
+1205
+01:51:03,408 --> 01:51:05,616
+saat aku mau membunuh siluman ini...
+
+1206
+01:51:06,158 --> 01:51:07,575
+dan membalaskan dendam Ibu.
+
+1207
+01:51:08,325 --> 01:51:10,366
+Daji sudah lama bersamaku.
+
+1208
+01:51:10,866 --> 01:51:12,575
+Jika dia siluman rubah,
+aku pasti tahu.
+
+1209
+01:51:12,575 --> 01:51:13,991
+Saat aku akan membunuhnya,
+
+1210
+01:51:13,991 --> 01:51:17,325
+dia akan berubah ke wujud aslinya.
+
+1211
+01:51:17,825 --> 01:51:19,575
+Bagaimana kalau dia bukan siluman rubah?
+
+1212
+01:51:19,741 --> 01:51:21,725
+Kau akan bunuh
+orang yang tak bersalah!
+
+1213
+01:51:25,700 --> 01:51:28,741
+Sebagai Pendeta Agung,
+
+1214
+01:51:29,116 --> 01:51:32,116
+aku punya jantung ajaib bertujuh ruang.
+
+1215
+01:51:32,950 --> 01:51:34,908
+Begitu dia makan jantung ini,
+
+1216
+01:51:35,116 --> 01:51:36,450
+siluman mana pun...
+
+1217
+01:51:36,866 --> 01:51:40,533
+akan berubah ke wujud aslinya.
+
+1218
+01:51:40,950 --> 01:51:43,950
+Kau mau serahkan jantungmu untuk ini?
+
+1219
+01:51:43,950 --> 01:51:45,616
+Apa bedanya jantungku...
+
+1220
+01:51:45,700 --> 01:51:47,366
+dengan keluarga kerajaan...
+
+1221
+01:51:48,575 --> 01:51:51,158
+dan dinasti kita?
+
+1222
+01:51:56,825 --> 01:52:01,616
+Tapi jika Su Daji benar siluman rubah,
+
+1223
+01:52:01,741 --> 01:52:04,158
+Yang Mulia akan lakukan apa?
+
+1224
+01:52:07,408 --> 01:52:08,841
+Katakan permintaanmu.
+
+1225
+01:52:09,533 --> 01:52:10,991
+Dia harus dihukum mati.
+
+1226
+01:52:12,325 --> 01:52:14,616
+Yin Jiao harus diampuni.
+
+1227
+01:52:15,366 --> 01:52:17,991
+Dan Empat Adipati
+harus dinyatakan tak bersalah.
+
+1228
+01:52:18,783 --> 01:52:20,741
+Atas nama leluhur kita,
+
+1229
+01:52:21,366 --> 01:52:24,783
+bersumpahlah untuk menepatinya.
+
+1230
+01:52:29,616 --> 01:52:31,575
+Leluhur akan menjadi saksiku,
+
+1231
+01:52:32,741 --> 01:52:34,033
+aku bersumpah!
+
+1232
+01:52:35,200 --> 01:52:37,866
+Paman, jangan!
+
+1233
+01:52:56,783 --> 01:52:57,700
+Telan itu!
+
+1234
+01:53:38,741 --> 01:53:41,116
+Siluman rubah,
+jangan menyakiti Yang Mulia!
+
+1235
+01:53:44,658 --> 01:53:46,033
+Siluman rubah sudah menampakkan dirinya.
+
+1236
+01:53:46,116 --> 01:53:49,033
+Sekarang, Yang Mulia, bunuh dia!
+
+1237
+01:53:52,866 --> 01:53:54,700
+Atas nama leluhur kita,
+
+1238
+01:53:55,116 --> 01:53:58,783
+Yin Shou, tunggu apa lagi?
+
+1239
+01:54:01,408 --> 01:54:02,366
+Leluhur kita?
+
+1240
+01:54:07,616 --> 01:54:09,200
+Mana para leluhur itu?
+
+1241
+01:54:13,075 --> 01:54:15,283
+Jika aku panggil mereka,
+apa mereka akan jawab?
+
+1242
+01:54:17,200 --> 01:54:19,283
+Kalian semua bilang
+rubah putih ini siluman.
+
+1243
+01:54:21,658 --> 01:54:23,783
+Malah, dia cantik.
+
+1244
+01:54:26,116 --> 01:54:29,408
+Cuma dia yang tahu
+apa yang sebenarnya aku mau.
+
+1245
+01:54:30,700 --> 01:54:32,425
+Kau mau jadi...
+
+1246
+01:54:32,908 --> 01:54:38,325
+Raja Seluruh Dunia.
+
+1247
+01:54:50,741 --> 01:54:51,908
+Dinasti Shang...
+
+1248
+01:54:52,616 --> 01:54:54,116
+sudah berakhir.
+
+1249
+01:54:57,491 --> 01:54:58,158
+Pendeta Agung!
+
+1250
+01:54:58,158 --> 01:54:59,825
+Dinasti Shang...
+
+1251
+01:55:00,450 --> 01:55:03,408
+sudah berakhir.
+
+1252
+01:55:09,991 --> 01:55:11,575
+Paman Agung!
+
+1253
+01:55:13,116 --> 01:55:14,366
+Dinasti Shang...
+
+1254
+01:55:18,283 --> 01:55:20,116
+Bawa keluar Pendeta Agung dari sini.
+
+1255
+01:55:37,241 --> 01:55:38,533
+Bocah pengkhianat,
+
+1256
+01:55:39,908 --> 01:55:41,450
+menurutmu ini lucu?
+
+1257
+01:55:44,241 --> 01:55:47,058
+Kurasa Ayah sudah temakan sihir
+oleh siluman rubah itu.
+
+1258
+01:55:48,533 --> 01:55:51,075
+Makanya aku selalu berharap...
+
+1259
+01:55:51,533 --> 01:55:53,366
+kau akan kembali menjadi...
+
+1260
+01:55:53,366 --> 01:55:55,700
+seorang ayah...
+
+1261
+01:55:55,991 --> 01:55:57,575
+yang kuhormati dan kukagumi.
+
+1262
+01:55:58,075 --> 01:55:59,700
+Aku bodoh sekali.
+
+1263
+01:56:02,408 --> 01:56:05,450
+Ini ulahmu!
+
+1264
+01:56:09,991 --> 01:56:11,866
+Kau memberiku kehidupanku.
+
+1265
+01:56:13,783 --> 01:56:15,616
+Sekarang kau bisa ambil kembali!
+
+1266
+01:56:18,325 --> 01:56:19,075
+Yin Jiao!
+
+1267
+01:56:33,075 --> 01:56:34,158
+Pengawal!
+
+1268
+01:56:37,991 --> 01:56:39,241
+Bawa dia pergi.
+
+1269
+01:56:48,533 --> 01:56:50,700
+Dia akan dihukum mati
+di Gerbang Meridian besok.
+
+1270
+01:56:59,366 --> 01:57:01,700
+Jangan kira aku tak tahu
+apa yang kau rencanakan.
+
+1271
+01:57:01,950 --> 01:57:02,908
+Aku takkan pernah...
+
+1272
+01:57:16,241 --> 01:57:17,700
+Dari semua tawanan,
+
+1273
+01:57:19,200 --> 01:57:20,700
+kaulah kesayanganku,
+
+1274
+01:57:22,325 --> 01:57:24,741
+karena saat kau tiba di Zhaoge,
+
+1275
+01:57:24,741 --> 01:57:26,450
+kau bilang padaku,
+
+1276
+01:57:26,866 --> 01:57:29,283
+kau mau jadi pahlawan.
+
+1277
+01:57:31,116 --> 01:57:33,241
+Kita ini orang baik,
+
+1278
+01:57:34,450 --> 01:57:35,366
+jadi,
+
+1279
+01:57:37,158 --> 01:57:39,450
+satu kesempatan terakhir buatmu.
+
+1280
+01:57:39,866 --> 01:57:41,408
+Bunuhlah Ji Chang.
+
+1281
+01:57:44,575 --> 01:57:45,866
+Bunuh,
+
+1282
+01:57:47,158 --> 01:57:50,200
+kau akan jadi putra dan pewarisku,
+
+1283
+01:57:50,950 --> 01:57:53,033
+Putra Mahkota Shang.
+
+1284
+01:57:54,658 --> 01:57:56,533
+Jangan mengecewakanku lagi.
+
+1285
+01:58:04,450 --> 01:58:06,783
+Aku seorang penjahat.
+
+1286
+01:58:07,950 --> 01:58:11,283
+Aku tak bisa di ampuni.
+
+1287
+01:58:13,866 --> 01:58:16,075
+Aku sudah berdosa.
+
+1288
+01:58:35,033 --> 01:58:37,825
+Kukira aku tak bakalan
+melihat sinar matahari lagi,
+
+1289
+01:58:38,950 --> 01:58:40,950
+tapi kau menyelamatkanku.
+
+1290
+01:58:41,783 --> 01:58:43,766
+Aku sudah berlatih ribuan tahun...
+
+1291
+01:58:44,200 --> 01:58:46,250
+agar bisa menjelma jadi manusia...
+
+1292
+01:58:46,283 --> 01:58:48,283
+dan ikut menikmati dunia.
+
+1293
+01:58:50,616 --> 01:58:54,325
+Tapi Raja Cheng Tang
+mengurungku di Makam Xuanyuan.
+
+1294
+01:58:55,908 --> 01:58:57,158
+Sudah 500 tahun...
+
+1295
+01:58:59,366 --> 01:59:03,283
+Hanya keturunannya
+yang bisa membuka segel itu.
+
+1296
+01:59:04,325 --> 01:59:08,116
+Kau menghidupkanku kembali.
+
+1297
+01:59:11,741 --> 01:59:13,533
+Sebagai balasannya,
+
+1298
+01:59:14,325 --> 01:59:16,575
+akan kurapalkan
+mantra pemindahan roh...
+
+1299
+01:59:16,991 --> 01:59:19,241
+untuk merasuki tubuh Yin Qi...
+
+1300
+01:59:20,283 --> 01:59:22,033
+yang akan menuruti keinginanmu,
+
+1301
+01:59:23,033 --> 01:59:25,866
+dan mendapatkan yang kau mau.
+
+1302
+01:59:29,575 --> 01:59:31,366
+Akan kujadikan kau abadi,
+
+1303
+01:59:33,116 --> 01:59:34,783
+seorang Raja yang kekal.
+
+1304
+01:59:51,825 --> 01:59:54,158
+Seorang rakyat melayani rajanya...
+
+1305
+01:59:54,158 --> 01:59:56,250
+bagaikan matahari dan bulan di langit.
+
+1306
+01:59:56,991 --> 02:00:00,116
+Itulah dasar dari sebuah negara.
+
+1307
+02:00:01,325 --> 02:00:03,200
+Seorang anak melayani Ayahnya...
+
+1308
+02:00:03,491 --> 02:00:05,325
+seperti para dewa yang ada di langit.
+
+1309
+02:00:05,700 --> 02:00:08,158
+Itulah pondasi sebuah keluarga.
+
+1310
+02:00:09,158 --> 02:00:12,783
+Makanya tidak ada dosa
+yang lebih besar...
+
+1311
+02:00:12,783 --> 02:00:15,450
+dari pembunuhan
+terhadap ayah dan raja.
+
+1312
+02:00:15,783 --> 02:00:17,075
+Putra pengkhianat, Yin Jiao,
+
+1313
+02:00:17,450 --> 02:00:19,200
+sudah melanggar hukum dan etika,
+
+1314
+02:00:19,241 --> 02:00:20,825
+berniat mau membunuh...
+
+1315
+02:00:21,033 --> 02:00:23,366
+Ji Chang,
+
+1316
+02:00:23,616 --> 02:00:27,741
+siapa yang mau ditakdirkan mati
+ditangan keturunan kita sendiri?
+
+1317
+02:00:27,741 --> 02:00:29,450
+Yin Shou!
+
+1318
+02:00:30,908 --> 02:00:34,825
+Hidup atau mati,
+aku akan datang mencarimu!
+
+1319
+02:00:34,991 --> 02:00:36,658
+Lanjutkan eksekusinya!
+
+1320
+02:00:48,533 --> 02:00:51,075
+Nezha, Yang Jian, kau dimana?
+
+1321
+02:01:03,658 --> 02:01:04,783
+Kakak Xiqi,
+
+1322
+02:01:05,325 --> 02:01:06,700
+selamatkan Yin Jiao!
+
+1323
+02:01:17,075 --> 02:01:17,991
+Hentikan mereka!
+
+1324
+02:01:23,533 --> 02:01:25,825
+Beraninya kau menipuku?!
+
+1325
+02:01:27,533 --> 02:01:28,950
+Lepaskan Yin Jiao,
+
+1326
+02:01:28,950 --> 02:01:30,033
+atau kubunuh kau.
+
+1327
+02:01:32,575 --> 02:01:33,950
+Kau tidak akan berani.
+
+1328
+02:01:36,241 --> 02:01:37,283
+Bunuh dia!
+
+1329
+02:01:46,408 --> 02:01:47,158
+Kawan,
+
+1330
+02:01:47,533 --> 02:01:48,575
+aku akan mengantarmu kesana.
+
+1331
+02:02:21,408 --> 02:02:23,533
+Kau kira kau bisa membunuhku?
+
+1332
+02:02:24,200 --> 02:02:25,241
+Jangan lupa,
+
+1333
+02:02:25,908 --> 02:02:28,283
+semua yang kau pelajari,
+aku yang ajarkan.
+
+1334
+02:02:28,575 --> 02:02:29,741
+Selamatkan Ji Fa!
+
+1335
+02:02:48,200 --> 02:02:50,325
+Nezha, Yang Jian, aku di sini!
+
+1336
+02:02:52,033 --> 02:02:52,908
+Guru Ziya!
+
+1337
+02:02:54,200 --> 02:02:55,658
+Ikutlah bersama kami!
+Ay!
+
+1338
+02:02:55,783 --> 02:02:58,325
+Jangan khawatirkan aku.
+Bawalah Yin Jiao.
+
+1339
+02:02:58,700 --> 02:03:00,908
+Yin Jiao sudah ada di dua alam!
+Dia sudah mati.
+
+1340
+02:03:00,908 --> 02:03:01,825
+Jangan buang waktu lagi!
+
+1341
+02:03:01,825 --> 02:03:04,158
+Cepat bawa dia ke Kunlun!
+
+1342
+02:03:22,450 --> 02:03:23,325
+Teleportasi Air!
+
+1343
+02:03:31,200 --> 02:03:32,366
+Apa keduanya harus pergi?
+
+1344
+02:04:08,658 --> 02:04:10,325
+Jika dewa tak mau membunuhmu,
+
+1345
+02:04:10,450 --> 02:04:12,025
+aku yang akan membunuhmu.
+
+1346
+02:04:39,950 --> 02:04:41,658
+Yang Mulia sudah mati.
+
+1347
+02:04:42,366 --> 02:04:45,991
+Aku, Adipati Negeri Utara,
+yang memerintah sekarang.
+
+1348
+02:05:07,033 --> 02:05:08,991
+Bawakan aku Ji Fa.
+
+1349
+02:05:23,575 --> 02:05:24,991
+Kenapa kau masih di Zhaoge?
+
+1350
+02:05:25,200 --> 02:05:26,366
+Kau mau mati!
+
+1351
+02:05:37,408 --> 02:05:38,575
+Pemindahan Roh!
+
+1352
+02:06:15,825 --> 02:06:17,241
+Yin Shou sudah mati.
+
+1353
+02:06:17,700 --> 02:06:19,116
+Aku membunuhnya.
+
+1354
+02:06:21,408 --> 02:06:23,783
+Dialah yang bertanggung jawab
+atas Kutukan Besar itu.
+
+1355
+02:06:24,075 --> 02:06:25,866
+Hentikan mereka!
+
+1356
+02:06:34,075 --> 02:06:36,991
+Jiang Wenhuan,
+jika kau mau balaskan dendamnya,
+
+1357
+02:06:38,491 --> 02:06:39,950
+balaskan sekarang.
+
+1358
+02:07:07,116 --> 02:07:08,283
+Mundur!
+
+1359
+02:07:10,825 --> 02:07:12,125
+Lepaskan mereka.
+
+1360
+02:07:18,033 --> 02:07:19,283
+Pergi!
+
+1361
+02:07:29,700 --> 02:07:30,908
+Tutup gerbangnya.
+
+1362
+02:07:31,033 --> 02:07:32,241
+Bersiaplah berperang!
+
+1363
+02:07:57,783 --> 02:07:58,825
+Ada yang datang!
+
+1364
+02:07:58,825 --> 02:07:59,866
+Hentikan dia!
+
+1365
+02:08:05,241 --> 02:08:06,283
+Hentikan dia sekarang!
+
+1366
+02:08:13,241 --> 02:08:14,033
+Itu buronan.
+
+1367
+02:08:35,158 --> 02:08:36,658
+Masuk ke hutan!
+
+1368
+02:08:38,200 --> 02:08:39,866
+Ikuti aku!
+
+1369
+02:08:47,575 --> 02:08:48,866
+Apa ini?
+
+1370
+02:09:18,241 --> 02:09:19,158
+Panah!
+
+1371
+02:09:30,575 --> 02:09:32,533
+Ji Fa, pergi.
+Selamatkan dirimu.
+
+1372
+02:09:32,700 --> 02:09:34,533
+Akulah yang mereka cari.
+
+1373
+02:09:36,325 --> 02:09:37,775
+Aku pinjam dulu barangmu.
+
+1374
+02:09:37,783 --> 02:09:38,575
+Apa?
+
+1375
+02:11:06,033 --> 02:11:09,283
+Jangan buru-buru, Saudara Tao-ku.
+
+1376
+02:11:18,158 --> 02:11:19,783
+Kau!
+
+1377
+02:12:43,200 --> 02:12:46,825
+Jiang Ziya!
+Kau takkan lolos!
+
+1378
+02:13:12,075 --> 02:13:13,658
+Kau siapa?
+
+1379
+02:13:25,200 --> 02:13:26,950
+Lei Zhenzi.
+
+1380
+02:13:34,950 --> 02:13:36,283
+Anakku,
+
+1381
+02:13:37,825 --> 02:13:40,325
+ayo kita pulang.
+
+1382
+02:14:23,950 --> 02:14:27,741
+Kedua Naga Salju ini hadiah dari Ayah.
+
+1383
+02:14:28,033 --> 02:14:29,866
+aku sudah melatihnya.
+
+1384
+02:14:30,741 --> 02:14:32,658
+Kapan pun kau mau pulang,
+
+1385
+02:14:32,825 --> 02:14:34,700
+katakan saja:
+
+1386
+02:14:34,950 --> 02:14:36,241
+"Rumah".
+
+1387
+02:14:36,741 --> 02:14:38,408
+Dan mereka akan mengantarmu
+pulang ke Xiqi.
+
+1388
+02:14:48,075 --> 02:14:49,658
+Kalung.
+
+1389
+02:14:53,908 --> 02:14:54,950
+Ayah,
+
+1390
+02:14:56,241 --> 02:14:58,491
+aku janji akan pulang ke Xiqi.
+
+1391
+02:15:05,700 --> 02:15:07,033
+Kalung.
+
+1392
+02:15:12,491 --> 02:15:14,075
+Kembali ke tempat asal.
+
+1393
+02:15:27,158 --> 02:15:28,991
+Rumah.
+
+1394
+02:16:09,825 --> 02:16:11,200
+Itu Naga Salju!
+
+1395
+02:16:11,366 --> 02:16:13,366
+Tuan Muda pulang!
+
+1396
+02:16:29,825 --> 02:16:30,658
+Ayah.
+
+1397
+02:16:56,825 --> 02:16:58,158
+Ayo.
+
+1398
+02:17:08,991 --> 02:17:10,325
+Kembali ke tempat asal.
+
+1399
+02:17:19,658 --> 02:17:20,700
+Ayah,
+
+1400
+02:17:24,741 --> 02:17:26,491
+aku kembali.
+
+1401
+02:24:59,741 --> 02:25:02,700
+Panglima Shang Wen Zhong,
+
+1402
+02:25:02,700 --> 02:25:08,366
+setelah 10 tahun berperang
+di dekat Laut Utara,
+
+1403
+02:25:08,491 --> 02:25:12,325
+dan pulang membawa kemenangan!
+
