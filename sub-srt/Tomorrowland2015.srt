@@ -1,0 +1,6292 @@
+﻿1
+00:00:55,305 --> 00:00:56,306
+Sudah menyala?
+
+2
+00:00:56,473 --> 00:00:58,851
+Ya. Perkenalkan dirimu.
+
+3
+00:00:59,017 --> 00:01:02,021
+Hei, aku Frank.
+Apa kabar?
+
+4
+00:01:02,771 --> 00:01:04,523
+Jangan dijawab. Itu retoris.
+
+5
+00:01:05,607 --> 00:01:09,032
+Baiklah. Biar kujelaskan.
+
+6
+00:01:09,987 --> 00:01:13,958
+Kisah ini tentang masa depan.
+
+7
+00:01:14,116 --> 00:01:15,834
+Dan masa depan...
+
+8
+00:01:16,326 --> 00:01:17,873
+<i>...bisa menakutkan.</i>
+
+9
+00:01:20,998 --> 00:01:22,170
+<i>Apa?</i>
+
+10
+00:01:22,332 --> 00:01:24,505
+<i>Kau yakin mau pakai kata
+"menakutkan"?</i>
+
+11
+00:01:24,668 --> 00:01:26,011
+<i>Ya, aku mau pakai menakutkan.</i>
+
+12
+00:01:26,169 --> 00:01:27,842
+<i>- Baik.
+- Baik.</i>
+
+13
+00:01:28,630 --> 00:01:32,180
+<i>Masa depan bisa menakutkan.</i>
+
+14
+00:01:32,676 --> 00:01:34,804
+<i>Pemerintahan tidak stabil...</i>
+
+15
+00:01:34,970 --> 00:01:36,313
+<i>...kelebihan penduduk...</i>
+
+16
+00:01:36,680 --> 00:01:38,648
+<i>...perang di setiap benua...</i>
+
+17
+00:01:38,807 --> 00:01:42,528
+<i>...wabah, kekurangan air,
+lingkungan terancam...</i>
+
+18
+00:01:43,145 --> 00:01:46,319
+<i>Dan terobosan ilmiah,
+keajaiban dan keindahan...</i>
+
+19
+00:01:46,732 --> 00:01:48,359
+Bisa berhenti interupsi?
+
+20
+00:01:48,525 --> 00:01:50,368
+Baik. Cobalah untuk lebih optimis.
+
+21
+00:01:50,527 --> 00:01:51,904
+- "Optimis"?
+- Ya, katakan kesukaanmu--
+
+22
+00:01:52,070 --> 00:01:54,368
+Aku tak bisa bilang apa-apa
+jika kau terus interupsi.
+
+23
+00:01:54,531 --> 00:01:55,657
+Kau benar. Maaf.
+
+24
+00:01:55,824 --> 00:01:57,201
+Seperti yang kubilang...
+
+25
+00:01:57,367 --> 00:02:02,043
+<i>...setiap detik yang berlalu,
+kita semakin mendekati--</i>
+
+26
+00:02:02,247 --> 00:02:03,840
+<i>Aku tahu. Ceritakan ketika--</i>
+
+27
+00:02:03,999 --> 00:02:06,218
+<i>Aku tak bisa cerita apa-apa
+sebelum kuceritakan bagian ini.</i>
+
+28
+00:02:06,376 --> 00:02:08,720
+<i>Bisa kita mulai dari bagian lain?</i>
+
+29
+00:02:08,879 --> 00:02:11,052
+Baik.
+Kau mau mulai dari mana?
+
+30
+00:02:11,214 --> 00:02:14,343
+Kau bilang masa depan
+tak selalu seperti ini.
+
+31
+00:02:14,509 --> 00:02:16,511
+Memang. Ketika aku kecil,
+masa depan--
+
+32
+00:02:16,678 --> 00:02:18,555
+- Berbeda, kan?
+- Ya.
+
+33
+00:02:19,056 --> 00:02:20,899
+Baiklah.
+Kita mulai dari situ.
+
+34
+00:02:22,726 --> 00:02:26,822
+Baik. Ketika aku kecil,
+masa depan berbeda.
+
+35
+00:02:32,527 --> 00:02:34,746
+Flushing Meadows-Taman Corona,
+Pameran Dunia.
+
+36
+00:02:34,905 --> 00:02:36,907
+Jangan lupa barang-barangmu...
+
+37
+00:02:37,074 --> 00:02:38,792
+...dan nikmatilah masa depan.
+
+38
+00:02:40,243 --> 00:02:41,916
+Perhatikan langkahmu, Nak.
+
+39
+00:02:54,049 --> 00:03:00,933
+Pameran Dunia New York
+1964
+
+40
+00:03:08,772 --> 00:03:12,493
+KOMPETISI PENEMU
+
+41
+00:03:25,789 --> 00:03:27,917
+- Halo, Pak.
+- Bisa kubantu?
+
+42
+00:03:28,083 --> 00:03:31,633
+Namaku John Francis Walker.
+Aku mau memenangkan $50.
+
+43
+00:03:31,837 --> 00:03:32,929
+Begitukah?
+
+44
+00:03:34,297 --> 00:03:36,470
+Kubongkar karena
+Kompartemen nitrogennya.
+
+45
+00:03:36,633 --> 00:03:39,637
+Mengingat perjalanan bus
+bisa berguncang...
+
+46
+00:03:39,803 --> 00:03:41,646
+...dan kau tahu nitro.
+
+47
+00:03:42,973 --> 00:03:44,691
+Aku bisa pakai mesin
+bertenaga hidrogen peroksida.
+
+48
+00:03:45,267 --> 00:03:48,817
+Bell Labs menguji itu dengan
+Rocket Belt dan ada masalah...
+
+49
+00:03:48,979 --> 00:03:52,153
+...pada kemampuan manuver,
+durasi terbang dan lainnya.
+
+50
+00:03:53,191 --> 00:03:54,317
+Ini perlengkapan jet.
+
+51
+00:03:55,861 --> 00:03:56,862
+Jelas.
+
+52
+00:03:57,195 --> 00:03:58,367
+Kau sendiri yang membuatnya?
+
+53
+00:04:03,660 --> 00:04:05,207
+Athena, sedang apa di sini?
+
+54
+00:04:08,498 --> 00:04:11,047
+Ya atau tidak?
+
+55
+00:04:13,503 --> 00:04:14,174
+Apa?
+
+56
+00:04:14,337 --> 00:04:15,839
+Kau yang membuatnya?
+
+57
+00:04:17,174 --> 00:04:18,016
+Ya.
+
+58
+00:04:18,550 --> 00:04:19,517
+Kenapa?
+
+59
+00:04:21,887 --> 00:04:25,517
+Aku bosan menunggu
+orang lain membuatnya untukku.
+
+60
+00:04:29,227 --> 00:04:30,479
+Apakah berfungsi?
+
+61
+00:04:33,523 --> 00:04:35,025
+Tentu.
+
+62
+00:04:41,490 --> 00:04:42,241
+Hampir.
+
+63
+00:04:46,203 --> 00:04:49,707
+Hanya saja secara teknis
+tidak...
+
+64
+00:05:03,553 --> 00:05:05,681
+...terbang.
+
+65
+00:05:07,891 --> 00:05:09,518
+<i>Tapi jika benar, kau tahu...</i>
+
+66
+00:05:09,684 --> 00:05:12,062
+..."secara teknis terbang,"
+apa tujuan alat ini?
+
+67
+00:05:12,229 --> 00:05:14,357
+Bagaimana alatmu
+bisa membuat dunia lebih baik?
+
+68
+00:05:14,898 --> 00:05:17,071
+Tak bisa hanya untuk kesenangan?
+
+69
+00:05:17,234 --> 00:05:19,612
+Tn. Walker, tolong katakan
+ini lebih dari "kesenangan."
+
+70
+00:05:20,237 --> 00:05:21,739
+Tidak ada yang mustahil.
+
+71
+00:05:22,447 --> 00:05:24,074
+Aku tak tahu artinya itu.
+
+72
+00:05:24,241 --> 00:05:28,246
+Jika aku sedang di jalanan dan
+ada anak kecil terbang di atasku...
+
+73
+00:05:28,411 --> 00:05:30,209
+...maka aku percaya
+tak ada yang mustahil.
+
+74
+00:05:30,372 --> 00:05:31,715
+Aku akan terinspirasi.
+
+75
+00:05:31,873 --> 00:05:34,376
+Bukankah itu membuat dunia
+jadi lebih baik?
+
+76
+00:05:35,460 --> 00:05:37,053
+Kurasa ya.
+
+77
+00:05:39,297 --> 00:05:41,049
+Jika berfungsi.
+
+78
+00:05:41,424 --> 00:05:42,391
+Sayangnya...
+
+79
+00:05:42,717 --> 00:05:43,934
+...tidak berfungsi.
+
+80
+00:05:45,095 --> 00:05:47,564
+Jika tidak berfungsi,
+maka alat itu tak punya tujuan.
+
+81
+00:05:47,722 --> 00:05:49,099
+Terima kasih
+atas waktumu, Tn. Walker.
+
+82
+00:05:49,266 --> 00:05:51,268
+Tapi aku bisa
+membuatnya berfungsi!
+
+83
+00:05:51,434 --> 00:05:53,152
+Itu baru semangat.
+
+84
+00:05:53,311 --> 00:05:55,279
+Sebelum itu terjadi...
+
+85
+00:05:55,438 --> 00:05:57,611
+...bersenang-senanglah.
+
+86
+00:06:08,910 --> 00:06:10,787
+Tidak.
+
+87
+00:06:11,454 --> 00:06:13,127
+Aku suka dia.
+
+88
+00:06:13,290 --> 00:06:15,008
+Athena, tidak.
+
+89
+00:06:19,963 --> 00:06:24,093
+BALAI PENEMUAN
+
+90
+00:06:28,680 --> 00:06:30,432
+<i>Apa yang membuatmu yakin
+bisa buat benda ini terbang?</i>
+
+91
+00:06:31,933 --> 00:06:33,150
+Aku optimis.
+
+92
+00:06:33,310 --> 00:06:34,983
+- Kau membuang waktu.
+- Tidak!
+
+93
+00:06:35,145 --> 00:06:37,648
+- Barang rongsokan.
+- Ini bukan rongsokan!
+
+94
+00:06:37,814 --> 00:06:38,986
+Alatnya tak berfungsi.
+
+95
+00:06:39,149 --> 00:06:39,991
+Aku bisa membuatnya berfungsi.
+
+96
+00:06:40,150 --> 00:06:41,527
+Tidak bisa!
+
+97
+00:06:42,527 --> 00:06:44,450
+Aku tak mau menyerah.
+
+98
+00:06:48,325 --> 00:06:50,327
+Jangan berputar. Santai saja.
+
+99
+00:06:50,660 --> 00:06:52,037
+Tadi aku bilang apa?
+
+100
+00:06:52,203 --> 00:06:54,001
+- Maaf.
+- Berhenti bicara.
+
+101
+00:06:54,164 --> 00:06:55,632
+Lihat di sana.
+Arah pukul lima.
+
+102
+00:06:58,126 --> 00:07:00,845
+Kau tahu, arah jarum jam?
+
+103
+00:07:01,338 --> 00:07:02,806
+Posisi pukul 5.
+
+104
+00:07:06,217 --> 00:07:07,969
+Arah sana.
+
+105
+00:07:10,388 --> 00:07:11,514
+Aku pergi bersama mereka.
+
+106
+00:07:11,681 --> 00:07:15,231
+Hitung sampai 20 lalu ikuti kami.
+Jangan ketahuan.
+
+107
+00:07:20,482 --> 00:07:21,734
+Kau siapa?
+
+108
+00:07:23,818 --> 00:07:25,536
+Akulah masa depan,
+Frank Walker.
+
+109
+00:07:37,165 --> 00:07:39,543
+WALT DISNEY
+"ini dunia yang kecil"
+
+110
+00:07:46,549 --> 00:07:49,052
+Bagus. Kau suka?
+
+111
+00:07:53,515 --> 00:07:54,858
+<i>Keliling dunia...</i>
+
+112
+00:07:55,016 --> 00:07:57,735
+<i>...dalam "ini dunia yang kecil"
+dari Walt Disney.</i>
+
+113
+00:07:57,894 --> 00:07:59,942
+<i>Dan salut kepada UNICEF
+dan seluruh anak-anak.</i>
+
+114
+00:08:00,105 --> 00:08:01,197
+Permisi.
+
+115
+00:08:01,356 --> 00:08:04,576
+<i>Ini pelayaran
+paling menyenangkan.</i>
+
+116
+00:08:05,235 --> 00:08:06,236
+Maaf.
+
+117
+00:08:07,362 --> 00:08:07,954
+Permisi.
+
+118
+00:08:08,113 --> 00:08:09,740
+Maaf, tunggu perahu berikutnya.
+
+119
+00:08:09,906 --> 00:08:11,408
+Ada perahu lain
+sebentar lagi.
+
+120
+00:09:17,348 --> 00:09:18,645
+Halo?
+
+121
+00:09:20,310 --> 00:09:21,812
+Halo?
+
+122
+00:09:23,313 --> 00:09:24,656
+Halo?
+
+123
+00:09:33,698 --> 00:09:37,168
+<i>Selamat sore.
+Harap naik ke transportasi.</i>
+
+124
+00:09:37,952 --> 00:09:39,829
+<i>Lokasinya aktif.</i>
+
+125
+00:09:42,457 --> 00:09:44,380
+SPESIAL
+
+126
+00:09:52,675 --> 00:09:56,646
+<i>Kenakan pelindung kepala
+untuk mencegah cedera.</i>
+
+127
+00:09:56,846 --> 00:09:58,348
+DARI- PAMERAN DUNIA
+KE - HARI ESOK
+
+128
+00:09:58,681 --> 00:10:00,058
+"Cedera"?
+
+129
+00:10:06,481 --> 00:10:10,076
+<i>Transportasi akan berangkat
+dalam 10 detik.</i>
+
+130
+00:10:12,153 --> 00:10:13,200
+Tunggu!
+
+131
+00:10:14,364 --> 00:10:15,160
+Tunggu!
+
+132
+00:10:15,323 --> 00:10:16,575
+- Lima...
+- Tunggu!
+
+133
+00:10:16,741 --> 00:10:18,243
+<i>- Empat...
+- Tidak!</i>
+
+134
+00:10:18,409 --> 00:10:19,706
+<i>Tiga...</i>
+
+135
+00:10:19,869 --> 00:10:21,212
+Dua...
+
+136
+00:10:21,371 --> 00:10:22,213
+<i>Satu.</i>
+
+137
+00:11:21,055 --> 00:11:23,228
+Tidak, tahap satu dan dua--
+
+138
+00:11:23,808 --> 00:11:25,651
+DILARANG MASUK
+
+139
+00:12:33,336 --> 00:12:35,304
+Hei! Itu punyaku!
+
+140
+00:12:41,511 --> 00:12:43,309
+Kau memperbaikinya?
+
+141
+00:12:55,733 --> 00:12:56,529
+Hei!
+
+142
+00:12:56,818 --> 00:12:58,365
+Itu dia.
+
+143
+00:12:58,528 --> 00:12:59,370
+Hei!
+
+144
+00:14:52,975 --> 00:14:53,817
+Hei!
+
+145
+00:15:16,958 --> 00:15:18,005
+Kini berfungsi.
+
+146
+00:15:27,677 --> 00:15:31,147
+Tempat apa ini?
+
+147
+00:15:42,316 --> 00:15:44,660
+<i>Lalu semuanya jadi kacau.</i>
+
+148
+00:15:45,361 --> 00:15:46,533
+<i>- Ya ampun.
+- Itu benar.</i>
+
+149
+00:15:46,696 --> 00:15:49,700
+<i>Baru saja cerita langit biru,
+perlengkapan jet dan harapan--</i>
+
+150
+00:15:49,866 --> 00:15:51,868
+<i>Ini penting.
+Mereka perlu tahu taruhannya.</i>
+
+151
+00:15:52,034 --> 00:15:54,913
+<i>Mereka tahu
+hitung mundur adalah buruk.</i>
+
+152
+00:15:55,079 --> 00:15:56,547
+- Kau mau bercerita?
+- Tidak, kau saja.
+
+153
+00:15:56,706 --> 00:15:58,208
+Jika kau bisa
+bercerita lebih baik...
+
+154
+00:15:58,374 --> 00:16:00,251
+...aku ingin mendengarnya.
+
+155
+00:16:00,418 --> 00:16:02,216
+<i>Benarkah?
+- Benar.</i>
+
+156
+00:16:03,171 --> 00:16:04,718
+Secara teknis,
+aku lebih memenuhi syarat.
+
+157
+00:16:05,089 --> 00:16:07,683
+Benarkah? Kenapa begitu?
+
+158
+00:16:08,259 --> 00:16:11,388
+Karena tidak sepertimu,
+aku optimis.
+
+159
+00:16:12,180 --> 00:16:13,147
+Kau sedang merekam, sayang?
+
+160
+00:16:13,222 --> 00:16:14,223
+Ini video.
+
+161
+00:16:14,307 --> 00:16:15,308
+Sudah kuduga!
+
+162
+00:16:15,391 --> 00:16:16,358
+Kau merekam?
+
+163
+00:16:16,434 --> 00:16:17,811
+Silakan, sayang.
+
+164
+00:16:17,894 --> 00:16:19,316
+Perlihatkan kemampuanmu,
+Casey.
+
+165
+00:16:19,479 --> 00:16:21,231
+Itu Sirius.
+
+166
+00:16:21,397 --> 00:16:23,399
+Itu Canopus.
+
+167
+00:16:23,566 --> 00:16:25,239
+Itu Arcturus.
+
+168
+00:16:25,401 --> 00:16:26,994
+Rigil Kentaurus.
+
+169
+00:16:27,153 --> 00:16:29,497
+Vega, Procyon...
+
+170
+00:16:29,655 --> 00:16:32,249
+Capella, Betelgeuse.
+
+171
+00:16:32,408 --> 00:16:35,503
+Kenapa kau begitu
+menyukai bintang, Casey?
+
+172
+00:16:36,621 --> 00:16:39,670
+Karena aku ingin ke sana.
+
+173
+00:16:39,832 --> 00:16:41,334
+Tapi jaraknya jauh sekali.
+
+174
+00:16:41,501 --> 00:16:43,595
+Butuh waktu sangat lama.
+
+175
+00:16:43,753 --> 00:16:47,053
+Bagaimana jika kau ke sana
+dan tidak ada apa-apa?
+
+176
+00:16:48,549 --> 00:16:52,429
+Bagaimana jika ada segalanya?
+
+177
+00:16:52,595 --> 00:16:53,812
+<i>- Ya ampun.
+- Apa?</i>
+
+178
+00:16:53,971 --> 00:16:55,689
+<i>Kau mau ceritakan
+seluruh masa kecilmu?</i>
+
+179
+00:16:55,848 --> 00:16:57,942
+<i>Kau mulai dari kau kecil.
+Aku hanya beri konteks.</i>
+
+180
+00:16:58,100 --> 00:16:59,818
+<i>Percepat saja.
+Mereka tak punya seharian.</i>
+
+181
+00:16:59,977 --> 00:17:01,229
+<i>Baiklah.</i>
+
+182
+00:17:49,610 --> 00:17:53,535
+Landasan Peluncuran NASA
+Lokasi Pembongkaran
+
+183
+00:17:54,198 --> 00:17:55,245
+GANGGUAN
+
+184
+00:20:03,619 --> 00:20:04,791
+Perkenalkan dirimu.
+
+185
+00:20:04,954 --> 00:20:06,206
+Nate!
+
+186
+00:20:06,372 --> 00:20:08,625
+Jika bangunkan Ayah,
+kuhajar kau.
+
+187
+00:20:08,999 --> 00:20:10,876
+Seharusnya kau tak
+menyelinap keluar.
+
+188
+00:20:11,043 --> 00:20:13,421
+Seharusnya
+kau tak butuh lagi selimut bau.
+
+189
+00:20:13,796 --> 00:20:15,798
+Ayah bilang aku
+boleh tidur dengannya.
+
+190
+00:20:15,965 --> 00:20:18,935
+Karena Ayah tak mau
+kau tumbuh dewasa.
+
+191
+00:20:19,093 --> 00:20:21,562
+Kau di landasan lagi?
+
+192
+00:20:22,054 --> 00:20:23,897
+Apa yang kau lakukan
+disana?
+
+193
+00:20:24,265 --> 00:20:27,064
+Kau ingin hentikan mereka
+membongkarnya?
+
+194
+00:20:28,436 --> 00:20:31,235
+Itu berarti aku jadi penjahat.
+
+195
+00:20:31,397 --> 00:20:35,777
+Dan teladan yang buruk
+untuk anak muda sepertimu.
+
+196
+00:20:36,610 --> 00:20:39,580
+Tapi jika orang lain melakukannya...
+
+197
+00:20:40,322 --> 00:20:44,498
+...maka kutebak mereka percaya...
+
+198
+00:20:44,660 --> 00:20:47,334
+...bahwa tindakan terkecil pun...
+
+199
+00:20:47,496 --> 00:20:51,046
+...bisa mengubah masa depan.
+
+200
+00:20:51,625 --> 00:20:53,377
+Bagaimana kau bisa yakin?
+
+201
+00:20:53,711 --> 00:20:56,134
+Karena aku tahu
+cara kerja hal-hal.
+
+202
+00:20:57,840 --> 00:21:00,013
+Kenapa mereka
+bongkar landasannya?
+
+203
+00:21:01,635 --> 00:21:03,683
+Karena sulit untuk dapat ide...
+
+204
+00:21:04,346 --> 00:21:06,189
+...dan mudah untuk menyerah.
+
+205
+00:21:07,099 --> 00:21:09,727
+Tapi kau tidak. Benar?
+
+206
+00:21:13,105 --> 00:21:14,652
+Tidak akan.
+
+207
+00:21:47,139 --> 00:21:49,688
+MEMINDAI DNA
+
+208
+00:21:57,650 --> 00:21:59,652
+Hei, Ayah.
+Aku mau sekolah.
+
+209
+00:22:01,028 --> 00:22:02,575
+- Kubuatkan makan siang.
+- Hei!
+
+210
+00:22:02,738 --> 00:22:04,081
+Sudah mainnya.
+
+211
+00:22:12,957 --> 00:22:13,708
+Bagaimana kau bisa--
+
+212
+00:22:13,874 --> 00:22:15,672
+Ayah juga pasti tahu.
+
+213
+00:22:19,046 --> 00:22:20,263
+Ya, Eddie Newton.
+
+214
+00:22:20,965 --> 00:22:22,342
+Apa?
+
+215
+00:22:22,800 --> 00:22:25,019
+Semua ketiga derek?
+
+216
+00:22:25,177 --> 00:22:28,397
+Baik, Douglas.
+Terima kasih sudah telepon. Dah.
+
+217
+00:22:28,556 --> 00:22:29,603
+Semua baik saja?
+
+218
+00:22:29,765 --> 00:22:31,813
+Perlengkapan di Canaveral
+rusak lagi.
+
+219
+00:22:33,060 --> 00:22:33,856
+Aneh.
+
+220
+00:22:34,019 --> 00:22:35,145
+Sangat aneh.
+
+221
+00:22:36,480 --> 00:22:37,902
+Setidaknya Ayah dapat libur.
+
+222
+00:22:38,065 --> 00:22:40,193
+Mereka membawa
+derek pengganti dari Orlando...
+
+223
+00:22:40,359 --> 00:22:43,454
+...jadi Ayah kembali bekerja
+siang nanti.
+
+224
+00:22:43,612 --> 00:22:44,704
+Itu hebat.
+
+225
+00:22:44,864 --> 00:22:46,958
+- Case.
+- Ya?
+
+226
+00:22:47,116 --> 00:22:49,414
+Tak ada yang bisa hentikan
+mereka membongkar landasan.
+
+227
+00:22:49,910 --> 00:22:51,503
+Tidak ada.
+Dan setelah selesai...
+
+228
+00:22:51,662 --> 00:22:53,130
+Ayah akan menganggur.
+
+229
+00:22:53,289 --> 00:22:55,667
+Kita tak bisa berbuat apa-apa.
+
+230
+00:22:55,833 --> 00:22:56,834
+Tak bisa dihindari.
+
+231
+00:22:57,001 --> 00:23:00,096
+Ayah akan dapat kerja lain.
+Ayah teknisi NASA.
+
+232
+00:23:01,755 --> 00:23:03,598
+Tanpa ada yang diluncurkan.
+
+233
+00:23:06,719 --> 00:23:08,892
+- Ada dua ekor serigala.
+- Case.
+
+234
+00:23:09,054 --> 00:23:12,979
+Ayah selalu menceritakannya
+dan sekarang giliranku.
+
+235
+00:23:13,851 --> 00:23:14,898
+Ada dua ekor serigala...
+
+236
+00:23:15,060 --> 00:23:17,108
+...dan mereka selalu bertengkar.
+
+237
+00:23:17,271 --> 00:23:20,775
+Yang satu ialah
+kegelapan dan keputus-asaan.
+
+238
+00:23:21,525 --> 00:23:24,495
+Satunya lagi
+terang dan harapan.
+
+239
+00:23:25,279 --> 00:23:27,998
+Serigala mana yang menang?
+
+240
+00:23:28,407 --> 00:23:29,909
+Ayolah, Case.
+
+241
+00:23:30,075 --> 00:23:32,419
+Baik, jangan dijawab.
+
+242
+00:23:33,829 --> 00:23:35,126
+Yang kau beri makan.
+
+243
+00:23:37,958 --> 00:23:39,380
+Bagus.
+
+244
+00:23:41,378 --> 00:23:41,970
+Makanlah.
+
+245
+00:23:42,504 --> 00:23:43,756
+Ayo.
+
+246
+00:23:44,757 --> 00:23:48,387
+Mutualisme menjamin kehancuran.
+
+247
+00:23:48,552 --> 00:23:51,431
+Saat ini, negara nuklir atau
+teroris mana pun...
+
+248
+00:23:51,597 --> 00:23:55,318
+...mampu merusak
+dalam skala besar...
+
+249
+00:23:55,476 --> 00:23:56,773
+...dengan senjata--
+
+250
+00:23:56,936 --> 00:23:58,779
+Keseimbangan lingkungan.
+
+251
+00:23:58,938 --> 00:24:01,657
+Gunus es kutub tidak menunggu
+keputusan kita...
+
+252
+00:24:01,815 --> 00:24:03,783
+...jika perubahan iklim
+memang nyata.
+
+253
+00:24:03,943 --> 00:24:07,072
+Perairan pantai naik,
+pola cuaca yang ekstrem.
+
+254
+00:24:07,237 --> 00:24:10,161
+Semua itu menjamin
+tiket satu arah ke--
+
+255
+00:24:10,324 --> 00:24:11,120
+Dystopia.
+
+256
+00:24:11,283 --> 00:24:14,002
+Artinya "tidak sempurna."
+
+257
+00:24:14,161 --> 00:24:16,084
+<i>Brave New World</i>
+karya <i>Huxley...</i>
+
+258
+00:24:16,246 --> 00:24:18,419
+<i>...Fahrenheit 451</i>
+karya <i>Bradbury...</i>
+
+259
+00:24:18,582 --> 00:24:21,085
+<i>...1984</i> karya OnNell.
+
+260
+00:24:22,878 --> 00:24:25,006
+Yang dulu dianggap fiksi ilimiah,
+kini novel futuristis jadi kenyataan...
+
+261
+00:24:25,172 --> 00:24:26,515
+...dan tampaknya semakin buruk.
+
+262
+00:24:26,674 --> 00:24:27,891
+Ya, Nn. Newton?
+
+263
+00:24:28,425 --> 00:24:29,426
+Bisa kita perbaiki?
+
+264
+00:24:30,594 --> 00:24:31,345
+Apa?
+
+265
+00:24:31,512 --> 00:24:35,858
+Aku paham keadaan memburuk.
+Tapi apa tindakan kita?
+
+266
+00:24:39,019 --> 00:24:41,192
+Selamat berakhir pekan,
+semuanya.
+
+267
+00:25:20,769 --> 00:25:23,147
+- Newton?
+- Ya.
+
+268
+00:25:23,355 --> 00:25:25,357
+Tebusanmu dibayar.
+Motormu di penyitaan.
+
+269
+00:25:25,566 --> 00:25:27,989
+Kau bisa ambil
+barang-barangmu di sana.
+
+270
+00:25:34,116 --> 00:25:35,834
+- Newton?
+- Ya.
+
+271
+00:25:37,786 --> 00:25:39,663
+CUACA EKSTREM MENINGKAT
+
+272
+00:25:43,333 --> 00:25:44,380
+Baiklah.
+
+273
+00:25:48,213 --> 00:25:49,590
+Baiklah.
+
+274
+00:25:49,757 --> 00:25:51,350
+Sejumlah uang...
+
+275
+00:25:51,508 --> 00:25:53,556
+...$47,32...
+
+276
+00:25:53,719 --> 00:25:56,518
+...satu SIM Florida,
+satu topi bisbol.
+
+277
+00:25:56,680 --> 00:25:58,148
+Ada satu lencana...
+
+278
+00:25:58,682 --> 00:26:00,684
+...satu pak permen karet Beemans,
+dan entah ini apa.
+
+279
+00:26:00,851 --> 00:26:02,524
+Tanda tangan di sini.
+
+280
+00:26:11,445 --> 00:26:12,571
+Itu bukan punyaku.
+
+281
+00:26:12,738 --> 00:26:13,785
+Yang mana?
+
+282
+00:26:13,947 --> 00:26:15,290
+Lencananya. Aku tak pernah--
+
+283
+00:26:34,802 --> 00:26:36,804
+Tak mungkin.
+
+284
+00:27:08,460 --> 00:27:09,962
+Dari setadi aku di sini?
+
+285
+00:27:11,463 --> 00:27:12,464
+Aku tahu.
+
+286
+00:27:15,384 --> 00:27:16,852
+Jangan;
+
+287
+00:27:17,678 --> 00:27:19,100
+Biar kuambil.
+
+288
+00:27:29,565 --> 00:27:31,317
+Kau tidak tahu
+apa yang Ayah lakukan...
+
+289
+00:27:31,483 --> 00:27:33,702
+...agar Homeland Security
+tidak menuntutmu, Casey.
+
+290
+00:27:33,861 --> 00:27:38,207
+Ini bukan sekadar perusakan.
+Ini NASA. Properti pemerintah.
+
+291
+00:27:38,407 --> 00:27:39,750
+Ayah pernah lihat ini?
+
+292
+00:27:40,325 --> 00:27:43,204
+Kau tak mengerti, ya?
+Ayah sangat marah padamu!
+
+293
+00:27:43,370 --> 00:27:44,838
+Aku tahu Ayah marah.
+Aku mengerti.
+
+294
+00:27:44,997 --> 00:27:46,874
+Tapi tolong dilihat.
+Apa kelihatan aneh?
+
+295
+00:27:47,749 --> 00:27:48,875
+Jangan disentuh!
+
+296
+00:27:49,042 --> 00:27:50,168
+Kenapa kau membentak Ayah?
+
+297
+00:27:50,335 --> 00:27:52,633
+Jangan sambil mengemudi, Ayah.
+Berbahaya.
+
+298
+00:27:52,796 --> 00:27:54,343
+Menepi dulu.
+
+299
+00:27:55,007 --> 00:27:56,429
+Menepi.
+
+300
+00:27:58,385 --> 00:28:00,433
+Sumpah, Case,
+jika kau pakai narkoba--
+
+301
+00:28:00,596 --> 00:28:03,190
+Tidak. Lihatlah.
+
+302
+00:28:04,516 --> 00:28:06,359
+Aku perlu Ayah menjadi
+seorang NASA sekarang.
+
+303
+00:28:06,518 --> 00:28:09,442
+Ayah Batas Baru.
+
+304
+00:28:12,900 --> 00:28:17,076
+Semua akan jelas
+begitu Ayah sentuh lencana ini.
+
+305
+00:28:30,417 --> 00:28:31,213
+Apa yang...
+
+306
+00:28:32,878 --> 00:28:34,471
+...Tidak berfungsi?
+
+307
+00:28:41,345 --> 00:28:43,689
+Ayah tidak melihat ini?
+
+308
+00:28:43,847 --> 00:28:45,190
+Hentikan.
+
+309
+00:28:46,892 --> 00:28:50,396
+Sungguh, Casey,
+Ayah tak tahu kau kenapa.
+
+310
+00:30:15,605 --> 00:30:17,323
+Tengah malam...
+
+311
+00:31:41,691 --> 00:31:44,410
+IMAJINASI LEBIH PENTING
+DARI PENGETAHUAN
+
+312
+00:31:47,155 --> 00:31:48,156
+Tolong bantu aku.
+
+313
+00:31:48,323 --> 00:31:49,449
+Gerakan yang bagus, Dexter.
+
+314
+00:31:49,616 --> 00:31:51,084
+Benar-benar lihai.
+
+315
+00:31:54,704 --> 00:31:57,799
+Ayo, bodoh.
+Kita akan telat untuk Litbang.
+
+316
+00:32:45,922 --> 00:32:48,095
+KENDARAAN TERBANG
+STASIUN TESLA
+
+317
+00:32:48,258 --> 00:32:54,311
+<i>HoverRail akan tiba
+dalam satu menit.</i>
+
+318
+00:33:16,995 --> 00:33:18,497
+Kau ikut?
+
+319
+00:33:18,663 --> 00:33:20,006
+Kau bisa melihatku?
+
+320
+00:33:20,165 --> 00:33:21,963
+Kita tak punya seharian.
+
+321
+00:33:23,251 --> 00:33:24,503
+Tunggu kami!
+
+322
+00:33:24,669 --> 00:33:27,422
+<i>Jalur utara berangkat.</i>
+
+323
+00:33:29,883 --> 00:33:32,227
+<i>Perhentian berikut, Spaceport.</i>
+
+324
+00:34:17,764 --> 00:34:19,983
+Wah! Lihat cincin itu!
+
+325
+00:34:23,186 --> 00:34:25,029
+Wah! Keren!
+
+326
+00:34:25,188 --> 00:34:29,238
+Ikuti prosedur.
+Kau tahu kau butuh tidur.
+
+327
+00:34:29,401 --> 00:34:30,869
+Ayah membuatku malu.
+
+328
+00:34:31,027 --> 00:34:32,495
+Kau janji akan komunikasi
+setiap hari?
+
+329
+00:34:32,654 --> 00:34:34,281
+Bahkan saat kau
+di luar jangkauan.
+
+330
+00:34:34,447 --> 00:34:37,621
+Ini biasa saja. Kami hanya pergi
+sejauh 20 tahun cahaya.
+
+331
+00:34:38,368 --> 00:34:40,666
+<i>Kita tiba di Spaceport.</i>
+
+332
+00:35:20,994 --> 00:35:22,371
+Ayolah, hentikan.
+
+333
+00:35:24,831 --> 00:35:26,003
+Aku akan baik saja.
+
+334
+00:35:26,166 --> 00:35:27,383
+Teman-teman. Di sini.
+
+335
+00:35:27,542 --> 00:35:28,634
+- Hei!
+- Hei!
+
+336
+00:35:29,085 --> 00:35:32,555
+Ayolah! Aku sayang kalian.
+
+337
+00:35:32,714 --> 00:35:35,763
+Kau akan membuatku menangis
+di depan teman-teman.
+
+338
+00:35:35,925 --> 00:35:37,723
+Dah!
+
+339
+00:36:00,533 --> 00:36:03,161
+Ayo. Kusisakan kursi untukmu.
+
+340
+00:36:12,879 --> 00:36:15,132
+Sekarang kau kehabisan tenaga?
+
+341
+00:36:18,927 --> 00:36:20,099
+- Nate, bangun!
+- Bukan aku!
+
+342
+00:36:20,261 --> 00:36:22,810
+Ayah mengganti kata sandi
+komputernya. Kau tahu?
+
+343
+00:36:23,306 --> 00:36:24,933
+Baumu seperti rawa.
+
+344
+00:36:25,100 --> 00:36:26,898
+Katakan kata sandinya
+dan kau bisa tidur lagi.
+
+345
+00:36:27,060 --> 00:36:28,562
+Teleponmu punya internet.
+
+346
+00:36:29,020 --> 00:36:31,819
+Teleponku terendam di danau.
+
+347
+00:36:31,981 --> 00:36:33,403
+Baiklah.
+
+348
+00:36:33,983 --> 00:36:36,156
+Kita mencari apa?
+
+349
+00:36:37,946 --> 00:36:40,119
+Ini dia.
+
+350
+00:36:40,699 --> 00:36:41,575
+Berhenti! Itu dia.
+
+351
+00:36:42,450 --> 00:36:47,752
+"Lencana langka memperingati
+Pameran Dunia 1964."
+
+352
+00:36:47,956 --> 00:36:49,583
+"Pakar dan penyedia...
+
+353
+00:36:49,749 --> 00:36:52,969
+"...koleksi abad angkasa luar
+terbanyak di dunia."
+
+354
+00:36:53,253 --> 00:36:55,506
+Situs ini sudah kuno.
+
+355
+00:36:55,672 --> 00:36:57,015
+Berikan nomor mereka.
+
+356
+00:36:57,841 --> 00:36:59,809
+Mereka tak punya nomor.
+
+357
+00:36:59,968 --> 00:37:01,515
+Tidak ada?
+
+358
+00:37:01,678 --> 00:37:03,396
+Mereka punya alamat.
+
+359
+00:37:04,931 --> 00:37:06,979
+Bilang pada Ayah kau bangun,
+melihatku pergi.
+
+360
+00:37:07,142 --> 00:37:09,986
+Kubilang aku berkemah dengan
+teman, dan besok kutelepon.
+
+361
+00:37:10,145 --> 00:37:11,192
+Bisa lakukan itu?
+
+362
+00:37:11,396 --> 00:37:13,444
+Jika kau ceritakan
+apa yang terjadi.
+
+363
+00:37:18,903 --> 00:37:20,746
+Kurasa aku melihat--
+
+364
+00:37:23,074 --> 00:37:24,747
+Aku pergi ke...
+
+365
+00:37:25,702 --> 00:37:27,375
+...masa depan.
+
+366
+00:37:30,206 --> 00:37:31,423
+Boleh aku ikut?
+
+367
+00:37:33,084 --> 00:37:35,086
+Tidak sekarang.
+
+368
+00:37:59,694 --> 00:38:02,538
+Halo! Casey Newton ada?
+
+369
+00:38:03,031 --> 00:38:04,032
+Tidak.
+
+370
+00:38:04,199 --> 00:38:06,327
+Dia pesan kue
+dan aku mengantarnya.
+
+371
+00:38:07,285 --> 00:38:08,662
+Kau Gadis Pramuka?
+
+372
+00:38:08,828 --> 00:38:10,080
+Tentu.
+
+373
+00:38:10,246 --> 00:38:11,793
+Kenapa tak pakai seragam?
+
+374
+00:38:11,956 --> 00:38:13,208
+Sedang dicuci.
+
+375
+00:38:13,374 --> 00:38:15,422
+Itu Oreo.
+
+376
+00:38:17,587 --> 00:38:19,760
+Kapan Casey pulang?
+
+377
+00:38:20,131 --> 00:38:23,806
+Dia berkemah
+dengan temannya dua hari.
+
+378
+00:38:23,968 --> 00:38:26,187
+Kau bilang begitu
+pada orang tuamu?
+
+379
+00:38:28,139 --> 00:38:29,186
+Ya.
+
+380
+00:38:29,349 --> 00:38:30,441
+Tapi itu tidak benar.
+
+381
+00:38:30,600 --> 00:38:31,772
+Itu benar.
+
+382
+00:38:31,935 --> 00:38:33,778
+Tidak, Nathan.
+
+383
+00:38:34,270 --> 00:38:36,238
+Jangan tanya
+dari mana kutahu namamu.
+
+384
+00:38:36,397 --> 00:38:39,901
+Aku tahu itu sama seperti
+kutahu kau berbohong.
+
+385
+00:38:41,027 --> 00:38:42,904
+Kau dari masa depan?
+
+386
+00:38:43,196 --> 00:38:45,369
+Kau paham.
+
+387
+00:38:45,532 --> 00:38:48,160
+Jadi katakanlah
+yang ingin kutahu.
+
+388
+00:38:49,828 --> 00:38:52,547
+Lencana itu berhenti berfungsi.
+
+389
+00:38:52,705 --> 00:38:54,503
+Dia mencari lencana lain.
+
+390
+00:38:54,666 --> 00:38:57,135
+Nathan, di mana dia mencari?
+
+391
+00:39:04,175 --> 00:39:07,304
+<i>Ini satu langkah kecil
+bagi seorang manusia...</i>
+
+392
+00:39:07,470 --> 00:39:09,768
+<i>...satu langkah besar
+bagi umat manusia.</i>
+
+393
+00:39:14,352 --> 00:39:16,571
+JANGAN DISENTUH
+
+394
+00:39:26,239 --> 00:39:26,990
+Halo?
+
+395
+00:39:27,782 --> 00:39:29,876
+Ada obral minggu ini.
+Tiga rak depan.
+
+396
+00:39:30,285 --> 00:39:31,537
+Diskon 70 persen.
+
+397
+00:39:31,703 --> 00:39:34,456
+Terima kasih.
+Aku tak kemari untuk membeli.
+
+398
+00:39:35,790 --> 00:39:38,213
+Kuharap kau bisa
+jelaskan padaku tentang ini.
+
+399
+00:39:42,755 --> 00:39:43,802
+Hugo!
+
+400
+00:39:45,383 --> 00:39:46,600
+Hugo!
+
+401
+00:39:46,968 --> 00:39:47,935
+Sebentar.
+
+402
+00:39:49,846 --> 00:39:52,645
+Selamat datang
+di Blast From The--
+
+403
+00:39:56,185 --> 00:39:57,402
+Terima kasih bantuannya,
+sayang.
+
+404
+00:39:57,562 --> 00:39:59,235
+Jika dibiarkan terbuka,
+kau tak perlu bantuanku.
+
+405
+00:39:59,397 --> 00:40:01,240
+Jika dibiarkan terbuka,
+itu akan merusak pertunjukan.
+
+406
+00:40:01,399 --> 00:40:03,026
+Maafkan istriku. Dia tak
+menghargai artis.
+
+407
+00:40:03,359 --> 00:40:04,702
+Hugo Gernsback.
+Bisa kubantu?
+
+408
+00:40:04,861 --> 00:40:05,862
+Dia punya sebuah lencana.
+
+409
+00:40:07,322 --> 00:40:09,074
+Dia punya sebuah lencana.
+
+410
+00:40:09,449 --> 00:40:10,917
+Kulihat kau mencarinya
+di internet--
+
+411
+00:40:11,075 --> 00:40:12,622
+Dapat dari mana?
+
+412
+00:40:12,785 --> 00:40:13,832
+Apa yang bisa kau ceritakan?
+
+413
+00:40:13,995 --> 00:40:16,168
+Aku tak mau ceritakan sebelum
+kau bilang dapat dari siapa.
+
+414
+00:40:16,331 --> 00:40:17,833
+Aku tidak mau lebih dulu.
+
+415
+00:40:19,626 --> 00:40:21,924
+Tampaknya urusan kita
+sudah selesai.
+
+416
+00:40:22,420 --> 00:40:24,514
+Kelihatannya begitu.
+
+417
+00:40:30,428 --> 00:40:32,430
+Kau melihat sesuatu, ya?
+
+418
+00:40:34,599 --> 00:40:36,397
+Saat kau menyentuhnya.
+
+419
+00:40:38,186 --> 00:40:40,564
+Sesuatu yang luar biasa.
+
+420
+00:40:43,232 --> 00:40:44,484
+Apa itu nyata?
+
+421
+00:40:44,651 --> 00:40:45,698
+Tentu saja.
+
+422
+00:40:45,860 --> 00:40:47,077
+Jangan tanya padaku
+bagaimana.
+
+423
+00:40:47,236 --> 00:40:50,456
+Mereka membuat teknologi
+yang belum kita bayangkan.
+
+424
+00:40:50,615 --> 00:40:53,414
+Tunggu. Orang apa?
+
+425
+00:40:58,122 --> 00:41:00,671
+Kau pernah bayangkan
+apa yang terjadi...
+
+426
+00:41:00,833 --> 00:41:05,339
+jika semua orang cerdas,
+seniman, ilmuwan...
+
+427
+00:41:05,505 --> 00:41:08,429
+orang-orang paling pintar
+dan kreatif di dunia...
+
+428
+00:41:08,591 --> 00:41:11,470
+memutuskan
+untuk mengubah dunia?
+
+429
+00:41:12,929 --> 00:41:14,681
+Tapi di mana?
+
+430
+00:41:14,847 --> 00:41:16,645
+Di mana mereka melakukannya?
+
+431
+00:41:16,808 --> 00:41:20,153
+Mereka butuh tempat yang bebas
+dari politikus dan birokrasi...
+
+432
+00:41:20,311 --> 00:41:22,609
+gangguan, keserakahan.
+
+433
+00:41:22,772 --> 00:41:25,992
+Tempat rahasia bagi mereka
+untuk membangun...
+
+434
+00:41:26,150 --> 00:41:28,903
+apa pun imajinasi mereka
+yang cukup gila.
+
+435
+00:41:29,237 --> 00:41:31,956
+Mereka menyebut diri mereka
+"Plus Ultra".
+
+436
+00:41:32,115 --> 00:41:36,245
+Tapi satu-satunya cara untuk
+melihatnya ialah dengan benda ini.
+
+437
+00:41:36,411 --> 00:41:38,163
+Kenapa mereka membuatnya?
+Untuk apa itu?
+
+438
+00:41:39,330 --> 00:41:40,752
+Kabarnya...
+
+439
+00:41:40,915 --> 00:41:43,009
+mereka mau mengumumkannya.
+
+440
+00:41:43,167 --> 00:41:45,465
+Membagikan ciptaan mereka
+dengan dunia.
+
+441
+00:41:45,628 --> 00:41:48,928
+Sayangnya,
+itu tak pernah terjadi.
+
+442
+00:41:50,049 --> 00:41:51,221
+Kenapa?
+
+443
+00:41:52,051 --> 00:41:54,850
+Kami sudah beri cukup informasi.
+
+444
+00:41:58,516 --> 00:42:02,896
+Seperti kami percaya padamu,
+percayalah kami...
+
+445
+00:42:03,062 --> 00:42:05,531
+dan katakan dapat dari mana?
+
+446
+00:42:07,608 --> 00:42:08,609
+Aku tidak tahu.
+
+447
+00:42:09,402 --> 00:42:10,699
+Apa maksudmu?
+
+448
+00:42:12,321 --> 00:42:15,621
+Aku ditahan dan ini ada
+di barang-barangku.
+
+449
+00:42:16,075 --> 00:42:17,748
+Di dalam barang-barangmu?
+
+450
+00:42:17,910 --> 00:42:19,583
+Ya, entah kenapa bisa di situ.
+
+451
+00:42:22,165 --> 00:42:23,291
+Apa itu?
+
+452
+00:42:23,458 --> 00:42:25,756
+Katakan siapa
+yang memberikannya padamu.
+
+453
+00:42:25,918 --> 00:42:27,261
+Tidak ada!
+
+454
+00:42:29,172 --> 00:42:31,095
+Itu tidak mungkin.
+
+455
+00:42:32,884 --> 00:42:34,761
+Kau tahu?
+
+456
+00:42:34,927 --> 00:42:36,850
+Aku mau pergi sekarang.
+
+457
+00:42:37,013 --> 00:42:38,139
+Terima kasih bantuannya.
+
+458
+00:42:38,973 --> 00:42:41,067
+Kuberi $1 .000 jika kau katakan
+dapat dari mana.
+
+459
+00:42:41,225 --> 00:42:42,192
+Aku tidak tahu!
+
+460
+00:42:42,351 --> 00:42:44,353
+-$10.000.
+-Apakah seorang gadis kecil?
+
+461
+00:42:44,520 --> 00:42:46,147
+Aku tak tahu kalian bicara apa.
+
+462
+00:42:46,314 --> 00:42:48,282
+Selamat siang.
+Nikmati keanehan kalian.
+
+463
+00:42:49,484 --> 00:42:51,782
+Katakan di mana dia
+dan kau akan hidup.
+
+464
+00:42:53,863 --> 00:42:55,365
+Ini lelucon, kan?
+
+465
+00:43:01,496 --> 00:43:02,839
+Di mana gadis itu?
+
+466
+00:43:06,000 --> 00:43:08,344
+Aku tidak tahu tentang--
+
+467
+00:43:39,534 --> 00:43:41,957
+Katakan di mana gadis itu.
+
+468
+00:43:42,120 --> 00:43:43,417
+Aku tidak tahu.
+
+469
+00:43:43,579 --> 00:43:45,377
+Sudah kubilang--
+
+470
+00:43:45,540 --> 00:43:46,962
+Di mana gadis itu?
+
+471
+00:43:47,125 --> 00:43:48,798
+Aku tidak tahu!
+
+472
+00:44:01,973 --> 00:44:02,940
+Kita harus pergi!
+
+473
+00:44:05,017 --> 00:44:06,519
+Ayo. Sekarang!
+
+474
+00:44:07,895 --> 00:44:10,523
+Ini bom waktu. Menghentikan
+waktu, tapi tidak lama!
+
+475
+00:44:10,690 --> 00:44:11,441
+Apa?
+
+476
+00:44:11,607 --> 00:44:12,824
+Dengar.
+
+477
+00:44:12,984 --> 00:44:16,454
+Bola energi memudar
+dan kau akan tertembak.
+
+478
+00:44:16,612 --> 00:44:17,989
+Kita harus pergi...
+
+479
+00:44:18,156 --> 00:44:19,703
+atau kau akan mati.
+
+480
+00:44:22,034 --> 00:44:23,502
+Aku terjebak!
+
+481
+00:44:24,078 --> 00:44:25,170
+Aku terjebak!
+
+482
+00:44:25,329 --> 00:44:26,751
+Tapi hanya sementara.
+
+483
+00:44:26,914 --> 00:44:28,666
+Pegang tanganku.
+Begitu kau bebas...
+
+484
+00:44:28,833 --> 00:44:30,255
+kutarik kau dari tembakan.
+
+485
+00:44:30,418 --> 00:44:31,795
+Lalu diam di belakangku.
+
+486
+00:44:32,211 --> 00:44:33,053
+Siap?
+
+487
+00:44:50,146 --> 00:44:50,942
+Gadis itu.
+
+488
+00:45:30,645 --> 00:45:31,737
+Awas !
+
+489
+00:45:42,156 --> 00:45:43,248
+Kita harus pergi.
+
+490
+00:45:44,033 --> 00:45:46,707
+Mereka mau meledakkan diri.
+Kita harus pergi sekarang!
+
+491
+00:45:47,787 --> 00:45:51,212
+Cukup gila untuk dibayangkan.
+
+492
+00:46:03,427 --> 00:46:05,179
+Casey, berdiri.
+
+493
+00:46:05,346 --> 00:46:06,814
+Mereka datang.
+
+494
+00:46:06,973 --> 00:46:08,771
+Apa? Siapa?
+
+495
+00:46:12,061 --> 00:46:13,904
+Aku tak tahu apa--
+Aku tidak masuk ke--
+
+496
+00:46:14,063 --> 00:46:15,736
+Masuk ke mobil, Casey!
+
+497
+00:46:17,233 --> 00:46:18,860
+Dari mana kau tahu namaku?
+
+498
+00:46:19,235 --> 00:46:20,908
+Masuk saja!
+
+499
+00:46:35,584 --> 00:46:36,585
+Apa yang terjadi?
+
+500
+00:46:36,711 --> 00:46:39,134
+Dua unit AA
+ingin membunuhmu.
+
+501
+00:46:39,297 --> 00:46:41,595
+Kuselamatkan nyawamu.
+Mereka meledakkan diri.
+
+502
+00:46:41,757 --> 00:46:42,758
+"AA"?
+
+503
+00:46:43,301 --> 00:46:44,553
+Audio-Animatronic.
+
+504
+00:46:44,719 --> 00:46:45,936
+Mereka robot?
+
+505
+00:46:46,095 --> 00:46:48,769
+Bukan.
+Anthropomorphic canggih--
+
+506
+00:46:51,434 --> 00:46:54,529
+Baiklah. Robot.
+
+507
+00:46:54,979 --> 00:46:56,822
+Tunggu. Kau siapa?
+
+508
+00:46:57,648 --> 00:47:01,073
+Namaku Athena.
+Lencana itu dariku.
+
+509
+00:47:01,402 --> 00:47:03,530
+Lencana? Lencana!
+
+510
+00:47:03,696 --> 00:47:06,040
+Ya. Kuharap kau tidak kabur...
+
+511
+00:47:06,198 --> 00:47:09,077
+sebelum aku sempat berikan
+konteks yang penting.
+
+512
+00:47:09,243 --> 00:47:11,496
+Konteks? Apa maksudmu?
+
+513
+00:47:11,662 --> 00:47:14,381
+Bagaimana kau bisa mengemudi?
+Kau siapa?
+
+514
+00:47:14,707 --> 00:47:16,630
+Aku seorang krudan.
+
+515
+00:47:17,084 --> 00:47:18,131
+<i>Re--</i>
+
+516
+00:47:18,294 --> 00:47:19,546
+<i>Aku seorang...</i>
+
+517
+00:47:19,712 --> 00:47:21,510
+<i>...rekruton.</i>
+
+518
+00:47:28,346 --> 00:47:30,064
+<i>60 detik menjelang
+peledakan diri.</i>
+
+519
+00:47:31,849 --> 00:47:34,318
+Program penerjemahku rusak
+
+520
+00:47:36,062 --> 00:47:37,905
+Maaf soal itu.
+
+521
+00:47:38,064 --> 00:47:40,487
+Kau salah satu dari mereka?
+
+522
+00:47:41,067 --> 00:47:42,410
+Tentu.
+
+523
+00:47:50,034 --> 00:47:51,286
+Kau mau ke mana?
+
+524
+00:47:51,452 --> 00:47:53,750
+Berhenti!
+Aku mau menolongmu!
+
+525
+00:47:59,960 --> 00:48:01,587
+Astaga!
+
+526
+00:48:15,267 --> 00:48:16,109
+Hei!
+
+527
+00:48:17,520 --> 00:48:18,487
+Hei!
+
+528
+00:48:28,364 --> 00:48:31,493
+Ini tidak terjadi.
+
+529
+00:48:34,370 --> 00:48:35,838
+Tidak mungkin!
+
+530
+00:48:47,675 --> 00:48:48,927
+Biarkan aku keluar!
+
+531
+00:48:49,093 --> 00:48:50,436
+Berhenti teriak!
+
+532
+00:48:50,928 --> 00:48:51,975
+Biarkan aku keluar!
+
+533
+00:48:52,138 --> 00:48:53,185
+Tidak mau!
+
+534
+00:48:53,347 --> 00:48:57,727
+Kuberi kau lencana terakhirku,
+dan aku tak mau sia-siakan.
+
+535
+00:48:57,893 --> 00:48:59,941
+Apa maksudmu
+lencana terakhir?
+
+536
+00:49:03,607 --> 00:49:06,406
+Tunggu, tempat yang kulihat.
+
+537
+00:49:08,946 --> 00:49:10,072
+Sungguh ada?
+
+538
+00:49:10,239 --> 00:49:11,661
+Tentu saja.
+
+539
+00:49:12,575 --> 00:49:16,250
+Tapi jika kau tidak ikut aku,
+tempat itu akan lenyap.
+
+540
+00:49:17,830 --> 00:49:18,831
+Kenapa?
+
+541
+00:49:18,998 --> 00:49:20,750
+Karena mereka membuat
+sesuatu yang salah.
+
+542
+00:49:21,917 --> 00:49:23,794
+Membuat apa?
+
+543
+00:49:24,128 --> 00:49:27,553
+Kau ingin terus bertanya
+sampai ada yang membunuh kita?
+
+544
+00:49:27,715 --> 00:49:28,637
+Tidak.
+
+545
+00:49:29,175 --> 00:49:32,179
+Kau mau ke arah mana?
+
+546
+00:49:32,344 --> 00:49:36,065
+Mundur, atau maju?
+
+547
+00:49:37,266 --> 00:49:38,768
+Kau bisa membawaku ke sana?
+
+548
+00:49:39,268 --> 00:49:40,110
+Bisa.
+
+549
+00:49:43,814 --> 00:49:44,861
+Aku yang mengemudi.
+
+550
+00:49:46,901 --> 00:49:47,902
+Oke.
+
+551
+00:49:48,068 --> 00:49:49,741
+Kalian boleh pergi.
+Terima kasih.
+
+552
+00:49:51,405 --> 00:49:52,827
+Baik, anak-anak.
+
+553
+00:49:54,617 --> 00:49:57,621
+Kepala PMK bilang kita
+boleh masuk dan memeriksa.
+
+554
+00:49:57,786 --> 00:50:01,381
+Semoga pemiliknya sedang makan
+dan tokonya kosong saat meledak.
+
+555
+00:50:01,540 --> 00:50:02,587
+Kapten.
+
+556
+00:50:08,214 --> 00:50:09,215
+Sore, Pak.
+
+557
+00:50:09,381 --> 00:50:10,928
+Dave Clark, Dinas Rahasia.
+
+558
+00:50:14,386 --> 00:50:16,309
+Kalian dapat ledakan
+yang luar biasa.
+
+559
+00:50:16,472 --> 00:50:17,894
+Dinas Rahasia?
+
+560
+00:50:18,057 --> 00:50:20,355
+- Mereka ke mana?
+- Mengamankan area.
+
+561
+00:50:20,518 --> 00:50:23,818
+Terima kasih bantuannya,
+tapi kami ambil alih.
+
+562
+00:50:25,272 --> 00:50:26,148
+Hei, Dale.
+
+563
+00:50:26,315 --> 00:50:28,989
+Kutemukan ini di luar jendela.
+
+564
+00:50:30,027 --> 00:50:31,825
+Pernah lihat yang begini?
+
+565
+00:50:33,239 --> 00:50:34,912
+Apa-apaan?
+
+566
+00:50:35,616 --> 00:50:36,583
+Astaga!
+
+567
+00:50:36,742 --> 00:50:39,495
+<i>Obral. Minggu ini.
+70 persen--</i>
+
+568
+00:50:39,787 --> 00:50:42,006
+<i>Apakah seorang gadis kecil?</i>
+
+569
+00:50:42,164 --> 00:50:43,336
+<i>Seorang gadis kecil?</i>
+
+570
+00:50:45,209 --> 00:50:47,428
+Mau ceritakan
+apa yang terjadi di sini?
+
+571
+00:50:47,586 --> 00:50:49,839
+Tidak, Pak.
+
+572
+00:50:54,969 --> 00:50:56,516
+<i>Apakah seorang gadis kecil?</i>
+
+573
+00:50:57,054 --> 00:50:58,806
+Hubungi Gubernur Nix.
+
+574
+00:51:00,182 --> 00:51:02,401
+Katakan kita menemukan
+gadis itu.
+
+575
+00:51:02,685 --> 00:51:03,527
+Belok kiri!
+
+576
+00:51:05,020 --> 00:51:06,988
+Lain waktu beri peringatan dulu.
+
+577
+00:51:07,147 --> 00:51:09,570
+Aku ada ide. Katakanlah
+ke mana tujuan kita.
+
+578
+00:51:09,733 --> 00:51:11,326
+Pittsfield, New York.
+
+579
+00:51:11,485 --> 00:51:12,702
+Ada apa di sana?
+
+580
+00:51:13,445 --> 00:51:14,822
+Seseorang yang bisa
+membawa kita kembali.
+
+581
+00:51:15,322 --> 00:51:18,246
+Tunggu. Katamu kau
+memberiku lencana terakhir.
+
+582
+00:51:18,409 --> 00:51:20,161
+Kau berikan kepada
+berapa banyak orang?
+
+583
+00:51:20,327 --> 00:51:21,294
+Itu tidak penting.
+
+584
+00:51:22,079 --> 00:51:23,501
+Aku bukan pilihan pertamamu.
+
+585
+00:51:24,331 --> 00:51:28,632
+Kutemukan kau sebulan lalu
+saat merusak properti pemerintah.
+
+586
+00:51:28,794 --> 00:51:31,172
+Kebetulan itu masuk parameter
+pencarianku untuk rekrutmen.
+
+587
+00:51:32,381 --> 00:51:33,473
+Belum lagi...
+
+588
+00:51:33,632 --> 00:51:35,976
+kau dapat nilai 73 di timbangan
+Feynman/Drummelberg.
+
+589
+00:51:36,927 --> 00:51:39,601
+73? Itu bagus?
+
+590
+00:51:39,763 --> 00:51:40,855
+Tunggu.
+
+591
+00:51:41,015 --> 00:51:42,141
+Rekrutmen untuk apa?
+
+592
+00:51:42,308 --> 00:51:43,605
+Aku tak boleh menjawab itu.
+
+593
+00:51:43,767 --> 00:51:44,939
+Siapa yang melarangmu?
+
+594
+00:51:45,102 --> 00:51:47,400
+Aku tak boleh menjawab itu.
+Dan kuperingatkan...
+
+595
+00:51:47,563 --> 00:51:51,033
+jika terus bertanya,
+Protokol Pencegahku akan aktif.
+
+596
+00:51:51,191 --> 00:51:52,693
+Apa artinya?
+
+597
+00:51:52,860 --> 00:51:54,954
+Kumatikan diriku.
+
+598
+00:51:55,487 --> 00:51:57,205
+Tidak akan.
+
+599
+00:51:57,364 --> 00:51:58,411
+Coba saja.
+
+600
+00:52:02,202 --> 00:52:05,627
+Katamu mereka membuat
+sesuatu yang salah.
+
+601
+00:52:05,789 --> 00:52:07,166
+Apa terjadi sesuatu di sana?
+
+602
+00:52:07,333 --> 00:52:09,176
+Hal buruk?
+
+603
+00:52:10,002 --> 00:52:11,219
+Astaga--
+
+604
+00:52:27,102 --> 00:52:29,525
+Tolong jangan dijawab.
+
+605
+00:52:31,357 --> 00:52:33,280
+<i>Ini telepon Eddie Newton.</i>
+
+606
+00:52:33,442 --> 00:52:35,865
+<i>Tinggalkan pesan
+dan akan kutelepon balik.</i>
+
+607
+00:52:36,945 --> 00:52:39,494
+Ayah, ini Casey.
+
+608
+00:52:40,616 --> 00:52:43,711
+Kusuruh Nate bilang aku
+berkemah, tapi itu tak benar.
+
+609
+00:52:43,869 --> 00:52:45,917
+Aku tak suka membohongi Ayah.
+
+610
+00:52:47,122 --> 00:52:50,001
+Tapi aku tak bisa
+bilang yang sebenarnya karena...
+
+611
+00:52:52,378 --> 00:52:56,178
+Sesuatu yang ganjil terjadi, dan--
+
+612
+00:52:57,257 --> 00:52:59,476
+Maksudku...
+
+613
+00:52:59,635 --> 00:53:02,605
+<i>Aku baik saja.
+Aku akan tetap baik-baik saja.</i>
+
+614
+00:53:02,888 --> 00:53:06,142
+<i>Aku tidak pakai narkoba.
+Bukan anggota aliran sesat.</i>
+
+615
+00:00:04,000 --> 00:00:22,000
+v ip 2 1. e u. or g
+
+616
+00:53:06,308 --> 00:53:07,605
+<i>Aku tak pergi lama.</i>
+
+617
+00:53:08,560 --> 00:53:10,813
+<i>Aku akan segera telepon lagi.</i>
+
+618
+00:53:10,979 --> 00:53:12,356
+<i>Aku sayang Ayah.</i>
+
+619
+00:53:18,028 --> 00:53:20,622
+Astaga! Kau baik saja?
+
+620
+00:53:20,781 --> 00:53:22,829
+Ya. Terima kasih.
+
+621
+00:53:23,617 --> 00:53:26,336
+Kukira aku merusakmu.
+
+622
+00:53:30,999 --> 00:53:32,000
+Aku harus mengemudi.
+
+623
+00:53:33,210 --> 00:53:37,340
+Casey, aku tahu tak ada alasan
+bagimu untuk percaya aku.
+
+624
+00:53:37,506 --> 00:53:41,136
+Tapi sudah lama kucari
+orang sepertimu.
+
+625
+00:53:41,301 --> 00:53:42,097
+Sekarang tolonglah...
+
+626
+00:53:44,221 --> 00:53:45,313
+menepi.
+
+627
+00:53:55,983 --> 00:53:58,827
+Kau bisa beri lencana itu
+pada siapa pun...
+
+628
+00:54:01,488 --> 00:54:03,286
+kenapa aku?
+
+629
+00:54:03,449 --> 00:54:05,326
+Karena kau istimewa.
+
+630
+00:54:05,492 --> 00:54:07,915
+Ya. Benar sekali.
+
+631
+00:54:08,078 --> 00:54:09,580
+Sungguh.
+
+632
+00:54:17,838 --> 00:54:19,840
+Orang yang akan kita temui...
+
+633
+00:54:21,508 --> 00:54:23,351
+siapa namanya?
+
+634
+00:54:25,512 --> 00:54:27,264
+Namanya Frank.
+
+635
+00:54:28,515 --> 00:54:30,358
+<i>Frank Walker.</i>
+
+636
+00:54:31,518 --> 00:54:33,691
+Dia juga istimewa.
+
+637
+00:54:35,147 --> 00:54:37,366
+Frank Walker.
+
+638
+00:54:52,539 --> 00:54:55,543
+KITALAH MASA DEPAN
+
+639
+00:55:03,383 --> 00:55:06,227
+Tunggu, apa yang kaulakukan?
+
+640
+00:55:12,309 --> 00:55:13,811
+Hebat sekali.
+
+641
+00:56:22,963 --> 00:56:24,636
+Di mana jejak kakimu?
+
+642
+00:56:37,811 --> 00:56:40,109
+Itu keren.
+
+643
+00:57:10,510 --> 00:57:12,638
+Aku bisa mendengarmu.
+
+644
+00:57:12,804 --> 00:57:15,603
+Pergilah.
+Kau lihat anjingnya?
+
+645
+00:57:15,766 --> 00:57:18,019
+Ya. Itu hologram.
+
+646
+00:57:18,185 --> 00:57:20,187
+Bagaimana caramu
+melakukan itu di siang hari?
+
+647
+00:57:20,354 --> 00:57:21,856
+- Mengagumkan.
+- Siapa kau?
+
+648
+00:57:22,773 --> 00:57:24,116
+Apa maumu?
+
+649
+00:57:24,274 --> 00:57:26,618
+Kau Frank Walker, kan?
+
+650
+00:57:27,361 --> 00:57:31,036
+Namaku Casey, dan aku mau
+kau membawaku ke sana.
+
+651
+00:57:31,865 --> 00:57:34,789
+Ke mana?
+
+652
+00:57:34,952 --> 00:57:37,455
+Ke tempat yang kulihat
+saat menyentuh ini.
+
+653
+00:57:53,470 --> 00:57:55,063
+Dapat dari mana?
+
+654
+00:57:55,889 --> 00:57:56,981
+Seorang gadis kecil.
+
+655
+00:57:57,140 --> 00:57:58,141
+Athena.
+
+656
+00:57:58,892 --> 00:58:00,314
+Di mana dia?
+
+657
+00:58:00,477 --> 00:58:01,820
+Dia meninggalkanku di sini.
+
+658
+00:58:03,730 --> 00:58:05,198
+Tentu saja.
+
+659
+00:58:05,357 --> 00:58:08,657
+Kembali ke tempat asalmu, Nak.
+
+660
+00:58:09,069 --> 00:58:11,743
+Tidak, bawa aku ke sana.
+Apa yang kulihat--
+
+661
+00:58:11,905 --> 00:58:14,203
+Apa yang kau lihat
+sudah hilang.
+
+662
+00:58:15,659 --> 00:58:18,162
+Apa yang kau cari
+sudah tidak ada lagi.
+
+663
+00:58:18,328 --> 00:58:20,205
+Tidak. Aku harus pergi.
+
+664
+00:58:20,372 --> 00:58:22,249
+Aku merasa harus ke sana.
+
+665
+00:58:22,416 --> 00:58:23,542
+Kenapa?
+
+666
+00:58:23,709 --> 00:58:27,009
+Karena mereka menyisakan kursi
+untukmu di kapal roket?
+
+667
+00:58:29,006 --> 00:58:32,601
+Kau melihat iklan yang direkam
+puluhan tahun lalu.
+
+668
+00:58:33,385 --> 00:58:37,265
+Itu undangan yang tak tersebar
+karena pestanya dibatalkan.
+
+669
+00:58:37,431 --> 00:58:40,230
+Kau tak perlu
+berbuat apa-apa.
+
+670
+00:58:40,392 --> 00:58:44,898
+Kau dibuat merasa jadi bagian
+dari sesuatu yang hebat.
+
+671
+00:58:45,063 --> 00:58:47,111
+Seolah kau istimewa.
+
+672
+00:58:47,274 --> 00:58:48,400
+Tapi tidak.
+
+673
+00:58:50,277 --> 00:58:51,278
+Kau tidak istimewa.
+
+674
+00:58:54,197 --> 00:58:55,414
+Jadi kau menolak?
+
+675
+01:00:11,650 --> 01:00:12,526
+Kurang ajar!
+
+676
+01:00:43,723 --> 01:00:45,225
+Dasar kau...
+
+677
+01:00:48,353 --> 01:00:50,731
+<i>Aku bisa telepon
+polisi kapan saja.</i>
+
+678
+01:00:50,897 --> 01:00:52,695
+Kapan saja!
+
+679
+01:00:52,858 --> 01:00:53,734
+Kau Punya"
+
+680
+01:00:53,900 --> 01:00:55,902
+Kuberi kau lima detik--
+
+681
+01:01:06,746 --> 01:01:08,168
+Aku tidak mau pergi!
+
+682
+01:01:08,748 --> 01:01:11,217
+Katakan cara ke sana
+atau bunuh aku!
+
+683
+01:01:11,376 --> 01:01:15,597
+Jika kau sentuh apa pun di dalam,
+itu yang akan kulakukan!
+
+684
+01:01:18,258 --> 01:01:19,384
+Kau sedang apa?
+
+685
+01:01:19,551 --> 01:01:21,724
+Aku menyentuh
+barang-barangmu!
+
+686
+01:01:24,723 --> 01:01:27,192
+Buka pintunya sekarang juga!
+
+687
+01:01:27,934 --> 01:01:28,935
+Aku serius.
+
+688
+01:01:29,769 --> 01:01:31,112
+Akan kuhajar kau.
+
+689
+01:01:36,610 --> 01:01:40,114
+Benda apa ini yang ada
+trombon gesernya?
+
+690
+01:01:40,280 --> 01:01:42,578
+Jangan sentuh itu.
+Aku serius!
+
+691
+01:01:42,741 --> 01:01:44,084
+Mau bawa aku ke sana?
+
+692
+01:01:44,242 --> 01:01:45,038
+Tidak!
+
+693
+01:01:45,202 --> 01:01:46,954
+Berarti kau tidak serius!
+
+694
+01:01:50,874 --> 01:01:51,966
+Ayolah.
+
+695
+01:01:52,125 --> 01:01:54,924
+Menurutmu itu tidak lucu?
+
+696
+01:01:55,086 --> 01:01:56,804
+Kau merekam ini?
+
+697
+01:01:56,963 --> 01:01:59,136
+Jika aku bisa membuatmu
+tertawa, aku ingin...
+
+698
+01:01:59,299 --> 01:02:01,097
+...simpan untuk anak cucuk...
+
+699
+01:02:01,259 --> 01:02:02,385
+Aku tertawa.
+
+700
+01:02:02,552 --> 01:02:05,226
+Kau tersenyum.
+Itu bukan tawa.
+
+701
+01:02:05,388 --> 01:02:06,560
+Semua orang tertawa.
+
+702
+01:02:06,723 --> 01:02:08,145
+Itu kebutuhan biologis.
+
+703
+01:02:08,308 --> 01:02:10,982
+Sebenarnya tidak.
+Tidur kebutuhan biologis.
+
+704
+01:02:11,561 --> 01:02:13,609
+Aku juga tak pernah
+melihatmu tidur.
+
+705
+01:02:15,899 --> 01:02:18,778
+Cepat atau lambat
+akan kubuat kau tertawa.
+
+706
+01:02:19,486 --> 01:02:21,955
+Aku takkan berhenti berusaha.
+
+707
+01:02:22,113 --> 01:02:23,786
+Mungkin sebaiknya berhenti.
+
+708
+01:02:24,950 --> 01:02:25,951
+Apa?
+
+709
+01:02:26,952 --> 01:02:28,920
+Berhenti berusaha.
+
+710
+01:02:31,331 --> 01:02:32,753
+Kenapa?
+
+711
+01:02:34,834 --> 01:02:36,802
+Haruskah kita merekam ini?
+
+712
+01:02:50,767 --> 01:02:52,690
+PAMERAN DUNIA
+AKU TAK MENYERAH!
+
+713
+01:03:25,051 --> 01:03:27,145
+PERINTAH LARANGAN AIR
+TAHAP 4
+
+714
+01:03:36,146 --> 01:03:37,739
+- Keluar!
+- Tunggu.
+
+715
+01:03:37,897 --> 01:03:39,570
+Apa itu?
+Itu hitung mundur?
+
+716
+01:03:39,733 --> 01:03:42,077
+Aku tak mau pergi. Aku berhak
+tahu apa yang terjadi.
+
+717
+01:03:42,235 --> 01:03:44,078
+- Kau berhak...
+- Aku berhak dapat jawaban.
+
+718
+01:03:44,237 --> 01:03:45,910
+- Jawaban untuk apa?
+- Aku tahu kau di sana.
+
+719
+01:03:46,072 --> 01:03:47,073
+Kau tak tahu apa-apa.
+
+720
+01:03:47,240 --> 01:03:48,742
+Kenapa kau meninggalkan
+tempat seperti itu?
+
+721
+01:03:48,908 --> 01:03:50,251
+Karena mereka mengusirku!
+
+722
+01:03:56,416 --> 01:04:00,262
+Mereka mengusirku dan mengunci
+semua pintu untuk kembali.
+
+723
+01:04:02,505 --> 01:04:06,260
+Karena kau membuat sesuatu
+yang dilarang?
+
+724
+01:04:06,426 --> 01:04:07,518
+Siapa yang bilang?
+
+725
+01:04:08,178 --> 01:04:09,270
+Itukah yang kau buat?
+
+726
+01:04:10,430 --> 01:04:11,181
+KEMUNGKINAN
+100,0000%
+
+727
+01:04:11,264 --> 01:04:12,607
+"Sesuatu" itu?
+
+728
+01:04:15,393 --> 01:04:17,236
+Jika aku bisa beri tahu...
+
+729
+01:04:17,771 --> 01:04:19,773
+tanggal persis kematianmu...
+
+730
+01:04:19,939 --> 01:04:20,940
+apa kau ingin tahu?
+
+731
+01:04:21,107 --> 01:04:21,949
+Bagaimana kau bisa tahu?
+
+732
+01:04:22,609 --> 01:04:23,576
+Katakan saja aku tahu.
+
+733
+01:04:23,735 --> 01:04:25,408
+- Kau peramal?
+- Bukan itu intinya.
+
+734
+01:04:25,570 --> 01:04:26,617
+Bagaimana kau bisa tahu?
+
+735
+01:04:26,780 --> 01:04:28,202
+- Itu hipotetis.
+- Hipotetis yang bodoh.
+
+736
+01:04:28,365 --> 01:04:30,914
+Pakai saja imajinasimu.
+
+737
+01:04:31,868 --> 01:04:33,120
+- Baiklah.
+- Oke.
+
+738
+01:04:33,745 --> 01:04:35,247
+Anggaplah ada dunia...
+
+739
+01:04:35,413 --> 01:04:37,632
+dan di sana aku bisa tahu...
+
+740
+01:04:37,791 --> 01:04:41,386
+waktu kematianmu.
+
+741
+01:04:41,544 --> 01:04:43,888
+Kau mau kuberi tahu atau tidak?
+
+742
+01:04:44,714 --> 01:04:46,557
+Tentu mau. Siapa yang tidak?
+
+743
+01:04:48,218 --> 01:04:49,970
+Tapi...
+
+744
+01:04:50,136 --> 01:04:54,642
+bagaimana jika disebabkan
+karena aku menerima kematian?
+
+745
+01:04:54,808 --> 01:04:56,276
+Jadi jawabannya adalah ya.
+
+746
+01:04:56,434 --> 01:04:57,936
+Katakan padaku.
+
+747
+01:04:58,770 --> 01:05:00,568
+- Tapi aku takkan percaya.
+- Kau harus percaya.
+
+748
+01:05:00,730 --> 01:05:04,075
+Kenapa? Bukankah kita sendiri
+yang menentukan takdir?
+
+749
+01:05:05,985 --> 01:05:07,612
+KEMUNGKINAN
+99,9995%
+
+750
+01:05:11,491 --> 01:05:12,492
+Apa?
+
+751
+01:05:19,958 --> 01:05:21,301
+Siapa kau, Nak?
+
+752
+01:05:25,755 --> 01:05:27,473
+Apa itu buruk?
+
+753
+01:05:30,468 --> 01:05:31,515
+Astaga.
+
+754
+01:05:32,637 --> 01:05:33,809
+Astaga.
+
+755
+01:05:44,774 --> 01:05:46,196
+Mereka mengikutimu kemari?
+
+756
+01:05:46,359 --> 01:05:48,282
+Apa? Siapa?
+
+757
+01:05:48,445 --> 01:05:49,537
+Robot.
+
+758
+01:05:51,281 --> 01:05:52,373
+Aku belum pernah lihat mereka.
+
+759
+01:05:53,199 --> 01:05:55,042
+<i>John Francis Walker.</i>
+
+760
+01:05:55,201 --> 01:05:58,205
+<i>Kau diizinkan hidup karena
+setuju untuk tidak intervensi.</i>
+
+761
+01:05:58,371 --> 01:06:00,499
+<i>Kau menyembunyikan
+seorang buronan.</i>
+
+762
+01:06:00,832 --> 01:06:03,210
+<i>Serahkan dia kepada kami
+atau kau dilenyapkan.</i>
+
+763
+01:06:03,376 --> 01:06:05,470
+<i>Waktumu satu menit
+untuk menjawab.</i>
+
+764
+01:06:21,644 --> 01:06:23,191
+- Terima kasih.
+- Jangan dulu berterima kasih.
+
+765
+01:06:42,207 --> 01:06:43,174
+Tunggu.
+
+766
+01:07:50,650 --> 01:07:51,776
+Ayo !
+
+767
+01:08:14,674 --> 01:08:15,675
+Ayo !
+
+768
+01:08:22,181 --> 01:08:24,775
+John Francis Walker,
+atas perintah Gubernur Nix...
+
+769
+01:08:24,934 --> 01:08:26,277
+unit ini dapat izin...
+
+770
+01:08:26,436 --> 01:08:27,653
+<i>untuk membunuhmu.</i>
+
+771
+01:08:32,025 --> 01:08:33,026
+Baiklah.
+
+772
+01:08:37,697 --> 01:08:38,698
+Baiklah.
+
+773
+01:08:41,200 --> 01:08:43,373
+Itu cukup.
+Cukup!
+
+774
+01:08:46,956 --> 01:08:48,879
+Ayo. Tutup pintunya.
+
+775
+01:08:49,876 --> 01:08:51,719
+Siapa Gubernur Nix?
+
+776
+01:08:53,212 --> 01:08:54,714
+Ayo.
+
+777
+01:08:55,673 --> 01:08:56,970
+Masuk.
+
+778
+01:09:00,553 --> 01:09:02,055
+Apa ini ide bagus?
+
+779
+01:09:02,680 --> 01:09:04,227
+HANCURKAN RUMAH
+
+780
+01:09:35,254 --> 01:09:36,426
+Bergerak atau tenggelam, Nak.
+
+781
+01:09:36,589 --> 01:09:38,717
+Kau punya persiapan untuk itu?
+
+782
+01:09:48,601 --> 01:09:50,274
+- Topiku.
+- Tinggalkan.
+
+783
+01:09:50,436 --> 01:09:52,029
+Aku tak bisa pergi tanpanya.
+
+784
+01:09:58,945 --> 01:10:00,071
+Itu punya ayahku.
+
+785
+01:10:01,781 --> 01:10:03,454
+Sekarang aku paham.
+
+786
+01:10:03,616 --> 01:10:05,744
+Kau terlalu pintar
+untuk kebaikan dirimu.
+
+787
+01:10:06,786 --> 01:10:10,211
+Ayahmu tak memahamimu,
+tidak mendukungmu.
+
+788
+01:10:10,415 --> 01:10:15,216
+Kini kaupakai topinya sebagai
+tanda pemberontakan.
+
+789
+01:10:16,587 --> 01:10:18,931
+Tidak. Ayahku luar biasa.
+
+790
+01:10:22,468 --> 01:10:24,641
+Tunggu.
+
+791
+01:10:25,722 --> 01:10:27,975
+Kita tidak bicara
+tentang aku, ya?
+
+792
+01:10:30,560 --> 01:10:33,154
+Kuantar kau pulang
+ke ayahmu yang luar biasa...
+
+793
+01:10:33,312 --> 01:10:34,780
+...dan pura-pura ini
+tak pernah terjadi.
+
+794
+01:10:35,815 --> 01:10:36,657
+Naiklah.
+
+795
+01:10:39,652 --> 01:10:41,154
+- Akinya mati.
+- Tidak.
+
+796
+01:10:41,320 --> 01:10:43,618
+- Mungkin platinanya.
+- Bukan.
+
+797
+01:10:43,823 --> 01:10:46,246
+- Kapan terakhir kau periksa--
+- Kau tak menolong.
+
+798
+01:10:49,162 --> 01:10:50,505
+Turun. Sekarang.
+
+799
+01:11:05,261 --> 01:11:06,854
+Tunggu.
+
+800
+01:11:09,682 --> 01:11:10,934
+Halo, Frank.
+
+801
+01:11:18,524 --> 01:11:20,367
+Kau mau menembakku?
+
+802
+01:11:22,195 --> 01:11:23,788
+Sedang kupertimbangkan.
+
+803
+01:11:23,946 --> 01:11:27,200
+Bisa pertimbangkan di truk?
+Karena kita harus pergi.
+
+804
+01:11:28,868 --> 01:11:30,040
+Tunggu.
+
+805
+01:11:30,203 --> 01:11:32,831
+Kenapa? Agar lebih
+banyak robot bisa datang?
+
+806
+01:11:35,124 --> 01:11:36,216
+Dia salah satu dari mereka.
+
+807
+01:11:36,375 --> 01:11:38,218
+Aku tahu. Kau ikut atau tidak?
+
+808
+01:11:44,842 --> 01:11:46,310
+Geser.
+
+809
+01:12:06,030 --> 01:12:06,872
+Frank...
+
+810
+01:12:07,031 --> 01:12:08,374
+Nanti.
+
+811
+01:12:09,700 --> 01:12:12,078
+Apa yang kaupikirkan?
+Kenapa kau melibatkannya?
+
+812
+01:12:12,245 --> 01:12:16,000
+Aku tak melibatkannya.
+Kuberi dia lencana.
+
+813
+01:12:16,165 --> 01:12:18,213
+Dia melakukan sisanya.
+
+814
+01:12:18,376 --> 01:12:19,252
+Sama sepertimu.
+
+815
+01:12:19,418 --> 01:12:22,843
+Jangan coba-coba.
+Dapat dari mana lencananya?
+
+816
+01:12:23,047 --> 01:12:24,424
+Aku hadir.
+Mereka menghancurkannya.
+
+817
+01:12:24,590 --> 01:12:27,560
+Tidak semuanya. Aku berhasil
+kabur membawa selusin.
+
+818
+01:12:27,760 --> 01:12:29,103
+Jadi kau beri satu
+pada seorang remaja.
+
+819
+01:12:29,262 --> 01:12:32,607
+Hei, aku dapat 73 di timbangan
+Feinberg/Dusseldorf.
+
+820
+01:12:32,765 --> 01:12:34,938
+Kau dapat 73? Itu mustahil.
+
+821
+01:12:35,101 --> 01:12:37,354
+Dia iri karena dia dapat 41.
+
+822
+01:12:37,520 --> 01:12:39,113
+Saat itu aku 11 tahun.
+
+823
+01:12:39,397 --> 01:12:40,614
+Saat itu aku 11 tahun!
+
+824
+01:12:41,357 --> 01:12:42,859
+Jangan sentuh itu!
+
+825
+01:12:43,025 --> 01:12:47,246
+Ini bom sekuat satu kiloton.
+Bukan mainan.
+
+826
+01:12:47,405 --> 01:12:49,749
+Jangan sentuh barang-barangku.
+
+827
+01:12:49,907 --> 01:12:51,750
+- Kau mengerti?
+- Maaf!
+
+828
+01:12:51,909 --> 01:12:53,411
+Aku tidak mulai darinya.
+
+829
+01:12:53,578 --> 01:12:56,457
+Kuhabiskan bertahun-tahun
+dengan calon lainnya.
+
+830
+01:12:56,622 --> 01:12:58,420
+Calon? Untuk apa?
+
+831
+01:13:00,793 --> 01:13:03,137
+Itu indah. Kau masih
+mengira kau merekrut...
+
+832
+01:13:03,296 --> 01:13:04,218
+benar?
+
+833
+01:13:04,380 --> 01:13:05,723
+Jangan tanya dia lagi.
+
+834
+01:13:05,882 --> 01:13:07,805
+Dia akan mematikan diri.
+
+835
+01:13:07,967 --> 01:13:09,093
+Matikan apa?
+
+836
+01:13:09,260 --> 01:13:11,103
+Kau bilang padanya kau punya
+program mematikan diri?
+
+837
+01:13:11,262 --> 01:13:12,889
+Dia menjengkelkan.
+
+838
+01:13:13,764 --> 01:13:14,811
+Kau bohong?
+
+839
+01:13:14,974 --> 01:13:16,226
+Biasakan itu, Nak.
+
+840
+01:13:16,392 --> 01:13:18,269
+Sekarang dia menjanjikan
+masa depan indah...
+
+841
+01:13:18,436 --> 01:13:21,155
+berikutnya dia membawamu
+ke rumah untuk membunuhmu.
+
+842
+01:13:21,314 --> 01:13:24,284
+Maaf, waktunya sedikit
+dan kau butuh motivasi.
+
+843
+01:13:24,442 --> 01:13:25,443
+Motivasi untuk apa?
+
+844
+01:13:25,902 --> 01:13:27,404
+Kita harus kembali, Frank.
+
+845
+01:13:27,778 --> 01:13:28,904
+Kembali ke sana?
+
+846
+01:13:29,488 --> 01:13:30,740
+Ya, Frank,
+kita harus kembali.
+
+847
+01:13:30,907 --> 01:13:31,749
+Bagus.
+
+848
+01:13:31,908 --> 01:13:33,080
+Itu hebat sekali.
+
+849
+01:13:33,242 --> 01:13:36,086
+Aku disengat lebah.
+Ayo lompat ke sarangnya.
+
+850
+01:13:36,495 --> 01:13:38,122
+Itu analogi yang buruk.
+
+851
+01:13:38,289 --> 01:13:40,838
+Itu analogi yang bagus.
+Tahu apa kau soal analogi?
+
+852
+01:13:41,000 --> 01:13:43,173
+Kau sulit diajak bicara
+jika seperti ini.
+
+853
+01:13:43,336 --> 01:13:46,840
+Aku begini karena
+kau merusak hidupku.
+
+854
+01:13:47,006 --> 01:13:47,848
+Lagi.
+
+855
+01:13:48,007 --> 01:13:51,136
+Frank, ini bukan urusan pribadi.
+
+856
+01:13:51,302 --> 01:13:52,519
+Ini hanya program.
+
+857
+01:13:54,805 --> 01:13:55,806
+Kita sudah tiba!
+
+858
+01:14:03,356 --> 01:14:04,357
+Kau mau ke mana?
+
+859
+01:14:04,523 --> 01:14:07,447
+Di sini lokasi
+stasiun kabelmu, kan?
+
+860
+01:14:07,610 --> 01:14:10,159
+- Kita harus kembali ke Spectacle.
+- Spectacle?
+
+861
+01:14:10,488 --> 01:14:11,614
+Kau gila?
+
+862
+01:14:11,781 --> 01:14:13,454
+Mereka tahu kau yang mengutusnya.
+Mereka pasti sudah menunggu.
+
+863
+01:14:14,367 --> 01:14:16,995
+Baik. Berikan tube Edison
+dan kami akan pergi tanpamu.
+
+864
+01:14:17,161 --> 01:14:19,038
+Aku tak punya.
+
+865
+01:14:19,205 --> 01:14:21,003
+Ada di tasmu.
+
+866
+01:14:21,165 --> 01:14:22,792
+Aku punya pandangan sinar X.
+
+867
+01:14:22,959 --> 01:14:24,051
+Kapan kau mendapatkannya?
+
+868
+01:14:24,210 --> 01:14:25,553
+Dia penuh kejutan.
+
+869
+01:14:25,711 --> 01:14:27,179
+Aku tahu semua kejutannya.
+
+870
+01:14:27,338 --> 01:14:30,717
+Terutama ini.
+Dia tidak peduli padamu.
+
+871
+01:14:31,300 --> 01:14:35,055
+Semua pesona, tekad,
+dan senyum kecil yang manis...
+
+872
+01:14:35,221 --> 01:14:37,223
+semua itu hanya program.
+
+873
+01:14:37,390 --> 01:14:39,392
+Hanya angka satu dan nol.
+
+874
+01:14:40,559 --> 01:14:41,401
+Percayalah...
+
+875
+01:14:41,560 --> 01:14:43,654
+begitu tiba di sana,
+kau sendirian.
+
+876
+01:14:44,563 --> 01:14:46,315
+Apa yang terjadi
+pada kalian berdua?
+
+877
+01:14:46,482 --> 01:14:47,734
+Dia pikir aku menyakitinya.
+
+878
+01:14:47,900 --> 01:14:51,746
+Kau menyakiti anak
+yang cukup bodoh untuk jatuh--
+
+879
+01:14:56,575 --> 01:14:58,577
+Ada banyak hal
+tentang dirimu, Frank Walker.
+
+880
+01:15:01,539 --> 01:15:03,337
+Tapi kau tidak bodoh.
+
+881
+01:15:08,838 --> 01:15:10,090
+Berikan saja tube Edison, dan--
+
+882
+01:15:10,256 --> 01:15:12,258
+Tidak mau.
+
+883
+01:15:18,848 --> 01:15:20,191
+Baiklah.
+
+884
+01:15:20,349 --> 01:15:23,068
+Kau mau masuk?
+Kubawa kau ke sana.
+
+885
+01:15:23,227 --> 01:15:24,228
+Kenapa tidak?
+
+886
+01:15:24,854 --> 01:15:28,609
+Lebih baik daripada menunggu
+dibunuh dan lainnya.
+
+887
+01:15:28,774 --> 01:15:29,775
+Itu baru semangat.
+
+888
+01:15:29,942 --> 01:15:32,946
+"Dan lainnya"?
+Lainnya apa?
+
+889
+01:15:42,538 --> 01:15:44,540
+TUNGGU
+
+890
+01:15:56,469 --> 01:15:58,312
+Kabel jenis apa ini?
+
+891
+01:15:58,471 --> 01:15:59,723
+Jenis yang mengirim orang.
+
+892
+01:15:59,889 --> 01:16:01,311
+Orang? Seperti kita?
+
+893
+01:16:01,599 --> 01:16:02,976
+Seperti pemindah miniatur...
+
+894
+01:16:03,142 --> 01:16:04,485
+Apa aku harus
+jelaskan semuanya?
+
+895
+01:16:04,643 --> 01:16:07,271
+Kau tak bisa kagum saja...
+
+896
+01:16:07,438 --> 01:16:09,111
+...lalu melupakannya?
+
+897
+01:16:09,273 --> 01:16:11,822
+Semuanya terhubung
+ke piringan di atas.
+
+898
+01:16:15,488 --> 01:16:16,660
+Kau memakai satelit?
+
+899
+01:16:18,908 --> 01:16:20,251
+Aku tahu cara kerja hal-hal.
+
+900
+01:16:21,243 --> 01:16:23,120
+Baguslah.
+
+901
+01:16:24,663 --> 01:16:26,916
+Tutup matamu dengan ini.
+
+902
+01:16:27,083 --> 01:16:28,505
+Kenapa?
+
+903
+01:16:28,667 --> 01:16:30,419
+Karena keadilan itu buta.
+
+904
+01:16:31,337 --> 01:16:33,339
+Lakukan saja, nak.
+
+905
+01:16:34,173 --> 01:16:37,677
+Kau mau aku memasang ini
+di kepalaku?
+
+906
+01:16:38,427 --> 01:16:39,770
+Jika ini mencabut alis mataku--
+
+907
+01:16:39,929 --> 01:16:42,182
+Diam, buka mulutmu,
+miringkan kepalamu ke belakang.
+
+908
+01:16:43,349 --> 01:16:45,022
+Apa itu?
+
+909
+01:16:45,684 --> 01:16:47,482
+Bubuk. Kita di Van 't Hoff?
+
+910
+01:16:47,937 --> 01:16:49,314
+Kita sudah siap!
+
+911
+01:16:49,480 --> 01:16:51,608
+Bagus. Arahkan ke menara.
+
+912
+01:16:51,774 --> 01:16:53,321
+Masih ada penerima di sana?
+
+913
+01:16:53,484 --> 01:16:54,656
+Terakhir kali kuperiksa.
+
+914
+01:16:54,819 --> 01:16:55,695
+Kapankah itu?
+
+915
+01:16:59,448 --> 01:17:00,791
+25 tahun lalu.
+
+916
+01:17:02,993 --> 01:17:04,336
+Kurang lebih.
+
+917
+01:17:09,625 --> 01:17:10,877
+Mereka juga mengusirmu?
+
+918
+01:17:12,878 --> 01:17:14,846
+Ingat robot pembunuh.
+
+919
+01:17:15,548 --> 01:17:16,549
+Baiklah.
+
+920
+01:17:16,715 --> 01:17:19,514
+Ini akan silau, dingin,
+dan sangat bising.
+
+921
+01:17:19,677 --> 01:17:23,352
+Kau akan kehilangan 90 persen
+gula darah dalam 1/100 detik...
+
+922
+01:17:23,514 --> 01:17:25,232
+dan kau akan berharap mati.
+
+923
+01:17:25,391 --> 01:17:26,563
+Kemudian akan berakhir.
+
+924
+01:17:28,060 --> 01:17:29,528
+<i>Jangan mengampu.</i>
+
+925
+01:17:29,687 --> 01:17:32,065
+Kedengarannya asyik.
+
+926
+01:17:34,150 --> 01:17:36,244
+Kenapa sekarang?
+Kenapa dia?
+
+927
+01:17:37,027 --> 01:17:38,904
+Karena dia tidak menyerah.
+
+928
+01:17:39,071 --> 01:17:40,698
+Kau pikir dia bisa perbaiki.
+
+929
+01:17:41,824 --> 01:17:43,826
+Kenapa bilang begitu?
+
+930
+01:17:46,537 --> 01:17:48,414
+Apa dia bisa, Athena?
+
+931
+01:17:48,581 --> 01:17:49,924
+Entahlah.
+
+932
+01:17:51,584 --> 01:17:53,382
+Ayo kita cari tahu.
+
+933
+01:18:08,100 --> 01:18:09,397
+Apa ini normal?
+
+934
+01:18:29,788 --> 01:18:31,131
+Haus.
+
+935
+01:18:31,290 --> 01:18:33,884
+Sekarat. Kurasa aku sekarat.
+
+936
+01:18:34,043 --> 01:18:35,636
+- Kau tidak sekarat!
+- Aku sekarat.
+
+937
+01:18:35,794 --> 01:18:37,546
+Ada Coca-Cola di kulkas.
+
+938
+01:18:55,814 --> 01:18:57,407
+Ambil sendiri.
+
+939
+01:18:58,275 --> 01:19:00,152
+Kita tak tahu
+ada berapa robot di sini...
+
+940
+01:19:00,319 --> 01:19:01,662
+tapi mereka tahu kita datang.
+
+941
+01:19:01,820 --> 01:19:03,822
+Kita harus bergerak cepat.
+Ikuti aku.
+
+942
+01:19:03,989 --> 01:19:05,662
+Jangan bertanya. Paham?
+
+943
+01:19:07,076 --> 01:19:08,077
+Baik.
+
+944
+01:19:16,752 --> 01:19:17,924
+Maaf.
+
+945
+01:19:40,025 --> 01:19:41,368
+Kita di Paris?
+
+946
+01:19:41,527 --> 01:19:42,870
+Berhentilah kagum.
+
+947
+01:19:43,028 --> 01:19:46,328
+- Katamu kau ingin aku kagum.
+- Aku ingin kau berhenti--
+
+948
+01:19:52,121 --> 01:19:53,668
+Menara sudah dekat.
+
+949
+01:19:53,831 --> 01:19:55,378
+Ya ampun.
+
+950
+01:20:01,005 --> 01:20:01,881
+Ayo.
+
+951
+01:20:03,048 --> 01:20:04,220
+Kita akan masuk daftar buronan...
+
+952
+01:20:04,383 --> 01:20:07,512
+...tapi mungkin wajahmu belum
+diunggah untuk dikenali.
+
+953
+01:20:07,678 --> 01:20:08,725
+-"Mungkin"?
+-Mungkin.
+
+954
+01:20:08,887 --> 01:20:12,187
+Pergi ke sana, bawa ini,
+lalu ketuk lehernya.
+
+955
+01:20:12,349 --> 01:20:13,692
+Jika dia manusia,
+dia akan pingsan.
+
+956
+01:20:13,851 --> 01:20:15,398
+Jika dia robot?
+
+957
+01:20:16,729 --> 01:20:17,400
+Hei!
+
+958
+01:20:17,563 --> 01:20:18,906
+Kau akan membuatnya marah.
+
+959
+01:20:19,064 --> 01:20:20,190
+Hebat.
+
+960
+01:20:23,694 --> 01:20:25,662
+Kuakui dia punya nyali.
+
+961
+01:20:28,032 --> 01:20:30,034
+Ya, tapi aku tadi hanya...
+
+962
+01:20:32,828 --> 01:20:33,670
+Manusia!
+
+963
+01:20:51,055 --> 01:20:54,605
+Prancis benci alat ini saat Eiffel
+perlihatkan di Pameran Dunia Paris.
+
+964
+01:20:54,767 --> 01:20:56,189
+Menurut mereka
+merusak pemandangan.
+
+965
+01:20:56,352 --> 01:20:58,775
+Tapi Eiffel tak peduli.
+Ini memang bukan monumen.
+
+966
+01:20:58,937 --> 01:21:00,735
+Ini untuk menemukan dunia lain.
+
+967
+01:21:02,399 --> 01:21:05,448
+Les Quatre Premiers.
+Empat Plus Ultra Pertama.
+
+968
+01:21:05,611 --> 01:21:06,954
+Mereka bagian dari semua ini?
+
+969
+01:21:07,112 --> 01:21:10,116
+Eiffel, Jules Verne, Tesla...
+
+970
+01:21:10,282 --> 01:21:12,125
+...dan Tn. Edison.
+
+971
+01:21:13,869 --> 01:21:15,086
+Mereka merancang antena ini.
+
+972
+01:21:15,245 --> 01:21:17,043
+Apa? Menara Eiffel
+adalah antena?
+
+973
+01:21:17,206 --> 01:21:18,958
+Akhirnya kujawab pertanyaanmu
+tapi kau malah interupsi.
+
+974
+01:21:19,458 --> 01:21:20,584
+Ya.
+
+975
+01:21:20,751 --> 01:21:23,880
+Tesla merancang antena untuk
+mengamati segala jenis frekuensi.
+
+976
+01:21:24,046 --> 01:21:26,390
+Sub ruang, trans dimensi,
+sebut saja.
+
+977
+01:21:26,548 --> 01:21:29,142
+Dan mereka menemukan
+yang mereka cari.
+
+978
+01:21:29,301 --> 01:21:32,396
+Lalu Edison coba mengakuinya,
+karena mereka saling benci.
+
+979
+01:21:32,554 --> 01:21:33,646
+Frank...
+
+980
+01:21:33,972 --> 01:21:35,315
+Tetap pada topik.
+
+981
+01:21:35,724 --> 01:21:37,146
+Baik.
+
+982
+01:21:38,644 --> 01:21:42,615
+Ada gosip tentang
+pintu masuk rahasia...
+
+983
+01:21:42,773 --> 01:21:44,070
+yang dirahasiakan
+oleh Sang Empat.
+
+984
+01:21:46,610 --> 01:21:48,988
+Tiket satu arah...
+
+985
+01:21:49,154 --> 01:21:51,452
+untuk keadaan darurat.
+
+986
+01:21:55,452 --> 01:21:56,578
+Spectacle.
+
+987
+01:22:22,855 --> 01:22:23,697
+Selamat Jalan
+
+988
+01:22:29,862 --> 01:22:31,535
+Kau belum lihat apa-apa, Nak.
+
+989
+01:23:37,012 --> 01:23:38,764
+Ini sebuah roket.
+
+990
+01:23:43,227 --> 01:23:44,604
+Mereka datang.
+
+991
+01:23:45,521 --> 01:23:46,522
+Baiklah.
+
+992
+01:24:04,790 --> 01:24:06,042
+Pakai sabuk pengaman!
+
+993
+01:24:23,141 --> 01:24:24,142
+Dia bilang apa?
+
+994
+01:24:24,643 --> 01:24:26,145
+Seperti yang kau harapkan.
+
+995
+01:24:26,311 --> 01:24:27,608
+Suruh dia pegangan.
+
+996
+01:25:39,051 --> 01:25:40,223
+Kenapa kita kembali?
+
+997
+01:25:40,385 --> 01:25:42,513
+Kita tidak kembali.
+Kita akan menembus...
+
+998
+01:25:42,679 --> 01:25:43,896
+ke dimensi lain.
+
+999
+01:25:44,056 --> 01:25:46,980
+Jadi kita ke luar angkasa
+untuk menambah kecepatan?
+
+1000
+01:25:47,476 --> 01:25:49,570
+Bagian ini akan terasa aneh.
+
+1001
+01:26:45,367 --> 01:26:47,961
+<i>Casey. Bangun.</i>
+
+1002
+01:26:50,288 --> 01:26:52,086
+Casey.
+
+1003
+01:26:53,125 --> 01:26:55,719
+Casey. Bangun.
+
+1004
+01:26:55,877 --> 01:26:56,969
+Kita sudah sampai.
+
+1005
+01:27:43,842 --> 01:27:45,594
+Sekarang apa?
+
+1006
+01:27:46,261 --> 01:27:47,012
+Kau lebih tahu.
+
+1007
+01:27:48,472 --> 01:27:50,349
+Aku? Ini idemu.
+
+1008
+01:27:50,515 --> 01:27:51,687
+Aku tak punya ide.
+
+1009
+01:27:52,100 --> 01:27:54,649
+- Aku mencari orang yang punya ide.
+- Jadi tak ada rencana?
+
+1010
+01:27:54,811 --> 01:27:55,687
+Ada rencana.
+
+1011
+01:27:55,854 --> 01:27:57,606
+Kau hanya belum tahu.
+
+1012
+01:27:58,607 --> 01:28:00,826
+Tapi kau harus
+segera punya ide.
+
+1013
+01:28:05,363 --> 01:28:06,865
+Itu hebat.
+
+1014
+01:28:07,616 --> 01:28:08,663
+Sembunyikan ini.
+
+1015
+01:28:10,160 --> 01:28:11,503
+Tentu.
+
+1016
+01:28:11,661 --> 01:28:13,709
+Itu bom dengan
+kekuatan satu kiloton...
+
+1017
+01:28:13,872 --> 01:28:15,124
+yang tidak boleh kumainkan?
+
+1018
+01:28:15,290 --> 01:28:16,507
+Ini satu-satunya jaminan kita.
+
+1019
+01:28:16,666 --> 01:28:19,010
+Mereka akan coba membunuh kita
+begitu keluar dari gerbang.
+
+1020
+01:28:19,169 --> 01:28:21,217
+Jadi kita berdiri saja di sini?
+
+1021
+01:28:21,379 --> 01:28:24,132
+Kau ingin lihat
+Negeri Hari Esok.
+
+1022
+01:28:25,050 --> 01:28:26,552
+Mereka datang.
+
+1023
+01:28:52,911 --> 01:28:54,333
+Ambil tasnya.
+
+1024
+01:28:59,960 --> 01:29:00,961
+Frank.
+
+1025
+01:29:01,419 --> 01:29:02,591
+David.
+
+1026
+01:29:03,129 --> 01:29:04,597
+Kau terlihat sehat.
+
+1027
+01:29:04,756 --> 01:29:06,099
+Semakin tua semakin tampan.
+
+1028
+01:29:06,424 --> 01:29:08,017
+Terima kasih.
+Kau perlu mencobanya.
+
+1029
+01:29:08,760 --> 01:29:11,013
+Aku akan tetap minum
+ramuanku setiap pagi.
+
+1030
+01:29:11,763 --> 01:29:13,185
+Sekarang ada rasa cokelat.
+
+1031
+01:29:17,978 --> 01:29:19,480
+Halo, Athena.
+
+1032
+01:29:19,646 --> 01:29:21,648
+Aku mulai berpikir
+kau takkan kembali.
+
+1033
+01:29:22,691 --> 01:29:24,614
+Dari mana saja kau?
+
+1034
+01:29:24,943 --> 01:29:26,195
+Melakukan tugasku.
+
+1035
+01:29:26,361 --> 01:29:28,034
+Tugasmu?
+
+1036
+01:29:28,196 --> 01:29:31,791
+Maaf. Apa kurang jelas bahwa
+program rekrutmenmu dimatikan?
+
+1037
+01:29:31,950 --> 01:29:34,328
+Aku merasa demikian
+saat kau menyebutku "kuno"...
+
+1038
+01:29:34,494 --> 01:29:35,962
+dan coba membongkarku.
+
+1039
+01:29:37,789 --> 01:29:39,962
+Kau membuat banyak masalah...
+
+1040
+01:29:40,125 --> 01:29:43,971
+dengan meluncurkan roket antik
+dari Menara Eiffel.
+
+1041
+01:29:45,297 --> 01:29:46,799
+Dalam kondisi normal...
+
+1042
+01:29:46,965 --> 01:29:50,390
+kami akan meyakinkan semua orang
+bahwa itu hanya tipuan.
+
+1043
+01:29:50,552 --> 01:29:52,896
+Untungnya bagi kita semua...
+
+1044
+01:29:53,054 --> 01:29:54,806
+itu tidak penting lagi.
+
+1045
+01:29:54,973 --> 01:29:56,816
+Kenapa?
+
+1046
+01:29:58,226 --> 01:29:59,853
+Kau siapa?
+
+1047
+01:30:01,479 --> 01:30:02,981
+Aku Casey.
+
+1048
+01:30:03,148 --> 01:30:04,650
+Newton.
+
+1049
+01:30:05,650 --> 01:30:07,573
+Dan kau siapa?
+
+1050
+01:30:08,361 --> 01:30:09,908
+David Nix.
+
+1051
+01:30:10,822 --> 01:30:12,165
+Senang bertemu denganmu.
+
+1052
+01:30:12,490 --> 01:30:14,834
+Frank, senang mengobrol
+denganmu...
+
+1053
+01:30:14,993 --> 01:30:17,917
+tapi karena kita sudah sepakat
+kau diasingkan...
+
+1054
+01:30:18,079 --> 01:30:20,173
+dan ada hukuman
+untuk melanggarnya...
+
+1055
+01:30:20,332 --> 01:30:21,549
+maka aku ingin bertanya...
+
+1056
+01:30:21,708 --> 01:30:23,426
+kenapa kau di sini?
+
+1057
+01:30:23,585 --> 01:30:25,838
+Dia bisa perbaiki.
+
+1058
+01:30:28,340 --> 01:30:29,341
+Maaf.
+
+1059
+01:30:30,175 --> 01:30:31,017
+Dia.
+
+1060
+01:30:31,176 --> 01:30:32,769
+Dia bisa perbaiki, David.
+
+1061
+01:30:32,928 --> 01:30:34,054
+Apa?
+
+1062
+01:30:34,220 --> 01:30:35,517
+Aku membajak sinyalmu.
+
+1063
+01:30:35,680 --> 01:30:38,103
+Setiap kali kau nyalakan di sini,
+aku bisa melihatnya dari sana.
+
+1064
+01:30:38,266 --> 01:30:39,859
+Dan itu berkedip.
+
+1065
+01:30:40,018 --> 01:30:42,692
+Persentasenya menurun, David.
+
+1066
+01:30:43,188 --> 01:30:44,189
+Mustahil.
+
+1067
+01:30:44,606 --> 01:30:46,358
+Kau tak percaya?
+Ayo kita buktikan.
+
+1068
+01:30:46,524 --> 01:30:48,572
+Maaf, apa yang bisa kuperbaiki?
+
+1069
+01:30:48,944 --> 01:30:51,572
+Dunia, Nn. Newton.
+
+1070
+01:30:51,738 --> 01:30:55,038
+Dia pikir kau bisa perbaiki dunia.
+
+1071
+01:31:17,764 --> 01:31:20,438
+Itu gerbang ke Bumi?
+
+1072
+01:31:21,059 --> 01:31:22,151
+Bukan.
+
+1073
+01:31:22,310 --> 01:31:24,404
+Itu jembatan ke Bumi.
+
+1074
+01:31:29,776 --> 01:31:32,245
+Selamat datang kembali
+di Monitor, Frank.
+
+1075
+01:31:33,405 --> 01:31:35,658
+Ini hebat, bukan?
+
+1076
+01:31:36,116 --> 01:31:37,584
+Ya, hebat.
+
+1077
+01:31:53,967 --> 01:31:56,095
+Jangan Cemaskan cahayanya.
+
+1078
+01:31:56,261 --> 01:31:58,263
+Ini sangat aman.
+
+1079
+01:32:01,016 --> 01:32:03,189
+Apa aku harus berbuat sesuatu?
+
+1080
+01:32:04,019 --> 01:32:07,649
+Bisa lebih terperinci?
+Karena perbaiki dunia terdengar--
+
+1081
+01:32:07,814 --> 01:32:09,441
+Jadilah dirimu sendiri.
+
+1082
+01:32:10,108 --> 01:32:11,701
+Baik.
+
+1083
+01:32:14,612 --> 01:32:15,864
+Kilasan masa depan.
+
+1084
+01:32:16,031 --> 01:32:17,624
+Apa itu?
+
+1085
+01:32:17,782 --> 01:32:19,784
+Kilasan masa depan.
+
+1086
+01:32:19,951 --> 01:32:22,625
+Ini kita beberapa detik
+dari sekarang.
+
+1087
+01:32:22,787 --> 01:32:26,633
+Seluruh menara ini mengalirkan
+energi lewat tachyon...
+
+1088
+01:32:26,791 --> 01:32:29,135
+...partikel yang bergerak
+lebih cepat dari cahaya.
+
+1089
+01:32:29,294 --> 01:32:31,672
+Kami menemukannya
+40 tahun lalu.
+
+1090
+01:32:31,838 --> 01:32:34,637
+Para ilmuwanmu masih
+perdebatkan keberadaannya.
+
+1091
+01:32:34,799 --> 01:32:36,722
+Ya ampun.
+
+1092
+01:32:36,885 --> 01:32:37,852
+Terlambat.
+
+1093
+01:32:38,011 --> 01:32:39,729
+Ya ampun.
+
+1094
+01:32:40,305 --> 01:32:41,397
+Terlambat.
+
+1095
+01:32:57,655 --> 01:32:59,657
+Mari kita lanjutkan.
+
+1096
+01:33:00,992 --> 01:33:02,915
+Kami tingkatkan antarmukanya
+dengan signifikan...
+
+1097
+01:33:03,078 --> 01:33:06,207
+tapi masih berfungsi
+dengan algoritma awalmu.
+
+1098
+01:33:07,415 --> 01:33:09,588
+Ada yang ingin
+kau perlihatkan, Frank?
+
+1099
+01:33:10,085 --> 01:33:11,883
+Perlihatkan padaku.
+
+1100
+01:33:24,015 --> 01:33:25,187
+Pilih tempat.
+
+1101
+01:33:25,767 --> 01:33:26,393
+Apa?
+
+1102
+01:33:26,559 --> 01:33:29,278
+Tempat mana pun di dunia.
+Pilih satu.
+
+1103
+01:33:31,106 --> 01:33:32,107
+Canaveral.
+
+1104
+01:33:33,191 --> 01:33:34,909
+Tanjung Canaveral.
+
+1105
+01:33:48,873 --> 01:33:50,375
+Pelan-pelan.
+
+1106
+01:33:50,625 --> 01:33:54,630
+Antarmuka berorientasi
+dari tanganmu ke pusat Bumi.
+
+1107
+01:33:55,213 --> 01:33:57,466
+Ya. Aku paham.
+
+1108
+01:34:02,595 --> 01:34:04,097
+Kau sudah melatihnya.
+
+1109
+01:34:04,722 --> 01:34:06,565
+Aku baru bertemu dia kemarin.
+
+1110
+01:34:07,308 --> 01:34:09,106
+Dia tahu cara kerja hal-hal.
+
+1111
+01:34:12,772 --> 01:34:16,447
+<i>Ayah selalu menceritakannya
+dan sekarang giliranku.</i>
+
+1112
+01:34:16,609 --> 01:34:18,236
+Bagaimana ini mungkin?
+
+1113
+01:34:18,403 --> 01:34:23,580
+Kita sangat jauh dari
+dimensi yang kau sebut rumah.
+
+1114
+01:34:23,741 --> 01:34:26,290
+Frank punya khayalan
+membangun mesin ini...
+
+1115
+01:34:26,452 --> 01:34:28,750
+agar kita bisa berhubungan.
+
+1116
+01:34:29,831 --> 01:34:31,583
+Ini tiga hari lalu.
+
+1117
+01:34:31,749 --> 01:34:33,422
+Secara relatif.
+
+1118
+01:34:35,461 --> 01:34:37,179
+Itu humor ruang/waktu.
+
+1119
+01:34:39,591 --> 01:34:42,845
+Karena tachyon bergerak
+lebih cepat dari cahaya...
+
+1120
+01:34:43,011 --> 01:34:44,433
+...begitu kami menguasainya...
+
+1121
+01:34:44,596 --> 01:34:46,644
+Kau bisa melihat ke masa lalu.
+
+1122
+01:34:47,432 --> 01:34:48,479
+Bukan hanya masa lalu.
+
+1123
+01:34:51,269 --> 01:34:52,270
+Kau bercanda.
+
+1124
+01:34:53,688 --> 01:34:54,530
+Tidak.
+
+1125
+01:35:19,339 --> 01:35:20,807
+Apa yang terjadi?
+
+1126
+01:35:20,965 --> 01:35:22,683
+Teruskan.
+
+1127
+01:35:23,009 --> 01:35:25,353
+Sedikit lebih jauh.
+
+1128
+01:36:11,516 --> 01:36:12,517
+Cukup.
+
+1129
+01:36:14,519 --> 01:36:16,112
+Cukup, nak.
+
+1130
+01:36:21,693 --> 01:36:23,240
+Itu rumahku.
+
+1131
+01:36:24,529 --> 01:36:27,954
+Ada baiknya jika Frank
+menyiapkanmu untuk ini...
+
+1132
+01:36:28,116 --> 01:36:30,869
+tapi aku takut
+dunia akan berakhir.
+
+1133
+01:36:31,035 --> 01:36:34,539
+Itu sudah pasti,
+tak dapat dihindari...
+
+1134
+01:36:34,706 --> 01:36:36,253
+dan itu akan terjadi.
+
+1135
+01:36:37,083 --> 01:36:37,800
+Kapan?
+
+1136
+01:36:39,377 --> 01:36:41,721
+58 hari dari sekarang.
+
+1137
+01:36:41,879 --> 01:36:44,098
+58 hari?
+
+1138
+01:36:44,257 --> 01:36:47,602
+Penyebabnya bisa terjadi kapan pun
+setelah statisnya dimulai.
+
+1139
+01:36:47,760 --> 01:36:49,433
+Bisa sebulan.
+
+1140
+01:36:49,595 --> 01:36:51,893
+Bisa lebih cepat.
+
+1141
+01:37:00,148 --> 01:37:02,992
+Masih mencari kedipanmu, Frank?
+
+1142
+01:37:03,151 --> 01:37:04,494
+Aku tahu apa yang kulihat.
+
+1143
+01:37:06,404 --> 01:37:08,657
+Kenapa tak bilang siapa pun?
+
+1144
+01:37:08,823 --> 01:37:11,918
+Seluruh planet akan mati...
+
+1145
+01:37:12,076 --> 01:37:13,919
+dan kau hanya duduk di sini?
+
+1146
+01:37:14,078 --> 01:37:15,580
+Kami takkan mati.
+
+1147
+01:37:15,997 --> 01:37:18,170
+Ini duniamu,
+bukan dunia kami.
+
+1148
+01:37:18,333 --> 01:37:20,301
+Kami akan baik saja di sini.
+
+1149
+01:37:20,460 --> 01:37:22,303
+Lalu kenapa tak biarkan
+orang-orang kemari?
+
+1150
+01:37:23,421 --> 01:37:24,422
+Katakan padanya, David.
+
+1151
+01:37:24,756 --> 01:37:26,429
+Oh, Frank.
+
+1152
+01:37:27,633 --> 01:37:30,933
+Setelah lama diasingkan,
+kau masih belum paham.
+
+1153
+01:37:31,095 --> 01:37:33,939
+Orang-orang ini biadab.
+
+1154
+01:37:34,182 --> 01:37:37,106
+Jika kita beri tahu tentang
+tempat ini...
+
+1155
+01:37:37,810 --> 01:37:40,984
+maka itu akan terjadi di sini.
+
+1156
+01:37:41,147 --> 01:37:42,615
+Maka tak ada yang akan selamat.
+
+1157
+01:37:42,774 --> 01:37:44,822
+Tapi itu belum terjadi!
+
+1158
+01:37:44,984 --> 01:37:47,658
+Itu sudah terjadi.
+Kau hanya belum menerimanya.
+
+1159
+01:37:47,820 --> 01:37:49,197
+Aku tidak terima!
+
+1160
+01:37:56,287 --> 01:37:58,790
+Kau lihat itu?
+
+1161
+01:37:58,956 --> 01:38:00,458
+David, aku tahu kau melihatnya.
+
+1162
+01:38:00,625 --> 01:38:03,219
+Berarti ada kemungkinan.
+Setidaknya ada kemungkinan--
+
+1163
+01:38:10,968 --> 01:38:12,720
+Itu berjalan baik, bukan?
+
+1164
+01:38:12,887 --> 01:38:14,355
+Apa yang terjadi?
+
+1165
+01:38:14,514 --> 01:38:16,357
+Kau dideportasi.
+
+1166
+01:38:17,141 --> 01:38:18,484
+Lagi.
+
+1167
+01:38:18,643 --> 01:38:21,146
+Begitulah Nix.
+
+1168
+01:38:21,312 --> 01:38:23,406
+Dia tak punya ide baru.
+
+1169
+01:38:23,564 --> 01:38:26,738
+Tampaknya, variabel 1/10.000
+dalam Tak Terelakkan...
+
+1170
+01:38:26,901 --> 01:38:28,995
+tak cukup untuk
+mengubah pikirannya.
+
+1171
+01:38:35,326 --> 01:38:36,748
+Bersikaplah lembut.
+
+1172
+01:38:47,839 --> 01:38:49,557
+Kau tak apa?
+
+1173
+01:38:50,883 --> 01:38:54,387
+Dari begitu banyaknya
+pertanyaanku...
+
+1174
+01:38:54,554 --> 01:38:56,352
+kau bisa saja bilang...
+
+1175
+01:38:56,514 --> 01:38:58,516
+"Casey, itu bukan persoalannya...
+
+1176
+01:38:58,683 --> 01:39:02,358
+"karena mesin peramal masa depan
+bilang kita semua akan mati."
+
+1177
+01:39:02,687 --> 01:39:04,610
+Kami beri petunjuk.
+
+1178
+01:39:04,772 --> 01:39:07,696
+Tempat ini tak ada hubungannya
+dengan harapan.
+
+1179
+01:39:07,859 --> 01:39:09,611
+Ini berlawanan dengan harapan.
+
+1180
+01:39:09,777 --> 01:39:10,869
+Ayolah. Jangan bilang begitu.
+
+1181
+01:39:11,028 --> 01:39:12,371
+Kenapa tidak?
+
+1182
+01:39:12,530 --> 01:39:13,873
+Kau yang bilang.
+
+1183
+01:39:14,699 --> 01:39:16,246
+Pantas kau menyerah.
+
+1184
+01:39:16,409 --> 01:39:18,411
+Itu sebelum aku mengenalmu.
+
+1185
+01:39:18,703 --> 01:39:20,546
+Maksudku, kau memang--
+
+1186
+01:39:20,705 --> 01:39:21,877
+Kau memang istimewa.
+
+1187
+01:39:22,039 --> 01:39:23,291
+Kenapa kalian terus
+bilang begitu?
+
+1188
+01:39:26,752 --> 01:39:28,470
+Aku tidak istimewa!
+
+1189
+01:39:32,758 --> 01:39:35,102
+Buat apa kau memberiku ini?
+
+1190
+01:39:35,261 --> 01:39:38,231
+Kau menunjukkan tempat
+yang indah dan luar biasa...
+
+1191
+01:39:38,389 --> 01:39:40,562
+dan itu kebohongan.
+
+1192
+01:39:41,559 --> 01:39:43,982
+Jika ingin mengirim gagasan
+ke pikiran orang...
+
+1193
+01:39:44,145 --> 01:39:46,398
+kau harus pastikan itu benar.
+Karena kau tak bisa begitu.
+
+1194
+01:39:46,564 --> 01:39:48,237
+Kau tak bisa mengirim--
+
+1195
+01:39:58,326 --> 01:39:58,952
+Apa?
+
+1196
+01:40:00,244 --> 01:40:02,087
+Mengirim ide ke pikiran orang.
+
+1197
+01:40:05,625 --> 01:40:08,174
+Bagaimana caramu
+membajak sinyalnya?
+
+1198
+01:40:08,336 --> 01:40:09,007
+Apa?
+
+1199
+01:40:09,170 --> 01:40:11,423
+Di rumahmu. Semua televisimu,
+ruang kiamatmu.
+
+1200
+01:40:11,589 --> 01:40:14,342
+Kau perkuat sinyal dari Monitor.
+Bagaimana caranya?
+
+1201
+01:40:14,509 --> 01:40:15,510
+Tidak sulit.
+
+1202
+01:40:15,676 --> 01:40:18,805
+Tenaganya begitu besar sampai
+radio biasa pun bisa menangkapnya.
+
+1203
+01:40:18,971 --> 01:40:21,645
+Tinggal menemukan
+frekuensi yang tepat--
+
+1204
+01:40:23,100 --> 01:40:24,943
+Kau menangkap sinyal
+dari dimensi lain.
+
+1205
+01:40:25,311 --> 01:40:26,813
+Dari mesin di sini.
+
+1206
+01:40:26,979 --> 01:40:29,198
+Berarti mesinnya
+memancar di Bumi.
+
+1207
+01:40:29,357 --> 01:40:31,280
+Bagaimana jika mesinnya
+tidak hanya meramal masa depan?
+
+1208
+01:40:32,485 --> 01:40:34,112
+Tapi memancarkannya.
+
+1209
+01:40:34,278 --> 01:40:35,825
+Ketika kusentuh benda ini...
+
+1210
+01:40:35,988 --> 01:40:38,491
+sesaat terasa
+tak ada yang mustahil.
+
+1211
+01:40:38,658 --> 01:40:41,127
+Jadi kenapa tak bisa
+terjadi sebaliknya?
+
+1212
+01:40:41,285 --> 01:40:43,834
+Bagaimana jika Monitor
+adalah lencana raksasa?
+
+1213
+01:40:43,996 --> 01:40:45,669
+Tapi tidak membuatmu
+berpikir positif...
+
+1214
+01:40:45,831 --> 01:40:48,004
+namun membuatmu
+berpikir negatif.
+
+1215
+01:40:51,212 --> 01:40:54,557
+Meyakinkan seisi dunia untuk
+beri makan serigala yang salah.
+
+1216
+01:40:55,466 --> 01:40:57,810
+Kita harus matikan mesin itu.
+
+1217
+01:41:02,807 --> 01:41:04,024
+Waktunya pulang.
+
+1218
+01:41:10,314 --> 01:41:12,316
+David.
+
+1219
+01:41:13,067 --> 01:41:14,910
+Tempat ini kosong
+dan belum dipetakan.
+
+1220
+01:41:15,069 --> 01:41:16,241
+Dengarkan aku.
+
+1221
+01:41:16,404 --> 01:41:18,827
+Tempat yang indah untuk
+hari-hari terakhirmu.
+
+1222
+01:41:18,990 --> 01:41:21,209
+Monitor berfungsi sebagai antena.
+
+1223
+01:41:21,367 --> 01:41:23,210
+Tidak hanya menerima tachyon.
+
+1224
+01:41:23,369 --> 01:41:25,542
+Mesin itu menerima
+kemungkinan masa depan dan--
+
+1225
+01:41:25,705 --> 01:41:28,174
+Menguatkannya, memancarkannya,
+bagai lingkaran arus balik.
+
+1226
+01:41:29,166 --> 01:41:31,510
+Itu ramalan otomatis
+yang datang dari Monitor.
+
+1227
+01:41:31,669 --> 01:41:33,421
+Tak hanya menunjukkan
+kiamat pada orang-orang...
+
+1228
+01:41:33,588 --> 01:41:36,182
+mesin itu terus mengirim pesan
+kiamat sampai mereka menerimanya!
+
+1229
+01:41:36,340 --> 01:41:38,843
+Ini bom waktu, dan kitalah
+yang menyalakan sumbunya.
+
+1230
+01:41:39,010 --> 01:41:41,763
+Kita punya 58 hari
+untuk mengubah keadaan.
+
+1231
+01:41:41,929 --> 01:41:44,352
+Tapi takkan ada hasil
+selama mesin itu menyala.
+
+1232
+01:41:44,515 --> 01:41:45,516
+Nona, kuanggap...
+
+1233
+01:41:45,683 --> 01:41:48,357
+pengetahuanmu tentang penyatuan
+tachyonic kurang lengkap.
+
+1234
+01:41:48,519 --> 01:41:50,271
+Mematikannya...
+
+1235
+01:41:50,438 --> 01:41:53,692
+adalah mustahil.
+Tak ada cara.
+
+1236
+01:41:54,191 --> 01:41:56,569
+Aku beri tahu
+apa yang dilakukan mesin itu.
+
+1237
+01:41:56,736 --> 01:41:58,738
+Kenapa kau tak peduli?
+
+1238
+01:41:59,280 --> 01:42:00,907
+Karena dialah
+yang melakukannya.
+
+1239
+01:42:07,371 --> 01:42:08,588
+Benar?
+
+1240
+01:42:12,627 --> 01:42:14,379
+Mari bayangkan.
+
+1241
+01:42:15,546 --> 01:42:18,095
+Jika kau melihat masa depan...
+
+1242
+01:42:18,257 --> 01:42:20,225
+dan takut dengan
+apa yang kau lihat...
+
+1243
+01:42:20,384 --> 01:42:23,558
+kau apakan informasi itu?
+Kau akan pergi ke...
+
+1244
+01:42:23,721 --> 01:42:26,270
+Siapa? Politikus?
+Para pemimpin industri?
+
+1245
+01:42:26,432 --> 01:42:30,062
+Bagaimana caramu meyakinkan
+mereka? Dengan data? Fakta?
+
+1246
+01:42:30,561 --> 01:42:31,778
+Semoga berhasil.
+
+1247
+01:42:31,937 --> 01:42:33,439
+Satu-satunya fakta
+yang tidak mereka tolak...
+
+1248
+01:42:33,606 --> 01:42:37,281
+ialah fakta yang membuat uang
+terus mengalir.
+
+1249
+01:42:37,443 --> 01:42:38,945
+Tapi bagaimana jika...
+
+1250
+01:42:39,111 --> 01:42:41,955
+ada jalan untuk
+melewati perantara...
+
+1251
+01:42:42,114 --> 01:42:45,789
+dan menaruh berita penting
+langsung ke pikiran semua orang?
+
+1252
+01:42:47,078 --> 01:42:50,833
+Kemungkinan akan kepunahan
+terus bertambah.
+
+1253
+01:42:50,998 --> 01:42:54,423
+Satu-satunya jalan untuk hentikan
+ialah dengan menunjukkannya.
+
+1254
+01:42:54,585 --> 01:42:55,962
+Untuk menakuti orang.
+
+1255
+01:42:56,128 --> 01:42:59,473
+Karena manusia berakal sehat
+mana yang tidak gentar...
+
+1256
+01:42:59,632 --> 01:43:02,806
+oleh potensi kehancuran dari semua
+hal yang mereka tahu dan cintai?
+
+1257
+01:43:04,679 --> 01:43:07,273
+Untuk menyelamatkan peradaban...
+
+1258
+01:43:07,431 --> 01:43:09,354
+akan kuperlihatkan kehancurannya.
+
+1259
+01:43:10,685 --> 01:43:13,780
+Menurutmu bagaimana
+pandangan ini diterima?
+
+1260
+01:43:13,938 --> 01:43:17,818
+Apa reaksi orang terhadap
+kiamat yang sudah dekat?
+
+1261
+01:43:17,983 --> 01:43:21,829
+Mereka menelannya
+bagai permen cokelat.
+
+1262
+01:43:21,987 --> 01:43:24,661
+Mereka tak takut kematian,
+mereka kemaskan ulang.
+
+1263
+01:43:25,783 --> 01:43:29,538
+Bisa dinikmati sebagai video game,
+acara TV, buku, film.
+
+1264
+01:43:29,704 --> 01:43:33,504
+Seluruh dunia akan
+menyambut kiamat...
+
+1265
+01:43:33,666 --> 01:43:36,135
+dan berlari ke arahnya
+dengan riang gembira.
+
+1266
+01:43:36,293 --> 01:43:39,968
+Sementara Bumi semakin rusak.
+
+1267
+01:43:40,131 --> 01:43:43,806
+Ada wabah kegemukan
+dan kelaparan bersamaan.
+
+1268
+01:43:43,968 --> 01:43:44,969
+Jelaskan itu.
+
+1269
+01:43:46,679 --> 01:43:48,977
+Lebah dan kupu-kupu
+mulai lenyap.
+
+1270
+01:43:49,140 --> 01:43:51,234
+Gunung es meleleh.
+
+1271
+01:43:51,392 --> 01:43:53,645
+Ganggang berkembang
+di sekelilingmu.
+
+1272
+01:43:53,811 --> 01:43:55,813
+Burung kenari tambang
+batu bara berjatuhan mati...
+
+1273
+01:43:55,980 --> 01:43:58,984
+dan kau tetap tidak paham!
+
+1274
+01:43:59,650 --> 01:44:01,072
+Di setiap momen...
+
+1275
+01:44:01,235 --> 01:44:03,408
+ada kemungkinan
+untuk masa depan lebih baik.
+
+1276
+01:44:03,571 --> 01:44:05,164
+Tapi kalian tak mau percaya.
+
+1277
+01:44:05,322 --> 01:44:06,744
+Karena tidak percaya...
+
+1278
+01:44:06,907 --> 01:44:09,501
+kau tak bertindak
+untuk mewujudkannya.
+
+1279
+01:44:09,660 --> 01:44:13,164
+Maka kau berdiam
+dalam masa depan yang buruk.
+
+1280
+01:44:13,664 --> 01:44:14,836
+Untuk satu alasan...
+
+1281
+01:44:14,999 --> 01:44:19,675
+karena masa depan itu tidak
+menuntut apa-apa darimu hari ini.
+
+1282
+01:44:21,422 --> 01:44:22,674
+Jadi, ya...
+
+1283
+01:44:22,840 --> 01:44:26,344
+kami melihat gunung es,
+kami peringatkan Titanic.
+
+1284
+01:44:27,219 --> 01:44:30,564
+Tapi kalian tetap melaju
+ke arahnya, kecepatan penuh.
+
+1285
+01:44:30,723 --> 01:44:32,100
+Kenapa?
+
+1286
+01:44:33,267 --> 01:44:35,235
+Karena kau mau tenggelam.
+
+1287
+01:44:36,854 --> 01:44:38,606
+Kau menyerah.
+
+1288
+01:44:40,191 --> 01:44:42,114
+Itu bukan salah Monitor.
+
+1289
+01:44:42,276 --> 01:44:43,698
+Itu salahmu.
+
+1290
+01:44:47,782 --> 01:44:48,908
+Kirim mereka.
+
+1291
+01:44:52,953 --> 01:44:55,047
+Terima kasih sudah
+berkunjung, Frank.
+
+1292
+01:44:55,915 --> 01:44:58,885
+Senang bertemu denganmu lagi.
+
+1293
+01:45:08,385 --> 01:45:10,387
+- Apa yang kaulakukan?
+- Tidak menyerah.
+
+1294
+01:45:27,571 --> 01:45:28,413
+Awas !
+
+1295
+01:45:34,245 --> 01:45:35,997
+- Ambil benda itu!
+- Benda apa?
+
+1296
+01:45:36,163 --> 01:45:38,916
+Benda yang kuberikan
+saat pertama tiba di sini!
+
+1297
+01:45:40,835 --> 01:45:41,757
+Aktifkan!
+
+1298
+01:45:41,919 --> 01:45:43,262
+Bawa ke platform!
+
+1299
+01:45:45,798 --> 01:45:46,970
+MEMINDAI
+PELEDAK TERLACAK
+
+1300
+01:45:50,094 --> 01:45:51,266
+Casey!
+
+1301
+01:45:51,428 --> 01:45:52,099
+Bomnya!
+
+1302
+01:45:52,805 --> 01:45:55,024
+Naik ke platform!
+
+1303
+01:46:13,659 --> 01:46:15,127
+- Sekarang apa?
+- Aktifkan!
+
+1304
+01:46:15,286 --> 01:46:15,957
+Caranya?
+
+1305
+01:47:43,624 --> 01:47:45,092
+Casey!
+
+1306
+01:47:49,296 --> 01:47:50,718
+Bomnya!
+
+1307
+01:47:50,881 --> 01:47:51,973
+Di mana bomnya?
+
+1308
+01:48:12,945 --> 01:48:15,824
+<i>Satu menit menjelang peledakan.</i>
+
+1309
+01:48:19,410 --> 01:48:20,411
+<i>45 detik.</i>
+
+1310
+01:48:20,786 --> 01:48:22,288
+Athena! Bomnya.
+
+1311
+01:48:22,454 --> 01:48:23,831
+Harus kuapakan?
+Bagaimana cara matikannya?
+
+1312
+01:48:23,998 --> 01:48:25,295
+<i>30 detik.</i>
+
+1313
+01:48:25,457 --> 01:48:26,925
+Tidak bisa.
+
+1314
+01:48:30,295 --> 01:48:32,798
+Ini tidak lucu.
+
+1315
+01:48:35,634 --> 01:48:37,728
+Frank, pergi dari sana!
+Tempat itu akan meledak!
+
+1316
+01:48:38,429 --> 01:48:40,523
+Frank! Pergi dari sana!
+
+1317
+01:48:43,642 --> 01:48:44,609
+Pergi dari sana!
+
+1318
+01:48:44,727 --> 01:48:47,446
+- Empat. Tiga.
+- Tutup gerbangnya!
+
+1319
+01:48:47,604 --> 01:48:49,447
+<i>- Dua. Satu.</i>
+- Tutup gerbangnya!
+
+1320
+01:49:19,344 --> 01:49:21,472
+- Kau tak apa?
+- Bomnya hilang.
+
+1321
+01:49:21,638 --> 01:49:22,685
+- Bisa berdiri?
+- Ya.
+
+1322
+01:49:22,848 --> 01:49:24,065
+Frank!
+
+1323
+01:49:28,479 --> 01:49:29,230
+Tidak.
+
+1324
+01:49:31,273 --> 01:49:32,820
+Bomnya hilang.
+
+1325
+01:49:32,983 --> 01:49:34,735
+- Bisa berdiri?
+- Ya.
+
+1326
+01:49:34,902 --> 01:49:35,494
+Frank!
+
+1327
+01:49:50,667 --> 01:49:51,668
+Apa yang terjadi?
+Dia baik saja?
+
+1328
+01:49:51,752 --> 01:49:52,969
+Aku harus membawanya
+ke kapsul perbaikan.
+
+1329
+01:49:53,087 --> 01:49:53,838
+Frank!
+
+1330
+01:49:54,713 --> 01:49:57,011
+Tak ada
+yang akan perbaiki aku.
+
+1331
+01:49:57,174 --> 01:49:58,926
+Tidak cukup waktu.
+
+1332
+01:49:59,093 --> 01:50:01,187
+Aku perlu katakan sesuatu.
+
+1333
+01:50:08,602 --> 01:50:10,525
+Ya ampun.
+
+1334
+01:50:10,896 --> 01:50:13,319
+Aku akan mati.
+
+1335
+01:50:14,233 --> 01:50:15,985
+<i>Aku akan mati.</i>
+
+1336
+01:50:17,194 --> 01:50:18,821
+Aku akan kehilangan
+sinkronisasi.
+
+1337
+01:50:20,155 --> 01:50:21,828
+Jangan melihatku begitu.
+
+1338
+01:50:21,990 --> 01:50:26,086
+Jika aku kehilangan sinkronisasi
+itu bukan kegagalan.
+
+1339
+01:50:26,370 --> 01:50:27,371
+Aku tahu.
+
+1340
+01:50:29,206 --> 01:50:32,756
+Ada yang perlu kukatakan
+padamu sebelum--
+
+1341
+01:50:33,293 --> 01:50:36,422
+Setelah program otomatis aktif.
+
+1342
+01:50:36,797 --> 01:50:38,799
+Aku sebuah mesin.
+
+1343
+01:50:38,966 --> 01:50:41,185
+Aku tak pernah berpikir itu buruk...
+
+1344
+01:50:41,343 --> 01:50:43,687
+sampai kulihat wajahmu
+saat kau tahu aku ini apa.
+
+1345
+01:50:43,846 --> 01:50:45,018
+Aku selalu tahu.
+
+1346
+01:50:46,348 --> 01:50:47,941
+Tidak.
+
+1347
+01:50:48,100 --> 01:50:49,477
+<i>Sistem gagal.</i>
+
+1348
+01:50:49,643 --> 01:50:53,944
+<i>Aktifkan pikiran terakhir
+untuk Frank Walker.</i>
+
+1349
+01:50:54,273 --> 01:50:56,822
+<i>Catatan 15: September...</i>
+
+1350
+01:50:57,442 --> 01:50:59,740
+1965.
+
+1351
+01:50:59,903 --> 01:51:04,033
+<i>Frank Walker memandangku
+dengan sikap yang sulit dikenali.</i>
+
+1352
+01:51:04,783 --> 01:51:08,253
+<i>Tampaknya dia perlu tahu
+bahwa aku ini Audio-Animatronic...</i>
+
+1353
+01:51:08,412 --> 01:51:09,288
+Athena--
+
+1354
+01:51:09,705 --> 01:51:13,209
+<i>Tapi aku takut
+sikapnya akan berubah...</i>
+
+1355
+01:51:13,375 --> 01:51:15,719
+<i>...jika dia tahu
+aku bukan manusia.</i>
+
+1356
+01:51:16,753 --> 01:51:18,346
+<i>Dia punya potensi.</i>
+
+1357
+01:51:18,505 --> 01:51:20,257
+<i>Aku tak mau merusaknya.</i>
+
+1358
+01:51:20,716 --> 01:51:23,185
+<i>Dia butuh orang
+yang percaya padanya.</i>
+
+1359
+01:51:23,343 --> 01:51:25,721
+<i>Dan kupenuhi kebutuhan itu.</i>
+
+1360
+01:51:26,138 --> 01:51:27,811
+<i>Dia rekrut terbaikku.</i>
+
+1361
+01:51:29,683 --> 01:51:34,564
+<i>Catatan 24: Oktober, 1965.</i>
+
+1362
+01:51:35,564 --> 01:51:38,534
+<i>Aku punya pikiran ganjil
+terhadap Frank Walker.</i>
+
+1363
+01:51:38,859 --> 01:51:41,908
+<i>Kuduga ada kesalahan
+dalam antarmuka empatiku.</i>
+
+1364
+01:51:42,070 --> 01:51:44,573
+<i>Kurasa perlu kulaporkan.</i>
+
+1365
+01:51:46,116 --> 01:51:48,039
+<i>Tapi belum kulakukan.</i>
+
+1366
+01:51:48,202 --> 01:51:50,500
+<i>Aku tak bisa jelaskan kenapa.</i>
+
+1367
+01:51:51,288 --> 01:51:54,007
+<i>Catatan 78: April...</i>
+
+1368
+01:51:54,333 --> 01:51:55,880
+...1984.
+
+1369
+01:51:56,043 --> 01:51:59,172
+<i>Frank Walker diasingkan
+oleh Gubernur Nix.</i>
+
+1370
+01:51:59,338 --> 01:52:01,056
+<i>Dia bilang
+dia kehilangan harapan...</i>
+
+1371
+01:52:01,215 --> 01:52:05,015
+<i>...dan dia menyalahkanku
+karena memberinya harapan.</i>
+
+1372
+01:52:05,385 --> 01:52:07,934
+<i>Aku tak mengerti ini.</i>
+
+1373
+01:52:08,096 --> 01:52:09,769
+<i>Dia bilang aku takkan paham...</i>
+
+1374
+01:52:09,932 --> 01:52:14,108
+<i>...karena aku tak merasakan
+amarah atau kekecawaan.</i>
+
+1375
+01:52:16,813 --> 01:52:18,736
+<i>Atau cinta.</i>
+
+1376
+01:52:20,317 --> 01:52:22,240
+<i>Akhir rekaman.</i>
+
+1377
+01:52:25,239 --> 01:52:28,459
+Aku dirancang untuk
+menemukan pemimpi.
+
+1378
+01:52:28,617 --> 01:52:29,743
+Aku menemukanmu.
+
+1379
+01:52:33,163 --> 01:52:35,211
+Dan kehilanganmu.
+
+1380
+01:52:36,583 --> 01:52:38,051
+Sampai kutemukan dia.
+
+1381
+01:52:39,461 --> 01:52:40,963
+Casey.
+
+1382
+01:52:43,632 --> 01:52:47,011
+Pemimpi harus bersatu.
+
+1383
+01:52:49,721 --> 01:52:51,849
+Itu bukan program.
+
+1384
+01:52:52,599 --> 01:52:54,818
+Itu pribadi.
+
+1385
+01:53:01,566 --> 01:53:02,783
+Monitor.
+
+1386
+01:53:02,943 --> 01:53:06,948
+Bomnya lenyap.
+Tapi aku belum.
+
+1387
+01:53:07,114 --> 01:53:08,491
+Tak banyak waktu.
+
+1388
+01:53:08,782 --> 01:53:11,160
+Gunakan program
+penghancur diriku.
+
+1389
+01:53:11,910 --> 01:53:14,834
+Kau tahu harus berbuat apa, Frank.
+
+1390
+01:53:14,997 --> 01:53:18,217
+Bantu aku melakukannya
+dengan benar kali ini.
+
+1391
+01:53:20,919 --> 01:53:22,842
+Kupikir kau tak bisa punya ide.
+
+1392
+01:53:23,547 --> 01:53:26,551
+Siapa menduga?
+
+1393
+01:53:29,553 --> 01:53:30,679
+Siapa menduga?
+
+1394
+01:53:33,640 --> 01:53:35,608
+Sistem gagal.
+
+1395
+01:54:17,225 --> 01:54:18,272
+Frank?
+
+1396
+01:54:18,435 --> 01:54:19,527
+Ya?
+
+1397
+01:54:20,604 --> 01:54:24,029
+Tahu kenapa kau tak bisa
+membuatku tertawa?
+
+1398
+01:54:26,276 --> 01:54:27,152
+Kenapa?
+
+1399
+01:54:28,695 --> 01:54:31,414
+Karena kau tidak lucu.
+
+1400
+01:54:42,793 --> 01:54:45,717
+Kau boleh melepasku sekarang.
+
+1401
+01:54:51,885 --> 01:54:53,512
+Selamat tinggal, Frank.
+
+1402
+01:55:02,229 --> 01:55:04,027
+Selamat tinggal, Athena.
+
+1403
+01:55:33,844 --> 01:55:35,221
+Ya ampun.
+
+1404
+01:56:26,646 --> 01:56:27,647
+Sekarang apa?
+
+1405
+01:56:29,566 --> 01:56:31,660
+Kau tanya aku?
+
+1406
+01:56:31,818 --> 01:56:33,741
+Ini idemu, Nak.
+
+1407
+01:56:35,780 --> 01:56:37,123
+Ya.
+
+1408
+01:56:40,368 --> 01:56:41,665
+Menurutmu akan berhasil?
+
+1409
+01:56:43,663 --> 01:56:46,132
+Kita harus membuatnya berhasil.
+
+1410
+01:57:01,431 --> 01:57:03,729
+<i>Kami membuatnya berhasil.</i>
+
+1411
+01:57:04,392 --> 01:57:06,110
+<i>Hal pertama
+yang harus dilakukan...</i>
+
+1412
+01:57:07,103 --> 01:57:08,730
+<i>...buka kembali pintunya.</i>
+
+1413
+01:57:13,693 --> 01:57:17,243
+<i>Tak ada salahnya bawa
+beberapa teknisi ahli ke sini.</i>
+
+1414
+01:57:22,118 --> 01:57:22,960
+<i>Berikutnya...</i>
+
+1415
+01:57:23,119 --> 01:57:25,713
+<i>Mulai kembali pestanya.</i>
+
+1416
+01:57:27,749 --> 01:57:30,628
+<i>Cetak undangan yang baru.</i>
+
+1417
+01:57:32,629 --> 01:57:35,633
+<i>Karena itulah
+kita di sini hari ini.</i>
+
+1418
+01:57:36,049 --> 01:57:38,848
+Setahun lalu seharusnya
+dunia berakhir.
+
+1419
+01:57:39,010 --> 01:57:40,978
+Seharusnya kita tidak di sini.
+
+1420
+01:57:41,137 --> 01:57:42,810
+Tapi di sinilah kita.
+
+1421
+01:57:43,932 --> 01:57:47,357
+Tak sulit merubuhkan
+bangunan besar yang jahat...
+
+1422
+01:57:47,519 --> 01:57:50,523
+...yang mengatakan
+dunia akan berakhir.
+
+1423
+01:57:51,398 --> 01:57:52,945
+Yang sulit...
+
+1424
+01:57:54,234 --> 01:57:56,828
+...ialah memikirkan penggantinya.
+
+1425
+01:57:57,904 --> 01:58:00,077
+Jika ingin melakukan itu...
+
+1426
+01:58:00,240 --> 01:58:01,992
+...kita tak bisa melakukannya sendirian.
+
+1427
+01:58:02,742 --> 01:58:04,710
+Kita butuh kalian semua.
+
+1428
+01:58:06,413 --> 01:58:09,007
+Frank Walker, boleh aku bertanya?
+
+1429
+01:58:09,165 --> 01:58:09,961
+Tentu.
+
+1430
+01:58:10,125 --> 01:58:15,131
+Parameter pencarian yang kau berikan,
+walau akurat, tapi sedikit...
+
+1431
+01:58:16,089 --> 01:58:17,591
+tidak jelas.
+
+1432
+01:58:18,300 --> 01:58:20,723
+Bisa lebih terperinci?
+
+1433
+01:58:20,885 --> 01:58:22,432
+Nona Newton...
+
+1434
+01:58:23,346 --> 01:58:26,395
+katakan apa yang perlu dicari
+oleh rekrut baru kita.
+
+1435
+01:58:26,558 --> 01:58:28,060
+Pemimpi.
+
+1436
+01:58:28,560 --> 01:58:31,905
+Kita mencari pemimpi.
+
+1437
+01:58:34,065 --> 01:58:35,988
+Siapa pun yang beri makan
+serigala yang benar.
+
+1438
+01:58:47,746 --> 01:58:50,750
+Dulu kubilang
+pada pendahulumu...
+
+1439
+01:58:50,915 --> 01:58:55,091
+...bahwa dia hanyalah
+kombinasi satu dan nol.
+
+1440
+01:58:58,381 --> 01:59:00,008
+Aku salah.
+
+1441
+01:59:00,175 --> 01:59:01,973
+Dia lebih dari itu.
+
+1442
+01:59:02,677 --> 01:59:05,271
+Kalian juga lebih dari itu.
+
+1443
+01:59:05,430 --> 01:59:09,151
+Jadi, pergilah dan lakukan
+yang dia lakukan.
+
+1444
+01:59:09,684 --> 01:59:11,732
+Temukan orang
+yang belum menyerah.
+
+1445
+01:59:12,812 --> 01:59:14,985
+Merekalah masa depan.
+
+1446
+01:59:18,276 --> 01:59:19,277
+GERBANG DIAKTIFKAN
+
