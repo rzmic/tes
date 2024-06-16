@@ -1,0 +1,1338 @@
+1
+00:00:21,717 --> 00:00:24,633
+<i>Crocodile, Lima, Monkey, Delta.
+Kau mendengarku?</i>
+
+2
+00:00:29,800 --> 00:00:32,425
+<i>Crocodile, Lima, Monkey, Delta.
+Kau mendengarku?</i>
+
+3
+00:00:33,133 --> 00:00:34,633
+<i>Apa kau butuh bantuan?</i>
+
+4
+00:00:58,475 --> 00:01:02,355
+RAF CELLE
+JERMAN UTARA, MALAM NATAL 1957
+
+5
+00:01:09,780 --> 00:01:11,592
+MES PRAJURIT
+
+6
+00:01:11,717 --> 00:01:12,883
+Jacob!
+
+7
+00:01:13,967 --> 00:01:15,258
+Kami akan membalasmu!
+
+8
+00:01:21,675 --> 00:01:22,842
+Kutraktir minum!
+
+9
+00:01:22,967 --> 00:01:24,383
+Bagus! Siapa pria ini?
+
+10
+00:01:24,967 --> 00:01:26,092
+Itu Stew.
+
+11
+00:01:26,217 --> 00:01:27,383
+<i>- Halo?</i>
+- Ibu?
+
+12
+00:01:27,467 --> 00:01:28,550
+<i>Freddie!</i>
+
+13
+00:01:28,675 --> 00:01:31,633
+Hai, Bu. Aku menelepon
+untuk mengucapkan Selamat Natal.
+
+14
+00:01:32,008 --> 00:01:34,133
+<i>Jadi, cutimu tak disetujui?</i>
+
+15
+00:01:34,342 --> 00:01:37,592
+Tidak. Namun, aku
+akan pulang beberapa pekan lagi.
+
+16
+00:01:38,050 --> 00:01:39,175
+<i>Apa Lizzie sudah tahu?</i>
+
+17
+00:01:39,258 --> 00:01:40,842
+<i>Kutelepon dia sekarang.</i>
+
+18
+00:01:41,383 --> 00:01:43,717
+Selamat Natal, Sayang.
+Kami akan merindukanmu.
+
+19
+00:01:43,883 --> 00:01:46,842
+<i>- Sama. Beri tahu adikku...</i>
+- Selamat Natal, Bau.
+
+20
+00:01:47,758 --> 00:01:49,133
+Selamat Natal, Sal.
+
+21
+00:01:49,258 --> 00:01:51,425
+<i>- Salam untuk Lizzie!</i>
+- Baik. Dah, Adik.
+
+22
+00:01:53,550 --> 00:01:54,550
+Ibu?
+
+23
+00:02:21,508 --> 00:02:22,550
+Kau kenapa?
+
+24
+00:02:23,925 --> 00:02:26,175
+Perang bola salju.
+
+25
+00:02:26,675 --> 00:02:28,717
+Bajingan beruntung lain bisa pulang.
+
+26
+00:02:29,258 --> 00:02:30,508
+Jadi, kau tak terbang?
+
+27
+00:02:35,008 --> 00:02:36,008
+Serius?
+
+28
+00:02:39,800 --> 00:02:40,800
+Maaf.
+
+29
+00:02:41,717 --> 00:02:42,842
+<i>Kau yakin soal ini?</i>
+
+30
+00:02:43,300 --> 00:02:46,092
+Kau baru menerima nilai malammu.
+
+31
+00:02:46,508 --> 00:02:47,925
+Butuh sejam ke Lakenheath.
+
+32
+00:02:48,133 --> 00:02:49,883
+Langsung melintasi Laut Utara.
+
+33
+00:02:50,550 --> 00:02:52,675
+Cuaca berubah tanpa terduga.
+
+34
+00:02:52,758 --> 00:02:56,050
+Prakiraannya cerah sampai pagi, jadi...
+
+35
+00:02:56,800 --> 00:02:58,300
+malam ini pas untuk terbang.
+
+36
+00:02:59,717 --> 00:03:02,883
+Situasi tampaknya berpihak padamu.
+
+37
+00:03:05,342 --> 00:03:07,175
+Kau akan pulang untuk Natal.
+
+38
+00:03:08,925 --> 00:03:09,925
+Terima kasih, Pak.
+
+39
+00:03:16,717 --> 00:03:19,800
+Hei. Tidak ada waktu
+untuk menelepon pacarmu.
+
+40
+00:03:19,883 --> 00:03:21,550
+Aku harus memandumu malam ini.
+
+41
+00:03:22,467 --> 00:03:23,717
+Baiklah. Ayo.
+
+42
+00:03:23,883 --> 00:03:25,050
+Ayo bicara dari menara.
+
+43
+00:03:52,008 --> 00:03:52,967
+Malam, Jack.
+
+44
+00:03:53,550 --> 00:03:54,925
+{\an8}Hampir siap, Pak.
+
+45
+00:04:02,008 --> 00:04:04,175
+Kau mengambil jalur 265,
+
+46
+00:04:04,842 --> 00:04:06,758
+naik ke ketinggian 22.000 meter
+
+47
+00:04:07,508 --> 00:04:09,383
+di pesisir Belanda ke Laut Utara.
+
+48
+00:04:10,550 --> 00:04:11,550
+Baik.
+
+49
+00:04:17,592 --> 00:04:19,258
+Penerbangan 66 menit.
+
+50
+00:04:19,383 --> 00:04:21,550
+Bahan bakarmu cukup untuk 80 menit.
+
+51
+00:04:22,342 --> 00:04:23,633
+Mendarat di Lakenheath,
+
+52
+00:04:24,050 --> 00:04:25,467
+pukul 23.25.
+
+53
+00:04:27,675 --> 00:04:28,717
+<i>Di ketinggian,</i>
+
+54
+00:04:28,800 --> 00:04:32,133
+<i>pertahankan jalur
+dan kecepatan pada 350 knot.</i>
+
+55
+00:04:39,342 --> 00:04:41,508
+Setelah kau pergi, kami akan tutup.
+
+56
+00:04:46,592 --> 00:04:48,092
+Kau sendiri di angkasa.
+
+57
+00:04:53,883 --> 00:04:54,883
+Semoga beruntung.
+
+58
+00:05:00,675 --> 00:05:01,758
+Siap, Jack?
+
+59
+00:05:02,217 --> 00:05:03,425
+Ya. Malam cerah, Pak.
+
+60
+00:05:10,467 --> 00:05:12,217
+Selamat Natal, Pak.
+
+61
+00:05:12,800 --> 00:05:13,967
+<i>Frohe Weinachten,</i> Jack.
+
+62
+00:05:15,092 --> 00:05:16,342
+Terserah kau saja, Pak.
+
+63
+00:05:55,425 --> 00:05:57,675
+<i>Charlie, Delta ke landasan pacu 24.</i>
+
+64
+00:05:57,758 --> 00:05:59,550
+<i>Quebec, Foxtrot, Echo,</i>
+
+65
+00:05:59,633 --> 00:06:01,008
+<i>1014,</i>
+
+66
+00:06:01,092 --> 00:06:03,300
+<i>angin permukaan 230 derajat,</i>
+
+67
+00:06:03,467 --> 00:06:04,467
+<i>10 knot.</i>
+
+68
+00:06:05,258 --> 00:06:07,175
+Charlie, Delta ke landasan pacu 24.
+
+69
+00:06:07,300 --> 00:06:10,008
+<i>Quebec, Foxtrot, Echo, 1014.</i>
+
+70
+00:06:10,758 --> 00:06:12,717
+<i>Charlie, Delta, siapkan lepas landas.</i>
+
+71
+00:06:13,967 --> 00:06:14,967
+Charlie, Delta siap.
+
+72
+00:06:16,175 --> 00:06:18,133
+<i>Menara Celle, Charlie, Delta,</i>
+
+73
+00:06:18,217 --> 00:06:21,050
+<i>mengizinkan 265 untuk naik ke level 280.</i>
+
+74
+00:06:21,258 --> 00:06:22,758
+<i>Terbanglah.</i>
+
+75
+00:06:39,717 --> 00:06:40,842
+<i>Charlie, Delta.</i>
+
+76
+00:06:41,592 --> 00:06:42,758
+Charlie, Delta, Celle.
+
+77
+00:06:43,467 --> 00:06:45,050
+<i>Charlie, Delta, lepas landas.</i>
+
+78
+00:06:45,675 --> 00:06:46,675
+Diterima, Menara.
+
+79
+00:07:24,175 --> 00:07:25,758
+Charlie, Delta, sudah terbang.
+
+80
+00:07:25,842 --> 00:07:26,842
+Roda terangkat.
+
+81
+00:07:26,925 --> 00:07:28,050
+Selamat Natal, Jim.
+
+82
+00:07:28,300 --> 00:07:29,467
+<i>Selamat Natal, Freddie.</i>
+
+83
+00:08:01,008 --> 00:08:02,050
+BAHAN BAKAR
+
+84
+00:08:44,925 --> 00:08:46,155
+KETINGGIAN
+
+85
+00:08:48,175 --> 00:08:49,842
+Kompas sialan.
+
+86
+00:08:59,800 --> 00:09:02,300
+Kerusakan kompas.
+
+87
+00:09:03,425 --> 00:09:04,592
+PROTOKOL DARURAT
+
+88
+00:09:11,967 --> 00:09:13,050
+Ayolah.
+
+89
+00:09:14,883 --> 00:09:17,133
+Celle, Charlie, Delta.
+
+90
+00:09:17,217 --> 00:09:18,800
+Pemandu Beveland Utara, masuk.
+
+91
+00:09:19,342 --> 00:09:20,508
+Kerusakan kompas.
+
+92
+00:09:20,675 --> 00:09:22,633
+Meminta bantuan lewat radio.
+
+93
+00:09:22,800 --> 00:09:24,425
+Kabari RAF Lakenheath.
+
+94
+00:09:27,883 --> 00:09:30,550
+Celle, Charlie, Delta.
+
+95
+00:09:31,217 --> 00:09:32,467
+Kau mendengarku?
+
+96
+00:09:33,467 --> 00:09:35,467
+Meminta bantuan pemandu darat.
+
+97
+00:09:36,258 --> 00:09:38,550
+RAF Lakenheath, perkiraan waktu ketibaan...
+
+98
+00:09:39,092 --> 00:09:40,550
+pukul 23.40.
+
+99
+00:09:52,925 --> 00:09:55,383
+Celle, Charlie, Delta.
+
+100
+00:09:55,467 --> 00:09:57,550
+Membutuhkan bantuan radio.
+
+101
+00:09:59,425 --> 00:10:01,175
+Ayolah. Jawab aku.
+
+102
+00:10:01,258 --> 00:10:03,717
+Celle, Charlie, Delta.
+
+103
+00:10:03,800 --> 00:10:05,425
+Memanggil Pemandu Lakenheath.
+
+104
+00:10:05,508 --> 00:10:07,383
+Kerusakan elektris. Masuk.
+
+105
+00:10:17,883 --> 00:10:19,175
+Celle, Charlie, Delta.
+
+106
+00:10:19,258 --> 00:10:21,008
+Memanggil Pemandu Lakenheath.
+
+107
+00:10:21,092 --> 00:10:23,842
+Kerusakan beberapa instrumen.
+Kau mendengarku?
+
+108
+00:10:24,092 --> 00:10:25,050
+Ayolah!
+
+109
+00:10:25,467 --> 00:10:27,255
+{\an8}Ayolah!
+
+110
+00:10:27,405 --> 00:10:28,717
+{\an8}Berfungsilah!
+
+111
+00:10:30,092 --> 00:10:32,508
+Bagaimana bisa mendarat
+kalau aku tak dipandu?
+
+112
+00:10:36,592 --> 00:10:38,383
+Mengganti ke saluran darurat.
+
+113
+00:10:38,717 --> 00:10:40,925
+Celle, Charlie, Delta.
+
+114
+00:10:42,050 --> 00:10:44,342
+Memanggil Pemandu Lakenheath. Masuk.
+
+115
+00:11:19,008 --> 00:11:22,050
+Jika ada yang bisa mendengarku,
+ini Celle, Charlie, Delta.
+
+116
+00:11:22,758 --> 00:11:24,217
+Kerusakan instrumen.
+
+117
+00:11:24,300 --> 00:11:27,467
+Kecepatan dan ketinggian berfungsi,
+mencoba navigasi visual.
+
+118
+00:11:28,550 --> 00:11:30,175
+Mencoba terbang ke Norwich.
+
+119
+00:11:33,883 --> 00:11:35,633
+Turun di lapangan udara terdekat...
+
+120
+00:11:38,850 --> 00:11:40,183
+Miriam St. George.
+
+121
+00:11:42,192 --> 00:11:44,964
+Status bahan bakar,
+hanya tersisa 544 liter.
+
+122
+00:11:45,567 --> 00:11:46,464
+Ya Tuhan.
+
+123
+00:11:59,950 --> 00:12:02,364
+Kini ada kabut juga. Celaka.
+
+124
+00:12:24,008 --> 00:12:26,133
+Celle, Charlie, Delta. Darurat.
+
+125
+00:12:26,217 --> 00:12:27,467
+Memanggil semua saluran.
+
+126
+00:12:27,675 --> 00:12:31,217
+Melambat dan turun ke 3.000 meter
+untuk menghemat bahan bakar.
+
+127
+00:12:32,217 --> 00:12:34,550
+Memulai prosedur bahaya darurat.
+
+128
+00:12:35,342 --> 00:12:37,508
+<i>Terbang dengan pola segitiga.</i>
+
+129
+00:12:41,258 --> 00:12:43,717
+Semoga ada yang melihatku di radar.
+
+130
+00:12:46,008 --> 00:12:47,258
+Hanya itu harapanku.
+
+131
+00:13:13,550 --> 00:13:14,464
+BAHAN BAKAR
+
+132
+00:13:14,564 --> 00:13:16,133
+Bahan bakar kritis.
+
+133
+00:13:17,383 --> 00:13:19,175
+Tersisa 317 liter.
+
+134
+00:13:29,717 --> 00:13:32,258
+Tuhan, tolong lepaskan aku
+dari kekacauan ini.
+
+135
+00:13:35,592 --> 00:13:38,050
+Tolong utus orang untuk memanduku turun.
+
+136
+00:13:59,383 --> 00:14:00,800
+Bahan bakar kritis.
+
+137
+00:14:01,092 --> 00:14:02,633
+Tersisa 136 liter.
+
+138
+00:14:05,633 --> 00:14:06,967
+Estimasi saat ini,
+
+139
+00:14:07,800 --> 00:14:09,842
+<i>sepuluh menit sebelum pendaratan air.</i>
+
+140
+00:14:15,842 --> 00:14:18,967
+<i>Terus terbang dalam pola segitiga.</i>
+
+141
+00:14:27,425 --> 00:14:28,967
+Kenapa tak ada yang melihatku?
+
+142
+00:14:31,008 --> 00:14:32,508
+Kenapa tak ada yang mendengar?
+
+143
+00:14:41,342 --> 00:14:43,092
+<i>Level bahan bakar darurat.</i>
+
+144
+00:14:43,967 --> 00:14:46,258
+<i>Lima menit sebelum pendaratan air.</i>
+
+145
+00:14:55,258 --> 00:14:56,300
+Lizzie...
+
+146
+00:14:58,508 --> 00:14:59,925
+jika inilah akhirnya, maka...
+
+147
+00:15:02,342 --> 00:15:03,883
+aku ingin kau tahu bahwa...
+
+148
+00:15:06,925 --> 00:15:09,050
+aku tidak takut lagi.
+
+149
+00:15:16,217 --> 00:15:17,675
+<i>Hanya sangat sedih.</i>
+
+150
+00:15:21,467 --> 00:15:23,675
+<i>Sedih atas semua hal
+yang tidak kita lakukan...</i>
+
+151
+00:15:27,008 --> 00:15:29,008
+<i>semua tempat yang tidak akan kita lihat.</i>
+
+152
+00:15:36,925 --> 00:15:39,967
+<i>Aku hanya ingin pulang
+dan melewati Natal bersamamu.</i>
+
+153
+00:15:50,383 --> 00:15:51,883
+<i>Masuklah.</i>
+
+154
+00:15:51,967 --> 00:15:53,425
+<i>Di luar sangat dingin.</i>
+
+155
+00:15:54,092 --> 00:15:56,217
+<i>Masuklah. Jangan kedinginan.</i>
+
+156
+00:16:05,258 --> 00:16:10,175
+AKU MINTA MAAF
+
+157
+00:16:13,008 --> 00:16:18,050
+AKU MENCINTAIMU
+
+158
+00:16:29,883 --> 00:16:32,425
+<i>Ini Charlie, Delta,
+memanggil semua saluran.</i>
+
+159
+00:16:33,883 --> 00:16:35,883
+<i>Pendaratan air kini tak terhindari.</i>
+
+160
+00:16:38,508 --> 00:16:40,550
+<i>Ini mungkin komunikasi terakhirku.</i>
+
+161
+00:17:45,133 --> 00:17:48,092
+<i>Croc... Lima... Bisa dengar?</i>
+
+162
+00:17:48,717 --> 00:17:50,217
+<i>Identifikasi posisimu.</i>
+
+163
+00:17:50,342 --> 00:17:51,883
+Charlie, Delta. Dengar aku?
+
+164
+00:17:52,508 --> 00:17:54,550
+Charlie, Delta, meminta identitasmu.
+
+165
+00:17:56,592 --> 00:17:59,342
+<i>Crocodile, Lima, Monkey, Delta.
+Bisa dengar aku?</i>
+
+166
+00:17:59,508 --> 00:18:01,758
+Ini Charlie, Delta, bukan Monkey, Delta.
+
+167
+00:18:01,883 --> 00:18:03,842
+Menuju Miriam. Kerusakan instrumen.
+
+168
+00:18:03,925 --> 00:18:05,800
+Meminta bantuan mendarat.
+
+169
+00:18:07,383 --> 00:18:08,842
+Ayolah.
+
+170
+00:18:16,258 --> 00:18:18,800
+Charlie, Delta, Crocodile, Lima.
+Kau mendengarku?
+
+171
+00:18:21,050 --> 00:18:22,383
+Dia tak bisa mendengarku.
+
+172
+00:18:25,467 --> 00:18:28,092
+Charlie, Delta, Crocodile, Lima.
+Kau mendengarku?
+
+173
+00:18:31,633 --> 00:18:32,800
+Dia tak mendengarku.
+
+174
+00:18:33,342 --> 00:18:35,050
+Apa yang sebenarnya terjadi?
+
+175
+00:18:35,883 --> 00:18:37,925
+Kenapa aku dengar, tetapi dia tidak?
+
+176
+00:18:39,217 --> 00:18:41,342
+<i>Kau mengalami kerusakan struktur?</i>
+
+177
+00:18:41,592 --> 00:18:43,258
+<i>Kau membutuhkan bantuan?</i>
+
+178
+00:18:43,592 --> 00:18:45,508
+Charlie, Delta ke Crocodile, Lima. Ya!
+
+179
+00:18:45,592 --> 00:18:47,258
+Butuh bantuan.
+
+180
+00:19:07,425 --> 00:19:09,217
+Charlie, Delta ke Crocodile, Lima.
+
+181
+00:19:09,300 --> 00:19:11,342
+<i>Harap konfirmasi kau melihatku.</i>
+
+182
+00:19:14,342 --> 00:19:15,967
+Pesawat Mosquito...
+
+183
+00:19:38,717 --> 00:19:39,967
+Terima kasih.
+
+184
+00:19:54,175 --> 00:19:55,175
+Kau mendengarku?
+
+185
+00:19:57,758 --> 00:19:59,050
+Charlie, Delta.
+
+186
+00:19:59,175 --> 00:20:01,133
+Ya, aku bisa mendengarmu.
+
+187
+00:20:05,050 --> 00:20:06,300
+Dimengerti.
+
+188
+00:20:06,425 --> 00:20:09,175
+Tidak, aku tak bisa mendengarmu.
+
+189
+00:20:09,592 --> 00:20:11,175
+Gunakan isyarat tanganmu.
+
+190
+00:20:14,967 --> 00:20:16,508
+Ada kerusakan struktur?
+
+191
+00:20:17,800 --> 00:20:18,967
+Kerusakan elektris.
+
+192
+00:20:21,508 --> 00:20:22,633
+Status bahan bakar?
+
+193
+00:20:28,008 --> 00:20:29,258
+Baik. Tiga menit.
+
+194
+00:20:29,342 --> 00:20:30,383
+Ikut aku,
+
+195
+00:20:31,842 --> 00:20:33,425
+dan kita mulai turun.
+
+196
+00:20:48,550 --> 00:20:49,550
+<i>Kau aman.</i>
+
+197
+00:20:49,883 --> 00:20:51,050
+Terima kasih.
+
+198
+00:21:02,800 --> 00:21:05,175
+Baik. 6,4 kilometer sebelum mendarat.
+
+199
+00:21:05,342 --> 00:21:07,800
+Pastikan perlengkapan mendaratmu
+sudah diturunkan.
+
+200
+00:21:11,925 --> 00:21:12,925
+Bagus.
+
+201
+00:21:19,175 --> 00:21:20,883
+<i>Baik, 4,8 kilometer lagi.</i>
+
+202
+00:21:21,217 --> 00:21:23,258
+Ikut aku, aku membawamu pulang.
+
+203
+00:21:26,258 --> 00:21:27,467
+<i>Kita mulai.</i>
+
+204
+00:21:27,967 --> 00:21:29,675
+<i>Tetap pandangi sayapku.</i>
+
+205
+00:21:32,217 --> 00:21:35,175
+<i>3,2 kilometer lagi.
+Mulai turun, 150 meter per menit.</i>
+
+206
+00:21:44,925 --> 00:21:46,008
+<i>Bahan bakarmu?</i>
+
+207
+00:21:52,633 --> 00:21:53,633
+<i>Tetap bersamaku.</i>
+
+208
+00:21:56,717 --> 00:21:58,342
+<i>1,6 kilometer lagi.</i>
+
+209
+00:21:58,842 --> 00:22:01,008
+<i>Kita melambat menuju 110 knot.</i>
+
+210
+00:22:01,300 --> 00:22:03,592
+Terus menurun, 91 meter per menit.
+
+211
+00:22:09,550 --> 00:22:12,092
+Baik, landasan pacumu lurus di depan.
+
+212
+00:22:12,217 --> 00:22:13,508
+Kau boleh mendarat.
+
+213
+00:22:15,300 --> 00:22:16,508
+Selamat Natal.
+
+214
+00:24:42,550 --> 00:24:43,550
+Halo!
+
+215
+00:24:45,050 --> 00:24:46,050
+Halo.
+
+216
+00:24:46,425 --> 00:24:47,508
+Itu milikmu?
+
+217
+00:24:49,633 --> 00:24:50,883
+Sersan Joe Marks,
+
+218
+00:24:51,050 --> 00:24:52,050
+masuklah.
+
+219
+00:24:52,175 --> 00:24:53,800
+Aku akan mengantarmu ke mes.
+
+220
+00:25:03,592 --> 00:25:06,008
+- Terima kasih. Di sini hangat.
+- Itu harapanku.
+
+221
+00:25:20,675 --> 00:25:22,133
+Penerbang, Freddie Hook.
+
+222
+00:25:22,842 --> 00:25:23,883
+Hampir saja.
+
+223
+00:25:24,175 --> 00:25:25,508
+Kau beruntung dalam kabut.
+
+224
+00:25:26,133 --> 00:25:30,300
+Ya, radio dan kelistrikanku
+rusak di Laut Utara.
+
+225
+00:25:32,133 --> 00:25:33,967
+Aku dipandu pesawat lain.
+
+226
+00:25:34,342 --> 00:25:36,758
+- Aku terkejut kau bisa kemari.
+- Apa maksudmu?
+
+227
+00:00:04,000 --> 00:00:18,000
+v ip 2 1. e u. or g
+
+228
+00:25:37,175 --> 00:25:39,633
+Sudah bertahun-tahun
+pos ini tak beroperasi.
+
+229
+00:25:40,842 --> 00:25:42,383
+Kini kami depot penyimpanan.
+
+230
+00:25:44,842 --> 00:25:46,633
+Jadi, bukan RAF Miriam St. George?
+
+231
+00:25:46,883 --> 00:25:48,633
+Itu 16 kilometer dari sini, Pak.
+
+232
+00:25:49,008 --> 00:25:50,300
+Ini RAF Minton.
+
+233
+00:25:50,383 --> 00:25:51,508
+Minton?
+
+234
+00:25:52,092 --> 00:25:53,300
+Aku tak pernah dengar.
+
+235
+00:25:59,175 --> 00:26:01,758
+Aku melihat lampu landasan pacu kalian...
+
+236
+00:26:03,467 --> 00:26:04,758
+dan...
+
+237
+00:26:05,133 --> 00:26:08,925
+kelihatannya aku mendaratkan Vampire-ku
+di lapangan udara yang salah.
+
+238
+00:26:11,175 --> 00:26:12,217
+Maaf.
+
+239
+00:26:12,342 --> 00:26:13,800
+Tidak masalah, Pak.
+
+240
+00:26:45,967 --> 00:26:47,133
+Kau kurang beruntung,
+
+241
+00:26:47,258 --> 00:26:49,008
+melewatkan Natal bertugas di sini?
+
+242
+00:26:50,258 --> 00:26:51,300
+Ya.
+
+243
+00:26:52,675 --> 00:26:53,925
+Mari siapkan tempatmu.
+
+244
+00:27:09,383 --> 00:27:10,592
+Ini menghangatkanmu.
+
+245
+00:27:11,217 --> 00:27:12,300
+Terima kasih.
+
+246
+00:27:18,383 --> 00:27:19,758
+Ayolah, Lizzie.
+
+247
+00:27:28,633 --> 00:27:30,050
+<i>Ayolah, Lizzie. Jawab.</i>
+
+248
+00:28:25,342 --> 00:28:26,592
+Panggilanmu terhubung?
+
+249
+00:28:27,550 --> 00:28:28,550
+Aneh.
+
+250
+00:28:29,842 --> 00:28:31,800
+Ya, ini Natal.
+
+251
+00:28:41,675 --> 00:28:42,842
+Kau lama di sini, Joe?
+
+252
+00:28:43,758 --> 00:28:46,508
+Sejak awal perang saat pos ini dibuka.
+
+253
+00:28:47,550 --> 00:28:48,633
+Masa itu berbeda.
+
+254
+00:28:49,842 --> 00:28:51,717
+Dahulu, di sini penuh pilot muda
+
+255
+00:28:52,008 --> 00:28:53,467
+menerbangkan misi demi misi,
+
+256
+00:28:54,092 --> 00:28:56,300
+bahkan setelah mental mereka kacau.
+
+257
+00:28:57,508 --> 00:28:59,675
+Kau punya keluarga di Angkatan Udara, Pak?
+
+258
+00:29:00,175 --> 00:29:01,633
+Ya. Ayahku.
+
+259
+00:29:04,300 --> 00:29:05,425
+Turut berduka.
+
+260
+00:29:05,592 --> 00:29:07,050
+Menghilang di Jerman.
+
+261
+00:29:08,550 --> 00:29:10,217
+Jadi, kau mengikutinya masuk AU?
+
+262
+00:29:10,675 --> 00:29:13,008
+Ya, benar.
+
+263
+00:29:14,508 --> 00:29:16,758
+Namun, tidak langsung. Wajib Militer.
+
+264
+00:29:17,592 --> 00:29:20,217
+Syukurlah sekarang tidak ada perang.
+
+265
+00:29:21,675 --> 00:29:24,550
+Semoga kita tak perlu melalui
+hal seperti itu lagi.
+
+266
+00:29:26,550 --> 00:29:27,592
+Boleh, Pak?
+
+267
+00:29:28,133 --> 00:29:29,217
+Terima kasih.
+
+268
+00:29:49,967 --> 00:29:51,425
+Siapa pilot ini, Joe?
+
+269
+00:29:53,842 --> 00:29:55,425
+Itu Tn. John Kavanagh.
+
+270
+00:29:56,175 --> 00:29:57,758
+Dia di sini selama perang, Pak.
+
+271
+00:29:57,967 --> 00:29:58,967
+Kavanagh?
+
+272
+00:29:59,425 --> 00:30:00,592
+Ya.
+
+273
+00:30:01,633 --> 00:30:03,800
+Sering duduk di meja yang kau duduki itu.
+
+274
+00:30:04,717 --> 00:30:05,883
+Seorang pilot Kanada.
+
+275
+00:30:07,175 --> 00:30:08,467
+Skuadron apa, Joe?
+
+276
+00:30:09,050 --> 00:30:11,217
+Pathfinder. Pesawat mereka Mosquito.
+
+277
+00:30:11,300 --> 00:30:14,133
+Kurasa Tn. Kavanagh
+yang terbaik di antara mereka.
+
+278
+00:30:14,258 --> 00:30:15,633
+Namun, pendapatku bias.
+
+279
+00:30:16,258 --> 00:30:17,717
+Aku asistennya.
+
+280
+00:30:27,592 --> 00:30:28,717
+Johnny Kavanagh.
+
+281
+00:30:29,008 --> 00:30:30,300
+Saat skuadron itu kembali
+
+282
+00:30:30,467 --> 00:30:33,592
+setelah menjatuhkan suar penanda
+di atas target di Jerman,
+
+283
+00:30:33,800 --> 00:30:35,883
+dia mengisi bahan bakar Mosquito-nya.
+
+284
+00:30:36,425 --> 00:30:38,383
+Lepas landas lagi. Sendiri.
+
+285
+00:30:38,758 --> 00:30:40,925
+- Dia memandu mereka kemari.
+- Ya.
+
+286
+00:30:41,508 --> 00:30:43,758
+Dia sering terbang di atas Laut Utara,
+
+287
+00:30:45,008 --> 00:30:46,675
+mencari pesawat yang rusak,
+
+288
+00:30:46,883 --> 00:30:48,717
+terkadang saat kabut sangat tebal
+
+289
+00:30:49,800 --> 00:30:51,133
+orang kesulitan melihat.
+
+290
+00:30:52,550 --> 00:30:53,800
+Seperti malam ini.
+
+291
+00:31:03,258 --> 00:31:04,925
+Dia membawaku pulang malam ini.
+
+292
+00:31:05,758 --> 00:31:07,467
+Kurasa kau salah, Pak.
+
+293
+00:31:09,883 --> 00:31:14,383
+Tn. Johnny tewas saat patroli terakhirnya
+pada Malam Natal tahun 1943.
+
+294
+00:31:16,050 --> 00:31:17,800
+Persis 14 tahun lalu malam ini.
+
+295
+00:31:19,883 --> 00:31:21,092
+Dia tak pernah kembali.
+
+296
+00:31:22,883 --> 00:31:24,425
+Dia jatuh dengan pesawatnya
+
+297
+00:31:26,592 --> 00:31:28,883
+di suatu tempat di Laut Utara.
+
+298
+00:31:37,508 --> 00:31:38,758
+Selamat malam, Pak.
+
+299
+00:31:43,383 --> 00:31:44,675
+Satu lagi...
+
+300
+00:31:45,675 --> 00:31:46,883
+Selamat Natal.
+
+301
+00:32:23,089 --> 00:32:27,639
+MES PRAJURIT
+
+302
+00:32:43,883 --> 00:32:45,258
+Kami melihatmu di radar,
+
+303
+00:32:45,342 --> 00:32:47,133
+tampaknya kau menuju ke Miriam.
+
+304
+00:32:47,758 --> 00:32:49,050
+Kemudian kau lenyap.
+
+305
+00:32:49,675 --> 00:32:50,925
+Di sekitar sini.
+
+306
+00:32:53,008 --> 00:32:54,758
+- Kenapa kau...
+- Aku dipandu turun.
+
+307
+00:32:55,633 --> 00:32:58,508
+Ada yang menyalakan lampu
+landasan pacu dan menyelamatkanku.
+
+308
+00:33:01,300 --> 00:33:03,925
+Tempat ini sudah lama ditutup
+saat perang usai.
+
+309
+00:33:04,758 --> 00:33:06,258
+Kosong sejak saat itu.
+
+310
+00:33:24,883 --> 00:33:25,883
+Ayo.
+
+311
+00:33:27,342 --> 00:33:29,175
+Kita kembali ke peradaban, Pak.
+
+312
+00:33:30,008 --> 00:33:31,092
+Pulang untuk Natal.
+
+313
+00:33:58,050 --> 00:34:00,633
+<i>Crocodile, Lima, Monkey, Delta,
+kau mendengarku?</i>
+
+314
+00:34:00,925 --> 00:34:02,508
+<i>Kau membutuhkan bantuan?</i>
+
+315
+00:34:03,050 --> 00:34:05,800
+<i>Monkey, Delta, Crocodile, Lima,
+Skipper di sini.</i>
+
+316
+00:34:05,883 --> 00:34:08,633
+<i>Sayap rusak dan tertembak
+dari memburu jet tempur musuh.</i>
+
+317
+00:34:08,717 --> 00:34:10,133
+<i>Kerusakan instrumen.</i>
+
+318
+00:34:10,258 --> 00:34:12,342
+<i>Membutuhkan bantuan pemandu darat.</i>
+
+319
+00:34:13,092 --> 00:34:16,800
+<i>Crocodile, Lima, Monkey, Delta,
+saatnya mengikutiku turun.</i>
+
+320
+00:34:16,883 --> 00:34:18,342
+<i>Aku akan membawamu pulang.</i>
+
+321
+00:34:28,592 --> 00:34:32,467
+PADA PERANG DUNIA II,
+RATUSAN PILOT BERBAGAI NEGARA GUGUR.
+
+322
+00:34:32,550 --> 00:34:36,342
+NAMUN, JUMLAHNYA AKAN JAUH LEBIH TINGGI
+JIKA BANYAK YANG TAK DISELAMATKAN
+
+323
+00:34:36,425 --> 00:34:41,714
+OLEH KEBERANIAN DAN PENGORBANAN
+PARA PILOT YANG MEMANDU MEREKA PULANG.
+
