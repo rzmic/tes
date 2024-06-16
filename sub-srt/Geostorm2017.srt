@@ -1,0 +1,6456 @@
+﻿1
+00:00:55,001 --> 00:00:57,712
+<i>Semua orang telah diperingatkan,</i>
+<i>tetapi tak ada yang peduli.</i>
+
+2
+00:01:00,799 --> 00:01:02,676
+<i>Suhu meningkat...</i>
+
+3
+00:01:03,051 --> 00:01:04,678
+<i>pola lautan berubah...</i>
+
+4
+00:01:05,345 --> 00:01:06,680
+<i>dan lapisan es mencair.</i>
+
+5
+00:01:08,390 --> 00:01:10,393
+<i>Orang menyebutnya cuaca ekstrem.</i>
+
+6
+00:01:11,686 --> 00:01:14,230
+<i>Mereka tidak tahu apa itu "ekstrem".</i>
+
+7
+00:01:15,899 --> 00:01:17,609
+<i>Pada tahun 2019...</i>
+
+8
+00:01:17,775 --> 00:01:19,528
+<i>badai...</i>
+
+9
+00:01:19,695 --> 00:01:20,988
+<i>angin topan...</i>
+
+10
+00:01:21,155 --> 00:01:22,490
+<i>banjir...</i>
+
+11
+00:01:22,656 --> 00:01:24,033
+<i>dan kekeringan...</i>
+
+12
+00:01:25,242 --> 00:01:28,121
+<i>mengakibatkan kehancuran</i>
+<i>di planet kita.</i>
+
+13
+00:01:29,623 --> 00:01:31,583
+<i>Kita tak hanya kehilangan</i>
+<i>beberapa kota...</i>
+
+14
+00:01:31,750 --> 00:01:33,084
+<i>atau kota-kota pesisir.</i>
+
+15
+00:01:34,419 --> 00:01:37,089
+<i>Kita kehilangan seluruh kota.</i>
+
+16
+00:01:37,381 --> 00:01:39,967
+<i>East River menenggelamkan</i>
+<i>Lower Manhattan.</i>
+
+17
+00:01:42,053 --> 00:01:44,180
+<i>Gelombang panas menewaskan</i>
+<i>dua juta orang di Madrid...</i>
+
+18
+00:01:45,014 --> 00:01:46,350
+<i>dalam satu hari.</i>
+
+19
+00:01:47,476 --> 00:01:48,810
+<i>Namun, pada momen itu...</i>
+
+20
+00:01:49,394 --> 00:01:50,521
+<i>menghadapi kepunahan...</i>
+
+21
+00:01:52,189 --> 00:01:56,736
+<i>jelas tak ada negara yang bisa</i>
+<i>menyelesaikan persoalan ini sendirian.</i>
+
+22
+00:01:59,864 --> 00:02:01,991
+<i>Dunia bersatu...</i>
+
+23
+00:02:02,450 --> 00:02:04,495
+<i>dan kita melawan balik.</i>
+
+24
+00:02:05,162 --> 00:02:07,915
+<i>Ilmuwan dari 17 negara...</i>
+
+25
+00:02:08,207 --> 00:02:09,500
+<i>dipimpin AS dan Cina...</i>
+
+26
+00:02:10,376 --> 00:02:11,752
+<i>bekerja tanpa lelah.</i>
+
+27
+00:02:13,003 --> 00:02:15,340
+<i>Bukan mewakili negara-negara mereka...</i>
+
+28
+00:02:17,133 --> 00:02:18,843
+<i>melainkan umat manusia.</i>
+
+29
+00:02:20,637 --> 00:02:22,806
+<i>Mereka menemukan cara</i>
+<i>menetralkan badai...</i>
+
+30
+00:02:22,974 --> 00:02:24,892
+<i>dengan jaringan ribuan satelit...</i>
+
+31
+00:02:25,059 --> 00:02:29,522
+<i>yang mengerahkan tindak pencegahan dengan</i>
+<i>memengaruhi unsur-unsur dasar cuaca...</i>
+
+32
+00:02:29,730 --> 00:02:32,276
+<i>panas, tekanan udara, dan air.</i>
+
+33
+00:02:32,859 --> 00:02:36,196
+<i>Semua diawasi</i>
+<i>oleh Stasiun Luar Angkasa Internasional.</i>
+
+34
+00:02:38,115 --> 00:02:40,200
+<i>Mereka punya nama teknis</i>
+<i>untuk jaringan satelit...</i>
+
+35
+00:02:40,367 --> 00:02:42,495
+<i>tetapi kita semua</i>
+<i>menyebutnya Dutch Boy...</i>
+
+36
+00:02:43,121 --> 00:02:46,583
+<i>dari cerita tentang anak</i>
+<i>yang menyumbat bendungan dengan jari.</i>
+
+37
+00:02:55,843 --> 00:02:57,886
+<i>Inilah yang menyelamatkan kita semua.</i>
+
+38
+00:02:58,470 --> 00:03:01,182
+<i>Dan dibangun oleh kelompok</i>
+<i>yang dipimpin satu orang...</i>
+
+39
+00:03:03,560 --> 00:03:04,394
+<i>ayahku.</i>
+
+40
+00:03:16,782 --> 00:03:18,242
+- Terima kasih.
+- Ambil kembaliannya.
+
+41
+00:03:21,121 --> 00:03:22,497
+Jake Lawson. Ada sidang...
+
+42
+00:03:22,664 --> 00:03:23,832
+Sidang senat di ruang 12.
+
+43
+00:03:23,999 --> 00:03:24,833
+Ya.
+
+44
+00:03:25,000 --> 00:03:26,001
+Lawson?
+
+45
+00:03:26,376 --> 00:03:28,046
+- Kau pembuat Dutch Boy?
+- Ya.
+
+46
+00:03:28,212 --> 00:03:29,464
+Aku harus menjabat tanganmu.
+
+47
+00:03:29,630 --> 00:03:30,923
+Baik.
+
+48
+00:03:31,341 --> 00:03:33,009
+Angin topan? Lenyap!
+
+49
+00:03:33,176 --> 00:03:34,969
+Badai salju? Lenyap!
+
+50
+00:03:35,136 --> 00:03:36,137
+Monsun?
+
+51
+00:03:37,264 --> 00:03:38,474
+- Lenyap?
+- Lenyap!
+
+52
+00:03:38,932 --> 00:03:41,310
+Semua orang berutang kepadamu,
+Jake Lawson.
+
+53
+00:03:41,477 --> 00:03:44,021
+Jika butuh sesuatu, minta saja.
+
+54
+00:03:55,701 --> 00:03:59,955
+<i>Komite Senat yang ditugaskan</i>
+<i>untuk mengawasi Dutch Boy...</i>
+
+55
+00:04:00,289 --> 00:04:02,583
+<i>akan mendengarkan Jacob Lawson...</i>
+
+56
+00:04:02,750 --> 00:04:05,879
+<i>Kepala Koordinator Operasi Iklim ISS.</i>
+
+57
+00:04:06,046 --> 00:04:09,549
+Tolong dicatat
+dia hampir satu jam terlambat.
+
+58
+00:04:10,217 --> 00:04:11,885
+Maaf soal itu.
+
+59
+00:04:12,969 --> 00:04:15,223
+Saya harus terbang
+dari angkasa luar.
+
+60
+00:04:16,891 --> 00:04:18,226
+Ini dia.
+
+61
+00:04:18,393 --> 00:04:22,146
+Tn. Lawson, kita harus buat keputusan.
+
+62
+00:04:22,313 --> 00:04:25,317
+Seperti Anda tahu,
+sesuai Keputusan PBB 28-14...
+
+63
+00:04:25,484 --> 00:04:29,154
+<i>Amerika Serikat akan menyerahkan</i>
+<i>kendali atas Dutch Boy...</i>
+
+64
+00:04:29,321 --> 00:04:32,575
+kepada Komite Pengawas Internasional
+dalam tiga tahun.
+
+65
+00:04:32,742 --> 00:04:35,704
+Walaupun faktanya kitalah
+yang membuat Dutch Boy.
+
+66
+00:04:35,870 --> 00:04:38,998
+Permisi, Senator.
+Saya tidak bermaksud menunda.
+
+67
+00:04:39,165 --> 00:04:41,752
+Anda bilang "kita" yang membuatnya?
+
+68
+00:04:41,919 --> 00:04:43,754
+Benar.
+
+69
+00:04:44,338 --> 00:04:48,134
+Saya tahu yang saya kerjakan. Saya
+pemimpin tim yang membangun stasiun itu.
+
+70
+00:04:48,467 --> 00:04:52,723
+Saya di sana bersama awak internasional
+sebanyak 600 orang, bukan hanya Amerika.
+
+71
+00:04:52,889 --> 00:04:57,102
+Saya kenal mereka semua,
+tetapi saya tak ingat Anda.
+
+72
+00:04:57,978 --> 00:05:02,150
+Kami punya tukang pipa di sana.
+Dia mirip dengan Anda.
+
+73
+00:05:03,317 --> 00:05:05,278
+Lucu sekali, Tn. Lawson.
+
+74
+00:05:05,445 --> 00:05:09,825
+<i>Ya, Dutch Boy hasil kerja internasional,</i>
+<i>dan suatu hari akan menjadi...</i>
+
+75
+00:05:09,908 --> 00:05:10,909
+Max
+Hentikan
+
+76
+00:05:11,076 --> 00:05:12,161
+<i>...milik dunia.</i>
+
+77
+00:05:12,327 --> 00:05:15,497
+Namun, sebelumnya,
+kami punya wewenang atas operasinya...
+
+78
+00:05:15,664 --> 00:05:17,916
+dan wewenang atas diri Anda!
+
+79
+00:05:18,083 --> 00:05:20,420
+<i>Dan Anda mencemooh wewenang itu.</i>
+
+80
+00:05:20,587 --> 00:05:23,256
+<i>Saya punya laporan demi laporan.</i>
+
+81
+00:05:23,423 --> 00:05:25,717
+<i>Tidak mengikuti prosedur...</i>
+
+82
+00:05:25,884 --> 00:05:28,095
+sejumlah pelanggaran perintah.
+
+83
+00:05:28,429 --> 00:05:34,310
+Lalu, insiden ketika Anda meninju
+seorang pengawas federal.
+
+84
+00:05:34,477 --> 00:05:36,270
+Pengawas federal Anda tidak tahu...
+
+85
+00:05:36,437 --> 00:05:39,232
+kapasitor menyimpan listrik
+walau sudah tidak tersambung.
+
+86
+00:05:39,399 --> 00:05:42,235
+Dia memegangnya.
+Saya menyelamatkan nyawanya!
+
+87
+00:05:42,402 --> 00:05:45,697
+Silakan buat alasan semau Anda,
+Tn. Lawson...
+
+88
+00:05:45,864 --> 00:05:48,367
+tetapi ada satu hal
+yang tidak bisa Anda sangkal.
+
+89
+00:05:48,534 --> 00:05:50,661
+<i>Yaitu ketika Anda mengaktifkan</i>
+<i>Dutch Boy...</i>
+
+90
+00:05:50,745 --> 00:05:51,579
+Max
+HENTIKAN!
+
+91
+00:05:52,121 --> 00:05:54,790
+...dan beroperasi tanpa izin kami!
+
+92
+00:05:54,957 --> 00:05:56,418
+Dan apa hasilnya, Senator?
+
+93
+00:05:56,710 --> 00:06:00,756
+Ada serangkaian badai terbentuk
+di Asia Tenggara dan Atlantik Utara...
+
+94
+00:06:00,923 --> 00:06:03,759
+yang bisa membunuh puluhan ribu orang.
+
+95
+00:06:04,218 --> 00:06:08,139
+Dutch Boy sudah siap. Kami aktifkan
+dan berhasil. Terima kasih kembali.
+
+96
+00:06:08,306 --> 00:06:10,600
+<i>Tn. Lawson, jika terus</i>
+<i>melawan wewenang kami...</i>
+
+97
+00:06:10,683 --> 00:06:11,684
+Sudahlah. Kumohon.
+
+98
+00:06:11,851 --> 00:06:14,855
+...Dutch Boy akan berlanjut tanpamu!
+
+99
+00:06:15,564 --> 00:06:18,609
+Apa Anda sudah mengerti?
+
+100
+00:06:25,450 --> 00:06:26,535
+Ya.
+
+101
+00:06:26,952 --> 00:06:29,621
+Bagus. Satu hal lagi.
+
+102
+00:06:29,829 --> 00:06:34,043
+Untuk memastikannya, komite ini
+mengirim staf pendukung baru.
+
+103
+00:06:34,335 --> 00:06:38,381
+Begitu mereka tiba di sana,
+Anda harus memecat beberapa staf.
+
+104
+00:06:39,257 --> 00:06:40,758
+Silakan Anda yang pilih.
+
+105
+00:06:40,925 --> 00:06:44,972
+Senator, dengan hormat,
+awak saya tidak berbuat salah.
+
+106
+00:06:45,138 --> 00:06:47,307
+Saya tidak minta pendapat Anda.
+
+107
+00:06:47,474 --> 00:06:50,686
+Mereka meninggalkan
+rumah dan keluarga mereka...
+
+108
+00:06:50,852 --> 00:06:52,146
+mempertaruhkan nyawa demi Bumi.
+
+109
+00:06:52,313 --> 00:06:53,398
+Sidang ini selesai.
+
+110
+00:06:53,565 --> 00:06:55,650
+Saya tidak mau memecat satu pun!
+
+111
+00:06:55,817 --> 00:06:56,859
+Apa?
+
+112
+00:06:57,026 --> 00:06:59,237
+Anda butuh orang seperti saya.
+Tahu kenapa?
+
+113
+00:06:59,404 --> 00:07:02,449
+<i>Agar Anda bisa dapat pujian</i>
+<i>atas usaha kami.</i>
+
+114
+00:07:02,616 --> 00:07:04,702
+Agar bisa menemui pendukung
+dan kroni Anda...
+
+115
+00:07:04,868 --> 00:07:06,078
+<i>Sidang ini selesai.</i>
+
+116
+00:07:06,245 --> 00:07:08,998
+...dan kekasih gelap Anda
+lalu menyombongkan diri...
+
+117
+00:07:09,164 --> 00:07:10,917
+- dan bilang, "Lihat aku!"
+- Duduk!
+
+118
+00:07:11,042 --> 00:07:12,752
+<i>- Saya sedang melihat, Senator.</i>
+<i>- Permisi.</i>
+
+119
+00:07:12,919 --> 00:07:14,379
+Kami semua melihat.
+
+120
+00:07:14,629 --> 00:07:17,507
+Sidang ini selesai! Terima kasih.
+
+121
+00:07:23,598 --> 00:07:25,766
+Tadi berjalan lancar, bukan?
+
+122
+00:07:25,933 --> 00:07:27,143
+Sampai pada satu titik.
+
+123
+00:07:27,518 --> 00:07:29,771
+Jake, tadi sama sekali
+tidak berjalan lancar.
+
+124
+00:07:30,355 --> 00:07:32,357
+Namun, apa keahlianmu, Adik?
+
+125
+00:07:32,524 --> 00:07:34,484
+Menyelesaikan persoalan,
+menenangkan orang kesal?
+
+126
+00:07:34,568 --> 00:07:35,611
+Kau bisa perbaiki. Selalu.
+
+127
+00:07:36,653 --> 00:07:38,031
+Itu seperti bakat.
+
+128
+00:07:38,114 --> 00:07:40,033
+Itu memang bakat.
+
+129
+00:07:40,909 --> 00:07:42,201
+Kurang lebih.
+
+130
+00:07:43,369 --> 00:07:45,413
+Andai aku bisa menolongmu.
+
+131
+00:07:45,705 --> 00:07:46,874
+Namun, tidak semudah itu...
+
+132
+00:07:47,041 --> 00:07:48,500
+tidak kali ini.
+
+133
+00:07:49,335 --> 00:07:50,336
+Kenapa tidak?
+
+134
+00:07:51,629 --> 00:07:56,301
+Sejak minggu lalu, mereka memilihku
+untuk memimpin Dutch Boy.
+
+135
+00:07:57,761 --> 00:07:59,763
+Itu bagus!
+
+136
+00:07:59,930 --> 00:08:02,223
+Itu bagus! Kau bercanda?
+
+137
+00:08:08,689 --> 00:08:09,815
+Kau bercanda.
+
+138
+00:08:12,318 --> 00:08:14,863
+Aku harus berbuat apa?
+
+139
+00:08:15,030 --> 00:08:18,700
+Kau tak memberiku pilihan. Sudah kubilang
+ini harus berjalan baik, tetapi tidak.
+
+140
+00:08:21,620 --> 00:08:23,998
+Maaf, Jake.
+
+141
+00:08:27,251 --> 00:08:28,753
+Kau dipecat.
+
+142
+00:08:34,426 --> 00:08:38,847
+TIGA TAHUN KEMUDIAN
+
+143
+00:08:39,014 --> 00:08:44,104
+GURUN REGISTAN, AFGANISTAN
+
+144
+00:08:52,405 --> 00:08:54,991
+Di sini panasnya 49 derajat Celsius.
+
+145
+00:08:59,829 --> 00:09:02,499
+PBB
+
+146
+00:09:34,409 --> 00:09:35,410
+Menyebar.
+
+147
+00:10:11,283 --> 00:10:12,576
+Hai, Agen Wilson.
+
+148
+00:10:12,743 --> 00:10:13,911
+Asisten Sekretaris Lawson.
+
+149
+00:10:15,497 --> 00:10:17,207
+Kau terlihat cantik hari ini.
+
+150
+00:10:17,373 --> 00:10:19,751
+Pakaianku sama seperti biasanya.
+
+151
+00:10:19,918 --> 00:10:22,170
+Tidak juga.
+
+152
+00:10:22,337 --> 00:10:25,132
+Kau lihat aku memakai dasi baru?
+
+153
+00:10:25,716 --> 00:10:30,554
+Aku perhatikan. Kami dilatih melihat
+perincian yang mengganggu.
+
+154
+00:10:33,058 --> 00:10:35,102
+- Sarah, ayolah.
+- Asisten Sekretaris Lawson...
+
+155
+00:10:36,019 --> 00:10:40,065
+aku dilarang mengobrol
+ketika sedang bertugas.
+
+156
+00:10:40,982 --> 00:10:42,360
+Kita diawasi.
+
+157
+00:10:42,527 --> 00:10:44,654
+Kita selalu diawasi.
+
+158
+00:10:45,404 --> 00:10:47,698
+Kalau begitu, apa gunanya
+merahasiakan sesuatu?
+
+159
+00:10:47,865 --> 00:10:50,451
+Kau mengganggu tugasku.
+Aku tak ingin menembakmu.
+
+160
+00:10:51,995 --> 00:10:54,540
+Sebuah kehormatan jadi orang pertama
+yang kau bunuh.
+
+161
+00:10:57,000 --> 00:10:58,085
+Tunggu.
+
+162
+00:10:58,710 --> 00:10:59,753
+Ada apa?
+
+163
+00:10:59,920 --> 00:11:02,507
+Presiden mengadakan rapat keamanan.
+
+164
+00:11:02,674 --> 00:11:06,594
+Tidak ada di jadwal,
+jadi, kurasa aku bertugas sekarang.
+
+165
+00:11:07,637 --> 00:11:09,681
+Dasimu bagus. Pulang pukul 19.00.
+Aku mencintaimu.
+
+166
+00:11:12,351 --> 00:11:13,352
+Maaf, aku tak dengar.
+
+167
+00:11:13,519 --> 00:11:14,812
+Aku tak bilang apa-apa.
+
+168
+00:11:15,855 --> 00:11:17,439
+Silakan, Pak.
+
+169
+00:11:17,606 --> 00:11:18,774
+Baik, Bu.
+
+170
+00:11:20,902 --> 00:11:21,903
+Ada apa ini?
+
+171
+00:11:22,070 --> 00:11:25,156
+Salah satu satelit termosfer kita
+malafungsi di atas Afganistan.
+
+172
+00:11:25,323 --> 00:11:27,534
+Regu pengintai PBB menemukannya,
+Pak Presiden.
+
+173
+00:11:27,701 --> 00:11:29,620
+Para anggota Dewan Iklim tahu?
+
+174
+00:11:29,787 --> 00:11:31,956
+Ya, mereka sepakat
+merahasiakan insiden ini.
+
+175
+00:11:32,123 --> 00:11:34,500
+Namun, karena banyak orang terlibat,
+kurasa akan terungkap.
+
+176
+00:11:34,667 --> 00:11:36,168
+Yakin ini disebabkan Dutch Boy?
+
+177
+00:11:36,335 --> 00:11:37,461
+Pasti.
+
+178
+00:11:37,629 --> 00:11:40,632
+Apa kita yakin ini insiden terpisah?
+Doktor Quigley?
+
+179
+00:11:40,799 --> 00:11:42,301
+Kami cukup yakin.
+
+180
+00:11:42,759 --> 00:11:44,761
+Senang mendengar kau "cukup yakin".
+
+181
+00:11:44,928 --> 00:11:46,388
+Ini malafungsi serius.
+
+182
+00:11:46,555 --> 00:11:47,724
+Jadi, apa usulmu?
+
+183
+00:11:47,891 --> 00:11:50,184
+Sederhana. Matikan semua
+satelit Asia Tengah...
+
+184
+00:11:50,351 --> 00:11:51,477
+sampai tahu persoalannya.
+
+185
+00:11:51,644 --> 00:11:53,479
+- Kau serius?
+- Ya.
+
+186
+00:11:53,646 --> 00:11:55,815
+Tahu sulitnya menyatukan semua negara
+untuk ini?
+
+187
+00:11:55,982 --> 00:11:57,401
+Kita bekerja keras...
+
+188
+00:11:57,568 --> 00:12:01,238
+untuk memastikan sistem ini
+akan melindungi mereka dan berhasil.
+
+189
+00:12:01,405 --> 00:12:03,157
+Jangan lupa, ini tahun pemilu.
+
+190
+00:12:03,324 --> 00:12:05,535
+Jika Dutch Boy dimatikan,
+media akan meliputnya.
+
+191
+00:12:05,702 --> 00:12:06,536
+Astaga!
+
+192
+00:12:06,661 --> 00:12:08,538
+Tiga ratus orang tewas di desa itu.
+
+193
+00:12:09,164 --> 00:12:12,000
+Siapa peduli soal politik?
+
+194
+00:12:12,584 --> 00:12:14,879
+Lihat, mereka tewas karena kita.
+
+195
+00:12:15,129 --> 00:12:17,632
+Yang perlu dipikirkan ialah
+cara memperbaikinya...
+
+196
+00:12:18,382 --> 00:12:20,009
+dan memastikan tak terulang lagi.
+
+197
+00:12:20,343 --> 00:12:22,219
+Bagaimana caranya?
+
+198
+00:12:26,350 --> 00:12:28,226
+Kita tak bisa berbuat apa-apa.
+
+199
+00:12:29,311 --> 00:12:32,105
+Maksudku, tidak bisa diselesaikan
+di ruang ini...
+
+200
+00:12:32,397 --> 00:12:34,317
+dan jelas bukan oleh kita.
+
+201
+00:12:34,484 --> 00:12:38,112
+Kita butuh regu internasional
+di stasiun itu.
+
+202
+00:12:38,279 --> 00:12:39,530
+Bukan para eksekutif.
+
+203
+00:12:39,697 --> 00:12:41,240
+Teknisi, pembuat program, pembangun...
+
+204
+00:12:41,407 --> 00:12:43,577
+melakukan pemeriksaan
+sistem menyeluruh...
+
+205
+00:12:43,744 --> 00:12:45,913
+tak peduli harganya,
+tak peduli politiknya...
+
+206
+00:12:47,081 --> 00:12:48,916
+kita harus mengirim mereka sekarang.
+
+207
+00:12:50,709 --> 00:12:53,505
+Kita akan menyerahkan wewenang penuh
+atas Dutch Boy...
+
+208
+00:12:53,672 --> 00:12:56,424
+kepada komunitas internasional
+dalam dua minggu.
+
+209
+00:12:56,591 --> 00:12:59,094
+Aku tak mau menyerahkan
+barang rusak.
+
+210
+00:12:59,260 --> 00:13:00,679
+Tidak akan pernah.
+
+211
+00:13:00,930 --> 00:13:05,101
+Jadi, kita selesaikan ini
+secara pribadi...
+
+212
+00:13:05,518 --> 00:13:08,020
+dan kita akan kirim satu orang.
+
+213
+00:13:08,187 --> 00:13:12,818
+Orang kita, yang hanya melapor ke kita
+dan bisa kita kendalikan.
+
+214
+00:13:14,945 --> 00:13:16,363
+Mengerti?
+
+215
+00:13:17,823 --> 00:13:19,157
+Carikan aku orangnya.
+
+216
+00:13:20,952 --> 00:13:21,953
+Sekarang.
+
+217
+00:13:23,287 --> 00:13:24,664
+Baik, Pak.
+
+218
+00:13:25,081 --> 00:13:26,708
+Aku tahu kau tak suka, tetapi...
+
+219
+00:13:26,874 --> 00:13:28,251
+hanya satu orang yang cocok.
+
+220
+00:13:28,711 --> 00:13:29,920
+Kakakmu, Jake.
+
+221
+00:13:30,087 --> 00:13:31,130
+Ayolah, jangan Jake.
+
+222
+00:13:31,296 --> 00:13:32,840
+Tujuh belas negara?
+
+223
+00:13:33,007 --> 00:13:35,718
+Tujuh belas negara mengerjakan Dutch Boy.
+Semua melapor kepadanya.
+
+224
+00:13:35,884 --> 00:13:38,179
+Dia paling mengenal Dutch Boy.
+
+225
+00:13:39,597 --> 00:13:41,683
+Bisa pertimbangkan pilihan lain?
+
+226
+00:13:41,850 --> 00:13:43,435
+Max, sudah berapa lama
+kenal aku?
+
+227
+00:13:44,644 --> 00:13:46,312
+Sejak aku dipindah ke Deplu.
+
+228
+00:13:46,479 --> 00:13:48,274
+Benar. Aku yang memilihmu.
+
+229
+00:13:48,441 --> 00:13:51,485
+Aku percaya kepadamu. Kau cerdas.
+
+230
+00:13:51,777 --> 00:13:53,863
+Dan aku benar tentang dirimu.
+
+231
+00:13:55,156 --> 00:13:57,451
+Aku benar tentang Jake.
+
+232
+00:13:58,160 --> 00:13:59,703
+Jika ini jadi masalah...
+
+233
+00:14:00,537 --> 00:14:01,872
+Tidak, Pak.
+
+234
+00:14:02,247 --> 00:14:03,248
+Bagus.
+
+235
+00:14:21,727 --> 00:14:23,479
+<i>Satelit Afgan 096 datang.</i>
+
+236
+00:14:23,645 --> 00:14:25,273
+STASIUN LUAR ANGKASA INTERNASIONAL IV
+PUSAT PEMELIHARAAN DUTCHBOY
+
+237
+00:14:25,440 --> 00:14:28,318
+<i>Semua awak bersiaplah</i>
+<i>untuk kedatangan satelit Afganistan.</i>
+
+238
+00:14:28,943 --> 00:14:30,945
+<i>Satelit pengganti bersiaga.</i>
+
+239
+00:14:57,475 --> 00:14:59,477
+Satelit Afgan terkunci.
+
+240
+00:14:59,894 --> 00:15:01,605
+Luncurkan satelit pengganti.
+
+241
+00:15:06,110 --> 00:15:08,070
+<i>Satelit 5-A meluncur.</i>
+
+242
+00:15:11,658 --> 00:15:13,451
+<i>Pintu sendat udara tertutup.</i>
+
+243
+00:15:14,160 --> 00:15:16,830
+Periksa semua komponen secara teliti.
+
+244
+00:15:16,996 --> 00:15:17,997
+Prioritas pertama.
+
+245
+00:15:20,960 --> 00:15:23,295
+<i>Melakukan pemeriksaan satelit Afgan.</i>
+
+246
+00:15:29,928 --> 00:15:30,971
+Biar kutangani.
+
+247
+00:15:31,138 --> 00:15:32,848
+Buang tekanan udara
+di saluran bahan bakar.
+
+248
+00:15:32,973 --> 00:15:34,057
+Beres.
+
+249
+00:15:43,234 --> 00:15:44,694
+PEMINDAHAN SELESAI
+
+250
+00:15:55,789 --> 00:15:58,585
+Makmoud. Hei, Makmoud!
+
+251
+00:15:58,751 --> 00:16:01,296
+Aku akan mengalahkan
+nilai tertinggimu.
+
+252
+00:16:01,463 --> 00:16:02,547
+Aku harus buat program.
+
+253
+00:16:02,714 --> 00:16:03,923
+Ayolah!
+
+254
+00:16:05,175 --> 00:16:07,344
+Dia tidak punya rasa memiliki.
+
+255
+00:16:40,923 --> 00:16:44,886
+<i>Harap menjauhi pintu.</i>
+
+256
+00:16:53,145 --> 00:16:57,566
+PANTAI COCOA, FLORIDA
+
+257
+00:17:14,961 --> 00:17:16,212
+Paman Max?
+
+258
+00:17:17,213 --> 00:17:19,632
+Sedang apa di atas situ?
+
+259
+00:17:20,717 --> 00:17:21,927
+Itu generator surya?
+
+260
+00:17:22,094 --> 00:17:25,514
+Generator pelacak matahari poros ganda.
+Menggantikan konverter daya.
+
+261
+00:17:25,806 --> 00:17:27,015
+Astaga!
+
+262
+00:17:27,391 --> 00:17:29,435
+Kau semakin mirip ayahmu.
+
+263
+00:17:29,602 --> 00:17:30,645
+Di mana dia menemukannya?
+
+264
+00:17:31,354 --> 00:17:33,064
+Itu pertanyaan serius?
+
+265
+00:17:33,231 --> 00:17:34,065
+Tentu saja.
+
+266
+00:17:34,232 --> 00:17:36,150
+Dia membuatnya, bukan?
+Kemarilah.
+
+267
+00:17:39,530 --> 00:17:41,115
+Senang bertemu denganmu!
+
+268
+00:17:41,907 --> 00:17:43,993
+- Apa kabar? Kau baik-baik saja?
+- Sangat baik.
+
+269
+00:17:44,159 --> 00:17:45,494
+Ada apa ini?
+
+270
+00:17:45,661 --> 00:17:48,290
+Ini membuatku panik.
+Mestinya kau sembilan tahun.
+
+271
+00:17:48,456 --> 00:17:49,457
+Tiga belas.
+
+272
+00:17:50,083 --> 00:17:51,960
+Mestinya kau bagian dari hidupku...
+
+273
+00:17:52,377 --> 00:17:53,753
+tetapi masalah terjadi.
+
+274
+00:17:53,920 --> 00:17:55,130
+Aduh.
+
+275
+00:17:56,464 --> 00:17:58,843
+Kau tinggal dengan dia sekarang?
+
+276
+00:17:59,594 --> 00:18:01,178
+Selama dua akhir pekan per bulan.
+
+277
+00:18:01,429 --> 00:18:03,931
+Bagus. Bagaimana kabar ibumu?
+
+278
+00:18:05,016 --> 00:18:06,351
+Sangat marah.
+
+279
+00:18:06,518 --> 00:18:07,519
+Pastinya.
+
+280
+00:18:08,228 --> 00:18:09,896
+Hannah, sudah waktunya.
+
+281
+00:18:11,773 --> 00:18:13,150
+Apa kabar, Jake?
+
+282
+00:18:16,696 --> 00:18:19,866
+Hannah, Ayah sudah bilang jangan bicara
+dengan orang asing.
+
+283
+00:18:20,199 --> 00:18:21,618
+Ayo. Jangan dengarkan dia.
+
+284
+00:18:21,784 --> 00:18:23,536
+Ketika kami seusia dirimu...
+
+285
+00:18:23,786 --> 00:18:26,081
+kami sangat akrab sampai punya
+sandi rahasia.
+
+286
+00:18:26,540 --> 00:18:28,000
+- Benar.
+- Sungguh?
+
+287
+00:18:28,208 --> 00:18:29,918
+Aku tidak ingat.
+
+288
+00:18:30,753 --> 00:18:31,795
+Ya, kau ingat.
+
+289
+00:18:31,962 --> 00:18:33,380
+Tidak.
+
+290
+00:18:35,425 --> 00:18:37,260
+Senang melihatmu.
+
+291
+00:18:37,427 --> 00:18:39,929
+Jagalah dirimu.
+
+292
+00:18:51,108 --> 00:18:52,694
+Buat apa suku cadang mobil itu?
+
+293
+00:18:52,861 --> 00:18:57,115
+Aku membuat motor listrik
+untuk pensiunan di Pantai Vero.
+
+294
+00:18:57,282 --> 00:18:58,116
+Membuatku sibuk.
+
+295
+00:18:59,493 --> 00:19:01,412
+Tak sepadan dengan bakatmu.
+
+296
+00:19:02,455 --> 00:19:03,665
+Bercanda?
+
+297
+00:19:03,873 --> 00:19:05,333
+Aku sangat menikmatinya.
+
+298
+00:19:07,335 --> 00:19:09,045
+Masih terlalu pagi untuk miras.
+
+299
+00:19:11,340 --> 00:19:13,676
+Aku dipecat adikku sendiri.
+
+300
+00:19:13,926 --> 00:19:16,345
+Lalu aku kehilangan keluargaku...
+
+301
+00:19:16,512 --> 00:19:18,347
+rumahku, anjingku...
+
+302
+00:19:18,681 --> 00:19:20,475
+di sini jam minum mulai pukul 11.00.
+
+303
+00:19:21,476 --> 00:19:23,561
+Kau sudah bertemu keponakanmu,
+tak mau bir.
+
+304
+00:19:24,521 --> 00:19:25,522
+Jalanan lewat sana.
+
+305
+00:19:28,608 --> 00:19:30,778
+Ada masalah dengan Dutch Boy.
+
+306
+00:19:31,821 --> 00:19:32,822
+Tidak ada.
+
+307
+00:19:33,197 --> 00:19:36,492
+Seisi desa di Afganistan yang tewas
+tak sependapat denganmu.
+
+308
+00:19:37,868 --> 00:19:38,704
+Ya.
+
+309
+00:19:39,079 --> 00:19:42,165
+Lalu kemarin, pintu sendat udara
+terbuka dengan sendirinya.
+
+310
+00:19:42,332 --> 00:19:43,709
+Salah satu awak kami tewas.
+
+311
+00:19:44,751 --> 00:19:46,420
+Dutch Boy bukan urusanku lagi.
+
+312
+00:19:46,586 --> 00:19:48,172
+Itu omong kosong.
+
+313
+00:19:49,006 --> 00:19:51,843
+Karena selain putrimu
+dan klub sepak bolamu...
+
+314
+00:19:52,009 --> 00:19:54,470
+kau hanya peduli Dutch Boy.
+
+315
+00:19:54,637 --> 00:19:55,930
+Ya, dahulu.
+
+316
+00:19:56,639 --> 00:19:58,100
+Namun, kau sudah mengurusnya.
+
+317
+00:19:58,267 --> 00:19:59,643
+Kau tak peduli?
+
+318
+00:19:59,810 --> 00:20:00,936
+Tidak?
+
+319
+00:20:03,188 --> 00:20:05,524
+Lalu kenapa kau tinggal di sini?
+
+320
+00:20:16,036 --> 00:20:18,372
+Aku tahu kau berpikir aku licik...
+
+321
+00:20:18,539 --> 00:20:21,459
+yang kerjanya hanya mengatur orang lain.
+
+322
+00:20:21,625 --> 00:20:23,919
+Coba tebak. Ya, itulah aku.
+
+323
+00:20:24,378 --> 00:20:29,301
+Namun, begitulah caranya agar 17 negara
+sepakat membangun stasiun luar angkasa.
+
+324
+00:20:29,468 --> 00:20:32,053
+Kau ahli membangun, bukan?
+
+325
+00:20:32,220 --> 00:20:34,182
+Ada yang salah dengan ciptaanmu...
+
+326
+00:20:34,348 --> 00:20:36,476
+dan orang-orang tewas.
+
+327
+00:20:36,642 --> 00:20:40,563
+Jika kau pikir kau yang terbaik,
+dan aku tahu itu yang kau pikirkan...
+
+328
+00:20:41,105 --> 00:20:44,443
+lalu kenapa kau menolak?
+
+329
+00:20:46,904 --> 00:20:49,406
+Aku akan menerima perintah
+dari orang lain?
+
+330
+00:20:49,907 --> 00:20:51,033
+Ya.
+
+331
+00:20:52,786 --> 00:20:54,454
+Kau setuju?
+
+332
+00:20:56,331 --> 00:20:59,125
+Asalkan bukan darimu, ya.
+
+333
+00:21:03,964 --> 00:21:09,720
+ICC - MARKAS DEWAN IKLIM PASIFIK
+HONG KONG, CINA
+
+334
+00:21:13,266 --> 00:21:16,228
+NAMA CHENG LONG
+KATA SANDI
+
+335
+00:21:16,394 --> 00:21:18,355
+KEPALA TEKNISI, DIVISI PASIFIK
+AKSES DIBERIKAN
+
+336
+00:21:20,525 --> 00:21:22,860
+AFGANISTAN
+PENGIRIMAN BERHASIL
+
+337
+00:21:30,994 --> 00:21:32,996
+<i>Ini Max. Tinggalkan pesan.</i>
+
+338
+00:21:45,176 --> 00:21:47,888
+Itu bukan tempat untukmu, Kucing.
+
+339
+00:21:54,770 --> 00:21:56,355
+Ada ruang untukku?
+
+340
+00:24:09,920 --> 00:24:13,632
+SUHU DI LUAR
+57°C - 28°C
+
+341
+00:24:14,717 --> 00:24:15,718
+DEWAN IKLIM INTERNASIONAL
+
+342
+00:24:36,658 --> 00:24:37,784
+Baik.
+
+343
+00:24:38,160 --> 00:24:39,578
+Ayah rasa sudah semuanya.
+
+344
+00:24:39,745 --> 00:24:42,998
+Ayah juga menyiapkan bekal makan siang.
+
+345
+00:24:43,165 --> 00:24:45,793
+Ayah dengar
+tentang ledakan gas di Hong Kong?
+
+346
+00:24:45,960 --> 00:24:47,503
+Ya, baru saja di berita.
+
+347
+00:24:47,670 --> 00:24:48,880
+Mengerikan.
+
+348
+00:24:49,046 --> 00:24:51,340
+Kejadiannya seperti di Afganistan?
+
+349
+00:24:51,507 --> 00:24:53,552
+Tak terjadi apa-apa di Afganistan.
+
+350
+00:24:55,137 --> 00:24:56,430
+Ayah kembali ke angkasa luar?
+
+351
+00:24:56,764 --> 00:24:58,432
+- Tidak.
+- Ya, Ayah kembali!
+
+352
+00:24:58,599 --> 00:25:00,350
+Ayah pergi untuk perbaiki Dutch Boy.
+
+353
+00:25:01,268 --> 00:25:03,146
+Sudah Ayah bilang
+jangan suka menguping.
+
+354
+00:25:03,313 --> 00:25:05,190
+Ayah tidak pernah melarangku menguping.
+
+355
+00:25:05,356 --> 00:25:07,025
+Ayah jarang mendidik anak.
+
+356
+00:25:09,277 --> 00:25:10,528
+Dari mana Ayah tahu itu aman?
+
+357
+00:25:10,695 --> 00:25:12,865
+Tentu aman.
+Ayah sudah ke sana seratus kali.
+
+358
+00:25:13,407 --> 00:25:15,951
+Jangan anggap aku anak kecil.
+Ada yang tewas!
+
+359
+00:25:16,118 --> 00:25:17,745
+- Itu kecelakaan.
+- Dia tersedot keluar!
+
+360
+00:25:17,912 --> 00:25:19,705
+Itu kecelakaan.
+
+361
+00:25:20,289 --> 00:25:24,252
+Itulah yang akan Ayah perbaiki.
+Tak perlu khawatir.
+
+362
+00:25:25,128 --> 00:25:28,465
+Anggaplah Ayah pergi berlibur
+satu atau dua minggu.
+
+363
+00:25:30,009 --> 00:25:32,220
+Ke tempat berjarak 402 km di angkasa...
+
+364
+00:25:32,386 --> 00:25:34,680
+dan bersuhu minus 268 derajat Celsius?
+
+365
+00:25:35,139 --> 00:25:36,140
+Liburan indah.
+
+366
+00:25:37,433 --> 00:25:38,643
+Kau benar juga.
+
+367
+00:25:40,813 --> 00:25:42,397
+Kenapa Paman Max memecat Ayah?
+
+368
+00:25:42,564 --> 00:25:43,440
+Sulit dipercaya!
+
+369
+00:25:43,607 --> 00:25:44,525
+Ayah berbuat salah?
+
+370
+00:25:44,691 --> 00:25:47,069
+Tidak, Paman Max dan Ayah...
+
+371
+00:25:47,444 --> 00:25:49,322
+Bukan hanya soal satu pekerjaan.
+
+372
+00:25:49,864 --> 00:25:53,535
+Terkadang, seorang adik
+tidak suka menjadi lebih muda.
+
+373
+00:25:53,701 --> 00:25:55,662
+Mereka jadi sok mengatur, sok tahu.
+
+374
+00:25:55,829 --> 00:25:57,998
+Mereka mengatur
+cara kita bersikap, berbicara...
+
+375
+00:25:58,582 --> 00:26:00,918
+setelah cukup lama,
+kita bosan mendengarkannya.
+
+376
+00:26:01,293 --> 00:26:03,087
+Mungkin Ayah perlu dengarkan.
+
+377
+00:26:08,218 --> 00:26:09,386
+Jemputanku sudah tiba.
+
+378
+00:26:09,553 --> 00:26:10,554
+- Aku harus pergi.
+- Apa?
+
+379
+00:26:10,679 --> 00:26:12,472
+Ayah mau mengantarmu ke bandara.
+
+380
+00:26:12,639 --> 00:26:14,850
+Ayah mau bertemu Ibu? Bagus!
+
+381
+00:26:15,016 --> 00:26:17,019
+Kita bisa pulang ke Atlanta bersama.
+
+382
+00:26:17,687 --> 00:26:18,813
+Sudah kuatasi.
+
+383
+00:26:19,105 --> 00:26:20,648
+Berhentilah pura-pura marah.
+
+384
+00:26:21,190 --> 00:26:23,192
+Hannah, kau mau apa dari Ayah?
+
+385
+00:26:23,359 --> 00:26:25,612
+Aku ingin Ayah pulang hidup-hidup.
+
+386
+00:26:26,697 --> 00:26:29,199
+Namun, Ayah tidak bisa diandalkan.
+
+387
+00:26:33,745 --> 00:26:34,581
+Hei.
+
+388
+00:26:43,006 --> 00:26:45,843
+Ayah tahu Ayah tidak selalu
+menepati janji...
+
+389
+00:26:46,927 --> 00:26:48,679
+tetapi Ayah akan kembali.
+
+390
+00:26:49,847 --> 00:26:51,432
+- Ayah...
+- Berjanji.
+
+391
+00:26:52,892 --> 00:26:54,185
+Ayah berjanji.
+
+392
+00:26:56,646 --> 00:26:57,647
+Kemarilah.
+
+393
+00:27:00,984 --> 00:27:03,362
+Ayah akan segera pulang.
+
+394
+00:27:20,631 --> 00:27:23,134
+CAPE CANAVERAL, FLORIDA
+PUSAT LUAR ANGKASA KENNEDY
+
+395
+00:27:23,301 --> 00:27:28,222
+<i>Satu jam lagi peluncuran OV-104</i>
+<i>dan penumpang siap untuk naik.</i>
+
+396
+00:27:35,898 --> 00:27:38,192
+<i>Satu menit lagi dan menghitung.</i>
+
+397
+00:27:40,654 --> 00:27:42,697
+Semoga selamat sampai tujuan, Pak.
+
+398
+00:28:12,647 --> 00:28:15,191
+<i>Pemisahan roket pendorong dikonfirmasi.</i>
+
+399
+00:28:30,250 --> 00:28:32,377
+Maaf mengganggu, Mayor Tom...
+
+400
+00:28:32,752 --> 00:28:35,756
+<i>tetapi beberapa detik lagi,</i>
+<i>kau akan melihat jaringan.</i>
+
+401
+00:28:35,923 --> 00:28:37,591
+<i>Bagaimana rasanya pulang?</i>
+
+402
+00:29:54,718 --> 00:29:56,595
+Coba lihat dirimu.
+
+403
+00:29:57,221 --> 00:29:59,015
+Hidup dan bernapas.
+
+404
+00:30:04,270 --> 00:30:05,522
+Pak Lawson.
+
+405
+00:30:05,688 --> 00:30:06,523
+Hei.
+
+406
+00:30:06,648 --> 00:30:07,817
+Ute Fassbinder.
+
+407
+00:30:07,983 --> 00:30:09,110
+Senang bertemu denganmu.
+
+408
+00:30:09,276 --> 00:30:10,945
+Ya, aku ingat dirimu.
+
+409
+00:30:11,112 --> 00:30:13,781
+Kau ilmuwan Jerman.
+Kau di sini ketika aku di sini.
+
+410
+00:30:13,948 --> 00:30:14,949
+Termosferis, bukan?
+
+411
+00:30:15,116 --> 00:30:16,117
+Ya.
+
+412
+00:30:17,077 --> 00:30:19,413
+Kerangka penahan butuh perekat baru...
+
+413
+00:30:19,579 --> 00:30:22,124
+tempat saluran APT
+mendorong lewat pipa kerangka.
+
+414
+00:30:22,499 --> 00:30:24,209
+Tidak. Itu salah.
+
+415
+00:30:24,376 --> 00:30:25,460
+Kau dengar itu?
+
+416
+00:30:25,628 --> 00:30:27,004
+- Maaf.
+- Dengar.
+
+417
+00:30:27,463 --> 00:30:28,881
+Suara berdengung itu?
+
+418
+00:30:29,382 --> 00:30:31,342
+Itu trafo penurun tegangan yang buruk.
+
+419
+00:30:31,926 --> 00:30:33,970
+Semua ini harus dijaga, diawasi.
+
+420
+00:30:34,137 --> 00:30:35,931
+- Pak Lawson.
+- Ini bukan salahmu...
+
+421
+00:30:36,098 --> 00:30:38,559
+tetapi saat kutinggal,
+semua berjalan sempurna.
+
+422
+00:30:39,226 --> 00:30:43,689
+Mungkin aku perlu mengajari
+Kepala Ilmuwanmu tentang seni peduli.
+
+423
+00:30:43,856 --> 00:30:46,359
+Akulah Kepala Ilmuwan.
+Aku naik pangkat tahun lalu.
+
+424
+00:30:48,194 --> 00:30:49,612
+Selamat.
+
+425
+00:30:50,947 --> 00:30:53,451
+Salah satu awak kami tewas minggu ini,
+Pak Lawson.
+
+426
+00:30:53,659 --> 00:30:55,536
+Maaf soal trafonya.
+
+427
+00:30:56,871 --> 00:30:59,206
+Mari kuperkenalkan ke regumu.
+
+428
+00:31:04,087 --> 00:31:05,881
+Tentu saja, orang Amerika.
+
+429
+00:31:06,047 --> 00:31:09,176
+Aku dan adikku lahir di Inggris,
+tetapi terima kasih.
+
+430
+00:31:09,342 --> 00:31:12,013
+Namun, ada bendera Amerika di lenganmu...
+
+431
+00:31:12,180 --> 00:31:13,931
+dan pandangan koboi di matamu.
+
+432
+00:31:14,098 --> 00:31:17,018
+Jangan tersinggung.
+Namun, ini situasi serius...
+
+433
+00:31:17,268 --> 00:31:20,188
+dan kami tak mau antek Washington
+datang memerintah kami.
+
+434
+00:31:20,354 --> 00:31:21,273
+Benar, Teman-teman?
+
+435
+00:31:22,232 --> 00:31:23,567
+Kau dapat antek itu...
+
+436
+00:31:23,734 --> 00:31:25,903
+jadi, mari mulai
+dengan nama dan posisi.
+
+437
+00:31:27,529 --> 00:31:29,615
+Adisa, struktural.
+
+438
+00:31:29,781 --> 00:31:33,244
+Duncan Taylor, sistem dan analisis
+sistem operasi dan warga Inggris.
+
+439
+00:31:33,828 --> 00:31:35,955
+Hernandez, robotika.
+
+440
+00:31:37,457 --> 00:31:38,541
+Dussette.
+
+441
+00:31:40,211 --> 00:31:42,505
+Komunikasi satelit dan keamanan.
+
+442
+00:31:42,880 --> 00:31:44,798
+Kau?
+
+443
+00:31:45,466 --> 00:31:47,551
+Ini Pak Jake Lawson.
+
+444
+00:31:49,221 --> 00:31:51,932
+Kau Jake Lawson? Sang Jake Lawson?
+
+445
+00:31:52,390 --> 00:31:55,602
+Kau lebih tua dari yang kubayangkan.
+
+446
+00:31:56,353 --> 00:31:58,606
+Kau terlihat tampan...
+
+447
+00:31:58,773 --> 00:32:00,399
+tetapi penampilan fisikmu...
+
+448
+00:32:00,566 --> 00:32:05,279
+tidak sesuai dengan jumlah waktu hidupmu.
+
+449
+00:32:08,283 --> 00:32:09,368
+Apa aku dipecat?
+
+450
+00:32:11,828 --> 00:32:13,914
+Waktu kita sedikit.
+
+451
+00:32:14,289 --> 00:32:16,834
+Ada tiga situasi untuk diperiksa.
+
+452
+00:32:17,001 --> 00:32:21,256
+Afganistan, ilmuwan yang tewas,
+dan insiden baru di Hong Kong.
+
+453
+00:32:21,422 --> 00:32:24,342
+Hong Kong? Tidak, itu ledakan gas.
+
+454
+00:32:24,509 --> 00:32:25,677
+Kami lihat di televisi.
+
+455
+00:32:25,844 --> 00:32:28,222
+Teruslah percayai itu.
+
+456
+00:32:28,472 --> 00:32:29,848
+Aku, di lain pihak...
+
+457
+00:32:30,015 --> 00:32:33,727
+ingin memecahkan misteri
+dan mencegah kematian lain...
+
+458
+00:32:33,894 --> 00:32:35,689
+jadi, silakan bergabung.
+
+459
+00:32:40,652 --> 00:32:41,736
+Atau tidak.
+
+460
+00:32:45,366 --> 00:32:46,659
+Aku mau tanya.
+
+461
+00:32:46,826 --> 00:32:48,703
+Baiklah, penembak...
+
+462
+00:32:48,869 --> 00:32:51,372
+Presiden dan aku dalam jarak tembak.
+
+463
+00:32:51,539 --> 00:32:53,291
+Kau selamatkan siapa? Aku atau...
+
+464
+00:32:53,457 --> 00:32:54,501
+Presiden.
+
+465
+00:32:55,127 --> 00:32:56,920
+Kau boleh pikirkan sebentar.
+
+466
+00:32:57,087 --> 00:32:58,130
+Maaf.
+
+467
+00:32:58,297 --> 00:32:59,840
+Pekerjaan prioritasku,
+sama sepertimu.
+
+468
+00:33:00,007 --> 00:33:01,550
+Itu tidak benar.
+
+469
+00:33:01,717 --> 00:33:03,636
+Aku punya prioritas dan kau...
+
+470
+00:33:04,053 --> 00:33:06,723
+kau prioritasku.
+
+471
+00:33:06,889 --> 00:33:08,141
+Ayo kita lakukan.
+
+472
+00:33:08,308 --> 00:33:10,310
+Aku mau saja...
+
+473
+00:33:10,476 --> 00:33:12,187
+tetapi kau terus bicara.
+
+474
+00:33:12,896 --> 00:33:15,691
+Kenapa kita harus selalu menyelinap?
+
+475
+00:33:16,275 --> 00:33:18,444
+Ayo, kita lakukan. Mari menikah.
+
+476
+00:33:19,862 --> 00:33:21,113
+Tidak bisa.
+
+477
+00:33:22,198 --> 00:33:24,159
+Itu melanggar aturan.
+
+478
+00:33:24,868 --> 00:33:26,494
+Suatu hari, Sayang.
+
+479
+00:33:33,210 --> 00:33:34,962
+Jawablah teleponmu.
+
+480
+00:33:36,005 --> 00:33:37,840
+Karena prioritasmu pekerjaan.
+
+481
+00:33:38,007 --> 00:33:38,841
+Tidak...
+
+482
+00:33:39,216 --> 00:33:42,721
+Aku akan jawab karena
+aku tak mau teleponnya mengganggu.
+
+483
+00:33:44,014 --> 00:33:45,098
+Paham?
+
+484
+00:33:45,390 --> 00:33:47,809
+Mungkin sekarang
+aku tidak menyelamatkanmu.
+
+485
+00:33:48,894 --> 00:33:49,854
+Ya, halo?
+
+486
+00:33:50,021 --> 00:33:51,272
+Max, ini Cheng.
+
+487
+00:33:51,439 --> 00:33:54,317
+Cheng, katakan kau tidak di Hong Kong.
+
+488
+00:33:54,484 --> 00:33:55,735
+- Cheng?
+<i>- Semalam...</i>
+
+489
+00:33:55,902 --> 00:33:59,073
+Aku ada di situ. Mengerikan.
+Itu alasanku menelepon.
+
+490
+00:33:59,239 --> 00:34:00,574
+<i>Telepon baru aktif kembali.</i>
+
+491
+00:34:00,741 --> 00:34:02,117
+Kau beruntung masih hidup.
+
+492
+00:34:02,284 --> 00:34:05,037
+<i>- Pipa gas?</i>
+- Aku ragu itu penyebabnya.
+
+493
+00:34:05,204 --> 00:34:07,874
+Maksudmu? Aku tak mengerti.
+
+494
+00:34:08,291 --> 00:34:10,168
+<i>Panasnya tak normal</i>
+<i>sebelum pipa meledak.</i>
+
+495
+00:34:10,335 --> 00:34:12,170
+Seharusnya direkam sensor satelit.
+
+496
+00:34:12,337 --> 00:34:15,632
+Sudah kucoba, tetapi aku tak dapat akses
+ke satelit Dutch Boy Hong Kong.
+
+497
+00:34:15,799 --> 00:34:17,218
+Aksesku diblokir.
+
+498
+00:34:17,301 --> 00:34:18,886
+<i>Periksa HoloFrame milikmu.</i>
+
+499
+00:34:19,136 --> 00:34:20,346
+Aneh. Kita punya izin.
+
+500
+00:34:20,429 --> 00:34:21,263
+ISS IV
+MASUK
+
+501
+00:34:21,555 --> 00:34:22,515
+<i>Tepat.</i>
+
+502
+00:34:22,890 --> 00:34:23,766
+AKSES DITOLAK
+
+503
+00:34:23,933 --> 00:34:26,978
+Orang yang dapat memblokirnya
+satu tempat kerja denganmu.
+
+504
+00:34:27,145 --> 00:34:28,939
+Tunggu. Apa maksudmu?
+
+505
+00:34:29,398 --> 00:34:31,525
+Jika ada yang menutupi
+kesalahan sistem...
+
+506
+00:34:31,692 --> 00:34:33,985
+ada potensi kegagalan kritis
+pada skala global.
+
+507
+00:34:34,319 --> 00:34:36,280
+<i>Jika Dutch Boy</i>
+<i>punya kegagalan fatal...</i>
+
+508
+00:34:36,447 --> 00:34:39,409
+bisa terjadi sesuatu yang lebih buruk
+dari bencana yang kita coba cegah...
+
+509
+00:34:39,492 --> 00:34:40,660
+<i>disebut badai bumi.</i>
+
+510
+00:34:40,743 --> 00:34:44,122
+Apa? Pelan-pelan, Cheng. Apa?
+
+511
+00:34:44,288 --> 00:34:45,582
+Badai bumi.
+
+512
+00:34:45,749 --> 00:34:48,961
+Bencana cuaca terjadi bersamaan
+di seluruh dunia.
+
+513
+00:34:49,336 --> 00:34:52,756
+<i>Sesudah permulaan minimum,</i>
+<i>badai akan memicu badai baru...</i>
+
+514
+00:34:52,923 --> 00:34:55,552
+<i>seperti reaksi berantai,</i>
+<i>sampai mereka menyatu.</i>
+
+515
+00:34:55,719 --> 00:34:57,220
+Pasti ada kesalahan.
+
+516
+00:34:57,470 --> 00:34:59,097
+<i>Kutelepon jika ada kabar.</i>
+
+517
+00:34:59,264 --> 00:35:01,558
+Baik. Terima kasih.
+
+518
+00:35:05,229 --> 00:35:07,565
+<i>Sudah lama pipa-pipa ini</i>
+<i>tak dirawat atau diperbarui.</i>
+
+519
+00:35:07,648 --> 00:35:08,649
+PIPA GAS
+PENYEBAB LEDAKAN HONG KONG
+
+520
+00:35:10,860 --> 00:35:13,864
+Cheng berpikir peristiwa Hong Kong
+ada kaitan dengan Dutch Boy.
+
+521
+00:35:14,030 --> 00:35:16,408
+Dia bilang ada yang menutupinya.
+
+522
+00:35:16,575 --> 00:35:18,952
+Aku dapat SMS dan Presiden
+mendadak minta rapat.
+
+523
+00:35:19,911 --> 00:35:21,121
+Kau tak bisa tinggal?
+
+524
+00:35:21,539 --> 00:35:23,583
+Begitu pekerjaan memanggil,
+aku harus datang.
+
+525
+00:35:23,750 --> 00:35:26,377
+"Baik hujan, salju,
+maupun gelapnya malam." Benar?
+
+526
+00:35:26,544 --> 00:35:28,296
+Sayang, itu slogan Kantor Pos.
+
+527
+00:35:28,463 --> 00:35:31,300
+Kami Dinas Rahasia.
+
+528
+00:35:31,467 --> 00:35:33,343
+Oh, berbeda? Sungguh?
+
+529
+00:35:34,762 --> 00:35:36,263
+Aku tidak tahu itu.
+
+530
+00:36:02,709 --> 00:36:04,503
+Periksa semuanya.
+
+531
+00:36:05,879 --> 00:36:07,589
+Selidiki yang dia ketahui.
+
+532
+00:36:20,604 --> 00:36:22,689
+Ambil laptopnya. Ayo.
+
+533
+00:36:25,025 --> 00:36:29,280
+Satelit yang bermasalah di Afganistan
+tipe apa?
+
+534
+00:36:29,447 --> 00:36:33,409
+Favoritku. Kusebut "rock 'n' roll".
+
+535
+00:36:34,369 --> 00:36:35,996
+SR-22.
+
+536
+00:36:36,163 --> 00:36:40,167
+Memakai gelombang sonik untuk memperlambat
+gerakan sehingga mendinginkan...
+
+537
+00:36:40,334 --> 00:36:42,628
+tetapi, dalam kasus itu, membekukan.
+Kenapa?
+
+538
+00:36:42,795 --> 00:36:44,672
+Entahlah. Kami periksa data satelit...
+
+539
+00:36:44,840 --> 00:36:46,842
+tetapi catatannya dihapus
+oleh malafungsi.
+
+540
+00:36:47,634 --> 00:36:50,804
+Tampilkan semua satelit "rock 'n' roll"...
+
+541
+00:36:50,971 --> 00:36:53,933
+cari apakah ada kesalahan
+dalam catatan mereka.
+
+542
+00:36:54,100 --> 00:36:55,977
+Tampilkan semua "rock 'n' roll"
+di jaringan.
+
+543
+00:36:56,143 --> 00:36:58,145
+Pasti lebih dari seribu.
+
+544
+00:36:58,896 --> 00:37:01,107
+Tepatnya 1.270.
+
+545
+00:37:01,274 --> 00:37:03,944
+Kita akan periksa semuanya
+satu per satu.
+
+546
+00:37:12,035 --> 00:37:14,372
+Dana. Hei.
+
+547
+00:37:15,665 --> 00:37:17,166
+Sedang apa di sini?
+
+548
+00:37:17,333 --> 00:37:18,710
+Maksudmu?
+
+549
+00:37:18,877 --> 00:37:21,296
+Aku bekerja di sini. Aku atasanmu.
+
+550
+00:37:21,462 --> 00:37:23,382
+Kenapa turun dari Gunung Olimpus...
+
+551
+00:37:23,549 --> 00:37:25,342
+dan mengunjungiku di Desa Milenial?
+
+552
+00:37:25,885 --> 00:37:29,054
+Aku ingin minta tolong.
+
+553
+00:37:29,221 --> 00:37:31,182
+Kau yang terbaik di bidangmu.
+
+554
+00:37:31,349 --> 00:37:33,184
+Namun, tolong rahasiakan ini.
+
+555
+00:37:34,019 --> 00:37:35,145
+Baik.
+
+556
+00:37:36,688 --> 00:37:38,732
+HoloFrame milikku bermasalah.
+
+557
+00:37:38,899 --> 00:37:40,651
+Apa aku seperti dukungan teknis?
+
+558
+00:37:41,152 --> 00:37:44,071
+Maaf. Aku di sini melindungi
+dunia bebas dari...
+
+559
+00:37:44,238 --> 00:37:45,489
+peretas dan teroris internet...
+
+560
+00:37:45,615 --> 00:37:47,950
+tetapi kau butuh bantuan
+memperbaiki telepon.
+
+561
+00:37:48,200 --> 00:37:52,289
+Aku sulit mengakses satelit G-22
+di atas Hong Kong.
+
+562
+00:37:52,456 --> 00:37:54,082
+Komunikasi satelit bermasalah.
+Itu biasa.
+
+563
+00:37:54,249 --> 00:37:57,210
+Tidak, bukan sebuah satelit.
+
+564
+00:37:58,337 --> 00:37:59,964
+Semuanya.
+
+565
+00:38:00,256 --> 00:38:01,341
+Oh.
+
+566
+00:38:03,593 --> 00:38:05,845
+Aku sedikit tertarik. Tunggu.
+
+567
+00:38:09,642 --> 00:38:10,476
+MENGHUBUNGI KLIEN...
+
+568
+00:38:10,559 --> 00:38:11,393
+Baik.
+
+569
+00:38:13,938 --> 00:38:17,776
+Sepertinya gangguan saluran biasa...
+
+570
+00:38:17,943 --> 00:38:21,029
+relai server yang buruk,
+kegagalan modem, atau apalah.
+
+571
+00:38:21,655 --> 00:38:23,281
+Masih mengencani gadis Dinas Rahasia?
+
+572
+00:38:23,448 --> 00:38:25,533
+Apa? Tidak.
+
+573
+00:38:26,410 --> 00:38:28,704
+Aku tidak mengencani siapa pun.
+
+574
+00:38:29,205 --> 00:38:30,039
+Baiklah.
+
+575
+00:38:32,917 --> 00:38:34,752
+Tunggu, lihat. Astaga.
+
+576
+00:38:35,378 --> 00:38:39,049
+Ada yang memblokir aksesmu
+tanpa kau tahu itu disengaja.
+
+577
+00:38:39,508 --> 00:38:40,801
+Namun, ini...
+
+578
+00:38:40,968 --> 00:38:43,845
+Ini sangat disengaja,
+dan ini sangat pintar.
+
+579
+00:38:45,014 --> 00:38:46,641
+Aku tahu kau mau bilang apa.
+
+580
+00:38:46,808 --> 00:38:48,810
+"Jangan beri tahu siapa pun."
+Tentu tidak.
+
+581
+00:38:48,977 --> 00:38:50,979
+Namun, aku tidak mau terus
+di belakang meja.
+
+582
+00:38:51,145 --> 00:38:54,441
+Apa pun yang terjadi,
+aku ingin terlibat aksi.
+
+583
+00:38:54,608 --> 00:38:57,569
+Semoga tidak ada aksi.
+
+584
+00:38:58,195 --> 00:38:59,446
+Dan ya...
+
+585
+00:38:59,780 --> 00:39:01,615
+Jangan beri tahu siapa pun.
+
+586
+00:39:06,079 --> 00:39:10,083
+Nona Fassbinder,
+ada permintaan komunikasi.
+
+587
+00:39:10,625 --> 00:39:11,751
+Dari Komando Iklim?
+
+588
+00:39:11,918 --> 00:39:13,129
+Gedung Putih.
+
+589
+00:39:22,305 --> 00:39:24,599
+Orang-orang bodoh mana
+yang mewakili Washington?
+
+590
+00:39:24,766 --> 00:39:26,768
+<i>Aku kepala orang-orang bodoh itu.</i>
+
+591
+00:39:32,400 --> 00:39:33,401
+Halo, Semua.
+
+592
+00:39:33,568 --> 00:39:37,113
+<i>Max bilang kau tidak menyukai politikus.</i>
+
+593
+00:39:37,280 --> 00:39:38,948
+Aku tidak bilang begitu.
+
+594
+00:39:39,115 --> 00:39:40,199
+<i>Aku juga tidak.</i>
+
+595
+00:39:40,367 --> 00:39:43,162
+<i>Kita bersusah payah agar dunia</i>
+<i>mendukung program ini.</i>
+
+596
+00:39:43,328 --> 00:39:46,123
+<i>Kita tidak boleh gagal.</i>
+
+597
+00:39:46,874 --> 00:39:49,836
+<i>Kita mengerti kenapa</i>
+<i>itu tidak boleh terjadi.</i>
+
+598
+00:39:50,003 --> 00:39:51,171
+Ya, Pak.
+
+599
+00:39:51,588 --> 00:39:54,049
+Jika ada kesalahan,
+akan segera kulaporkan.
+
+600
+00:39:54,215 --> 00:39:56,593
+<i>Kau akan melapor kepada Max.</i>
+
+601
+00:39:57,052 --> 00:39:58,219
+<i>Semoga berhasil.</i>
+
+602
+00:39:58,386 --> 00:40:00,139
+<i>Silakan.</i>
+
+603
+00:40:00,473 --> 00:40:01,932
+Terima kasih, Pak.
+
+604
+00:40:04,560 --> 00:40:07,480
+Kutinggal kalian. Jika butuh sesuatu,
+aku di kantor.
+
+605
+00:40:07,897 --> 00:40:09,274
+Terima kasih.
+
+606
+00:40:10,358 --> 00:40:12,069
+Aku melapor kepadamu?
+
+607
+00:40:13,236 --> 00:40:14,321
+Kau bohong.
+
+608
+00:40:14,488 --> 00:40:15,655
+<i>Lagi.</i>
+
+609
+00:40:15,822 --> 00:40:18,951
+Aku hanya tidak menjawab
+tuntutan konyolmu.
+
+610
+00:40:19,535 --> 00:40:20,703
+Bagaimana cara mematikan ini?
+
+611
+00:40:20,828 --> 00:40:22,705
+<i>Ada yang perlu kau ketahui.</i>
+
+612
+00:40:22,872 --> 00:40:26,919
+<i>Kami kesulitan mengakses</i>
+<i>komunikasi satelit Dutch Boy.</i>
+
+613
+00:40:28,003 --> 00:40:29,713
+Kami punya alasan untuk percaya...
+
+614
+00:40:30,422 --> 00:40:31,882
+Mungkin ini bukan kecelakaan.
+
+615
+00:40:33,634 --> 00:40:35,094
+Mungkin bukan kecelakaan?
+
+616
+00:40:35,260 --> 00:40:37,931
+Aku sudah berusaha mengakses
+satelit Hong Kong.
+
+617
+00:40:38,264 --> 00:40:41,017
+Sudah kuduga!
+
+618
+00:40:41,184 --> 00:40:42,435
+Menurutmu mungkin?
+
+619
+00:40:42,602 --> 00:40:44,979
+Ya. Mungkin.
+
+620
+00:40:45,815 --> 00:40:48,400
+Meski kau berhasil mengakses
+satelit Hong Kong...
+
+621
+00:40:48,567 --> 00:40:50,569
+kau takkan menemukan
+catatan yang kau cari.
+
+622
+00:40:50,736 --> 00:40:54,574
+Kita harus dapatkan informasi itu
+dari satelit di sini.
+
+623
+00:40:54,741 --> 00:40:56,785
+Aku bisa izinkan itu.
+
+624
+00:40:57,619 --> 00:40:59,412
+Aku tak perlu izinmu.
+
+625
+00:40:59,579 --> 00:41:01,665
+Aku yakin itu menakutkan bagimu...
+
+626
+00:41:01,832 --> 00:41:05,628
+tetapi percaya saja kepadaku,
+dan bilang terima kasih.
+
+627
+00:41:05,795 --> 00:41:07,338
+Oh, aku percaya kepadamu.
+
+628
+00:41:07,505 --> 00:41:09,632
+<i>Ingat pertama kali</i>
+<i>aku menebusmu dari penjara?</i>
+
+629
+00:41:09,799 --> 00:41:11,634
+Ya ampun!
+
+630
+00:41:11,801 --> 00:41:14,221
+Satu minggu setelah Ayah dan Ibu mati.
+
+631
+00:41:14,388 --> 00:41:16,098
+Kau ditangkap karena berkelahi.
+
+632
+00:41:16,265 --> 00:41:19,268
+<i>Saat itulah kusadari</i>
+<i>apa pun yang kualami...</i>
+
+633
+00:41:19,434 --> 00:41:21,854
+<i>aku harus bertanggung jawab untukmu.</i>
+
+634
+00:41:23,523 --> 00:41:25,900
+Baiklah. Memang begitu keadaannya.
+
+635
+00:41:26,067 --> 00:41:28,319
+<i>Aku tak punya pilihan</i>
+<i>selain mengandalkanmu.</i>
+
+636
+00:41:28,486 --> 00:41:31,574
+Namun, jika kau mengizinkan sesuatu
+tanpa persetujuanku...
+
+637
+00:41:32,449 --> 00:41:34,785
+kau akan langsung kupulangkan.
+
+638
+00:41:39,832 --> 00:41:42,294
+<i>Transmisi berakhir.</i>
+
+639
+00:41:46,256 --> 00:41:49,927
+<i>Satelit Hong Kong 022</i>
+<i>datang untuk pemeriksaan.</i>
+
+640
+00:41:55,808 --> 00:41:57,518
+Baiklah.
+
+641
+00:41:57,685 --> 00:41:59,813
+Ayo periksa
+dan selidiki kejadian Hong Kong.
+
+642
+00:41:59,980 --> 00:42:01,315
+Turunkan.
+
+643
+00:42:02,274 --> 00:42:04,484
+Seharusnya sudah turun.
+
+644
+00:42:06,612 --> 00:42:07,529
+Apa itu?
+
+645
+00:42:07,696 --> 00:42:09,324
+Entahlah.
+
+646
+00:42:12,035 --> 00:42:13,828
+- Matikan.
+- Tidak merespons.
+
+647
+00:42:13,995 --> 00:42:15,163
+Hernandez!
+
+648
+00:42:16,414 --> 00:42:17,290
+Merunduk!
+
+649
+00:42:19,919 --> 00:42:21,462
+Pergi dari sini! Pergi!
+
+650
+00:42:23,839 --> 00:42:25,674
+Buka pintunya!
+
+651
+00:42:28,845 --> 00:42:29,888
+Awas!
+
+652
+00:42:30,055 --> 00:42:31,014
+Sial!
+
+653
+00:42:50,160 --> 00:42:52,329
+Pungut setiap puingnya...
+
+654
+00:42:52,496 --> 00:42:54,958
+dan bawa ke manufaktur.
+
+655
+00:43:10,557 --> 00:43:12,810
+Pikirmu kita bisa ambil catatan
+dari diska keras?
+
+656
+00:43:12,977 --> 00:43:16,022
+Kecelakaan menciptakan arus pendek
+dan membakar semua diska.
+
+657
+00:43:16,189 --> 00:43:17,857
+Lihatlah. Rusak.
+
+658
+00:43:18,024 --> 00:43:20,694
+Jadi, semua diska yang menyimpan
+catatan telah rusak?
+
+659
+00:43:21,486 --> 00:43:22,488
+Tidak semuanya.
+
+660
+00:43:23,072 --> 00:43:24,407
+Maksudmu?
+
+661
+00:43:24,573 --> 00:43:28,536
+Aku mengamati video
+kecelakaan Makmoud darimu.
+
+662
+00:43:31,498 --> 00:43:34,209
+Setiap panel yang meledak
+punya sebuah diska di dalamnya.
+
+663
+00:43:36,753 --> 00:43:40,215
+Salah satunya tersangkut
+di menara komunikasi.
+
+664
+00:43:46,597 --> 00:43:48,599
+Penguncinya masih terpasang.
+
+665
+00:43:49,183 --> 00:43:52,396
+Jika beruntung, diska yang rusak
+masih di dalam.
+
+666
+00:43:52,855 --> 00:43:54,732
+Kita harus dapatkan panel itu.
+
+667
+00:43:59,194 --> 00:44:00,155
+Ya, halo?
+
+668
+00:44:00,613 --> 00:44:02,907
+Aku baru tiba di DC.
+Kita harus bertemu.
+
+669
+00:44:03,074 --> 00:44:04,284
+Aku tahu semuanya.
+
+670
+00:44:04,451 --> 00:44:07,954
+Temui aku pukul 10.00 di seberang
+alun-alun tempat kita biasa makan siang.
+
+671
+00:44:08,121 --> 00:44:09,165
+<i>Ketika kuliah.</i>
+
+672
+00:44:09,332 --> 00:44:11,667
+Baik. Aku akan datang.
+
+673
+00:44:14,253 --> 00:44:15,796
+<i>Siap untuk dekompresi.</i>
+
+674
+00:44:24,598 --> 00:44:26,725
+Pintu terbuka, Anak-anak.
+
+675
+00:44:26,892 --> 00:44:28,686
+Kau aman untuk keluar.
+
+676
+00:44:29,604 --> 00:44:32,398
+<i>Lewati ambang gravitasi</i>
+<i>dan ikuti aku.</i>
+
+677
+00:44:32,565 --> 00:44:35,526
+<i>Ayo ambil panel itu,</i>
+<i>lihat isi diskanya.</i>
+
+678
+00:44:38,614 --> 00:44:40,115
+Baik.
+
+679
+00:44:52,420 --> 00:44:54,380
+<i>Itu panelnya.</i>
+
+680
+00:45:01,055 --> 00:45:02,598
+<i>Tunggu.</i>
+
+681
+00:45:04,226 --> 00:45:07,646
+<i>Kami merancang menaranya</i>
+<i>untuk pemisahan darurat...</i>
+
+682
+00:45:07,813 --> 00:45:10,065
+<i>agar jerujinya mudah digerakkan.</i>
+
+683
+00:45:20,910 --> 00:45:22,663
+<i>Kendali, panel sudah aman.</i>
+
+684
+00:45:22,830 --> 00:45:23,789
+<i>Diterima.</i>
+
+685
+00:45:23,956 --> 00:45:25,999
+Kembalilah, Anak-anak. Kembali.
+
+686
+00:45:26,500 --> 00:45:28,460
+<i>Kami dalam perjalanan kembali.</i>
+
+687
+00:45:36,845 --> 00:45:38,388
+<i>Jake, ada apa?</i>
+
+688
+00:45:39,180 --> 00:45:40,640
+<i>Aku tidak tahu!</i>
+
+689
+00:45:44,436 --> 00:45:46,355
+<i>Jake? Jake!</i>
+
+690
+00:45:46,522 --> 00:45:48,858
+<i>Aku tak bisa kendalikan kostumnya!</i>
+
+691
+00:45:49,024 --> 00:45:51,111
+- Ada apa?
+- Kostumnya malafungsi.
+
+692
+00:45:51,278 --> 00:45:53,488
+- Jake, kau dengar?
+- Duncan, suruh dia putuskan.
+
+693
+00:45:53,655 --> 00:45:55,365
+Jake, putuskan selang bahan bakar.
+
+694
+00:45:55,532 --> 00:45:57,075
+<i>Tidak merespons!</i>
+
+695
+00:46:09,798 --> 00:46:10,841
+<i>Bertahanlah, Jake.</i>
+
+696
+00:46:15,179 --> 00:46:16,805
+<i>Aku tak bisa menahannya.</i>
+
+697
+00:46:17,974 --> 00:46:20,143
+<i>Lepaskan pendorongmu!</i>
+
+698
+00:46:32,781 --> 00:46:34,825
+Kita akan kehilangan dia!
+
+699
+00:46:53,137 --> 00:46:54,263
+Kau tidak apa-apa?
+
+700
+00:46:55,432 --> 00:46:56,558
+Ya.
+
+701
+00:47:00,187 --> 00:47:01,146
+Kau dapat diskanya?
+
+702
+00:47:01,313 --> 00:47:02,898
+Kuambil saat melepaskan panel.
+
+703
+00:47:08,321 --> 00:47:11,616
+Kau merusak satu lusin
+saluran komunikasi, sensor TCAS...
+
+704
+00:47:13,786 --> 00:47:15,621
+Aku baik-baik saja, terima kasih.
+
+705
+00:47:15,788 --> 00:47:17,122
+Apa yang terjadi?
+
+706
+00:47:17,289 --> 00:47:18,415
+Propulsinya terkunci.
+
+707
+00:47:18,582 --> 00:47:22,336
+Panel pintunya hilang,
+berarti diskanya tidak ada.
+
+708
+00:47:22,503 --> 00:47:24,214
+Kembali ke awal.
+
+709
+00:47:25,507 --> 00:47:27,592
+Bagus.
+
+710
+00:47:29,970 --> 00:47:32,014
+Kenapa tak beri tahu mereka
+tentang diska itu?
+
+711
+00:47:32,181 --> 00:47:34,350
+Karena ada yang ingin membunuhku.
+
+712
+00:47:34,517 --> 00:47:35,977
+Kukenal awakku.
+Kupercayai mereka.
+
+713
+00:47:36,143 --> 00:47:37,895
+Pikirmu kau kenal mereka.
+
+714
+00:47:38,062 --> 00:47:40,564
+Ada yang tidak ingin
+kita tahu isi diska ini.
+
+715
+00:47:42,567 --> 00:47:44,611
+Jake, tidak ada kesalahan di sini.
+
+716
+00:47:44,778 --> 00:47:47,906
+Pintunya bukan meledak tanpa sengaja,
+melainkan diprogram.
+
+717
+00:00:04,000 --> 00:00:22,000
+vi p 2 1.e u. o r g
+
+718
+00:47:48,073 --> 00:47:49,449
+- Ini bukan malafungsi.
+- Tidak.
+
+719
+00:47:49,616 --> 00:47:52,078
+Ada yang sengaja membunuh Makmoud.
+
+720
+00:47:52,495 --> 00:47:55,498
+Pasti orang sama yang merusak
+satelit Hong Kong.
+
+721
+00:47:55,999 --> 00:47:58,251
+Login pengguna dihapus.
+
+722
+00:47:58,418 --> 00:48:00,337
+Tidak ada sidik jari digital.
+
+723
+00:48:00,504 --> 00:48:02,673
+Tidak. Itu yang mereka pikir.
+
+724
+00:48:04,049 --> 00:48:07,219
+Catatan login dikirim ke kerangka utama.
+
+725
+00:48:07,386 --> 00:48:08,470
+Namun, itu masalahnya.
+
+726
+00:48:08,637 --> 00:48:10,390
+Jika dihapus di satu tempat,
+semua terhapus.
+
+727
+00:48:11,016 --> 00:48:12,309
+Hanya yang mereka ketahui.
+
+728
+00:48:12,475 --> 00:48:15,687
+Ketika membangun Dutch Boy,
+kami membuat pustaka tertutup.
+
+729
+00:48:15,854 --> 00:48:18,190
+Yang bisa melacak
+dan menyimpan segalanya.
+
+730
+00:48:18,357 --> 00:48:22,361
+Informasi login pelaku pasti ada di situ.
+
+731
+00:48:22,528 --> 00:48:24,322
+TIDAK ADA KESALAHAN
+ALAT ATAU ALAMAT TIDAK DITEMUKAN
+
+732
+00:48:25,614 --> 00:48:26,574
+Tidak.
+
+733
+00:48:26,741 --> 00:48:27,617
+KUNCI DITOLAK
+
+734
+00:48:27,784 --> 00:48:28,785
+Kau diblokir.
+
+735
+00:48:31,663 --> 00:48:33,123
+Oleh siapa?
+
+736
+00:48:39,422 --> 00:48:40,882
+Ruang konferensi virtual.
+
+737
+00:48:41,341 --> 00:48:43,259
+Berapa banyak yang punya akses
+ke transmisi itu?
+
+738
+00:48:43,343 --> 00:48:45,595
+Semua yang punya
+akses tingkat tiga dan ke atas.
+
+739
+00:48:45,762 --> 00:48:47,931
+Lusinan orang.
+
+740
+00:48:50,809 --> 00:48:52,019
+Max.
+
+741
+00:48:52,770 --> 00:48:54,605
+- Max.
+- Apa?
+
+742
+00:48:55,106 --> 00:48:57,609
+Tenang. Dia akan datang.
+
+743
+00:48:58,151 --> 00:48:59,778
+Sungguh? Aku terlihat gugup?
+
+744
+00:49:00,153 --> 00:49:01,279
+Sedikit.
+
+745
+00:49:04,157 --> 00:49:05,368
+Dia di sini.
+
+746
+00:49:05,701 --> 00:49:07,036
+Dia di sini?
+
+747
+00:49:17,130 --> 00:49:19,049
+Tidak! Tidak!
+
+748
+00:49:19,383 --> 00:49:20,842
+Cheng! Astaga!
+
+749
+00:49:21,009 --> 00:49:21,885
+Tidak!
+
+750
+00:49:22,052 --> 00:49:25,098
+Ini Agen Wilson.
+Aku butuh ambulans.
+
+751
+00:49:25,264 --> 00:49:26,599
+- Dupont Circle.
+- Max...
+
+752
+00:49:26,766 --> 00:49:28,434
+<i>Agen Wilson, ambulans dikirim.</i>
+
+753
+00:49:43,701 --> 00:49:44,994
+Aku di sini.
+
+754
+00:49:45,161 --> 00:49:46,996
+Aku di sini. Lihat aku.
+
+755
+00:49:47,163 --> 00:49:50,250
+Zeus.
+
+756
+00:49:50,417 --> 00:49:51,877
+Apa?
+
+757
+00:50:02,180 --> 00:50:04,266
+<i>Konferensi virtual dimulai.</i>
+
+758
+00:50:04,433 --> 00:50:07,185
+Max? Kau baik-baik saja?
+
+759
+00:50:07,352 --> 00:50:09,439
+Mereka bilang darurat. Ada apa?
+
+760
+00:50:09,856 --> 00:50:11,190
+Ya.
+
+761
+00:50:12,233 --> 00:50:15,611
+Aku ingin minta maaf.
+
+762
+00:50:15,987 --> 00:50:17,029
+Minta maaf?
+
+763
+00:50:19,450 --> 00:50:21,618
+Andai kau tahu aku dari mana...
+
+764
+00:50:21,785 --> 00:50:24,538
+Kau menyuruhku kemari
+hanya untuk minta maaf?
+
+765
+00:50:25,998 --> 00:50:27,541
+<i>Baiklah.</i>
+
+766
+00:50:27,709 --> 00:50:29,002
+Aku maafkan.
+
+767
+00:50:29,169 --> 00:50:31,379
+Max, kita tidak saling meninggalkan.
+
+768
+00:50:31,963 --> 00:50:34,924
+Itu kode tak terucapkan
+antara saudara.
+
+769
+00:50:45,144 --> 00:50:47,689
+<i>Ingat ketika</i>
+<i>Ayah mengajak kita memancing?</i>
+
+770
+00:50:47,856 --> 00:50:50,775
+Ponselnya jatuh di Key Biscayne.
+
+771
+00:50:52,986 --> 00:50:55,656
+Bukti keluarga Lawson
+tidak pandai memancing.
+
+772
+00:50:57,200 --> 00:50:58,242
+<i>Empat jam...</i>
+
+773
+00:50:58,409 --> 00:51:00,411
+kita bertiga tak menangkap apa pun.
+
+774
+00:51:02,288 --> 00:51:06,210
+Kucoba menyabotase pancingan Ayah
+agar kita bisa pergi.
+
+775
+00:51:07,377 --> 00:51:10,714
+Jarum pada bagian tertinggi sepul...
+
+776
+00:51:10,881 --> 00:51:14,052
+<i>kutarik agar penyeimbangnya copot.</i>
+
+777
+00:51:14,969 --> 00:51:18,932
+Ayah mata-mata pemerintah,
+jadi, tentu saja aku ketahuan.
+
+778
+00:51:21,434 --> 00:51:26,106
+"Percayalah," kata Ayah.
+"Ayah paham. Tak ada yang suka gagal.
+
+779
+00:51:27,316 --> 00:51:31,320
+<i>"Namun, lebih baik Ayah tak menangkap ikan</i>
+<i>bersama keluarga...</i>
+
+780
+00:51:32,531 --> 00:51:34,449
+<i>"ketimbang dapat 20 ikan sendirian."</i>
+
+781
+00:51:36,451 --> 00:51:39,204
+Aku tak mengerti maksudnya waktu itu.
+
+782
+00:51:42,583 --> 00:51:43,751
+Namun, kini aku paham.
+
+783
+00:51:45,586 --> 00:51:46,671
+<i>Jaga dirimu, Max.</i>
+
+784
+00:51:47,713 --> 00:51:49,465
+Akhiri transmisi.
+
+785
+00:51:50,842 --> 00:51:52,970
+<i>Transmisi berakhir.</i>
+
+786
+00:51:56,181 --> 00:51:57,307
+Apa itu tadi?
+
+787
+00:51:59,309 --> 00:52:02,355
+Itu percakapan baik kami
+yang pertama sejak lama.
+
+788
+00:52:13,284 --> 00:52:15,077
+- Hei.
+- Astaga!
+
+789
+00:52:15,578 --> 00:52:16,579
+Tenanglah.
+
+790
+00:52:16,745 --> 00:52:17,830
+Apa?
+
+791
+00:52:18,122 --> 00:52:19,332
+Ada waktu?
+
+792
+00:52:19,541 --> 00:52:21,209
+Ya! Ada. Aku terima pesanmu.
+
+793
+00:52:21,376 --> 00:52:22,377
+Astaga.
+
+794
+00:52:23,545 --> 00:52:25,380
+Barbie Dinas Rahasia mencampakkanmu?
+
+795
+00:52:25,714 --> 00:52:27,549
+Aku ingin perlihatkan sesuatu.
+
+796
+00:52:29,468 --> 00:52:30,720
+Coba lihat ini.
+
+797
+00:52:32,054 --> 00:52:34,765
+<i>Ingat ketika</i>
+<i>Ayah mengajak kita memancing?</i>
+
+798
+00:52:34,932 --> 00:52:37,644
+<i>Ponselnya jatuh di Key Biscayne.</i>
+
+799
+00:52:41,315 --> 00:52:44,192
+Ayah kami tak pernah
+mengajak kami memancing.
+
+800
+00:52:46,738 --> 00:52:47,780
+Menyedihkan.
+
+801
+00:52:49,907 --> 00:52:51,200
+Maaf.
+
+802
+00:52:51,367 --> 00:52:53,661
+Aku tak pandai dalam
+"membicarakan masalah dengan ayah..."
+
+803
+00:52:53,745 --> 00:52:54,996
+antara teman. Aku...
+
+804
+00:52:55,371 --> 00:52:58,000
+Apa? Tidak...
+
+805
+00:52:58,208 --> 00:52:59,585
+Itu sebuah kode.
+
+806
+00:53:02,004 --> 00:53:04,548
+"Ponselnya jatuh di Key Biscayne."
+
+807
+00:53:05,383 --> 00:53:07,052
+Nomor ponselnya adalah kuncinya.
+
+808
+00:53:09,179 --> 00:53:10,680
+Coba lihat angka-angkanya.
+
+809
+00:53:10,847 --> 00:53:13,558
+Ini angka pertama untuk kata pertama.
+
+810
+00:53:13,725 --> 00:53:15,895
+Angka kedua, sembilan,
+kata kesembilan.
+
+811
+00:53:16,062 --> 00:53:16,896
+Itu kata keduamu.
+
+812
+00:53:17,063 --> 00:53:18,189
+Angka ketiga, sembilan lagi.
+
+813
+00:53:18,272 --> 00:53:20,941
+Sembilan lagi, lompati.
+Lalu 9, 2, 9, 5...
+
+814
+00:53:21,108 --> 00:53:24,237
+dan seterusnya sampai
+kau dapat pesan yang berbeda.
+
+815
+00:53:24,863 --> 00:53:26,990
+Siapa pencipta kode sandi ini,
+anak 12 tahun?
+
+816
+00:53:27,741 --> 00:53:30,285
+Tidak. Saat aku 13 tahun.
+
+817
+00:53:32,037 --> 00:53:33,748
+Baik.
+
+818
+00:53:33,915 --> 00:53:36,000
+Jadi, 1-9-9-9...
+
+819
+00:53:36,167 --> 00:53:38,252
+2-9-5-5...
+
+820
+00:53:38,419 --> 00:53:41,255
+8-7-1 dan mulai.
+
+821
+00:53:43,759 --> 00:53:47,221
+<i>Bukti sabotase</i>
+<i>pada tingkat tertinggi pemerintah.</i>
+
+822
+00:53:47,388 --> 00:53:48,806
+<i>Jangan percayai siapa pun.</i>
+
+823
+00:53:55,063 --> 00:53:56,773
+Kau mau ikut aksi, bukan?
+
+824
+00:53:58,733 --> 00:54:01,112
+Ya, tetapi, astaga.
+
+825
+00:54:02,822 --> 00:54:04,949
+Jika kau ingin mundur, aku mengerti.
+
+826
+00:54:05,116 --> 00:54:07,410
+Tidak. Aku mau. Aku hanya...
+
+827
+00:54:09,161 --> 00:54:10,872
+Aku mau dan tidak mau.
+
+828
+00:54:11,039 --> 00:54:13,917
+Seperti naik <i>roller coaster</i>
+atau makan makanan pedas.
+
+829
+00:54:16,002 --> 00:54:17,295
+Apa langkah berikutnya?
+
+830
+00:54:17,462 --> 00:54:21,342
+Temukan apa saja tentang berkas
+bernama "Proyek Zeus".
+
+831
+00:54:24,262 --> 00:54:25,513
+"Proyek Zeus"?
+
+832
+00:54:25,680 --> 00:54:26,723
+Ya.
+
+833
+00:54:28,100 --> 00:54:30,477
+Ini seperti teori
+persekongkolan bersaudara.
+
+834
+00:54:30,644 --> 00:54:32,438
+Cari saja.
+
+835
+00:54:34,523 --> 00:54:36,191
+Aku dapat kecocokan.
+
+836
+00:54:37,360 --> 00:54:39,696
+Namun, dienkripsi ganda. Ketat sekali.
+
+837
+00:54:40,029 --> 00:54:41,156
+Bisa kau pecahkan?
+
+838
+00:54:41,489 --> 00:54:42,991
+Ya, bisa...
+
+839
+00:54:44,617 --> 00:54:46,035
+tetapi tidak dari sini.
+
+840
+00:54:46,202 --> 00:54:48,956
+Berkasnya di jaringan keamanan
+Gedung Putih, tak bisa diretas.
+
+841
+00:54:49,123 --> 00:54:50,666
+Harus login, tetapi tak punya izin.
+
+842
+00:54:50,833 --> 00:54:52,585
+Aku juga tidak.
+
+843
+00:54:53,794 --> 00:54:56,131
+Aku tak kenal orang yang punya izinnya.
+
+844
+00:54:57,632 --> 00:54:59,176
+Kau kenal.
+
+845
+00:55:09,187 --> 00:55:10,438
+Max?
+
+846
+00:55:24,329 --> 00:55:25,163
+Jangan bergerak.
+
+847
+00:55:25,288 --> 00:55:26,581
+Astaga!
+
+848
+00:55:26,748 --> 00:55:28,500
+Sayang, tenanglah!
+
+849
+00:55:29,709 --> 00:55:31,211
+Siapa gadis di rumah kita?
+
+850
+00:55:31,377 --> 00:55:32,922
+Aku bisa jelaskan.
+
+851
+00:55:33,088 --> 00:55:34,673
+Kedengarannya mencurigakan.
+
+852
+00:55:34,840 --> 00:55:36,133
+- Diam.
+- Maaf. Aku diam.
+
+853
+00:55:36,300 --> 00:55:39,720
+Kupecahkan salah satu
+gelas anggurmu.
+
+854
+00:55:39,887 --> 00:55:41,472
+Gelasnya jatuh, akan kuganti.
+
+855
+00:55:41,639 --> 00:55:43,475
+Aku punya uangnya. Maaf.
+
+856
+00:55:43,642 --> 00:55:44,643
+Bicara.
+
+857
+00:55:44,810 --> 00:55:47,729
+Ini Dana.
+Dia bekerja denganku di Deplu.
+
+858
+00:55:48,438 --> 00:55:50,232
+Kuminta dia kemari
+karena butuh bantuannya...
+
+859
+00:55:50,315 --> 00:55:53,277
+dan ternyata,
+aku juga butuh bantuanmu.
+
+860
+00:55:54,570 --> 00:55:55,613
+Dia cantik!
+
+861
+00:55:58,699 --> 00:56:00,828
+Aku tahu betapa pekerjaan berarti bagimu.
+
+862
+00:56:00,994 --> 00:56:02,204
+Aku bersumpah, Max.
+
+863
+00:56:02,371 --> 00:56:03,956
+Kita punya aturan.
+
+864
+00:56:04,122 --> 00:56:05,749
+Kalian tak boleh tidur bersama...
+
+865
+00:56:05,916 --> 00:56:07,125
+Dana.
+
+866
+00:56:07,292 --> 00:56:09,336
+Kau minta aku melanggar hukum.
+
+867
+00:56:09,754 --> 00:56:14,050
+Kau meminta agen Dinas Rahasia
+untuk meretas server Gedung Putih...
+
+868
+00:56:14,217 --> 00:56:15,885
+dan mencuri berkas.
+
+869
+00:56:16,052 --> 00:56:17,846
+Dan kau berpikir
+aku akan menjawab ya!
+
+870
+00:56:18,012 --> 00:56:19,890
+- Aku masih berpikir demikian.
+- Kenapa?
+
+871
+00:56:20,057 --> 00:56:22,226
+Karena aku yang minta.
+
+872
+00:56:22,393 --> 00:56:24,478
+Jika aku yang minta...
+
+873
+00:56:24,645 --> 00:56:26,856
+berarti pasti penting.
+
+874
+00:56:27,022 --> 00:56:29,651
+Kau tahu ini lebih penting
+dari kau dan aku.
+
+875
+00:56:29,818 --> 00:56:30,819
+"Kau dan aku".
+
+876
+00:56:30,986 --> 00:56:32,028
+Diam.
+
+877
+00:56:35,615 --> 00:56:38,703
+Sarah, kumohon.
+
+878
+00:56:40,746 --> 00:56:42,748
+Sekali saja.
+
+879
+00:56:42,999 --> 00:56:47,004
+Kita perlu melihat kamera keamanan
+tanpa ada yang tahu.
+
+880
+00:56:47,880 --> 00:56:48,964
+Makmoud dibunuh.
+
+881
+00:56:49,131 --> 00:56:51,133
+Jika tahu sebabnya, kita tahu pelakunya.
+
+882
+00:56:51,300 --> 00:56:54,052
+Namun, kau tak bisa mengakses kamera
+tanpa melakukan login.
+
+883
+00:56:54,219 --> 00:56:56,180
+Karena itu
+kita ke ruang server cadangan.
+
+884
+00:56:56,347 --> 00:56:59,893
+Untung aku yang membuat tempat ini.
+
+885
+00:57:01,811 --> 00:57:04,522
+Ya, tetapi aku tinggal di sini.
+
+886
+00:57:13,157 --> 00:57:14,158
+Pamer.
+
+887
+00:57:21,041 --> 00:57:23,335
+Makmoud menyiapkan diagnostik
+satelit Afgan...
+
+888
+00:57:23,501 --> 00:57:25,129
+saat kami meluncurkan pengganti.
+
+889
+00:57:27,924 --> 00:57:29,800
+MAKMOUD HABIB
+
+890
+00:57:29,967 --> 00:57:31,219
+Astaga.
+
+891
+00:57:31,385 --> 00:57:33,472
+Dia mengeluarkan sesuatu dari satelit.
+
+892
+00:57:33,889 --> 00:57:35,265
+Dia mengetahuinya...
+
+893
+00:57:35,432 --> 00:57:37,309
+lalu dibunuh agar tidak bocor.
+
+894
+00:57:39,061 --> 00:57:41,063
+Tidak ada kamera di ruang penyimpanan.
+
+895
+00:57:43,483 --> 00:57:45,485
+Kalau begitu, ayo kita periksa sendiri.
+
+896
+00:57:56,080 --> 00:57:57,289
+181.
+
+897
+00:58:01,962 --> 00:58:02,963
+Berapa kodenya?
+
+898
+00:58:04,381 --> 00:58:05,924
+7, 6, 3, 6, 3.
+
+899
+00:58:15,184 --> 00:58:16,602
+Sedang apa kau?
+
+900
+00:58:21,692 --> 00:58:23,735
+Kau tahu kejadianku bukan kecelakaan.
+
+901
+00:58:24,736 --> 00:58:25,988
+Siapa pun pelakunya...
+
+902
+00:58:26,530 --> 00:58:27,531
+membunuh Makmoud.
+
+903
+00:58:27,698 --> 00:58:29,993
+Apa yang membuatmu berpikir
+bukan aku orangnya?
+
+904
+00:58:30,159 --> 00:58:32,829
+Jika kau orangnya,
+aku pasti sudah mati.
+
+905
+00:58:35,707 --> 00:58:36,833
+Dussette, turunkan pistolmu.
+
+906
+00:58:40,212 --> 00:58:41,213
+Apa pun yang kau cari...
+
+907
+00:58:41,380 --> 00:58:42,798
+tidak ada di lemari itu.
+
+908
+00:58:43,507 --> 00:58:46,051
+Aku di sini ketika Makmoud masuk.
+
+909
+00:58:46,218 --> 00:58:47,971
+Dia menaruhnya di lemari kosong.
+
+910
+00:58:48,805 --> 00:58:50,432
+Kenapa tak bilang?
+
+911
+00:58:50,598 --> 00:58:53,310
+Kita melihat rekaman keamanan
+yang sama.
+
+912
+00:58:53,476 --> 00:58:56,605
+Aku ingin tahu siapa
+yang akan periksa lemari Makmoud.
+
+913
+00:58:57,315 --> 00:58:58,357
+Ada di sini.
+
+914
+00:59:01,819 --> 00:59:03,195
+2, 6, 6, 5, 3.
+
+915
+00:59:14,499 --> 00:59:15,501
+Dapat.
+
+916
+00:59:16,461 --> 00:59:19,714
+Ini semua yang dia salin
+dari satelit ke HoloFrame-nya.
+
+917
+00:59:21,799 --> 00:59:23,176
+Itu sebuah virus.
+
+918
+00:59:23,844 --> 00:59:26,597
+Bukan dari komputer di satelit.
+
+919
+00:59:26,764 --> 00:59:28,474
+Karena ini ditanamkan.
+
+920
+00:59:28,640 --> 00:59:31,852
+Makmoud menemukan virusnya
+dan dibunuh sebelum beri tahu orang lain.
+
+921
+00:59:32,478 --> 00:59:34,522
+Dapat. Ini dia.
+
+922
+00:59:36,316 --> 00:59:37,317
+Proyek Zeus.
+
+923
+00:59:39,069 --> 00:59:41,446
+Ada puluhan ribu simulasi badai...
+
+924
+00:59:41,613 --> 00:59:42,656
+dimulai di tempat berbeda.
+
+925
+00:59:42,823 --> 00:59:43,824
+BADAI BUMI
+RANGKAIAN SIMULASI
+
+926
+00:59:43,991 --> 00:59:45,493
+Semua berakhir sama.
+
+927
+00:59:45,659 --> 00:59:47,244
+Badai bumi.
+
+928
+00:59:47,411 --> 00:59:49,830
+Ini lebih buruk dari yang pernah ada.
+
+929
+00:59:50,956 --> 00:59:54,461
+Dana, bisa perlihatkan simulasi
+yang bermula di Afganistan?
+
+930
+00:59:54,628 --> 00:59:55,629
+Ya, tentu.
+
+931
+00:59:57,464 --> 00:59:58,548
+REGISTAN, AFGANISTAN
+KEMUNGKINAN SKENARIO
+
+932
+00:59:58,715 --> 01:00:00,592
+Sekarang saring itu...
+
+933
+01:00:00,759 --> 01:00:03,471
+dengan malafungsi kedua
+di Hong Kong.
+
+934
+01:00:03,638 --> 01:00:04,889
+Maksudmu?
+
+935
+01:00:05,473 --> 01:00:09,268
+Bagaimana jika Cheng menyadari
+ada orang yang mengikuti skenarionya?
+
+936
+01:00:09,435 --> 01:00:12,064
+Membuatnya terlihat seperti malafungsi...
+
+937
+01:00:12,231 --> 01:00:14,817
+membuat kejahatan seperti kecelakaan.
+
+938
+01:00:14,983 --> 01:00:16,193
+Mungkin memang kecelakaan.
+
+939
+01:00:16,360 --> 01:00:18,862
+Jika benar,
+mereka takkan membunuhnya.
+
+940
+01:00:19,739 --> 01:00:22,492
+Ada yang membuat Dutch Boy
+jadi senjata.
+
+941
+01:00:23,451 --> 01:00:24,953
+TINGKAT KATEGORI BADAI BUMI
+
+942
+01:00:25,036 --> 01:00:26,913
+<i>Konferensi virtual dimulai.</i>
+
+943
+01:00:27,080 --> 01:00:28,081
+<i>Hei.</i>
+
+944
+01:00:28,874 --> 01:00:29,875
+Orang baru?
+
+945
+01:00:30,042 --> 01:00:31,710
+Ya. Seorang teman.
+
+946
+01:00:31,877 --> 01:00:33,963
+Dia menutup saluran monitor...
+
+947
+01:00:34,130 --> 01:00:35,131
+<i>jadi, kita aman.</i>
+
+948
+01:00:35,297 --> 01:00:37,675
+- Kau terima pesanku?
+<i>- Ya.</i>
+
+949
+01:00:38,135 --> 01:00:41,054
+Ini lebih buruk dari yang kita duga.
+
+950
+01:00:41,221 --> 01:00:44,891
+Pelakunya menyasar kota-kota
+dengan menggunakan Dutch Boy.
+
+951
+01:00:45,058 --> 01:00:47,895
+Mereka menyamarkan gerakan mereka
+sebagai malafungsi.
+
+952
+01:00:48,062 --> 01:00:50,022
+Mereka bunuh orang
+yang mengungkapnya...
+
+953
+01:00:50,189 --> 01:00:51,691
+dan mereka belum selesai.
+
+954
+01:00:51,858 --> 01:00:52,942
+Ya.
+
+955
+01:00:53,943 --> 01:00:55,778
+Ini karya hidupku, Max.
+
+956
+01:00:57,739 --> 01:00:58,740
+Katanya mustahil...
+
+957
+01:00:58,907 --> 01:00:59,992
+tetapi kita berhasil.
+
+958
+01:01:00,159 --> 01:01:01,326
+Dan berfungsi...
+
+959
+01:01:01,493 --> 01:01:04,538
+sempurna, tanpa gagal,
+hari demi hari, tahun demi tahun.
+
+960
+01:01:04,705 --> 01:01:06,541
+Apa yang mereka perbuat?
+
+961
+01:01:08,710 --> 01:01:10,211
+Mengubahnya jadi senjata.
+
+962
+01:01:10,378 --> 01:01:11,504
+<i>Aku tahu.</i>
+
+963
+01:01:11,671 --> 01:01:14,132
+<i>Ini belum terlambat.</i>
+<i>Kita bisa perbaiki...</i>
+
+964
+01:01:14,299 --> 01:01:16,218
+<i>sebelum terulang,</i>
+<i>tetapi aku tak bisa sendirian.</i>
+
+965
+01:01:17,052 --> 01:01:19,972
+Bagaimana cara mereka
+mengendalikan Dutch Boy?
+
+966
+01:01:20,139 --> 01:01:21,849
+- Aku tahu.
+<i>- Caranya?</i>
+
+967
+01:01:22,016 --> 01:01:23,434
+Virus.
+
+968
+01:01:23,601 --> 01:01:25,145
+<i>Kau bisa hentikan?</i>
+
+969
+01:01:25,312 --> 01:01:26,313
+Hanya ada satu cara.
+
+970
+01:01:26,480 --> 01:01:29,232
+Kita bisa matikan Dutch Boy
+untuk sementara.
+
+971
+01:01:29,983 --> 01:01:31,526
+Sistem dibersihkan usai pengulangan...
+
+972
+01:01:32,068 --> 01:01:34,906
+virus mati, dan kembali
+ke sistem yang aman.
+
+973
+01:01:35,573 --> 01:01:38,743
+Ayo kita lakukan.
+
+974
+01:01:38,910 --> 01:01:40,203
+Aku izinkan.
+
+975
+01:01:40,369 --> 01:01:43,624
+Kurasa kita tahu aku tak menunggu izinmu
+untuk hal itu.
+
+976
+01:01:43,790 --> 01:01:44,791
+Ini bukan Chromebook.
+
+977
+01:01:44,958 --> 01:01:46,251
+Tak hanya tekan tombol.
+
+978
+01:01:46,418 --> 01:01:47,419
+Kita butuh kode penutup.
+
+979
+01:01:49,505 --> 01:01:52,300
+Hanya Presiden yang punya.
+
+980
+01:01:52,467 --> 01:01:54,594
+Ayo temui Presiden
+dan ceritakan yang kita tahu.
+
+981
+01:01:54,761 --> 01:01:57,180
+Kau tidak bisa menemui Palma.
+
+982
+01:01:58,306 --> 01:02:00,517
+<i>Kita perlu bukti</i>
+<i>lebih dari yang kupunya.</i>
+
+983
+01:02:00,683 --> 01:02:01,977
+Kita akan matikan Dutch Boy.
+
+984
+01:02:02,144 --> 01:02:04,730
+Meski satu jam,
+seluruh planet akan berisiko.
+
+985
+01:02:04,897 --> 01:02:06,982
+Kurasa kau tak mengerti.
+
+986
+01:02:07,149 --> 01:02:09,360
+Ada yang membuat
+jalan pintas ke sistem.
+
+987
+01:02:09,527 --> 01:02:12,697
+Jalan pintas
+yang tidak diketahui siapa pun.
+
+988
+01:02:12,864 --> 01:02:14,324
+Namun, Presiden tahu.
+
+989
+01:02:14,491 --> 01:02:17,202
+Tidak. Jake, ayolah. Apa?
+
+990
+01:02:17,369 --> 01:02:18,537
+Kau sudah gila?
+
+991
+01:02:18,703 --> 01:02:21,499
+Aku tak menuduhnya.
+Maksudku, "Bagaimana kalau?"
+
+992
+01:02:21,666 --> 01:02:24,710
+Siapa lagi yang punya sumber daya
+untuk melakukan ini?
+
+993
+01:02:24,877 --> 01:02:29,967
+Pembunuhan, menutupi, virus yang hanya
+bisa dihentikan oleh kode yang dia miliki.
+
+994
+01:02:30,133 --> 01:02:32,302
+Katakan, buat apa dia melakukan itu?
+
+995
+01:02:32,469 --> 01:02:36,056
+Dua minggu lagi kita menyerahkan
+Dutch Boy kepada dunia.
+
+996
+01:02:36,223 --> 01:02:38,768
+Dua minggu lagi kehilangan kendali.
+
+997
+01:02:38,935 --> 01:02:41,563
+Dia terdengar tulus,
+tetapi dia takkan menyerahkannya.
+
+998
+01:02:42,897 --> 01:02:46,317
+Rangkaian bencana,
+seorang awak internasional disalahkan...
+
+999
+01:02:46,484 --> 01:02:47,695
+dia akan batalkan penyerahan.
+
+1000
+01:02:47,861 --> 01:02:49,697
+Siapa yang akan dia salahkan?
+
+1001
+01:02:51,365 --> 01:02:54,451
+Baik. Awasi satelitmu.
+
+1002
+01:02:56,287 --> 01:02:57,497
+Max.
+
+1003
+01:02:57,664 --> 01:02:59,291
+Max, jangan bertindak bodoh.
+
+1004
+01:02:59,457 --> 01:03:00,458
+Ayo.
+
+1005
+01:03:00,625 --> 01:03:02,627
+<i>Mereka sudah mencoba membunuhku sekali.</i>
+
+1006
+01:03:03,878 --> 01:03:05,213
+Max!
+
+1007
+01:03:05,380 --> 01:03:06,799
+<i>Transmisi berakhir.</i>
+
+1008
+01:03:13,472 --> 01:03:15,434
+Presiden Palma,
+beberapa pertanyaan, Pak.
+
+1009
+01:03:15,601 --> 01:03:18,520
+Pikiran Anda sebelum
+konvensi nasional di Orlando?
+
+1010
+01:03:18,687 --> 01:03:20,022
+Pak Presiden, ada pernyataan?
+
+1011
+01:03:20,188 --> 01:03:21,523
+Ada waktu sebelum ke Orlando?
+
+1012
+01:03:21,690 --> 01:03:23,108
+Teman-teman dari Washington, DC...
+
+1013
+01:03:23,900 --> 01:03:28,031
+saya takkan bisa naik pesawat
+tanpa menyapa kalian. Itu tak mungkin.
+
+1014
+01:03:32,035 --> 01:03:33,495
+Sedang apa di sini?
+
+1015
+01:03:35,873 --> 01:03:37,625
+- Kau sudah gila?
+- Sarah, dengar.
+
+1016
+01:03:37,791 --> 01:03:41,295
+Jake butuh kita mencuri kode penutup
+dari Palma.
+
+1017
+01:03:41,462 --> 01:03:42,421
+Kita?
+
+1018
+01:03:42,964 --> 01:03:44,924
+Kau minta tolong
+berdasarkan kata-kata kakakmu...
+
+1019
+01:03:45,091 --> 01:03:47,052
+yang belum bicara denganmu
+tiga tahun.
+
+1020
+01:03:47,218 --> 01:03:48,053
+Ya.
+
+1021
+01:03:48,136 --> 01:03:52,516
+Pikirkan. Afganistan, Hong Kong,
+Cheng, simulasi gila...
+
+1022
+01:03:52,683 --> 01:03:54,685
+kematian di stasiun luar angkasa. Ayolah.
+
+1023
+01:03:55,686 --> 01:03:58,147
+Kau harus percaya kepadaku.
+Aku serius.
+
+1024
+01:03:59,482 --> 01:04:01,234
+- Baik.
+- Dengar.
+
+1025
+01:04:01,401 --> 01:04:03,945
+Kodenya ada di HoloFrame Palma.
+
+1026
+01:04:05,781 --> 01:04:06,782
+Tak bisa di pesawat.
+
+1027
+01:04:06,948 --> 01:04:07,949
+Kenapa tidak?
+
+1028
+01:04:08,116 --> 01:04:09,701
+Banyak saksi.
+Dia tak pernah sendirian.
+
+1029
+01:04:09,868 --> 01:04:11,829
+Lalu apa rencanamu?
+
+1030
+01:04:12,622 --> 01:04:17,377
+Palma ingin waktu pribadi untuk mandi
+dan telepon sebelum pesta.
+
+1031
+01:04:17,543 --> 01:04:18,753
+Kau ikuti. Kubawa kau masuk.
+
+1032
+01:04:18,920 --> 01:04:20,631
+Aku bisa curi kodenya
+saat dia mandi.
+
+1033
+01:04:20,798 --> 01:04:22,716
+- Itu idenya.
+- Ya.
+
+1034
+01:04:26,804 --> 01:04:27,805
+<i>- Peringatan.</i>
+- Minggir.
+
+1035
+01:04:27,971 --> 01:04:30,225
+<i>Semua komunikasi satelit mati.</i>
+
+1036
+01:04:31,142 --> 01:04:35,063
+<i>Semua komunikasi satelit mati.</i>
+<i>Semua awak melapor ke stasiun.</i>
+
+1037
+01:04:35,605 --> 01:04:36,815
+Astaga.
+
+1038
+01:04:36,981 --> 01:04:39,902
+Hampir 200 satelit
+melaporkan malafungsi...
+
+1039
+01:04:40,069 --> 01:04:41,779
+sebagian besar mendekati kritis.
+
+1040
+01:04:42,780 --> 01:04:45,866
+Tampilkan satelit paling kritis.
+
+1041
+01:04:47,326 --> 01:04:48,412
+TOKYO
+PERINGATAN KRITIS
+
+1042
+01:04:48,578 --> 01:04:50,956
+Kita kehilangan kendali
+atas satelit Tokyo.
+
+1043
+01:04:54,918 --> 01:04:59,549
+TOKYO, JEPANG
+
+1044
+01:05:12,646 --> 01:05:13,731
+Max.
+
+1045
+01:05:15,483 --> 01:05:17,360
+Aku tak tahu kau ikut konvensi.
+
+1046
+01:05:17,527 --> 01:05:20,155
+Ayahku tinggal di Florida...
+
+1047
+01:05:20,321 --> 01:05:22,031
+aku janji dia bisa ikut konvensi.
+
+1048
+01:05:22,490 --> 01:05:23,908
+Kita butuh setiap suara, bukan?
+
+1049
+01:05:24,075 --> 01:05:26,746
+Bawa dia ke ruang bersantai.
+Nanti kita foto-foto.
+
+1050
+01:05:26,912 --> 01:05:28,956
+Anda baik sekali, Pak. Terima kasih.
+
+1051
+01:05:40,635 --> 01:05:42,972
+Ada laporan anomali cuaca ekstrem...
+
+1052
+01:05:43,139 --> 01:05:45,475
+di Brasil, Meksiko, Bukares,
+dan Beograd.
+
+1053
+01:05:45,641 --> 01:05:48,311
+Ada seribu lebih peringatan badai
+di sekeliling dunia.
+
+1054
+01:06:19,220 --> 01:06:21,014
+<i>Satelit Rio de Janeiro kritis.</i>
+
+1055
+01:06:22,349 --> 01:06:24,434
+<i>Prosedur penarikan mati.</i>
+
+1056
+01:06:30,900 --> 01:06:32,819
+Buat rute baru!
+
+1057
+01:06:32,985 --> 01:06:35,112
+Bawa kita ke satelit kritis terdekat.
+
+1058
+01:06:35,279 --> 01:06:36,280
+Kau mau apa?
+
+1059
+01:06:36,447 --> 01:06:41,203
+Meluncurkan pengganti.
+Sebanyaknya dan secepat mungkin.
+
+1060
+01:06:41,370 --> 01:06:43,288
+Kita harus tarik dahulu satelit lainnya.
+
+1061
+01:06:43,455 --> 01:06:44,957
+Atau pengganti akan menabraknya.
+
+1062
+01:06:45,123 --> 01:06:46,375
+Mereka diprogram untuk tiba...
+
+1063
+01:06:46,542 --> 01:06:47,919
+di tujuan yang persis sama.
+
+1064
+01:06:48,086 --> 01:06:49,921
+Mereka akan menabrak
+satelit yang terinfeksi.
+
+1065
+01:06:50,088 --> 01:06:51,422
+- Ya!
+- Tentu!
+
+1066
+01:06:52,048 --> 01:06:53,341
+<i>Semua awak melapor ke stasiun...</i>
+
+1067
+01:06:53,424 --> 01:06:55,093
+<i>untuk penggantian satelit Rio.</i>
+
+1068
+01:07:15,658 --> 01:07:16,868
+<i>Laksanakan peluncuran.</i>
+
+1069
+01:07:17,535 --> 01:07:18,578
+Satelit diluncurkan.
+
+1070
+01:07:20,288 --> 01:07:22,498
+<i>Satelit pengganti untuk Rio</i>
+<i>dalam perjalanan.</i>
+
+1071
+01:07:37,265 --> 01:07:40,018
+<i>Peringatan. Satelit dalam jalur tubrukan.</i>
+
+1072
+01:07:40,184 --> 01:07:41,352
+Matikan pendorong mundur.
+
+1073
+01:07:41,519 --> 01:07:42,687
+Jangan biarkan melambat.
+
+1074
+01:08:08,549 --> 01:08:10,051
+J93 - MATI
+
+1075
+01:08:10,217 --> 01:08:12,137
+Kirim satelit lainnya!
+
+1076
+01:08:12,304 --> 01:08:14,765
+<i>Peringatan badai bumi.</i>
+
+1077
+01:08:21,898 --> 01:08:24,400
+<i>Waktu menjelang badai bumi,</i>
+<i>satu jam, 30 menit.</i>
+
+1078
+01:08:26,694 --> 01:08:28,196
+KONVENSI DEMOKRAT NASIONAL
+
+1079
+01:08:28,363 --> 01:08:29,615
+Empat tahun lagi!
+
+1080
+01:08:30,491 --> 01:08:33,202
+<i>Terima kasih. Seperti Anda tahu,</i>
+<i>lingkungan...</i>
+
+1081
+01:08:33,369 --> 01:08:35,245
+<i>adalah tujuan hidup almarhum istri saya.</i>
+
+1082
+01:08:35,955 --> 01:08:37,957
+<i>Dia pasti bangga saat ini...</i>
+
+1083
+01:08:38,123 --> 01:08:40,293
+<i>Diakibatkan hujan es terburuk</i>
+<i>sepanjang sejarah.</i>
+
+1084
+01:08:40,460 --> 01:08:44,172
+<i>Terjadi peristiwa cuaca ekstrem lain,</i>
+<i>kali ini di Rio de Janeiro.</i>
+
+1085
+01:08:44,339 --> 01:08:47,300
+<i>Udara dingin dari pantai bergerak cepat</i>
+<i>melintasi daratan...</i>
+
+1086
+01:08:47,467 --> 01:08:49,804
+<i>membuat suhu di kota sangat rendah.</i>
+
+1087
+01:08:49,971 --> 01:08:51,055
+<i>Ada sejumlah korban jiwa...</i>
+
+1088
+01:08:51,138 --> 01:08:52,723
+CUACA EKSTREM
+DI TOKYO DAN RIO DE JANEIRO
+
+1089
+01:08:52,807 --> 01:08:54,225
+<i>tetapi kita tak tahu berapa banyak.</i>
+
+1090
+01:08:54,350 --> 01:08:55,559
+<i>Sebuah pesawat barang...</i>
+
+1091
+01:08:55,685 --> 01:08:59,731
+<i>jatuh di kota, kemungkinan</i>
+<i>akibat cuaca membeku.</i>
+
+1092
+01:08:59,898 --> 01:09:03,735
+<i>Tokyo dan Rio adalah bencana cuaca</i>
+<i>pertama sejak Dutch Boy diluncurkan.</i>
+
+1093
+01:09:03,819 --> 01:09:05,028
+KEMUNGKINAN SKENARIO - 1
+
+1094
+01:09:05,195 --> 01:09:07,907
+<i>Setelah rehat, wartawati, Sally Jones,</i>
+<i>akan bergabung.</i>
+
+1095
+01:09:08,074 --> 01:09:10,118
+LOKASI BERIKUT
+ORLANDO, FLORIDA, AS
+
+1096
+01:09:10,284 --> 01:09:11,953
+WAKTU MENJELANG BADAI BUMI
+
+1097
+01:09:12,120 --> 01:09:13,204
+Astaga.
+
+1098
+01:09:13,371 --> 01:09:14,455
+Hei, Max!
+
+1099
+01:09:18,711 --> 01:09:19,920
+Di mana ayahmu?
+
+1100
+01:09:21,380 --> 01:09:23,966
+Dia terjebak dalam hiruk pikuk ini.
+
+1101
+01:09:24,133 --> 01:09:26,302
+Aku merekrutmu untuk posisi ini.
+
+1102
+01:09:26,469 --> 01:09:29,848
+Aku tahu semua tentang dirimu.
+Kakakmu, kematian ibumu...
+
+1103
+01:09:30,015 --> 01:09:32,308
+kematian ayahmu, semuanya.
+
+1104
+01:09:32,475 --> 01:09:36,105
+Kenapa bohong kepadaku?
+Kenapa kau ikut kemari?
+
+1105
+01:09:37,356 --> 01:09:38,649
+Katakan ada apa.
+
+1106
+01:09:38,816 --> 01:09:40,943
+Mungkin aku bisa bantu,
+mungkin tidak.
+
+1107
+01:09:42,319 --> 01:09:43,237
+Dengar.
+
+1108
+01:09:43,405 --> 01:09:45,407
+Ada yang perlu kukatakan. Kemari.
+
+1109
+01:09:48,744 --> 01:09:52,832
+Sembilan puluh menit lagi ada badai bumi
+yang sangat merusak.
+
+1110
+01:09:53,374 --> 01:09:55,043
+Aku butuh kode penutup Presiden.
+
+1111
+01:09:57,003 --> 01:09:58,004
+Apa?
+
+1112
+01:09:58,171 --> 01:09:59,797
+Kita harus matikan Dutch Boy.
+
+1113
+01:09:59,964 --> 01:10:01,174
+Kau serius.
+
+1114
+01:10:01,340 --> 01:10:03,552
+Kau merekrutku
+karena percaya kepadaku, bukan?
+
+1115
+01:10:04,053 --> 01:10:07,014
+Percayailah aku sekarang.
+
+1116
+01:10:11,144 --> 01:10:13,396
+Kita harus mengabari Presiden.
+Pergi ke Cape Canaveral.
+
+1117
+01:10:13,563 --> 01:10:16,066
+Tidak. Kita tidak bisa, Pak.
+
+1118
+01:10:16,232 --> 01:10:17,150
+Kenapa tidak?
+
+1119
+01:10:17,317 --> 01:10:19,486
+Aku percaya dialah pelakunya.
+
+1120
+01:10:19,652 --> 01:10:21,197
+<i>Bersatu kita teguh.</i>
+
+1121
+01:10:21,363 --> 01:10:23,449
+<i>Bersatu kita sanggup.</i>
+
+1122
+01:10:23,616 --> 01:10:25,743
+Empat tahun lagi!
+
+1123
+01:10:27,286 --> 01:10:30,040
+Sebaiknya kau yakin
+dengan tuduhan seperti itu.
+
+1124
+01:10:30,207 --> 01:10:32,209
+Tak ada waktu untuk berdebat.
+
+1125
+01:10:32,375 --> 01:10:34,711
+Palma dan aku sudah lama kenal.
+Untuk apa dia begitu?
+
+1126
+01:10:34,878 --> 01:10:36,129
+Dia melakukannya.
+
+1127
+01:10:36,296 --> 01:10:37,297
+Apa buktinya?
+
+1128
+01:10:37,464 --> 01:10:40,301
+Aku punya bukti. Lusinan berkas.
+
+1129
+01:10:40,468 --> 01:10:42,428
+Di Proyek Zeus. Semua di situ.
+
+1130
+01:10:44,764 --> 01:10:46,849
+Kita tak bisa dapatkan
+kode penutup dari Presiden.
+
+1131
+01:10:47,308 --> 01:10:48,310
+Kenapa?
+
+1132
+01:10:48,477 --> 01:10:50,979
+Karena Presiden-lah kode penutupnya.
+
+1133
+01:10:51,146 --> 01:10:54,566
+Biometrika. Sepuluh sidik jari,
+dua pindaian retina.
+
+1134
+01:10:55,526 --> 01:10:56,735
+Jadi, bagaimana?
+
+1135
+01:10:58,029 --> 01:11:01,407
+Aku harus bicara dengannya.
+Kita harus bicara dengannya.
+
+1136
+01:11:01,574 --> 01:11:03,368
+Satelit kritis di atas Florida.
+
+1137
+01:11:03,535 --> 01:11:05,036
+Muat satelit pengganti.
+
+1138
+01:11:06,789 --> 01:11:09,542
+<i>Rangkaian peledakan stasiun dimulai.</i>
+
+1139
+01:11:09,708 --> 01:11:12,044
+PELEDAKAN STASIUN DIMULAI
+
+1140
+01:11:14,380 --> 01:11:16,216
+<i>Tahap satu dimulai sekarang.</i>
+
+1141
+01:11:17,384 --> 01:11:18,760
+Matikan itu!
+
+1142
+01:11:18,927 --> 01:11:20,178
+Tak bisa. Aku diblokir.
+
+1143
+01:11:20,637 --> 01:11:21,805
+Kami buat sistem pengalihan.
+
+1144
+01:11:21,972 --> 01:11:22,973
+Sedang kucoba.
+
+1145
+01:11:23,140 --> 01:11:24,015
+AKSES DITOLAK
+
+1146
+01:11:24,099 --> 01:11:26,269
+Jika stasiun hancur,
+kita tak bisa kendalikan satelit.
+
+1147
+01:11:26,352 --> 01:11:27,186
+STATUS SATELIT
+BEROPERASI
+
+1148
+01:11:27,770 --> 01:11:28,980
+Meledak sendiri?
+
+1149
+01:11:29,730 --> 01:11:31,357
+Kenapa kau membuatnya?
+
+1150
+01:11:31,524 --> 01:11:33,526
+Siapa tahu jatuh ke Bumi.
+
+1151
+01:11:34,235 --> 01:11:35,863
+Di mana Duncan?
+
+1152
+01:11:36,029 --> 01:11:38,574
+Dia yang punya keahlian
+membatalkan perintah itu.
+
+1153
+01:11:40,117 --> 01:11:41,201
+Duncan.
+
+1154
+01:11:48,418 --> 01:11:49,419
+Itu tangki bahan bakar.
+
+1155
+01:11:49,586 --> 01:11:50,712
+Itu yang pertama meledak.
+
+1156
+01:11:50,879 --> 01:11:53,215
+Lalu bagian demi bagian
+sampai kendali dan penarikan.
+
+1157
+01:11:53,382 --> 01:11:55,301
+Semuanya, pergi ke pesawat!
+
+1158
+01:11:55,467 --> 01:11:57,094
+Evakuasi!
+
+1159
+01:11:57,261 --> 01:11:59,555
+Ayo, kita harus bergegas! Cepat!
+
+1160
+01:12:03,977 --> 01:12:06,104
+Jake, kenapa masih di sini?
+
+1161
+01:12:07,898 --> 01:12:08,940
+Terasa menyenangkan.
+
+1162
+01:12:09,691 --> 01:12:11,402
+Aku ingin melakukan itu
+sejak kita bertemu.
+
+1163
+01:12:11,527 --> 01:12:12,570
+Kau sudah gila?
+
+1164
+01:12:12,737 --> 01:12:13,946
+Begitulah.
+
+1165
+01:12:14,947 --> 01:12:15,865
+Virusnya.
+
+1166
+01:12:16,365 --> 01:12:18,284
+Hanya kau yang bisa menaruhnya
+di sistem.
+
+1167
+01:12:19,160 --> 01:12:21,538
+Hanya kau yang bisa menutup
+jalan pintas.
+
+1168
+01:12:23,665 --> 01:12:25,667
+Hanya kau yang bisa membantu
+melakukan ini.
+
+1169
+01:12:28,253 --> 01:12:30,965
+Batalkan peledakan stasiun sekarang juga!
+
+1170
+01:12:31,758 --> 01:12:33,009
+Untuk apa?
+
+1171
+01:12:33,176 --> 01:12:34,928
+Aku takkan di sini saat meledak.
+
+1172
+01:12:36,012 --> 01:12:37,138
+Namun, kau akan di sini.
+
+1173
+01:12:40,184 --> 01:12:41,560
+Kenapa kau melakukannya?
+
+1174
+01:12:41,727 --> 01:12:45,648
+Kau tahu upah ilmuwan rendah
+seperti kita?
+
+1175
+01:12:45,814 --> 01:12:47,274
+Kalikan itu seribu.
+
+1176
+01:12:48,318 --> 01:12:49,402
+Apa bedanya?
+
+1177
+01:12:49,569 --> 01:12:52,072
+Jika tidak dihentikan,
+mau gunakan uangmu di mana?
+
+1178
+01:12:52,239 --> 01:12:54,866
+Kami akan biarkan
+wilayah yang terbaik.
+
+1179
+01:12:55,033 --> 01:12:59,121
+Kau tidak ingin melihat
+dunia terbakar?
+
+1180
+01:12:59,789 --> 01:13:02,792
+Tidak. Karena jutaan orang
+akan mati.
+
+1181
+01:13:04,252 --> 01:13:05,753
+Salah satunya putriku.
+
+1182
+01:13:35,120 --> 01:13:36,204
+Celaka.
+
+1183
+01:13:46,882 --> 01:13:49,010
+Ruang tunggu Presiden di sebelah kiri.
+
+1184
+01:13:49,176 --> 01:13:50,553
+Kita temui dia di sana.
+
+1185
+01:13:52,263 --> 01:13:53,265
+Proyek Zeus.
+
+1186
+01:13:54,016 --> 01:13:55,434
+Cheng mengatakan hal lain?
+
+1187
+01:13:58,562 --> 01:13:59,646
+Cheng?
+
+1188
+01:14:08,823 --> 01:14:11,200
+<i>Namun, presiden ini tahu</i>
+<i>harapan bukanlah rencana.</i>
+
+1189
+01:14:11,367 --> 01:14:12,661
+<i>Presiden ini tahu...</i>
+
+1190
+01:14:12,828 --> 01:14:14,413
+<i>meski telah melewati banyak hal...</i>
+
+1191
+01:14:14,580 --> 01:14:16,623
+<i>masih banyak yang perlu dikerjakan.</i>
+
+1192
+01:14:18,500 --> 01:14:20,377
+<i>Berusaha menyelamatkan planet kita...</i>
+
+1193
+01:14:21,254 --> 01:14:24,257
+<i>adalah prioritas utama saya</i>
+<i>sebagai wakil presiden.</i>
+
+1194
+01:14:24,424 --> 01:14:25,508
+WAKIL PRESIDEN
+MILLER
+
+1195
+01:14:25,675 --> 01:14:27,802
+<i>Ini batu loncatan menuju kesuksesan...</i>
+
+1196
+01:14:28,428 --> 01:14:32,600
+<i>dan kebesaran yang akan dinikmati</i>
+<i>oleh generasi masa depan kita.</i>
+
+1197
+01:14:32,767 --> 01:14:33,601
+Permisi.
+
+1198
+01:14:33,768 --> 01:14:36,437
+<i>Karena itu saya di sini</i>
+<i>bersama Juru Bicara Gedung Putih...</i>
+
+1199
+01:14:36,604 --> 01:14:40,317
+<i>Wakil Ketua Senat,</i>
+<i>dan seluruh kabinet Presiden Palma.</i>
+
+1200
+01:14:40,817 --> 01:14:42,527
+<i>Kami bersatu dalam mendukung...</i>
+
+1201
+01:14:42,694 --> 01:14:44,029
+Jangan biarkan Palma pergi.
+
+1202
+01:14:44,196 --> 01:14:45,614
+- Ya, Pak.
+- Ayo.
+
+1203
+01:14:50,078 --> 01:14:51,079
+Dari mana kau?
+
+1204
+01:14:51,245 --> 01:14:53,039
+Kemarilah.
+
+1205
+01:14:53,206 --> 01:14:55,083
+Bukan Presiden pelakunya,
+melainkan Dekkom.
+
+1206
+01:14:55,249 --> 01:14:57,210
+Dekkom? Tahu dari mana?
+
+1207
+01:14:57,377 --> 01:14:59,588
+Karena dia ingin membunuhku.
+
+1208
+01:14:59,755 --> 01:15:03,175
+Simulasi menunjukkan
+Orlando sasaran berikutnya.
+
+1209
+01:15:03,342 --> 01:15:05,511
+Di sini? Kenapa?
+
+1210
+01:15:05,677 --> 01:15:07,514
+Dekkom ingin Palma terjebak di sini.
+
+1211
+01:15:07,680 --> 01:15:10,850
+Dan semua penerus kepresidenan.
+
+1212
+01:15:12,852 --> 01:15:14,187
+Kita jadi mencuri kodenya?
+
+1213
+01:15:14,938 --> 01:15:18,067
+Presiden adalah kodenya.
+Kode biometrika.
+
+1214
+01:15:18,234 --> 01:15:20,486
+Jika Palma mati,
+Dutch Boy tak bisa dihentikan.
+
+1215
+01:15:20,653 --> 01:15:22,822
+Menculik Presiden.
+Itu langkah masuk akal.
+
+1216
+01:15:22,988 --> 01:15:24,782
+Itu satu-satunya cara.
+
+1217
+01:15:25,575 --> 01:15:27,744
+Kecuali kau mau mencuri
+jemari dan matanya.
+
+1218
+01:15:34,126 --> 01:15:35,837
+Kita pergi sekarang.
+
+1219
+01:15:36,003 --> 01:15:37,422
+Carikan mobil.
+
+1220
+01:15:38,381 --> 01:15:39,632
+Aku akan culik Presiden.
+
+1221
+01:15:40,174 --> 01:15:41,259
+Baiklah.
+
+1222
+01:15:41,426 --> 01:15:46,014
+<i>Program ini tidak mendapatkan</i>
+<i>dukungan internasional...</i>
+
+1223
+01:15:46,181 --> 01:15:50,519
+Penembak terlihat. Presiden dalam bahaya.
+Evakuasi ke lokasi aman Alpha.
+
+1224
+01:15:52,020 --> 01:15:52,980
+Bawa dia pergi!
+
+1225
+01:16:01,531 --> 01:16:02,908
+Cepat.
+
+1226
+01:16:12,335 --> 01:16:13,962
+Dinas Rahasia! Mundur!
+
+1227
+01:16:14,129 --> 01:16:15,213
+Kau lihat penembaknya?
+
+1228
+01:16:15,380 --> 01:16:17,632
+Balkon dekat pintu keluar!
+Dua orang bersenjata otomatis!
+
+1229
+01:16:18,091 --> 01:16:20,051
+- Aku urus! Kau jaga Presiden!
+- Kalian berdua...
+
+1230
+01:16:20,135 --> 01:16:21,762
+amankan pintu ini!
+Jangan ada yang masuk!
+
+1231
+01:16:21,846 --> 01:16:23,806
+Jangan ada yang lewat!
+Ruang perlindungan, Lammy.
+
+1232
+01:16:23,890 --> 01:16:24,891
+- Baik!
+- Kalian berdua...
+
+1233
+01:16:24,974 --> 01:16:26,517
+kosongkan pintu keluar darurat!
+
+1234
+01:16:33,942 --> 01:16:35,110
+Maaf, Pak Presiden.
+
+1235
+01:16:35,736 --> 01:16:37,237
+Kau harus ikut aku.
+
+1236
+01:16:40,033 --> 01:16:41,493
+Pintu ini ditutup!
+
+1237
+01:16:42,202 --> 01:16:43,536
+<i>Harap tenang.</i>
+
+1238
+01:16:46,456 --> 01:16:48,291
+Serius? Taksi otomatis?
+
+1239
+01:16:48,458 --> 01:16:50,669
+Dana mencurinya dari jauh.
+Hanya ini yang bisa kudapat.
+
+1240
+01:16:50,836 --> 01:16:51,837
+Ada apa ini, Lawson?
+
+1241
+01:16:52,004 --> 01:16:54,548
+Aku akan jelaskan semuanya di mobil, Pak.
+
+1242
+01:16:54,673 --> 01:16:57,259
+Waktu kita sedikit, Pak!
+
+1243
+01:17:13,528 --> 01:17:14,987
+Ayo terus! Pergi ke pesawat!
+
+1244
+01:17:16,573 --> 01:17:17,658
+Ayo terus!
+
+1245
+01:17:17,824 --> 01:17:18,951
+Cepat!
+
+1246
+01:17:19,952 --> 01:17:23,997
+<i>Waktu menjelang badai bumi, 55 menit.</i>
+
+1247
+01:17:43,060 --> 01:17:46,189
+Aku sulit mendengarmu.
+Badai menimbulkan banyak gangguan.
+
+1248
+01:17:46,356 --> 01:17:49,901
+Dinas Rahasia akan melacak
+suar di HoloFrame Presiden.
+
+1249
+01:17:50,068 --> 01:17:51,778
+Temukan dia sebelum mereka.
+
+1250
+01:17:51,945 --> 01:17:54,865
+Dia tidak boleh keluar dari Orlando.
+
+1251
+01:17:55,324 --> 01:17:57,827
+<i>Orang kita di stasiun luar angkasa</i>
+<i>mengerjakan tugasnya.</i>
+
+1252
+01:17:57,994 --> 01:18:00,246
+<i>- Kini kerjakan tugasmu.</i>
+- Mengerti.
+
+1253
+01:18:05,752 --> 01:18:08,088
+- Dekkom?
+- Ini senjata yang sempurna, Pak.
+
+1254
+01:18:08,255 --> 01:18:09,965
+Dekkom ingin mengubah peta dunia.
+
+1255
+01:18:10,674 --> 01:18:12,260
+Lalu? Menyalahkan gangguan komputer?
+
+1256
+01:18:12,427 --> 01:18:14,971
+Itu dan presiden yang mati.
+
+1257
+01:18:15,138 --> 01:18:19,058
+Dia akan memimpin setelah membunuh
+semua penerus presiden.
+
+1258
+01:18:29,403 --> 01:18:30,530
+Astaga.
+
+1259
+01:18:51,178 --> 01:18:53,096
+- Berlindung! Ke bawah jembatan.
+- Baik.
+
+1260
+01:19:15,371 --> 01:19:18,750
+MOSKWA, RUSIA
+
+1261
+01:19:35,017 --> 01:19:37,437
+Kau menuduh Menlu terlibat.
+
+1262
+01:19:37,604 --> 01:19:38,897
+Kau sadar kau sedang...
+
+1263
+01:19:39,064 --> 01:19:40,857
+Berkhianat. Ya.
+Aku menculik Presiden.
+
+1264
+01:19:41,024 --> 01:19:43,610
+Aku mencuri rahasia negara.
+Ada yang lupa, Sayang?
+
+1265
+01:19:45,113 --> 01:19:46,322
+Sayang?
+
+1266
+01:19:46,739 --> 01:19:47,740
+Bersalah.
+
+1267
+01:19:47,907 --> 01:19:49,575
+Dekkom merencanakan ini
+bertahun-tahun.
+
+1268
+01:19:49,742 --> 01:19:51,619
+Jadwal Presiden selalu berubah.
+
+1269
+01:19:51,786 --> 01:19:53,956
+Dia yakin jadwal yang ini
+tidak berubah.
+
+1270
+01:19:54,123 --> 01:19:57,584
+Menyuruhku dan kakakku memimpin
+penyelidikan adalah jebakan.
+
+1271
+01:19:57,751 --> 01:19:58,836
+Pikirkan.
+
+1272
+01:19:59,002 --> 01:20:00,671
+Dia menugaskan kami untuk gagal.
+
+1273
+01:20:02,339 --> 01:20:03,466
+Merunduk!
+
+1274
+01:20:50,602 --> 01:20:52,187
+Katanya kita aman...
+
+1275
+01:20:52,353 --> 01:20:53,772
+di persimpangan
+Jalan Raya 4 dan 91!
+
+1276
+01:20:57,567 --> 01:20:59,445
+Biar aku urus mereka dahulu.
+
+1277
+01:21:13,877 --> 01:21:14,878
+Berpeganglah!
+
+1278
+01:21:16,379 --> 01:21:17,215
+Tidak!
+
+1279
+01:21:22,303 --> 01:21:23,471
+Nikahi dia.
+
+1280
+01:22:01,137 --> 01:22:02,180
+Kami aman di sini.
+
+1281
+01:22:02,347 --> 01:22:06,269
+<i>Badai kilat di Orlando menyebabkan</i>
+<i>ledakan mengerikan di DNC.</i>
+
+1282
+01:22:07,061 --> 01:22:09,939
+<i>Tidak ada kabar resmi</i>
+<i>tentang keberadaan Presiden...</i>
+
+1283
+01:22:10,106 --> 01:22:12,191
+Aku tidak tahu.
+
+1284
+01:22:13,151 --> 01:22:15,320
+Aku tak bisa menghubungi Jake.
+
+1285
+01:22:15,487 --> 01:22:18,740
+<i>Dan ada laporan terjadi ledakan</i>
+<i>di stasiun luar angkasa.</i>
+
+1286
+01:22:18,907 --> 01:22:22,161
+Sayang, badai Orlando mendekati
+rumah ayahmu.
+
+1287
+01:22:22,328 --> 01:22:26,082
+Ibu tak bisa menghubunginya.
+Apa dia kirim SMS?
+
+1288
+01:22:26,249 --> 01:22:27,500
+Ayah tidak di sana.
+
+1289
+01:22:29,127 --> 01:22:30,253
+Ayah di sana.
+
+1290
+01:22:32,047 --> 01:22:34,550
+<i>Persoalan besar di stasiun luar angkasa.</i>
+
+1291
+01:22:39,221 --> 01:22:43,226
+<i>Perhatian, Seluruh Awak.</i>
+<i>Harap naik ke pesawat terakhir.</i>
+
+1292
+01:22:49,525 --> 01:22:53,404
+<i>Harap segera naik ke pesawat evakuasi.</i>
+
+1293
+01:22:53,571 --> 01:22:56,449
+<i>Peluncuran pesawat dimulai.</i>
+
+1294
+01:22:56,949 --> 01:22:57,950
+Jake.
+
+1295
+01:22:58,660 --> 01:23:00,579
+- Aku tidak ikut.
+- Apa?
+
+1296
+01:23:01,038 --> 01:23:02,956
+Begitu adikku dapat kode penutup...
+
+1297
+01:23:03,123 --> 01:23:05,709
+- harus ada yang jalankan programnya.
+- Tidak. Kita harus pergi.
+
+1298
+01:23:05,876 --> 01:23:07,419
+Sudah berjam-jam
+tak ada kabar darinya.
+
+1299
+01:23:07,544 --> 01:23:08,922
+Aku percaya kepadanya.
+
+1300
+01:23:09,088 --> 01:23:11,633
+Kau tahu pengulangan
+harus dilakukan secara manual.
+
+1301
+01:23:11,799 --> 01:23:13,134
+Aku saja. Aku komandan di sini.
+
+1302
+01:23:13,301 --> 01:23:14,552
+Tidak.
+
+1303
+01:23:15,136 --> 01:23:17,890
+Adikku hanya percayakan
+kodenya kepadaku...
+
+1304
+01:23:18,891 --> 01:23:20,309
+jadi, aku butuh HoloFrame milikmu.
+
+1305
+01:23:25,064 --> 01:23:27,609
+Harus dimasukkan secara manual
+ke inti kerangka utama.
+
+1306
+01:23:29,444 --> 01:23:30,737
+Kau bisa menemukannya?
+
+1307
+01:23:31,279 --> 01:23:32,572
+- Ya.
+- Bagus.
+
+1308
+01:23:36,285 --> 01:23:37,578
+Selamat jalan, Ute.
+
+1309
+01:23:39,246 --> 01:23:41,332
+Selamat tinggal, Jake.
+
+1310
+01:23:50,676 --> 01:23:51,969
+Menepi di sini.
+
+1311
+01:23:52,469 --> 01:23:55,014
+Suar Presiden menunjukkan
+dia ke arah kita.
+
+1312
+01:23:59,143 --> 01:24:00,895
+Kau mau kembali ke sana?
+
+1313
+01:24:01,062 --> 01:24:05,359
+Setelah badai reda,
+aku satu-satunya yang selamat...
+
+1314
+01:24:05,526 --> 01:24:09,071
+siap untuk dilantik menjadi
+Presiden Amerika Serikat.
+
+1315
+01:24:20,417 --> 01:24:21,752
+Mereka datang.
+
+1316
+01:24:28,592 --> 01:24:29,427
+Tembak.
+
+1317
+01:24:56,540 --> 01:24:59,294
+Pikirmu hanya Presiden
+yang bisa dilacak?
+
+1318
+01:25:08,179 --> 01:25:10,014
+- Bagaimana kau bisa...
+- Bagaimana?
+
+1319
+01:25:10,473 --> 01:25:13,851
+Karena aku Presiden Amerika Serikat.
+
+1320
+01:25:14,018 --> 01:25:15,728
+Tamatlah riwayatmu, Leonard.
+
+1321
+01:25:21,651 --> 01:25:22,903
+Dia milikmu.
+
+1322
+01:25:28,076 --> 01:25:29,243
+Tunggu!
+
+1323
+01:25:29,410 --> 01:25:31,496
+Aku memberimu peluang, Pak Presiden.
+
+1324
+01:25:31,662 --> 01:25:33,206
+Seharusnya kau ambil.
+
+1325
+01:25:33,372 --> 01:25:34,916
+Peluang? Lepaskan dia!
+
+1326
+01:25:36,043 --> 01:25:37,211
+Ini pembantaian, Leonard!
+
+1327
+01:25:37,377 --> 01:25:40,089
+Bagimu pembantaian,
+bagiku tindak pencegahan.
+
+1328
+01:25:40,255 --> 01:25:41,256
+Kau sudah gila!
+
+1329
+01:25:41,715 --> 01:25:44,760
+Besok matahari akan terbit.
+Semua musuh kita akan musnah.
+
+1330
+01:25:45,136 --> 01:25:47,680
+Dihapus seolah-olah
+oleh tangan Tuhan.
+
+1331
+01:25:49,474 --> 01:25:50,767
+Kenapa kau melakukan ini?
+
+1332
+01:25:50,934 --> 01:25:52,811
+Karena tak ada yang mau melakukannya.
+
+1333
+01:25:52,977 --> 01:25:55,147
+Aku memutar waktu
+kembali ke 1945...
+
+1334
+01:25:55,314 --> 01:25:59,693
+ketika Amerika menjadi terang dunia,
+bukan bank yang menyamar jadi negara.
+
+1335
+01:25:59,860 --> 01:26:00,820
+Dengan menjadi Tuhan?
+
+1336
+01:26:00,986 --> 01:26:03,865
+Apa gunanya Dutch Boy
+jika bukan untuk menjadi Tuhan?
+
+1337
+01:26:04,032 --> 01:26:05,700
+Tanya Max. Dia tahu.
+
+1338
+01:26:05,867 --> 01:26:07,744
+Inti ilmu pengetahuan
+ialah menjadi Tuhan.
+
+1339
+01:26:07,911 --> 01:26:10,330
+Terkadang Tuhan memakai kekerasan.
+
+1340
+01:26:11,123 --> 01:26:13,167
+Tahu kakakku akan bilang apa?
+
+1341
+01:26:13,334 --> 01:26:14,168
+Apa?
+
+1342
+01:26:21,050 --> 01:26:22,553
+Bawa dia pergi!
+
+1343
+01:26:24,596 --> 01:26:25,889
+Ayo, Lawson!
+
+1344
+01:26:27,933 --> 01:26:30,102
+Itu tunanganku.
+
+1345
+01:26:33,523 --> 01:26:37,068
+DUBAI, UNI EMIRAT ARAB
+
+1346
+01:27:17,989 --> 01:27:23,203
+CAPE CANAVERAL, FLORIDA
+PUSAT LUAR ANGKASA KENNEDY
+
+1347
+01:27:25,872 --> 01:27:28,042
+Bawa Presiden ke tempat aman!
+
+1348
+01:27:31,712 --> 01:27:35,257
+WAKTU MENJELANG BADAI BUMI
+
+1349
+01:27:35,424 --> 01:27:36,968
+Pak Presiden.
+
+1350
+01:27:37,260 --> 01:27:38,345
+Kami dapat kode penutup.
+
+1351
+01:27:38,511 --> 01:27:40,472
+Cepatlah. Stasiun mati total.
+
+1352
+01:27:40,639 --> 01:27:41,765
+Awaknya bagaimana?
+
+1353
+01:27:41,932 --> 01:27:42,891
+Aman.
+
+1354
+01:27:43,058 --> 01:27:44,935
+Namun, Jake memutuskan tinggal.
+
+1355
+01:27:45,102 --> 01:27:47,271
+Untuk melakukan
+pengulangan sistem satelit.
+
+1356
+01:27:48,272 --> 01:27:49,857
+Kakakmu menunggu.
+
+1357
+01:27:51,150 --> 01:27:53,027
+Ayo.
+
+1358
+01:27:55,405 --> 01:27:57,157
+<i>Memulai konferensi virtual.</i>
+
+1359
+01:27:57,324 --> 01:27:58,158
+Hei.
+
+1360
+01:28:00,577 --> 01:28:01,495
+<i>Jake.</i>
+
+1361
+01:28:02,204 --> 01:28:03,665
+<i>Jake, pelakunya Dekkom.</i>
+
+1362
+01:28:04,374 --> 01:28:06,584
+Kubilang mungkin aku salah.
+
+1363
+01:28:07,335 --> 01:28:08,336
+<i>Pak Presiden.</i>
+
+1364
+01:28:10,213 --> 01:28:11,256
+Bagaimana Hannah?
+
+1365
+01:28:11,422 --> 01:28:12,548
+Dia aman.
+
+1366
+01:28:12,715 --> 01:28:14,051
+<i>Atlanta tidak dilanda badai.</i>
+
+1367
+01:28:14,510 --> 01:28:15,636
+<i>Syukurlah.</i>
+
+1368
+01:28:16,971 --> 01:28:20,057
+<i>Identitas diterima.</i>
+<i>Memulai pemindahan protokol penutupan.</i>
+
+1369
+01:28:20,224 --> 01:28:22,017
+Butuh 60 detik untuk mengunggah.
+
+1370
+01:28:22,560 --> 01:28:23,895
+Berapa lama lagi sebelum meledak?
+
+1371
+01:28:24,229 --> 01:28:25,313
+Delapan menit...
+
+1372
+01:28:25,689 --> 01:28:26,606
+kurang lebih.
+
+1373
+01:28:26,773 --> 01:28:27,857
+<i>Pak Lawson...</i>
+
+1374
+01:28:28,817 --> 01:28:31,236
+<i>terima kasih atas pengorbananmu.</i>
+
+1375
+01:28:37,868 --> 01:28:39,745
+<i>Tunggu. Apa yang terjadi?</i>
+
+1376
+01:28:39,912 --> 01:28:41,540
+Kau mengerjakan bagianmu, Max.
+
+1377
+01:28:41,707 --> 01:28:43,041
+Jake, ada apa?
+
+1378
+01:28:43,208 --> 01:28:44,668
+Giliranku melakukan bagianku.
+
+1379
+01:28:46,795 --> 01:28:48,171
+Tidak, tidak.
+
+1380
+01:28:48,505 --> 01:28:51,050
+Kode penutup
+tidak menghentikan peledakan, ya?
+
+1381
+01:28:52,468 --> 01:28:53,678
+Benar?
+
+1382
+01:28:55,096 --> 01:28:55,930
+Tidak...
+
+1383
+01:28:56,097 --> 01:28:57,307
+hanya badai bumi.
+
+1384
+01:28:57,473 --> 01:29:00,102
+Peledakan stasiun tak bisa dibatalkan.
+
+1385
+01:29:01,520 --> 01:29:04,189
+Ayolah. Pasti ada cara.
+
+1386
+01:29:04,773 --> 01:29:06,859
+Ini salahku.
+Aku yang mengirimmu ke situ!
+
+1387
+01:29:07,026 --> 01:29:08,570
+Tidak apa-apa.
+
+1388
+01:29:09,946 --> 01:29:12,365
+Aku ingin pergi. Ini pilihanku.
+
+1389
+01:29:14,326 --> 01:29:15,618
+Tuhan tahu...
+
+1390
+01:29:16,119 --> 01:29:18,205
+aku tidak selalu membuat
+keputusan benar.
+
+1391
+01:29:20,541 --> 01:29:22,335
+Kau benar, Adik.
+
+1392
+01:29:25,212 --> 01:29:27,215
+Mestinya aku menjagamu.
+
+1393
+01:29:30,385 --> 01:29:32,304
+Namun, kaulah yang menjagaku.
+
+1394
+01:29:36,601 --> 01:29:37,894
+Kau bisa memaafkanku?
+
+1395
+01:29:38,895 --> 01:29:40,355
+Ya, selalu.
+
+1396
+01:29:42,607 --> 01:29:44,192
+Jagalah anakku.
+
+1397
+01:29:45,903 --> 01:29:47,738
+Hadirlah dalam hidupnya.
+
+1398
+01:29:48,280 --> 01:29:49,281
+Pasti.
+
+1399
+01:29:52,493 --> 01:29:54,537
+Seharusnya kita melakukan ini
+sedari dahulu.
+
+1400
+01:29:54,913 --> 01:29:55,914
+Ya.
+
+1401
+01:29:57,707 --> 01:29:59,167
+Kau orang yang baik, Jake.
+
+1402
+01:30:00,502 --> 01:30:01,669
+Selamat tinggal, Adik.
+
+1403
+01:30:03,671 --> 01:30:05,049
+<i>Pemindahan selesai.</i>
+
+1404
+01:30:11,680 --> 01:30:15,936
+<i>Waktu menjelang badai bumi,</i>
+<i>lima menit, 51 detik.</i>
+
+1405
+01:30:38,544 --> 01:30:41,589
+<i>Peringatan. Rotasi inti dihentikan.</i>
+
+1406
+01:30:44,384 --> 01:30:46,594
+<i>Kita tak tahu</i>
+<i>apa yang terjadi di atas sana.</i>
+
+1407
+01:30:46,761 --> 01:30:50,808
+<i>Yang kita tahu stasiunnya mengalami</i>
+<i>kecelakaan fatal.</i>
+
+1408
+01:30:51,350 --> 01:30:54,562
+<i>Kami dengar sudah tidak dapat</i>
+<i>diperbaiki atau diselamatkan.</i>
+
+1409
+01:30:55,521 --> 01:30:56,480
+Sayang.
+
+1410
+01:30:56,647 --> 01:30:57,982
+Ayah akan pulang.
+
+1411
+01:30:59,234 --> 01:31:00,443
+Ayah sudah berjanji.
+
+1412
+01:31:00,610 --> 01:31:03,572
+<i>Kami akan mengabari</i>
+<i>jika ada perkembangan baru.</i>
+
+1413
+01:31:10,746 --> 01:31:14,208
+WAKTU MENJELANG BADAI BUMI
+
+1414
+01:31:24,595 --> 01:31:27,724
+<i>Peledakan memasuki tahap empat.</i>
+
+1415
+01:31:42,823 --> 01:31:43,782
+<i>Kode salah.</i>
+
+1416
+01:31:43,949 --> 01:31:44,783
+TERKUNCI
+
+1417
+01:31:47,621 --> 01:31:48,914
+<i>Kode salah.</i>
+
+1418
+01:31:50,207 --> 01:31:51,333
+<i>Butuh bantuan?</i>
+
+1419
+01:31:56,380 --> 01:31:57,590
+<i>Salah pintu.</i>
+
+1420
+01:32:02,136 --> 01:32:03,221
+<i>Kenapa kau di sini?</i>
+
+1421
+01:32:03,387 --> 01:32:05,724
+<i>Sudah kubilang.</i>
+<i>Aku tinggal di sini.</i>
+
+1422
+01:32:18,404 --> 01:32:21,574
+<i>Waktu menjelang badai bumi,</i>
+<i>satu menit, 40 detik.</i>
+
+1423
+01:32:31,460 --> 01:32:34,464
+ANTARMUKA TERDETEKSI
+
+1424
+01:32:35,257 --> 01:32:36,883
+<i>Mengunggah kode penutup.</i>
+
+1425
+01:32:54,069 --> 01:32:56,613
+<i>Penutupan satelit dimulai.</i>
+
+1426
+01:32:59,701 --> 01:33:02,745
+<i>Ketika siklus satelit terakhir berhenti,</i>
+<i>kabari aku.</i>
+
+1427
+01:33:03,037 --> 01:33:05,832
+<i>Aku akan mengulang seluruh sistem</i>
+<i>secara manual.</i>
+
+1428
+01:33:05,999 --> 01:33:07,959
+<i>- Itu akan membersihkan virusnya.</i>
+<i>- Baik.</i>
+
+1429
+01:33:09,962 --> 01:33:11,005
+DAYA MENYALA
+
+1430
+01:33:31,610 --> 01:33:32,945
+<i>Lima lagi.</i>
+
+1431
+01:33:38,535 --> 01:33:39,536
+<i>Tiga.</i>
+
+1432
+01:33:39,703 --> 01:33:41,204
+<i>- Ayolah.</i>
+<i>- Dua.</i>
+
+1433
+01:33:42,998 --> 01:33:43,874
+<i>Dan satu.</i>
+
+1434
+01:33:46,627 --> 01:33:48,046
+<i>Pengulangan manual diaktifkan.</i>
+
+1435
+01:34:03,812 --> 01:34:07,192
+PERINGATAN BADAI BUMI
+
+1436
+01:34:10,278 --> 01:34:11,946
+<i>Status, mengulang.</i>
+
+1437
+01:34:12,280 --> 01:34:13,908
+<i>Jaringan kembali. Virusnya hilang.</i>
+
+1438
+01:34:13,991 --> 01:34:14,992
+PENGULANGAN SISTEM DALAM PROSES
+
+1439
+01:34:16,118 --> 01:34:17,828
+<i>Kendali jaringan</i>
+<i>dikembalikan ke NASA.</i>
+
+1440
+01:34:17,912 --> 01:34:19,330
+KENDALI JARINGAN SATELIT
+DIPINDAHKAN
+
+1441
+01:34:21,207 --> 01:34:23,668
+KENDALI JARINGAN SATELIT
+PEMINDAHAN SELESAI
+
+1442
+01:34:32,804 --> 01:34:33,763
+<i>Jake!</i>
+
+1443
+01:34:42,940 --> 01:34:44,024
+<i>Aku memegangmu!</i>
+
+1444
+01:34:44,191 --> 01:34:48,070
+<i>Peringatan.</i>
+<i>Peledakan memasuki tahap akhir.</i>
+
+1445
+01:34:56,663 --> 01:34:57,872
+<i>Kursi penonton terbaik.</i>
+
+1446
+01:35:08,217 --> 01:35:09,219
+<i>Ute...</i>
+
+1447
+01:35:11,805 --> 01:35:13,557
+<i>kau percaya akan doa di saat terakhir?</i>
+
+1448
+01:35:15,267 --> 01:35:17,769
+<i>Ikuti aku. Kita harus ke satelit.</i>
+
+1449
+01:35:57,230 --> 01:35:58,231
+<i>Aku memegangmu.</i>
+
+1450
+01:36:03,570 --> 01:36:06,991
+<i>Kita harus sejauh mungkin</i>
+<i>sebelum ledakan terakhir.</i>
+
+1451
+01:36:08,201 --> 01:36:09,327
+<i>Melepaskan pengunci.</i>
+
+1452
+01:36:30,350 --> 01:36:33,437
+PELEDAKAN DIRI SELESAI
+
+1453
+01:36:48,828 --> 01:36:52,375
+<i>Tampaknya stasiun luar angkasa</i>
+<i>sudah hancur.</i>
+
+1454
+01:36:52,542 --> 01:36:55,795
+<i>Akhir yang tragis bagi dua pahlawan</i>
+<i>yang masih di stasiun.</i>
+
+1455
+01:37:10,853 --> 01:37:12,480
+Max, lihatlah.
+
+1456
+01:37:15,608 --> 01:37:16,943
+Aku mendeteksi suar...
+
+1457
+01:37:18,152 --> 01:37:21,448
+dan berkedip dalam pola Mayday.
+
+1458
+01:37:29,874 --> 01:37:32,085
+Coba putar salah satu pesawat.
+
+1459
+01:37:42,179 --> 01:37:44,265
+<i>Semoga ada yang melihat ini.</i>
+
+1460
+01:37:48,103 --> 01:37:49,605
+<i>Semoga saja.</i>
+
+1461
+01:38:22,390 --> 01:38:24,810
+<i>Hernandez, kau kurang ajar!</i>
+
+1462
+01:38:25,227 --> 01:38:26,479
+Untung ada orang Meksiko.
+
+1463
+01:38:44,832 --> 01:38:47,251
+Kemari. Bagus!
+
+1464
+01:39:18,369 --> 01:39:19,371
+PESAWAT MENDARAT DENGAN AMAN
+
+1465
+01:39:19,538 --> 01:39:21,123
+<i>Sebuah keajaiban.</i>
+
+1466
+01:39:21,540 --> 01:39:25,085
+<i>Pesawat ini membawa pulang</i>
+<i>semua awak ISS...</i>
+
+1467
+01:39:25,252 --> 01:39:26,962
+<i>yang tinggal di stasiun.</i>
+
+1468
+01:39:41,603 --> 01:39:45,315
+Hai, Jake. Aku Sarah, tunangan Max.
+
+1469
+01:39:45,733 --> 01:39:47,318
+Selamat bergabung dalam keluarga.
+
+1470
+01:39:47,485 --> 01:39:49,821
+Selamat untuk kalian berdua.
+
+1471
+01:39:50,572 --> 01:39:52,449
+Maaf aku meragukanmu, Pak Presiden.
+
+1472
+01:39:52,615 --> 01:39:55,368
+Kau salah, Jake, lagi.
+
+1473
+01:39:55,536 --> 01:39:57,705
+Berapa kali aku harus bilang?
+
+1474
+01:39:57,997 --> 01:39:59,206
+Jangan dengarkan aku.
+
+1475
+01:40:07,924 --> 01:40:09,593
+Senang kau kembali.
+
+1476
+01:40:09,760 --> 01:40:10,927
+Senang bisa kembali.
+
+1477
+01:40:31,200 --> 01:40:36,581
+ENAM BULAN KEMUDIAN
+
+1478
+01:40:36,748 --> 01:40:38,792
+Rumahmu bagus, Jake.
+
+1479
+01:40:39,584 --> 01:40:40,668
+Terima kasih.
+
+1480
+01:40:42,004 --> 01:40:43,714
+Kapan kembali ke angkasa luar?
+
+1481
+01:40:44,715 --> 01:40:46,133
+- Seminggu lagi.
+- Oh, ya?
+
+1482
+01:40:46,550 --> 01:40:48,344
+Ya, ada banyak pekerjaan.
+
+1483
+01:40:49,553 --> 01:40:50,972
+Namun, aku akan kembali.
+
+1484
+01:40:52,808 --> 01:40:54,059
+Aku tahu.
+
+1485
+01:41:03,986 --> 01:41:05,905
+- Ini menyebalkan.
+- Ya, membosankan.
+
+1486
+01:41:06,072 --> 01:41:08,157
+Aku tidak tahan lagi.
+
+1487
+01:41:08,324 --> 01:41:09,952
+Tadinya kenapa ingin melakukan ini?
+
+1488
+01:41:10,118 --> 01:41:12,079
+Mengenang momen itu.
+
+1489
+01:41:12,246 --> 01:41:13,914
+Momen apa?
+
+1490
+01:41:14,081 --> 01:41:16,750
+Kita tak memancing dengan Ayah.
+Kau mengarang cerita itu.
+
+1491
+01:41:16,917 --> 01:41:18,669
+Ya, tetapi ceritanya bagus, bukan?
+
+1492
+01:41:18,837 --> 01:41:20,255
+Kau harus akui itu.
+
+1493
+01:41:20,421 --> 01:41:22,298
+Ceritanya mengandung moral.
+
+1494
+01:41:22,465 --> 01:41:24,259
+Moral apa?
+
+1495
+01:41:28,180 --> 01:41:29,849
+<i>Kita tak bisa mengubah masa lalu.</i>
+
+1496
+01:41:30,015 --> 01:41:32,017
+<i>Kita hanya bisa menghadapi</i>
+<i>masa depan.</i>
+
+1497
+01:41:32,685 --> 01:41:36,105
+<i>NASA menjaga satelit sementara kami</i>
+<i>membangun kembali stasiun luar angkasa.</i>
+
+1498
+01:41:36,689 --> 01:41:41,444
+<i>Membuatnya lebih aman, lebih kuat.</i>
+<i>Itu milik kita semua sekarang.</i>
+
+1499
+01:41:41,820 --> 01:41:43,947
+<i>Satu planet, satu rakyat.</i>
+
+1500
+01:41:44,781 --> 01:41:49,954
+<i>Selama kita ingat bahwa kita berbagi</i>
+<i>satu masa depan, kita akan bertahan hidup.</i>
+
