@@ -1,0 +1,6086 @@
+1
+00:00:27,670 --> 00:00:30,994
+Bisnis ini adalah organisme hidup,
+
+2
+00:00:32,842 --> 00:00:35,707
+berkembang biak terus-menerus,
+dikelilingi oleh predator.
+
+3
+00:00:36,471 --> 00:00:40,087
+Tidak ada ruang
+untuk waktu menganggur atau menebak-nebak.
+
+4
+00:00:40,850 --> 00:00:42,673
+Penemuan baru dibuat setiap jam.
+
+5
+00:00:43,353 --> 00:00:46,855
+Ide-ide baru siap untuk dilahap
+dan didefinisikan ulang.
+
+6
+00:00:47,981 --> 00:00:49,303
+Bisnis ini biner.
+
+7
+00:00:50,317 --> 00:00:51,556
+Kita satu atau nol.
+
+8
+00:00:52,486 --> 00:00:54,684
+Hidup atau mati.
+
+9
+00:00:59,313 --> 00:01:01,065
+Gedung Ilmu Komputer
+
+10
+00:01:01,328 --> 00:01:03,330
+<i>Tidak ada tempat kedua.</i>
+
+11
+00:01:07,834 --> 00:01:09,836
+Media dan Kongres menyatakan...
+
+12
+00:01:09,920 --> 00:01:13,286
+bahwa kau melanggar UU Antipakat
+dan mengancam persaingan.
+
+13
+00:01:14,494 --> 00:01:18,832
+Pak Winston, dapatkah kau menyangkal
+bahwa kau memiliki monopoli di bidang ini?
+
+14
+00:01:19,011 --> 00:01:22,140
+Anggota Kongres, satu-satunya monopoli
+yang kami miliki di NURV...
+
+15
+00:01:22,223 --> 00:01:23,837
+adalah monopoli keunggulan.
+
+16
+00:01:24,087 --> 00:01:25,602
+<i>Ini masih pasar bebas.</i>
+
+17
+00:01:25,685 --> 00:01:28,300
+<i>Namun, pasar bebas mendorong persaingan.</i>
+
+18
+00:01:28,896 --> 00:01:30,135
+Kau mencegahnya.
+
+19
+00:01:30,773 --> 00:01:32,191
+Anggota Kongres, tak perlu kuingatkan...
+
+20
+00:01:32,274 --> 00:01:34,973
+bahwa esensi persaingan
+selalu cukup sederhana.
+
+21
+00:01:35,181 --> 00:01:38,226
+Anak mana pun yang bekerja
+di garasi mana pun...
+
+22
+00:01:38,435 --> 00:01:39,477
+<i>dengan ide bagus...</i>
+
+23
+00:01:39,560 --> 00:01:40,979
+dapat membuat kita gulung tikar.
+
+24
+00:01:44,357 --> 00:01:46,246
+<i>Kita bisa mencoba
+skema pemberitahuan terarah...</i>
+
+25
+00:01:46,330 --> 00:01:47,484
+untuk memilih utas terbaik.
+
+26
+00:01:49,125 --> 00:01:50,334
+Tunggu sebentar. Ke atas lagi.
+
+27
+00:01:50,417 --> 00:01:51,488
+Minggir.
+
+28
+00:01:51,876 --> 00:01:53,616
+Teddy, kurasa aku menemukan hambatan kita.
+
+29
+00:01:56,869 --> 00:01:57,702
+Lihat ini.
+
+30
+00:02:01,594 --> 00:02:03,263
+- Kau berhasil!
+- Ya!
+
+31
+00:02:04,431 --> 00:02:05,807
+Kau berhasil!
+
+32
+00:02:07,350 --> 00:02:09,547
+- Astaga, ini memuaskan.
+- Itu luar biasa.
+
+33
+00:02:10,478 --> 00:02:11,508
+Kita ahli komputer.
+
+34
+00:02:12,843 --> 00:02:15,970
+Teddy Chin, S1: Teknik Sistem Komputer,
+S1: Ilmu Komputer
+
+35
+00:02:18,820 --> 00:02:22,531
+Tiga bulan dari sekarang,
+NURV akan meluncurkan Synapse,
+
+36
+00:02:22,614 --> 00:02:25,104
+<i>mengubah cara manusia berkomunikasi.</i>
+
+37
+00:02:25,659 --> 00:02:29,901
+Dengan Synapse, seluruh dunia dapat
+mengirim atau menerima pesan apa pun,
+
+38
+00:02:30,122 --> 00:02:33,154
+baik itu audio, video, atau teks,
+pada media apa pun.
+
+39
+00:02:36,574 --> 00:02:40,119
+Synapse akan sepenuhnya menyatukan
+desa global.
+
+40
+00:02:47,431 --> 00:02:50,129
+Kau dikejar waktu, Gary.
+
+41
+00:02:50,421 --> 00:02:52,881
+Semua pesaingmu sangat ingin
+masuk ke lokapasar...
+
+42
+00:02:52,965 --> 00:02:54,592
+dengan teknologi ini sebelum kau.
+
+43
+00:02:54,897 --> 00:02:57,301
+Bahkan dikatakan
+bahwa kau tidak akan memenuhi...
+
+44
+00:02:57,386 --> 00:02:59,108
+tenggat peluncuran
+yang sangat ambisius ini.
+
+45
+00:02:59,192 --> 00:03:00,860
+Kami akan memenuhi tenggat itu. Pasti.
+
+46
+00:03:00,943 --> 00:03:01,807
+<i>Kenapa kau yakin?</i>
+
+47
+00:03:02,444 --> 00:03:04,643
+<i>Kami akan melakukan apa pun
+untuk sampai ke sana.</i>
+
+48
+00:03:04,726 --> 00:03:06,687
+Milo Hoffman, S1: Teknik Sistem Komputer
+
+49
+00:03:19,462 --> 00:03:20,617
+Bergeraklah, Brian.
+
+50
+00:03:23,299 --> 00:03:24,788
+Di sini.
+
+51
+00:03:26,385 --> 00:03:28,290
+- Milo, bagaimana?
+- Aku memang berjanji kepada ibuku...
+
+52
+00:03:28,374 --> 00:03:29,959
+kita akan membuat garasi ini terkenal,
+
+53
+00:03:30,292 --> 00:03:32,544
+tetapi kurasa kita
+tidak akan berada di sini selama itu.
+
+54
+00:03:33,350 --> 00:03:36,978
+Karena aku sudah mendapatkan
+tiga janji temu dengan pemodal ventura.
+
+55
+00:03:38,217 --> 00:03:39,718
+Itu luar biasa!
+
+56
+00:03:39,802 --> 00:03:42,818
+Aku bisa berhenti menerima telepon
+dari para perekrut perusahaan.
+
+57
+00:03:44,306 --> 00:03:45,516
+Aku yang akan bicara, Brian.
+
+58
+00:03:45,904 --> 00:03:48,060
+- Ini kemeja.
+- Kawan-Kawan, apa ini?
+
+59
+00:03:48,144 --> 00:03:50,687
+Kalian tak tahu makin buruk penampilanmu,
+makin pintar mereka menganggapmu?
+
+60
+00:03:50,771 --> 00:03:52,689
+Mereka akan menganggapmu genius, Brian.
+
+61
+00:03:52,773 --> 00:03:55,943
+Aku hanya bilang "Milo dan Teddy",
+lalu dompet mereka terbuka.
+
+62
+00:03:56,748 --> 00:03:58,237
+Mereka sangat ingin memberiku uang.
+
+63
+00:03:59,029 --> 00:04:00,918
+Kalian adalah duo terhebat...
+
+64
+00:04:01,001 --> 00:04:03,504
+sejak Hewlett dan Packard,
+Lennon dan McCartney.
+
+65
+00:04:03,783 --> 00:04:04,713
+Ben dan Jerry.
+
+66
+00:04:06,841 --> 00:04:08,371
+Aku Lennon. Sepakat, Teddy?
+
+67
+00:04:08,592 --> 00:04:09,956
+Apakah berarti aku Yoko?
+
+68
+00:04:14,265 --> 00:04:16,379
+Alice, kau harus buat dia
+memulai rintisan denganku dan Teddy.
+
+69
+00:04:16,463 --> 00:04:20,675
+Larry, jika dia ingin melakukan wawancara,
+melihat pilihannya,
+
+70
+00:04:20,967 --> 00:04:23,636
+sebagai temannya,
+kurasa kau harus mendukungnya.
+
+71
+00:04:26,514 --> 00:04:28,892
+Ingin tahu cara terbaik
+untuk memanipulasi seseorang?
+
+72
+00:04:29,517 --> 00:04:30,350
+Ya.
+
+73
+00:04:30,865 --> 00:04:31,852
+Jangan mencoba.
+
+74
+00:04:31,936 --> 00:04:35,605
+<i>Sebagai mahasiswa lulusan Departemen
+Ilmu Komputer Universitas Stanford,</i>
+
+75
+00:04:35,773 --> 00:04:38,609
+<i>kalian memiliki landasan teori
+yang luar biasa.</i>
+
+76
+00:04:39,151 --> 00:04:40,706
+<i>Yang kalian butuhkan adalah kreatif...</i>
+
+77
+00:04:40,790 --> 00:04:42,292
+Dia sangat sok.
+
+78
+00:04:42,375 --> 00:04:44,698
+- Dia fasis pelaku monopoli.
+- Tepat.
+
+79
+00:04:44,782 --> 00:04:47,129
+Pria itu tahu bagaimana
+menarik perhatian orang.
+
+80
+00:04:47,213 --> 00:04:48,965
+- Benar, Bung.
+- NURV...
+
+81
+00:04:49,048 --> 00:04:51,163
+Diam!
+
+82
+00:04:51,759 --> 00:04:52,706
+Aku ingin mendengarkan.
+
+83
+00:04:52,956 --> 00:04:54,249
+<i>Yang akan menjawab pertanyaan kalian.</i>
+
+84
+00:04:54,471 --> 00:04:56,001
+<i>Terima kasih telah menonton kami.</i>
+
+85
+00:04:56,723 --> 00:04:59,643
+<i>Semoga bisa melihat kalian
+di kampus NURV dalam waktu dekat.</i>
+
+86
+00:04:59,726 --> 00:05:00,797
+Pertanyaan. Keren.
+
+87
+00:05:00,881 --> 00:05:02,813
+- Aku punya pertanyaan untuknya.
+- Baiklah.
+
+88
+00:05:02,896 --> 00:05:04,980
+<i>Aku yakin ada yang ingin bertanya,
+silakan.</i>
+
+89
+00:05:05,064 --> 00:05:06,524
+<i>Kami tertarik pada orang yang ingin tahu.</i>
+
+90
+00:05:06,607 --> 00:05:09,234
+"Kenapa tidak menjadikan Synapse
+sumber terbuka?"
+
+91
+00:05:09,889 --> 00:05:11,777
+<i>Akan kujawab sebaik mungkin.</i>
+
+92
+00:05:11,862 --> 00:05:13,351
+"Apakah kalian tak punya cukup uang?"
+
+93
+00:05:13,810 --> 00:05:15,394
+- Bagus.
+<i>- Ini pertanyaan yang menarik.</i>
+
+94
+00:05:15,937 --> 00:05:18,702
+<i>"Minuman apa yang kalian tawarkan
+kepada pemrogrammu?"</i>
+
+95
+00:05:18,785 --> 00:05:19,815
+Ayolah!
+
+96
+00:05:19,899 --> 00:05:22,540
+- Apa yang kau harapkan?
+- Dia menghindari masalah ini, Bung.
+
+97
+00:05:22,623 --> 00:05:24,333
+Jadi calon presiden atau semacamnya saja.
+
+98
+00:05:24,416 --> 00:05:25,751
+Minuman pengubah pikiran.
+
+99
+00:05:25,834 --> 00:05:27,586
+Aku akan melempar ini padamu...
+
+100
+00:05:27,669 --> 00:05:29,450
+seperti yang orang lakukan
+di kebun binatang.
+
+101
+00:05:31,673 --> 00:05:32,506
+Keripik?
+
+102
+00:05:33,037 --> 00:05:33,870
+Halo?
+
+103
+00:05:35,260 --> 00:05:36,092
+Ini untukmu.
+
+104
+00:05:37,542 --> 00:05:38,501
+- Halo?
+<i>- Milo?</i>
+
+105
+00:05:39,096 --> 00:05:40,127
+<i>Ini Gary Winston.</i>
+
+106
+00:05:40,793 --> 00:05:42,712
+<i>Aku dengar banyak hal hebat
+tentang pekerjaanmu.</i>
+
+107
+00:05:42,838 --> 00:05:44,620
+<i>Kuharap kau dan temanmu Teddy
+bisa datang ke sini.</i>
+
+108
+00:05:44,704 --> 00:05:46,632
+Larry, kau masih menyimpan
+CD Union Jack-ku?
+
+109
+00:05:46,716 --> 00:05:49,010
+- Tidak, sudah kukembalikan.
+- Baik, aku tak tahu siapa ini,
+
+110
+00:05:49,094 --> 00:05:50,220
+tetapi waktumu tak tepat...
+
+111
+00:05:50,303 --> 00:05:52,180
+karena aku baru melihat dia
+di siaran langsung.
+
+112
+00:05:52,347 --> 00:05:53,180
+<i>Benar.</i>
+
+113
+00:05:53,389 --> 00:05:55,684
+<i>Dua tiket pesawat sedang dikirim kepadamu.</i>
+
+114
+00:05:55,892 --> 00:05:57,936
+<i>Aku ingin menunjukkan
+pekerjaan kami di sini.</i>
+
+115
+00:06:03,608 --> 00:06:04,442
+Siapa itu?
+
+116
+00:06:06,236 --> 00:06:07,112
+Gary Winston.
+
+117
+00:06:08,238 --> 00:06:09,072
+Itu pasti lucu.
+
+118
+00:06:09,823 --> 00:06:11,574
+Aku baru saja berbicara
+dengan Gary Winston?
+
+119
+00:06:14,827 --> 00:06:16,662
+Tidak kusangka kau tak mengambil tiketnya.
+
+120
+00:06:17,203 --> 00:06:19,510
+- Berikan kepadaku.
+- Kau tak ingin bekerja di sana, Brian.
+
+121
+00:06:19,594 --> 00:06:22,638
+Mereka membuat semua orang gulung tikar.
+Mereka menjadi lebih besar...
+
+122
+00:06:22,722 --> 00:06:24,433
+Itu sebabnya aku ingin bekerja di sana.
+
+123
+00:06:24,516 --> 00:06:26,213
+Kau yakin dia tidak meminta nomorku?
+
+124
+00:06:27,977 --> 00:06:29,425
+Milo, kita tidak bisa pergi ke sana.
+
+125
+00:06:29,884 --> 00:06:31,773
+Mereka bahkan tak tahu
+arti dari sumber terbuka.
+
+126
+00:06:31,856 --> 00:06:33,679
+Kau tahu ini.
+Kita sudah membicarakan hal ini.
+
+127
+00:06:33,816 --> 00:06:35,235
+Mereka hanya ingin memiliki segalanya.
+
+128
+00:06:35,318 --> 00:06:37,265
+Mereka mengklonakan barang,
+melakukan rekayasa balik.
+
+129
+00:06:37,349 --> 00:06:38,767
+- Aku tahu.
+- Semua orang terjebak...
+
+130
+00:06:38,851 --> 00:06:41,352
+dengan versi hak milik mereka
+yang lebih rendah.
+
+131
+00:06:41,770 --> 00:06:44,189
+Mereka bahkan sedang diselidiki
+oleh Departemen Kehakiman.
+
+132
+00:06:44,273 --> 00:06:45,273
+Katakan kepadanya, Larry.
+
+133
+00:06:45,773 --> 00:06:48,860
+Kurasa dia harus pergi ke sana dan melihat
+jika dia penasaran.
+
+134
+00:06:51,905 --> 00:06:54,878
+- Benarkah?
+- Tentu. Itu hidupmu.
+
+135
+00:06:56,964 --> 00:06:57,869
+Aku butuh bir lagi.
+
+136
+00:07:11,716 --> 00:07:14,510
+Jadi, kau tidak bisa meyakinkan
+temanmu Teddy untuk datang, ya?
+
+137
+00:07:15,345 --> 00:07:18,096
+Tidak. Dia cukup dekat
+dengan orang tuanya.
+
+138
+00:07:19,014 --> 00:07:21,141
+Kami bisa memindahkan mereka ke sini.
+Keluargamu juga.
+
+139
+00:07:21,433 --> 00:07:22,601
+Orang tuaku sudah meninggal.
+
+140
+00:07:23,531 --> 00:07:24,394
+Turut berduka, Milo.
+
+141
+00:07:25,491 --> 00:07:26,855
+Jadi, berapa jauh kampusnya?
+
+142
+00:07:27,439 --> 00:07:28,815
+Kita tidak akan pergi ke kampus.
+
+143
+00:08:07,908 --> 00:08:09,689
+Aku hanya bisa bilang sayang sekali.
+
+144
+00:08:09,814 --> 00:08:12,566
+Kita menawarkan sejumlah besar uang, Gary.
+
+145
+00:08:12,650 --> 00:08:14,735
+- Mereka tak mau.
+- Bisakah kita membeli saham mereka?
+
+146
+00:08:14,819 --> 00:08:16,486
+Apakah itu masalah
+Departemen Kehakiman juga?
+
+147
+00:08:16,570 --> 00:08:18,864
+Tidak ada saham, Randy.
+
+148
+00:08:19,282 --> 00:08:20,616
+Tidak ada perusahaan.
+
+149
+00:08:21,534 --> 00:08:23,243
+Kantor Gary Winston. Bisa tunggu sebentar?
+
+150
+00:08:24,953 --> 00:08:26,079
+Terima kasih sudah menunggu.
+
+151
+00:08:26,801 --> 00:08:28,999
+Ya, dia sedang rapat. Apakah ada pesan?
+
+152
+00:08:32,419 --> 00:08:34,379
+Kantor Gary Winston.
+Terima kasih sudah menunggu.
+
+153
+00:08:37,215 --> 00:08:40,135
+Fakta beratnya
+adalah segala sesuatu mungkin terjadi.
+
+154
+00:08:40,592 --> 00:08:41,802
+Apa pun.
+
+155
+00:08:41,885 --> 00:08:43,722
+Kalian hanya tidak berpikir kreatif.
+
+156
+00:08:44,014 --> 00:08:46,057
+Aku sangat yakin
+bahwa kau bisa melakukan itu, Phil.
+
+157
+00:08:46,265 --> 00:08:47,988
+Ini sulit, tetapi kita akan menang.
+
+158
+00:08:48,072 --> 00:08:49,769
+- Baik.
+- Baiklah.
+
+159
+00:08:51,200 --> 00:08:53,940
+Kantor Gary Winston. Biar aku periksa.
+
+160
+00:08:55,745 --> 00:08:57,538
+Maaf, tidak ada.
+
+161
+00:08:57,622 --> 00:08:58,455
+Milo?
+
+162
+00:09:00,738 --> 00:09:01,571
+Hai.
+
+163
+00:09:02,072 --> 00:09:04,158
+Tidak setiap hari
+kami kedatangan seorang genius.
+
+164
+00:09:05,701 --> 00:09:07,703
+- Ingin minuman bersoda?
+- Tidak, terima kasih.
+
+165
+00:09:07,995 --> 00:09:08,828
+Masuklah.
+
+166
+00:09:17,851 --> 00:09:19,006
+Kanvas digital.
+
+167
+00:09:19,298 --> 00:09:22,091
+Rumah ini tahu lukisan yang aku suka.
+Ia tahu musik favoritku.
+
+168
+00:09:22,439 --> 00:09:24,190
+Sama untuk orang lain yang ada di sistem.
+
+169
+00:09:24,274 --> 00:09:26,597
+Ada sensor kecil yang mendeteksi
+siapa yang ada di ruangan.
+
+170
+00:09:27,222 --> 00:09:29,098
+Bukankah Bill Gates memiliki
+benda seperti itu?
+
+171
+00:09:30,308 --> 00:09:31,141
+Bill siapa?
+
+172
+00:09:32,852 --> 00:09:34,771
+Tidak. Miliknya primitif.
+
+173
+00:09:35,855 --> 00:09:37,774
+Aku tahu kau berpikir
+untuk membuat rintisan.
+
+174
+00:09:39,316 --> 00:09:40,150
+Ya.
+
+175
+00:09:41,999 --> 00:09:45,948
+Aku dan teman-teman sudah lama berencana
+membuat sistem pengiriman media.
+
+176
+00:09:47,296 --> 00:09:50,035
+Itu akan menjadi sumber terbuka.
+Itu gratis untuk semua orang.
+
+177
+00:09:50,119 --> 00:09:51,871
+Cukup kenakan biaya untuk dukungan teknis.
+
+178
+00:09:52,508 --> 00:09:53,581
+Astaga, gratis.
+
+179
+00:09:54,999 --> 00:09:57,001
+Kita menjalani bisnis yang kejam, Milo.
+
+180
+00:09:57,848 --> 00:10:00,809
+Tahu-tahu seseorang "meminjam"
+teknologimu,
+
+181
+00:10:00,892 --> 00:10:02,923
+memperbaikinya, dan menghasilkan
+satu miliar dolar.
+
+182
+00:10:04,800 --> 00:10:07,052
+Apa yang akan kau lakukan
+dengan satu miliar dolar, Milo?
+
+183
+00:10:09,221 --> 00:10:10,054
+Entahlah.
+
+184
+00:10:10,180 --> 00:10:11,348
+Ini yang bisa kau lakukan.
+
+185
+00:10:12,015 --> 00:10:14,601
+Kau bisa mengambil uang itu,
+mengembalikannya ke teknologi,
+
+186
+00:10:14,976 --> 00:10:16,520
+pendidikan, seni.
+
+187
+00:10:17,020 --> 00:10:18,438
+Kau bisa mengubah budaya.
+
+188
+00:10:18,980 --> 00:10:22,401
+Aku mendanai perusahaan opera,
+orkestra simfoni, museum, teater.
+
+189
+00:10:22,567 --> 00:10:26,291
+Aku telah menyumbangkan ribuan komputer
+ke sekolah-sekolah di seluruh negeri.
+
+190
+00:10:26,375 --> 00:10:28,156
+Pertanyaannya sebenarnya,
+
+191
+00:10:28,573 --> 00:10:31,201
+berapa banyak orang
+yang kau bagikan penemuanmu...
+
+192
+00:10:31,368 --> 00:10:32,673
+tidak akan egoistis...
+
+193
+00:10:33,910 --> 00:10:37,123
+dan berapa banyak yang akan dapat untung
+dari kemurahan hatimu?
+
+194
+00:10:41,168 --> 00:10:42,044
+Ayo, masuk ke sini.
+
+195
+00:10:49,385 --> 00:10:50,219
+Lihat ini.
+
+196
+00:10:55,349 --> 00:10:57,268
+- Ini adalah satelit Synapse.
+- Benar.
+
+197
+00:10:58,227 --> 00:11:00,312
+Ada 240 satelit ini di atas sana.
+
+198
+00:11:02,910 --> 00:11:05,359
+Ada 12 pola orbit berbeda, 20 satelit.
+
+199
+00:11:05,693 --> 00:11:09,667
+Satelit induk tiap cincin melewati kita
+setiap malam pada pukul 22.00...
+
+200
+00:11:09,959 --> 00:11:12,740
+untuk pemeliharaan stasiun,
+pemrograman ulang, dan sebagainya.
+
+201
+00:11:13,032 --> 00:11:15,965
+Pada gilirannya, mereka meneruskan data
+ke satelit saudara di cincin mereka.
+
+202
+00:11:16,048 --> 00:11:18,329
+- Hal terkeren yang pernah kulihat.
+- Ini sangat menarikku.
+
+203
+00:11:18,413 --> 00:11:21,345
+Aku seperti memiliki kontrol misi sendiri
+di komputerku.
+
+204
+00:11:21,791 --> 00:11:24,627
+Kode aktivasi, alamat IP,
+jalur penerbangan.
+
+205
+00:11:25,266 --> 00:11:26,712
+Rancangan terbaik yang pernah ada, ya?
+
+206
+00:11:26,796 --> 00:11:27,629
+Tentu.
+
+207
+00:11:33,440 --> 00:11:36,527
+Kami telah memuat pintu belakang
+untuk menerima transmisi Synapse...
+
+208
+00:11:36,610 --> 00:11:39,266
+di semua perangkat lunak sistem operasi
+selama enam tahun terakhir.
+
+209
+00:11:39,445 --> 00:11:42,144
+Kami telah mengembangkan skema kompresi
+dan format fail...
+
+210
+00:11:42,227 --> 00:11:43,575
+yang mencapai konektivitas.
+
+211
+00:11:43,658 --> 00:11:44,491
+Namun,
+
+212
+00:11:46,940 --> 00:11:47,773
+kami punya masalah.
+
+213
+00:11:50,569 --> 00:11:51,862
+Kau tahu apa masalahnya?
+
+214
+00:11:53,155 --> 00:11:54,489
+Adaptormu tidak bisa mengatasi...
+
+215
+00:11:54,573 --> 00:11:56,700
+batas lebar pita
+perangkat genggam nirkabel.
+
+216
+00:11:57,701 --> 00:11:58,533
+Itu benar.
+
+217
+00:11:59,703 --> 00:12:02,886
+Data memakan waktu terlalu lama
+untuk diunduh, jadi gambarnya...
+
+218
+00:12:02,969 --> 00:12:05,083
+Gambar menjadi kabur.
+
+219
+00:12:05,221 --> 00:12:06,168
+Kabur, ya.
+
+220
+00:12:11,728 --> 00:12:13,591
+Bisakah kau menyelesaikan ini tepat waktu?
+
+221
+00:12:14,146 --> 00:12:14,979
+Denganmu, aku bisa.
+
+222
+00:12:21,265 --> 00:12:24,060
+Aku paham temanmu Ted
+cukup dekat dengan orang tuanya.
+
+223
+00:12:24,489 --> 00:12:25,519
+Itu sangat terpuji.
+
+224
+00:12:26,354 --> 00:12:28,064
+Sebenarnya dia...
+
+225
+00:12:28,452 --> 00:12:32,164
+Milo, aku tahu. Dia pikir kami
+mengklonakan terlalu banyak program...
+
+226
+00:12:32,359 --> 00:12:35,584
+dan memaksa orang untuk membeli
+versi inferior kami.
+
+227
+00:12:35,667 --> 00:12:38,032
+Selamanya, sampai memuakkan.
+Aku sudah mendengarnya.
+
+228
+00:12:38,282 --> 00:12:41,035
+Aku bahkan memahaminya.
+Itu adalah sifat bisnis yang kompetitif.
+
+229
+00:12:41,494 --> 00:12:44,704
+Saat berada di atas,
+orang menyerang kualitas produkmu.
+
+230
+00:12:45,051 --> 00:12:46,289
+Itu wajar.
+
+231
+00:12:47,053 --> 00:12:49,264
+Saat itulah serangan menjadi pribadi,
+
+232
+00:12:49,347 --> 00:12:51,682
+situs web "Gary Winston adalah Setan",
+
+233
+00:12:51,766 --> 00:12:54,464
+mendigitalkan wajah istriku
+di tubuh bintang porno...
+
+234
+00:12:57,007 --> 00:12:57,841
+Aku tidak suka itu.
+
+235
+00:13:00,107 --> 00:13:02,222
+Kau mungkin salah satu
+dari 20 pemrogram di dunia...
+
+236
+00:13:02,305 --> 00:13:04,766
+dengan penguasaan yang diperlukan
+untuk menyelesaikan hal ini.
+
+237
+00:13:07,114 --> 00:13:08,478
+Aku ingin sekali kau bergabung.
+
+238
+00:13:10,493 --> 00:13:12,983
+Masa depan memiliki
+kemungkinan tidak terbatas, Milo.
+
+239
+00:13:14,329 --> 00:13:16,069
+Putuskan seperti apa masa depanmu.
+
+240
+00:13:17,237 --> 00:13:18,069
+Kabari aku.
+
+241
+00:13:20,919 --> 00:13:23,909
+Aku melihatmu dan melihat sesuatu
+yang belum pernah kulihat dalam 20 tahun.
+
+242
+00:13:24,798 --> 00:13:25,631
+Apa?
+
+243
+00:13:26,078 --> 00:13:26,910
+Aku melihat diriku.
+
+244
+00:13:41,898 --> 00:13:42,731
+Alice?
+
+245
+00:13:49,405 --> 00:13:50,238
+Ya.
+
+246
+00:13:55,731 --> 00:13:57,442
+Jadi, kapan Brian bekerja di TV?
+
+247
+00:13:58,288 --> 00:13:59,121
+Entahlah.
+
+248
+00:14:03,419 --> 00:14:05,074
+Aku akan meninggalkan kalian berdua, ya?
+
+249
+00:14:16,932 --> 00:14:19,088
+- Kenapa kau melakukan ini?
+- Teddy, ayolah.
+
+250
+00:14:19,172 --> 00:14:21,049
+Dia tak bisa memenuhi
+tenggatnya tanpamu, 'kan?
+
+251
+00:14:22,937 --> 00:14:25,606
+Ingat kuliah dari Giddings
+tentang sumber terbuka?
+
+252
+00:14:26,470 --> 00:14:29,264
+- Ya.
+- Katanya pengetahuan manusia milik dunia.
+
+253
+00:14:30,028 --> 00:14:31,725
+Seperti Shakespeare atau Aspirin.
+
+254
+00:14:32,155 --> 00:14:33,393
+Teddy, aku tahu kau kecewa.
+
+255
+00:14:33,477 --> 00:14:36,492
+Aku hanya merasa ini hal yang benar
+untuk dilakukan untuk saat ini.
+
+256
+00:14:37,076 --> 00:14:39,829
+Mereka juga tertarik padamu.
+Gary bahkan menyebutmu.
+
+257
+00:14:39,912 --> 00:14:41,360
+Aku tidak tertarik pada mereka.
+
+258
+00:14:42,123 --> 00:14:42,956
+Tidak apa-apa.
+
+259
+00:14:43,445 --> 00:14:45,155
+Aku tahu apa yang penting bagimu.
+
+260
+00:14:46,794 --> 00:14:47,991
+Ini penting bagiku.
+
+261
+00:14:50,298 --> 00:14:52,300
+Aku tahu kau akan mendapatkan
+modal venturamu.
+
+262
+00:14:52,967 --> 00:14:53,803
+Sudah.
+
+263
+00:14:54,289 --> 00:14:56,207
+Kami harus menerima 850
+karena tidak ada kau.
+
+264
+00:14:56,303 --> 00:14:57,792
+Lantas? Itu cukup.
+
+265
+00:14:58,167 --> 00:14:59,668
+Itu akan cukup karena ada kau.
+
+266
+00:15:02,017 --> 00:15:03,839
+Kita berdua akan melakukan
+sesuatu yang hebat.
+
+267
+00:15:05,299 --> 00:15:06,132
+Tentu.
+
+268
+00:15:07,147 --> 00:15:09,136
+Aku hanya berpikir
+kita akan melakukannya bersama.
+
+269
+00:15:27,667 --> 00:15:30,573
+Milo, ini Pak Barton dari...
+
+270
+00:15:30,657 --> 00:15:31,700
+Departemen Kehakiman.
+
+271
+00:15:32,575 --> 00:15:34,244
+- Maaf untuk gelasnya.
+- Tidak apa-apa.
+
+272
+00:15:34,465 --> 00:15:36,454
+Jangan khawatir, Milo.
+Aku datang sebagai teman.
+
+273
+00:15:38,344 --> 00:15:40,542
+Aku tahu kau bekerja dengan Gary Winston.
+
+274
+00:15:41,376 --> 00:15:44,850
+Milo, kami sangat dirugikan dengan NURV.
+
+275
+00:15:45,588 --> 00:15:48,174
+Pakar kami tidak sepandai pakar mereka.
+
+276
+00:15:49,467 --> 00:15:53,179
+Sebenarnya, kami butuh
+pria yang sangat pintar di tim kami...
+
+277
+00:15:53,262 --> 00:15:54,764
+untuk membantu melawan dengan pintar.
+
+278
+00:15:57,308 --> 00:15:59,686
+Aku akan menebak, ya?
+
+279
+00:16:00,812 --> 00:16:03,731
+Aku bisa menawarkan 42.000 dolar setahun
+dan sebuah Buick...
+
+280
+00:16:04,106 --> 00:16:06,108
+jika kau berubah pikiran
+dan bergabung dengan kami.
+
+281
+00:16:08,235 --> 00:16:10,946
+Semoga kau memiliki perasaan
+bahwa ini adalah hal yang benar.
+
+282
+00:16:13,407 --> 00:16:16,285
+Aku yakin pekerjaanmu penting, Pak Barton.
+
+283
+00:16:16,577 --> 00:16:20,164
+Aku hanya merasa
+ini waktuku untuk dikenal.
+
+284
+00:16:20,330 --> 00:16:23,167
+Seperti kataku, aku hanya menebak.
+
+285
+00:16:23,709 --> 00:16:25,961
+Tidak. Tolong. Simpan saja.
+
+286
+00:16:27,880 --> 00:16:30,048
+Jika kau melihat sesuatu di sana
+yang mengganggumu,
+
+287
+00:16:30,925 --> 00:16:31,884
+lakukan hal yang benar.
+
+288
+00:17:10,254 --> 00:17:11,213
+Apa yang mereka bangun?
+
+289
+00:17:11,588 --> 00:17:14,091
+Itu Gedung 21.
+
+290
+00:17:14,174 --> 00:17:16,718
+Pembangunannya sangat terlambat.
+Area itu masih terlarang.
+
+291
+00:17:16,802 --> 00:17:18,720
+Itu adalah ruang siaran digital.
+
+292
+00:17:19,011 --> 00:17:22,097
+Butuh waktu lama untuk menghubungkan
+serat optik di sana.
+
+293
+00:17:26,937 --> 00:17:28,313
+Ini adalah penitipan anak.
+
+294
+00:17:28,772 --> 00:17:30,482
+Gary menaruh banyak uang di sana.
+
+295
+00:17:30,566 --> 00:17:33,610
+Orang yang punya anak
+bahkan bukan ahli komputer jagoan.
+
+296
+00:17:33,694 --> 00:17:35,946
+Mereka hanya pegawai penggajian
+atau semacamnya.
+
+297
+00:17:36,321 --> 00:17:38,323
+- Itu keren.
+- Aku tahu. Itu sangat keren.
+
+298
+00:17:44,077 --> 00:17:45,204
+Kartunya diberi sandi.
+
+299
+00:17:45,872 --> 00:17:48,332
+Jadi, kita tahu
+siapa yang datang dan kapan.
+
+300
+00:17:48,749 --> 00:17:51,710
+Jika kau melihat penguntit,
+orang yang datang saat kau menggesek,
+
+301
+00:17:51,794 --> 00:17:52,670
+laporkan dia.
+
+302
+00:17:52,753 --> 00:17:55,006
+Jika kau melihat seseorang berkeliaran
+tanpa tanda pengenal,
+
+303
+00:17:55,089 --> 00:17:56,673
+tugasmu adalah memarahinya.
+
+304
+00:17:57,300 --> 00:18:00,135
+Aku tidak peduli jika sahammu miliaran.
+
+305
+00:18:00,760 --> 00:18:03,471
+Jika kau tidak memarahinya,
+aku akan menghabisimu.
+
+306
+00:18:03,931 --> 00:18:06,767
+- Dia tampak sedikit tegang.
+- Shrot? Ya.
+
+307
+00:18:06,851 --> 00:18:09,645
+Dia sering dibodohi ahli komputer di sini
+karena tak paham teknologi.
+
+308
+00:18:09,729 --> 00:18:11,146
+Dia mantan polisi atau semacamnya.
+
+309
+00:18:20,071 --> 00:18:21,489
+Lisa melirikmu.
+
+310
+00:18:24,576 --> 00:18:26,370
+Dia memiliki pendidikan grafis.
+
+311
+00:18:26,453 --> 00:18:29,706
+Dia memprogram antarmuka pengguna
+yang dapat diskalakan untuk modul Synapse.
+
+312
+00:18:30,165 --> 00:18:31,708
+Dia adalah gadis yang cerdas.
+
+313
+00:18:32,083 --> 00:18:35,961
+Semua ahli komputer di sini menyukai Lisa,
+tetapi dia tidak mau didekati.
+
+314
+00:18:36,171 --> 00:18:38,089
+- Aku punya pacar.
+- Apa?
+
+315
+00:18:38,882 --> 00:18:41,676
+Kau punya pacar? Pacar tiga dimensi?
+
+316
+00:18:42,844 --> 00:18:44,220
+Itu sangat langka di sini.
+
+317
+00:18:44,720 --> 00:18:46,639
+- Hei, Diane.
+- Hai.
+
+318
+00:18:46,722 --> 00:18:48,724
+Jadi, selamat datang di Egg.
+
+319
+00:18:51,143 --> 00:18:52,437
+Semuanya, dengarkan.
+
+320
+00:18:52,520 --> 00:18:55,022
+Tolong perhatiannya. Ini Milo.
+
+321
+00:18:55,104 --> 00:18:56,982
+Milo, ini semuanya.
+
+322
+00:18:59,527 --> 00:19:02,029
+Ini Laurie. Darrin.
+
+323
+00:19:02,530 --> 00:19:04,197
+Kau pasti akan mengenal semuanya.
+
+324
+00:19:04,531 --> 00:19:08,243
+Ini adalah duniamu.
+
+325
+00:19:08,535 --> 00:19:11,037
+Kau sekarang resmi menjadi Pria Egg.
+
+326
+00:19:15,125 --> 00:19:19,629
+Baik, ada salinan elektronik
+dari buku Gary dengan pemutar gratis,
+
+327
+00:19:19,713 --> 00:19:24,132
+serta versi audio
+yang dinarasikan oleh Gary, tentunya.
+
+328
+00:19:25,176 --> 00:19:29,305
+<i>Digi</i> genggam, ponsel,
+dan kunci mobil barumu.
+
+329
+00:19:29,389 --> 00:19:30,765
+Kurasa sudah, Bung.
+
+330
+00:19:30,848 --> 00:19:33,351
+Konselormu akan menjelaskan sisanya.
+
+331
+00:19:34,226 --> 00:19:36,562
+- Kau akan senang di sini.
+- Terima kasih untuk...
+
+332
+00:19:36,771 --> 00:19:38,731
+Dengan senang hati, Bung.
+Semoga berhasil.
+
+333
+00:19:47,365 --> 00:19:48,449
+Hei, Milo.
+
+334
+00:19:49,074 --> 00:19:51,743
+Nasihat dariku.
+Jangan terlalu dekat dengan Stinky.
+
+335
+00:19:52,578 --> 00:19:54,037
+Histeris, Desi.
+
+336
+00:19:54,371 --> 00:19:56,707
+Bagaimana para orang desa bodoh
+saat kau di sini?
+
+337
+00:19:56,790 --> 00:19:57,623
+Bung.
+
+338
+00:19:57,707 --> 00:19:59,876
+Bagaimana dengan penyegar udara
+saat kau di sini?
+
+339
+00:20:00,210 --> 00:20:01,043
+Entahlah.
+
+340
+00:20:24,442 --> 00:20:25,274
+Sibuk?
+
+341
+00:20:26,485 --> 00:20:27,318
+Tidak.
+
+342
+00:20:29,030 --> 00:20:32,658
+Aku hanya menunggu konselorku
+dan berkenalan.
+
+343
+00:20:34,034 --> 00:20:35,703
+Halo, Milo. Aku Gary.
+
+344
+00:20:37,913 --> 00:20:38,872
+- Baiklah.
+- Ayo.
+
+345
+00:20:39,248 --> 00:20:40,957
+Biar kukenalkan
+kepada anggota tim lainnya.
+
+346
+00:20:41,750 --> 00:20:43,377
+- Hei, Stinky.
+- Hai, Gary.
+
+347
+00:20:43,918 --> 00:20:44,752
+Bagaimana kabarmu?
+
+348
+00:20:45,796 --> 00:20:47,048
+Hai, Gary. Bagaimana kabarmu?
+
+349
+00:20:47,130 --> 00:20:49,466
+Desi dan Stinky mengerjakan kompresi.
+
+350
+00:20:49,716 --> 00:20:52,886
+Josh dan Venkat menulis penangan protokol.
+
+351
+00:20:53,470 --> 00:20:54,513
+Ini Milo.
+
+352
+00:20:54,680 --> 00:20:58,558
+Milo mengerjakan adaptor
+yang sangat penting.
+
+353
+00:21:02,145 --> 00:21:04,981
+Ketika aku mengumumkan
+tanggal peluncuran Synapse,
+
+354
+00:21:05,064 --> 00:21:06,441
+itu tidak sembarangan.
+
+355
+00:21:08,067 --> 00:21:11,154
+Namun, itu juga tidak didasarkan
+pada kemajuan kita, seperti kalian tahu.
+
+356
+00:21:11,738 --> 00:21:16,200
+Jika kita tidak memiliki versi Synapse
+yang bisa diterapkan saat itu,
+
+357
+00:21:17,452 --> 00:21:18,578
+berakhirlah, Kawan-Kawan.
+
+358
+00:21:19,119 --> 00:21:23,166
+Ini adalah tajuk utama kecil
+yang akan kalian lihat di seluruh dunia.
+
+359
+00:21:23,249 --> 00:21:24,792
+Kegagalan NURV
+
+360
+00:21:25,084 --> 00:21:26,336
+Tidak akan terjadi, 'kan?
+
+361
+00:21:26,419 --> 00:21:27,379
+Tidak.
+
+362
+00:21:27,462 --> 00:21:28,670
+- Tidak?
+- Tidak!
+
+363
+00:21:28,753 --> 00:21:31,131
+Itu tidak akan pernah terjadi.
+
+364
+00:21:33,425 --> 00:21:36,387
+Tidak ada kendala dan batasan.
+
+365
+00:21:36,970 --> 00:21:38,138
+Kejutkan aku!
+
+366
+00:21:38,972 --> 00:21:40,015
+Tantang aku!
+
+367
+00:21:41,016 --> 00:21:42,058
+Tentang aku!
+
+368
+00:21:43,018 --> 00:21:44,478
+Tentang diri kalian sendiri.
+
+369
+00:21:45,813 --> 00:21:47,064
+Kalian punya pilihan.
+
+370
+00:21:47,897 --> 00:21:49,357
+Kalian bisa dilupakan...
+
+371
+00:21:49,733 --> 00:21:51,359
+atau dikenang...
+
+372
+00:21:51,860 --> 00:21:54,570
+sebagai salah satu dari sedikit
+orang cerdas yang membuatnya.
+
+373
+00:21:58,075 --> 00:22:01,243
+Sekarang saatnya
+untuk melampaui potensi kalian.
+
+374
+00:22:01,661 --> 00:22:04,497
+Sekarang saatnya untuk menggali
+lebih dalam, Kawan-Kawan.
+
+375
+00:22:04,706 --> 00:22:08,334
+Sekarang waktunya untuk menunjukkan
+kenapa kalianlah para elite,
+
+376
+00:22:08,751 --> 00:22:10,044
+beberapa orang terpilih,
+
+377
+00:22:10,545 --> 00:22:14,173
+lampu langka yang memberikan
+keunikan pada perusahaan ini,
+
+378
+00:22:14,632 --> 00:22:17,134
+pendarannya.
+
+379
+00:22:20,012 --> 00:22:22,598
+Sekarang waktunya untuk bersinar!
+
+380
+00:22:37,446 --> 00:22:40,282
+Kondominium perusahaan
+hampir seromantis kedengarannya,
+
+381
+00:22:40,365 --> 00:22:42,576
+jadi dia membawaku ke sini.
+
+382
+00:22:44,244 --> 00:22:45,370
+Menurutku ini...
+
+383
+00:22:49,666 --> 00:22:50,542
+Menurutku...
+
+384
+00:22:50,625 --> 00:22:51,458
+Bagaimana menurutmu?
+
+385
+00:22:52,376 --> 00:22:55,004
+Apakah aku sudah bilang
+dia tak pernah menjadi konselor siapa pun?
+
+386
+00:23:03,388 --> 00:23:05,097
+Sudah, ya. Maaf.
+
+387
+00:23:05,306 --> 00:23:06,724
+Rumahnya luar biasa.
+
+388
+00:23:07,558 --> 00:23:08,934
+- Ini luar biasa, kau juga.
+- Ya?
+
+389
+00:23:09,018 --> 00:23:10,102
+- Ya.
+- Ya?
+
+390
+00:23:10,728 --> 00:23:11,769
+- Betulkah?
+- Betul.
+
+391
+00:23:12,771 --> 00:23:14,731
+Ayo. Aku menyukainya.
+
+392
+00:23:14,815 --> 00:23:15,648
+Benarkah?
+
+393
+00:23:16,358 --> 00:23:17,359
+Tunjukkan kamar tidurnya.
+
+394
+00:23:23,657 --> 00:23:25,368
+<i>Sebagian besar penulis perangkat lunak...</i>
+
+395
+00:23:25,451 --> 00:23:27,619
+<i>mencapai pekerjaan terbesar kita
+sebelum usia 30 tahun.</i>
+
+396
+00:23:27,952 --> 00:23:30,247
+<i>Seiring bertambahnya usia,
+aku tahu betapa pentingnya mengakses...</i>
+
+397
+00:23:30,331 --> 00:23:32,207
+Apakah kau akan tetap bekerja?
+
+398
+00:23:34,084 --> 00:23:38,798
+<i>Satu atau nol, hidup atau mati.
+Tidak ada tempat kedua.</i>
+
+399
+00:23:47,054 --> 00:23:47,887
+Hai, Gary.
+
+400
+00:23:50,934 --> 00:23:51,976
+Sedang sibuk?
+
+401
+00:23:53,102 --> 00:23:54,478
+- Tidak. Aku...
+- Periksa ini.
+
+402
+00:24:09,076 --> 00:24:11,662
+Siapa yang melakukan ini?
+Josh atau Venkat?
+
+403
+00:24:11,829 --> 00:24:13,747
+Seseorang. Kau bisa menggunakannya?
+
+404
+00:24:13,956 --> 00:24:15,998
+Ya. Kompresinya luar biasa.
+
+405
+00:24:16,082 --> 00:24:17,876
+Lihat itu.
+
+406
+00:24:18,709 --> 00:24:20,420
+- Strukturnya sempurna.
+- Ya.
+
+407
+00:24:22,798 --> 00:24:25,884
+Astaga. Ini sangat menyenangkan.
+
+408
+00:24:26,134 --> 00:24:27,135
+Aku suka melakukan ini.
+
+409
+00:24:27,427 --> 00:24:31,598
+<i>Gubernur Missouri telah meminta Presiden
+untuk mengumumkan keadaan darurat.</i>
+
+410
+00:24:32,474 --> 00:24:34,392
+<i>Dalam berita lokal,
+sebuah kecelakaan mobil tragis...</i>
+
+411
+00:24:34,475 --> 00:24:37,228
+<i>merenggut nyawa pengusaha
+perangkat lunak komputer daerah Portland,</i>
+
+412
+00:24:37,312 --> 00:24:38,354
+<i>William Subb.</i>
+
+413
+00:24:38,438 --> 00:24:41,732
+<i>Lulusan ilmu komputer
+dari Institut Teknologi Massachusetts...</i>
+
+414
+00:24:41,815 --> 00:24:44,319
+<i>dan seorang genius di bidangnya,
+Subb ternyata ditemukan...</i>
+
+415
+00:24:44,402 --> 00:24:47,780
+<i>memiliki Prozac dengan resep secara legal
+dan alkohol di dalam mobilnya.</i>
+
+416
+00:24:48,030 --> 00:24:48,862
+Milo?
+
+417
+00:24:50,574 --> 00:24:51,408
+Hai.
+
+418
+00:24:55,537 --> 00:24:56,915
+- Kau cukup terkenal di sini.
+- Ya.
+
+419
+00:24:56,997 --> 00:25:00,251
+Aku dikenal sebagai kesayangan guru.
+
+420
+00:25:00,333 --> 00:25:01,627
+Aku tak akan mengkhawatirkannya.
+
+421
+00:25:02,003 --> 00:25:04,838
+Kau pasti tahu kebanyakan orang di sini
+dahulu adalah kesayangan guru.
+
+422
+00:25:05,506 --> 00:25:06,339
+Apakah kau begitu?
+
+423
+00:25:06,548 --> 00:25:08,676
+Kami sering pindah.
+Aku hampir tidak mengenal guruku.
+
+424
+00:25:08,759 --> 00:25:09,843
+Aku juga.
+
+425
+00:25:10,511 --> 00:25:11,971
+Kau anak tentara atau semacamnya?
+
+426
+00:25:12,054 --> 00:25:13,138
+Ya, semacam itu.
+
+427
+00:25:16,225 --> 00:25:17,141
+Kau memegang apa?
+
+428
+00:25:17,393 --> 00:25:20,604
+Aku ingin menunjukkan
+sistem antarmuka untuk Synapse.
+
+429
+00:25:20,687 --> 00:25:21,604
+Baik. Ya.
+
+430
+00:25:22,355 --> 00:25:23,563
+Omong-omong, aku Lisa.
+
+431
+00:25:24,107 --> 00:25:25,400
+Ya. Aku tahu.
+
+432
+00:25:27,025 --> 00:25:28,695
+<i>Hai, kau menghubungi kantor Skullbocks.</i>
+
+433
+00:25:28,778 --> 00:25:30,238
+<i>Teddy dan Larry sedang keluar.</i>
+
+434
+00:25:30,322 --> 00:25:32,991
+<i>Tinggalkan pesan dan akan kami hubungi
+ketika kau keluar dan tinggalkan pesan.</i>
+
+435
+00:25:34,034 --> 00:25:35,243
+<i>Hei, Teddy, ini Milo.</i>
+
+436
+00:25:36,828 --> 00:25:39,205
+<i>Aku menelepon karena ini sudah lama.</i>
+
+437
+00:25:40,665 --> 00:25:42,834
+<i>Aku berharap kau tidak lagi marah padaku.</i>
+
+438
+00:25:43,418 --> 00:25:44,377
+- Hai.
+- Hei.
+
+439
+00:25:45,337 --> 00:25:46,169
+Bagaimana kabarmu?
+
+440
+00:25:47,380 --> 00:25:48,213
+Lumayan.
+
+441
+00:25:49,216 --> 00:25:50,049
+Larry?
+
+442
+00:25:51,091 --> 00:25:51,924
+<i>Baik.</i>
+
+443
+00:25:53,635 --> 00:25:55,054
+<i>Jadi, kalian membuat kemajuan?</i>
+
+444
+00:25:55,137 --> 00:25:56,930
+Maaf, itu adalah informasi rahasia.
+
+445
+00:25:57,014 --> 00:25:59,225
+Kita harus menandatangani
+formulir kerahasiaan.
+
+446
+00:25:59,308 --> 00:26:00,434
+- Kau tahu.
+<i>- Ya.</i>
+
+447
+00:26:00,517 --> 00:26:01,810
+Aku juga. Ya.
+
+448
+00:26:02,436 --> 00:26:04,812
+Pekerjaan bukan satu-satunya
+topik pembicaraan, 'kan?
+
+449
+00:26:04,897 --> 00:26:05,814
+Tentu saja tidak.
+
+450
+00:26:08,651 --> 00:26:09,693
+Apa kegiatanmu?
+
+451
+00:26:10,735 --> 00:26:11,653
+Bekerja.
+
+452
+00:26:16,533 --> 00:26:17,533
+Senang mendengar kabarmu.
+
+453
+00:26:18,452 --> 00:26:20,078
+Meski kau adalah musuh sekarang.
+
+454
+00:26:24,207 --> 00:26:26,042
+Kantor Gary Winston. Bisa tunggu sebentar?
+
+455
+00:26:26,125 --> 00:26:26,958
+Terima kasih.
+
+456
+00:26:27,460 --> 00:26:29,211
+Terima kasih telah menunggu.
+Apa yang bisa kubantu?
+
+457
+00:26:29,545 --> 00:26:30,921
+Biar aku periksa.
+
+458
+00:26:32,465 --> 00:26:34,842
+Departemen Kehakiman bilang
+jika kita mengakuisisi Netmail,
+
+459
+00:26:34,926 --> 00:26:36,594
+mereka akan melihatnya
+sebagai anti-persaingan.
+
+460
+00:26:36,678 --> 00:26:40,598
+Kenapa tak memberitahuku sebelum kita
+memutuskan untuk meninggalkan litbang?
+
+461
+00:26:40,848 --> 00:26:43,977
+Pada saat itu, mereka mengindikasikan
+bahwa itu tidak akan menjadi masalah,
+
+462
+00:26:44,060 --> 00:26:45,896
+tetapi pola pikir mereka birokratis, Gary.
+Mereka...
+
+463
+00:26:45,979 --> 00:26:46,811
+Sungguh?
+
+464
+00:26:47,272 --> 00:26:49,523
+Kalian kuandalkan untuk pecahkan masalah,
+bagaimanapun.
+
+465
+00:26:49,607 --> 00:26:51,276
+Tunjukkan kreativitas kepadaku.
+
+466
+00:26:51,359 --> 00:26:52,652
+Gary, kita membicarakan hukum.
+
+467
+00:26:52,734 --> 00:26:54,945
+Ini tidak seperti membuat perangkat lunak.
+Ada batasan.
+
+468
+00:26:55,238 --> 00:26:57,030
+Tidak, maaf.
+Tidak ada apa-apa di sini.
+
+469
+00:26:57,114 --> 00:26:58,573
+- Dia akan menghubungimu.
+- Tidak ada batasan!
+
+470
+00:26:58,656 --> 00:26:59,490
+Terima kasih.
+
+471
+00:26:59,574 --> 00:27:04,454
+Berhenti berpikir seperti pengacara
+dan tunjukkan semacam kreativitas!
+
+472
+00:27:06,206 --> 00:27:07,039
+Ya, Pak.
+
+473
+00:27:09,293 --> 00:27:10,711
+Maaf, dia sedang ada rapat.
+
+474
+00:27:10,794 --> 00:27:11,878
+Ada pesan?
+
+475
+00:27:12,420 --> 00:27:13,671
+Biar aku periksa.
+
+476
+00:27:14,297 --> 00:27:15,841
+Maaf, tidak ada apa-apa di sini.
+
+477
+00:27:15,924 --> 00:27:17,092
+Dia akan menghubungimu.
+
+478
+00:27:17,175 --> 00:27:18,885
+Kantor Gary Winston. Bisa tunggu sebentar?
+
+479
+00:27:19,553 --> 00:27:20,929
+Kau bisa masuk sekarang, Milo.
+
+480
+00:27:22,723 --> 00:27:24,057
+Kantor Gary Winston.
+
+481
+00:27:25,017 --> 00:27:26,976
+Ya, dia sedang ada rapat. Ada pesan?
+
+482
+00:27:27,060 --> 00:27:27,893
+Gary?
+
+483
+00:27:28,520 --> 00:27:29,603
+Kau ingin bertemu denganku?
+
+484
+00:27:32,356 --> 00:27:33,189
+Ya.
+
+485
+00:27:36,694 --> 00:27:37,527
+Lihatlah.
+
+486
+00:27:47,997 --> 00:27:50,040
+Ini luar biasa.
+Siapa yang melakukan semua ini?
+
+487
+00:27:50,499 --> 00:27:51,332
+Apa artinya itu?
+
+488
+00:27:53,044 --> 00:27:55,087
+- Apa artinya itu?
+- Tidak ada. Aku...
+
+489
+00:28:03,635 --> 00:28:04,469
+Maaf.
+
+490
+00:28:05,221 --> 00:28:06,347
+Aku tidak bermaksud begitu.
+
+491
+00:28:08,891 --> 00:28:10,768
+Departemen Kehakiman membuatku gila.
+
+492
+00:28:11,936 --> 00:28:14,439
+Mereka membuat semua pekerjaanku
+yang strategis terlihat kotor.
+
+493
+00:28:14,939 --> 00:28:18,693
+Setiap pecatur yang baik mengetahui
+gerakan lawannya sebelum dia bergerak.
+
+494
+00:28:19,443 --> 00:28:21,153
+Setiap pebisnis mencoba untuk mendahului.
+
+495
+00:28:21,237 --> 00:28:23,323
+Aku mendahului, aku orang jahat!
+
+496
+00:28:23,615 --> 00:28:24,532
+Apa yang kita lakukan?
+
+497
+00:28:25,533 --> 00:28:27,160
+Memangnya kita membuat senjata kimia?
+
+498
+00:28:27,327 --> 00:28:28,452
+Pornografi anak?
+
+499
+00:28:28,827 --> 00:28:30,246
+Tambang terbuka? Tidak!
+
+500
+00:28:32,539 --> 00:28:33,749
+Kenapa mereka mengincarku?
+
+501
+00:28:37,378 --> 00:28:40,506
+Bisnis perangkat lunak itu biner.
+
+502
+00:28:41,882 --> 00:28:43,508
+Kau satu atau nol.
+
+503
+00:28:43,884 --> 00:28:45,386
+Hidup atau mati.
+
+504
+00:28:51,850 --> 00:28:53,143
+Skala, bukan begitu?
+
+505
+00:28:53,394 --> 00:28:54,352
+Tentu.
+
+506
+00:28:56,855 --> 00:28:57,688
+Ini.
+
+507
+00:29:01,610 --> 00:29:02,652
+Itu salinan untukmu.
+
+508
+00:29:14,705 --> 00:29:16,207
+Aku tak ingin berbicara terlalu dini,
+
+509
+00:29:17,917 --> 00:29:19,502
+tetapi kurasa aku memecahkannya, Larry.
+
+510
+00:29:24,465 --> 00:29:26,133
+Aku benar-benar merasa aku memecahkannya.
+
+511
+00:29:44,234 --> 00:29:46,444
+Kau akan memberitahuku
+apa yang mengganggumu atau tidak?
+
+512
+00:29:46,903 --> 00:29:47,946
+- Baik.
+- Baik.
+
+513
+00:29:49,948 --> 00:29:52,116
+Gary memberiku
+skema kompresi baru hari ini.
+
+514
+00:29:52,325 --> 00:29:55,287
+Kataku, "Siapa yang melakukan semua ini?"
+Karena aku terkesan.
+
+515
+00:29:55,370 --> 00:29:57,080
+Aku ingin tahu dari mana asalnya, benar?
+
+516
+00:29:58,290 --> 00:30:01,210
+Dia langsung marah. Seperti...
+
+517
+00:30:01,293 --> 00:30:03,419
+Dia berteriak padaku. Dia...
+
+518
+00:30:04,504 --> 00:30:05,880
+Tatapan matanya seperti...
+
+519
+00:30:06,631 --> 00:30:08,341
+- Mengerikan sekali.
+- Ya.
+
+520
+00:30:10,176 --> 00:30:11,552
+Namun, apa penyebabnya?
+
+521
+00:30:11,844 --> 00:30:14,346
+Entahlah. Itulah yang kutanyakan
+kepada diriku.
+
+522
+00:30:15,055 --> 00:30:17,307
+Aku bertanya-tanya.
+Tidak ada yang tahu alasannya.
+
+523
+00:30:18,892 --> 00:30:21,854
+Apakah dia menyimpan
+seorang genius di suatu tempat?
+
+524
+00:30:21,937 --> 00:30:24,856
+Jika ya, kenapa tidak membiarkannya
+menulis Synapse?
+
+525
+00:30:25,816 --> 00:30:27,359
+Itu memang tidak masuk akal, tetapi...
+
+526
+00:30:27,443 --> 00:30:28,443
+Hei, Sayang!
+
+527
+00:30:29,444 --> 00:30:30,862
+Biji wijen.
+
+528
+00:30:31,697 --> 00:30:33,991
+Astaga. Permisi.
+
+529
+00:30:34,283 --> 00:30:36,743
+Bisakah kau mengambilnya? Terima kasih.
+
+530
+00:30:37,077 --> 00:30:38,161
+Aku sangat bodoh.
+
+531
+00:30:39,163 --> 00:30:39,996
+Hei.
+
+532
+00:30:41,081 --> 00:30:41,914
+Hei.
+
+533
+00:30:42,249 --> 00:30:44,251
+Dia seorang genius, jangan lupa.
+
+534
+00:30:44,668 --> 00:30:48,630
+Jika ada orang lain selain kau
+yang dapat menulisnya secepat katamu,
+
+535
+00:30:48,713 --> 00:30:50,464
+bukankah itu mungkin dia?
+
+536
+00:30:50,756 --> 00:30:51,967
+Ya, kau benar.
+
+537
+00:30:52,050 --> 00:30:53,634
+Kau benar. Pria itu seorang genius.
+
+538
+00:30:54,177 --> 00:30:58,681
+Dia hanya memedulikan Synapse.
+Aku hanya tiba-tiba terlalu sensitif.
+
+539
+00:30:59,849 --> 00:31:01,058
+Untuk para genius.
+
+540
+00:31:15,740 --> 00:31:16,573
+Kau tahu?
+
+541
+00:31:17,992 --> 00:31:21,077
+Terkadang ada gunanya pergi dari sini
+sekitar satu jam saja.
+
+542
+00:31:25,540 --> 00:31:26,666
+Hei, Milo!
+
+543
+00:31:27,584 --> 00:31:28,418
+Brian.
+
+544
+00:31:30,545 --> 00:31:32,839
+Aku baru memasukkan resumeku.
+Hampir masuk ke ruangannya.
+
+545
+00:31:33,173 --> 00:31:34,299
+Kau tinggal di sini sekarang?
+
+546
+00:31:34,383 --> 00:31:37,510
+Aku administrator sistem
+di TV akses umum...
+
+547
+00:31:37,844 --> 00:31:40,305
+di mana orang aneh dengan 100 dolar
+mendapat acaranya sendiri.
+
+548
+00:31:42,224 --> 00:31:43,642
+Astaga, itu menyebalkan.
+
+549
+00:31:46,395 --> 00:31:47,395
+Bisakah kau membantuku?
+
+550
+00:31:48,313 --> 00:31:49,146
+Sampaikan tentangku.
+
+551
+00:31:49,564 --> 00:31:50,856
+Akan kuusahakan.
+
+552
+00:31:56,362 --> 00:31:57,696
+- Aku parkir ilegal.
+- Baik.
+
+553
+00:32:02,409 --> 00:32:04,953
+Mereka memajukan jadwal
+pada semua aplikasi Synapse.
+
+554
+00:32:05,454 --> 00:32:06,622
+Seberapa cepat pekerjaanmu?
+
+555
+00:32:07,123 --> 00:32:08,791
+"Tidak ada tempat kedua."
+
+556
+00:32:09,124 --> 00:32:10,793
+Selain itu, setiap kali otakku buntu,
+
+557
+00:32:12,044 --> 00:32:13,253
+Gary datang dengan sesuatu.
+
+558
+00:32:13,337 --> 00:32:15,756
+Apakah Gary memberimu
+desain baru atau semacamnya?
+
+559
+00:32:15,964 --> 00:32:16,797
+Ya.
+
+560
+00:32:17,174 --> 00:32:19,426
+Aku pasti telah menyinggung perasaannya
+karena dia...
+
+561
+00:32:20,011 --> 00:32:21,053
+Dia berteriak padaku.
+
+562
+00:32:23,097 --> 00:32:26,850
+Orang-orang tidak pernah
+memberikan sesuatu kepadamu begitu saja?
+
+563
+00:32:27,434 --> 00:32:30,144
+Mungkin sekali.
+Aku tetap melakukan konfigurasi ulang.
+
+564
+00:32:31,771 --> 00:32:32,855
+Kau kompulsif.
+
+565
+00:33:13,061 --> 00:33:13,937
+<i>Momen.</i>
+
+566
+00:33:14,104 --> 00:33:16,565
+<i>Momen berharga yang ingin kau simpan,</i>
+
+567
+00:33:16,732 --> 00:33:17,816
+<i>yang ingin kau bagikan.</i>
+
+568
+00:33:17,899 --> 00:33:20,193
+<i>Di rumah, di sekolah, di tempat kerja.</i>
+
+569
+00:33:20,486 --> 00:33:23,363
+<i>Kau akan tetap berhubungan dengan orang
+yang kau cintai melalui Synapse,</i>
+
+570
+00:33:23,656 --> 00:33:26,992
+<i>sistem komunikasi global pertama
+yang dikirim melalui satelit.</i>
+
+571
+00:33:27,076 --> 00:33:31,078
+<i>Bagikan suara atau musik langsung,
+gambar atau video,</i>
+
+572
+00:33:31,621 --> 00:33:33,122
+<i>data atau teks,</i>
+
+573
+00:33:33,331 --> 00:33:35,625
+<i>dengan siapa pun,
+di mana pun, secara instan.</i>
+
+574
+00:33:35,708 --> 00:33:36,792
+<i>Lihat, Ayah.</i>
+
+575
+00:33:39,128 --> 00:33:42,256
+<i>Synapse menghubungkan
+setiap perangkat komunikasi di dunia.</i>
+
+576
+00:33:42,590 --> 00:33:44,675
+<i>Karena setiap momen itu penting.</i>
+
+577
+00:33:50,514 --> 00:33:53,017
+Aku tidak tahu tentang itu.
+Kurasa ada masalah dan aku tak bisa.
+
+578
+00:33:53,101 --> 00:33:54,811
+Kurasa begitu. Lakukan itu...
+
+579
+00:33:54,894 --> 00:33:55,727
+Hai, Sayang.
+
+580
+00:33:58,105 --> 00:33:58,938
+Hai.
+
+581
+00:33:59,982 --> 00:34:00,900
+Aku tidak...
+
+582
+00:34:00,983 --> 00:34:02,025
+- Hei.
+- Hei.
+
+583
+00:34:04,944 --> 00:34:07,614
+Lisa, ini Alice.
+
+584
+00:34:08,031 --> 00:34:11,701
+Lisa mengerjakan antarmuka pengguna
+untuk Synapse.
+
+585
+00:34:13,036 --> 00:34:14,579
+- Hai.
+- Hai.
+
+586
+00:34:15,705 --> 00:34:17,749
+Milo bilang kau adalah seniman
+yang sangat hebat.
+
+587
+00:34:20,251 --> 00:34:21,544
+Dia melebih-lebihkan.
+
+588
+00:34:24,964 --> 00:34:25,797
+Aku...
+
+589
+00:34:26,633 --> 00:34:27,884
+Pekerjaanku banyak.
+
+590
+00:34:28,635 --> 00:34:29,761
+Senang bertemu denganmu.
+
+591
+00:34:35,432 --> 00:34:37,226
+Apa kabar? Aku sangat terkejut.
+
+592
+00:34:37,893 --> 00:34:38,936
+Kau baik? Semuanya baik?
+
+593
+00:34:39,019 --> 00:34:41,856
+Ya. Aku hanya ingin keluar...
+
+594
+00:34:41,939 --> 00:34:44,942
+dan melihat seperti apa tempat ini.
+
+595
+00:34:45,108 --> 00:34:47,069
+- Senang bertemu denganmu.
+- Ya.
+
+596
+00:34:52,491 --> 00:34:53,492
+Apa kata gadis itu?
+
+597
+00:34:53,784 --> 00:34:56,495
+Mungkin kepercayaannya berkurang
+setelah kau membentaknya.
+
+598
+00:34:57,621 --> 00:34:59,331
+Namun, itu tidak memengaruhi pekerjaannya.
+
+599
+00:35:00,040 --> 00:35:02,918
+Tidak ada yang bisa.
+Dia sangat luar biasa.
+
+600
+00:35:17,515 --> 00:35:18,348
+Ada apa?
+
+601
+00:35:18,683 --> 00:35:19,976
+Teddy telah dibunuh.
+
+602
+00:36:07,355 --> 00:36:09,316
+Mati Kau, Chink
+
+603
+00:36:12,360 --> 00:36:13,736
+Mereka pernah melakukan ini.
+
+604
+00:36:13,903 --> 00:36:16,404
+Namun, mereka tidak pernah
+membunuh seseorang sebelumnya.
+
+605
+00:36:16,906 --> 00:36:18,616
+Namun, tulisan mereka ada di dinding.
+
+606
+00:36:19,450 --> 00:36:22,453
+Tulisan kebencian mereka
+tersebar di mana-mana.
+
+607
+00:36:23,245 --> 00:36:26,832
+Seluruh modus operasi mereka.
+Mereka seperti meminta untuk ditangkap.
+
+608
+00:36:27,583 --> 00:36:29,877
+Mereka telah ditangkap dua kali
+karena memukuli orang Asia.
+
+609
+00:36:29,961 --> 00:36:31,211
+Kenapa mereka tidak di penjara?
+
+610
+00:36:32,130 --> 00:36:34,632
+Orang-orang menyuruh kami
+untuk berhati-hati di lingkungan ini.
+
+611
+00:36:35,216 --> 00:36:37,343
+Kurasa Teddy tidak menganggapnya
+terlalu serius.
+
+612
+00:36:37,844 --> 00:36:40,596
+Ya, itu masalah kami.
+
+613
+00:36:40,888 --> 00:36:42,640
+Apa pun tidak kami anggap serius, bukan?
+
+614
+00:36:44,433 --> 00:36:45,684
+Itu tidak ada di diska keras.
+
+615
+00:37:06,079 --> 00:37:08,122
+Hei, aku tidak tahu
+kalian menggunakan serat optik.
+
+616
+00:37:08,205 --> 00:37:09,037
+Apakah...
+
+617
+00:37:29,226 --> 00:37:31,436
+Dasar orang-orang gila.
+
+618
+00:37:33,939 --> 00:37:35,565
+Dia berada di ambang sesuatu.
+
+619
+00:37:35,940 --> 00:37:37,109
+Dia ada di sana.
+
+620
+00:37:38,235 --> 00:37:39,694
+Dia akan menunjukkan kepada kami esoknya.
+
+621
+00:37:39,777 --> 00:37:41,322
+Katanya aku harus meminta
+pemodal ventura...
+
+622
+00:37:41,405 --> 00:37:44,783
+untuk membuat janji temu
+dengan banyak perusahaan.
+
+623
+00:37:46,076 --> 00:37:49,121
+Dia bilang,
+"Jawabannya tidak ada di dalam kotak."
+
+624
+00:37:49,663 --> 00:37:50,706
+"Ada di pita."
+
+625
+00:37:53,082 --> 00:37:55,501
+Aku meneleponnya minggu lalu untuk...
+
+626
+00:37:55,919 --> 00:37:57,544
+- Karena...
+- Aku tahu.
+
+627
+00:37:58,879 --> 00:38:00,172
+Dia senang kau meneleponnya.
+
+628
+00:38:06,179 --> 00:38:07,221
+Yang kuat, Larry.
+
+629
+00:38:11,225 --> 00:38:12,058
+Milo.
+
+630
+00:38:14,562 --> 00:38:15,521
+Bolehkah aku bergabung?
+
+631
+00:38:16,313 --> 00:38:17,146
+Ya.
+
+632
+00:38:22,403 --> 00:38:23,654
+Aku dengar kejadian itu.
+
+633
+00:38:25,864 --> 00:38:26,947
+Aku ikut berduka.
+
+634
+00:38:27,824 --> 00:38:31,036
+- Terima kasih.
+- Kau sering bicara dengannya belakangan?
+
+635
+00:38:31,662 --> 00:38:32,662
+Hanya sekali.
+
+636
+00:38:33,705 --> 00:38:35,874
+Hubungan kami tidak terlalu baik...
+
+637
+00:38:35,958 --> 00:38:38,960
+dan kami tidak bisa membicarakan pekerjaan
+karena itu dilarang.
+
+638
+00:38:41,129 --> 00:38:43,757
+Tidak. Ada yang ingin
+kau tunjukkan kepadaku?
+
+639
+00:38:43,840 --> 00:38:45,425
+Lain kali saja.
+
+640
+00:38:45,759 --> 00:38:49,220
+Tidak apa-apa. Itu akan membantu
+mengalihkan pikiranku.
+
+641
+00:38:49,596 --> 00:38:51,180
+- Betulkah?
+- Ya.
+
+642
+00:38:51,264 --> 00:38:52,097
+Baik.
+
+643
+00:38:54,934 --> 00:38:56,935
+Aku tidak bisa tidur nyenyak
+sepanjang minggu.
+
+644
+00:38:57,311 --> 00:38:59,855
+Aku memikirkan mekanisme <i>push</i> di penangan.
+
+645
+00:39:00,481 --> 00:39:02,274
+Aku terpikir.
+
+646
+00:39:02,899 --> 00:39:04,526
+Itu ada di tempat yang salah.
+
+647
+00:39:04,735 --> 00:39:06,612
+- Tempat yang salah?
+- Ya.
+
+648
+00:39:08,155 --> 00:39:10,074
+Jawabannya tidak ada di dalam kotak.
+
+649
+00:39:11,908 --> 00:39:13,202
+Ada di pita.
+
+650
+00:39:14,328 --> 00:39:17,999
+Dunia pasca-konvergensi terlalu heterogen
+untuk mempertimbangkan...
+
+651
+00:39:18,082 --> 00:39:20,584
+penangan konten pra-pemasangan
+untuk format media baru...
+
+652
+00:39:20,667 --> 00:39:22,378
+sebagai colok-masuk khusus platform.
+
+653
+00:39:22,461 --> 00:39:24,672
+Jika manajemen perilisan
+tidak membunuhmu sejak awal,
+
+654
+00:39:24,754 --> 00:39:28,009
+versi <i>skew</i> akan membunuhmu seiring waktu.
+Namun, bagaimana dengan keamanan?
+
+655
+00:39:28,091 --> 00:39:29,676
+- Petugas telepon tak akan pernah...
+- Teddy telah dibunuh.
+
+656
+00:39:29,759 --> 00:39:31,720
+Jawabannya tidak ada di kotak.
+Ada di pita.
+
+657
+00:39:31,803 --> 00:39:33,137
+Dia berada di ambang sesuatu.
+
+658
+00:39:33,221 --> 00:39:34,264
+Apa penyebabnya?
+
+659
+00:39:34,347 --> 00:39:35,724
+- Dia ada di sana.
+- Tidak ada batasan!
+
+660
+00:39:35,807 --> 00:39:37,643
+Sedang diselidiki
+oleh Departemen Kehakiman...
+
+661
+00:39:37,726 --> 00:39:39,686
+Mereka hanya ingin memiliki segalanya...
+
+662
+00:39:39,769 --> 00:39:42,147
+Jawabannya tidak ada di kotak.
+Ada di pita.
+
+663
+00:39:42,230 --> 00:39:44,398
+Kita sangat dekat.
+
+664
+00:39:48,945 --> 00:39:50,695
+Hei, kau yakin kau baik-baik saja?
+
+665
+00:39:51,072 --> 00:39:52,740
+Kurasa aku salah makan. Aku harus pulang.
+
+666
+00:40:13,426 --> 00:40:14,259
+Alice?
+
+667
+00:40:30,652 --> 00:40:33,197
+Teddy melakukan sesuatu
+yang sangat spesifik. Dia meninggal.
+
+668
+00:40:33,280 --> 00:40:34,365
+Pasti ada hubungannya, Alice.
+
+669
+00:40:34,448 --> 00:40:36,157
+- Aku bisa merasakannya.
+- Namun, apa maksudmu?
+
+670
+00:40:36,240 --> 00:40:37,658
+Mereka terkait dengan kematian Teddy?
+
+671
+00:40:37,742 --> 00:40:40,328
+Entah apa yang kukatakan.
+Aku hanya mengingat semua ucapan itu.
+
+672
+00:40:40,411 --> 00:40:42,997
+Dia bilang anak mana pun di garasi
+bisa membuatnya gulung tikar.
+
+673
+00:40:43,081 --> 00:40:44,749
+Seolah-olah mereka tahu
+kegiatan setiap anak.
+
+674
+00:40:44,832 --> 00:40:46,667
+Mereka meretas komputer orang?
+
+675
+00:40:46,751 --> 00:40:49,504
+Kurasa mereka bisa masuk
+ke mesin beberapa orang, kecuali Teddy.
+
+676
+00:40:49,587 --> 00:40:52,923
+Tembok apinya selalu sangat kuat
+untuk melindungi datanya.
+
+677
+00:40:53,299 --> 00:40:56,385
+Mereka pasti mengawasinya secara fisik.
+
+678
+00:40:57,678 --> 00:40:58,971
+Mengawasinya secara fisik?
+
+679
+00:40:59,847 --> 00:41:00,722
+Sialan.
+
+680
+00:41:12,067 --> 00:41:13,817
+Kurasa ini bagian dari sebuah kamera.
+
+681
+00:41:14,778 --> 00:41:17,154
+Gedung 21 bukan hanya studio siaran.
+
+682
+00:41:17,239 --> 00:41:18,448
+Itu semacam pos pengawasan.
+
+683
+00:41:18,532 --> 00:41:20,075
+Itu sebabnya mereka punya
+parabola di atap.
+
+684
+00:41:20,158 --> 00:41:21,493
+Milo, pikirkan ucapanmu.
+
+685
+00:41:21,576 --> 00:41:23,328
+Kau benar-benar berpikir
+dia membunuh seseorang?
+
+686
+00:41:23,412 --> 00:41:24,705
+Entahlah. Aku harus masuk ke sana.
+
+687
+00:41:24,788 --> 00:41:26,038
+Ada lebih dari 20 gedung...
+
+688
+00:41:26,122 --> 00:41:28,875
+- dan penuh komputer.
+- Tidak. Hanya itu gedung dengan parabola.
+
+689
+00:41:28,959 --> 00:41:31,125
+Studionya di depan.
+Itu sebabnya pembukaan terus ditunda.
+
+690
+00:41:31,210 --> 00:41:32,629
+Baik, sekarang kau membuatku takut.
+
+691
+00:41:33,422 --> 00:41:35,591
+Kau ingin pergi? Karena kita bisa pergi.
+
+692
+00:41:35,674 --> 00:41:36,925
+Kau ingin pergi saja?
+
+693
+00:41:37,008 --> 00:41:39,219
+Ke mana, Alice? Kau tak bisa lepas
+dari orang-orang seperti ini.
+
+694
+00:41:39,302 --> 00:41:40,928
+Orang-orang seperti ini?
+Kau membicarakan Gary.
+
+695
+00:41:41,011 --> 00:41:42,095
+Kau pikir aku tidak tahu?
+
+696
+00:41:44,890 --> 00:41:46,892
+Mereka sedang diselidiki
+oleh Departemen Kehakiman.
+
+697
+00:41:46,976 --> 00:41:50,146
+Kau yang bilang
+selalu ada orang yang datang.
+
+698
+00:41:50,229 --> 00:41:52,565
+Bagaimana mungkin mereka bisa
+menyembunyikan pos pengawasan?
+
+699
+00:41:52,648 --> 00:41:54,441
+Bagaimana mereka bisa
+menyembunyikan sesuatu?
+
+700
+00:41:54,775 --> 00:41:57,569
+Kau pun tidak bisa masuk ke sana.
+Ada kartu gesek, kamera.
+
+701
+00:41:57,653 --> 00:42:00,156
+- Itu seperti Fort Knox.
+- Aku terlibat, Alice.
+
+702
+00:42:00,239 --> 00:42:02,365
+- Tidak!
+- Ya!
+
+703
+00:42:02,450 --> 00:42:04,160
+- Tidak.
+- Siapa yang menggunakan kode ini?
+
+704
+00:42:04,243 --> 00:42:06,245
+Kode Teddy,
+kode siapa pun ini yang aku punya.
+
+705
+00:42:06,328 --> 00:42:08,247
+Menurutmu bagaimana perasaanku?
+Dia sahabatku.
+
+706
+00:42:08,330 --> 00:42:10,249
+- Kau harus tenang.
+- Aku tidak bisa diam saja.
+
+707
+00:42:10,333 --> 00:42:12,209
+Ya, tetapi kau juga tak bisa
+masuk begitu saja.
+
+708
+00:42:18,256 --> 00:42:19,507
+- Kau benar.
+- Ya.
+
+709
+00:42:20,507 --> 00:42:21,342
+Kau benar.
+
+710
+00:42:23,136 --> 00:42:25,597
+Konstruksi selesai
+pada pukul 18.00 atau 19.00.
+
+711
+00:42:25,680 --> 00:42:27,724
+Tempat parkir kosong
+pada jam 2.00 atau 3.00.
+
+712
+00:42:27,806 --> 00:42:30,268
+- Ahli komputer paling pagi...
+- Sayang, apa yang kau bicarakan?
+
+713
+00:42:30,393 --> 00:42:31,935
+Apa maksudmu?
+
+714
+00:42:32,018 --> 00:42:35,106
+Aku memikirkan caraku masuk ke sana
+dan mencari tahu apa yang sedang terjadi!
+
+715
+00:42:35,190 --> 00:42:37,943
+Baik, pukul 2.00 atau 3.00?
+Kau benar-benar memperhatikan?
+
+716
+00:42:38,026 --> 00:42:39,902
+Karena kau terdengar seperti orang gila!
+
+717
+00:42:39,986 --> 00:42:41,779
+Aku tak akan berpura-pura
+tak ada masalah, Alice.
+
+718
+00:42:41,863 --> 00:42:43,364
+Begitulah aku masuk ke kekacauan ini.
+
+719
+00:42:46,241 --> 00:42:47,325
+Begitulah aku...
+
+720
+00:42:47,742 --> 00:42:49,912
+Alice, dengar. Aku tidak bermaksud...
+
+721
+00:42:49,995 --> 00:42:51,204
+- Tidak.
+- Aku tak marah padamu.
+
+722
+00:42:51,288 --> 00:42:52,121
+Dengarkan aku.
+
+723
+00:42:52,664 --> 00:42:54,916
+Kupikir aku bisa menemukan cara
+untuk masuk ke sana,
+
+724
+00:42:55,209 --> 00:42:57,502
+tetapi aku tak bisa melakukannya sendiri,
+jadi tolong aku.
+
+725
+00:43:01,548 --> 00:43:02,381
+Aku harus apa?
+
+726
+00:43:04,259 --> 00:43:05,260
+Kau percaya padaku?
+
+727
+00:43:07,054 --> 00:43:08,596
+Katakan saja apa yang harus dilakukan.
+
+728
+00:43:51,388 --> 00:43:53,015
+Pak, gunakan tanda pengenalmu sendiri.
+
+729
+00:43:53,098 --> 00:43:54,140
+Di mana tanda pengenalmu?
+
+730
+00:43:57,977 --> 00:44:00,230
+Aku menangkapnya menguntit.
+Gedung 20.
+
+731
+00:44:12,200 --> 00:44:14,410
+Kartu-kartu ini adalah tanggung jawabmu.
+
+732
+00:44:25,837 --> 00:44:27,297
+Gedung 12, Ledakan Terdeteksi
+
+733
+00:44:28,215 --> 00:44:30,384
+Ada ledakan di lemari di Gedung 12.
+
+734
+00:44:30,467 --> 00:44:31,300
+Apa?
+
+735
+00:44:34,221 --> 00:44:36,389
+Hei, kau tidak bisa berkeliaran
+tanpa tanda pengenal.
+
+736
+00:44:36,473 --> 00:44:38,016
+Duduk saja di kursi itu.
+
+737
+00:45:57,469 --> 00:46:03,182
+Alat Pencarian Lokasi
+Gedung 21
+
+738
+00:46:13,192 --> 00:46:14,401
+Arsip Video
+
+739
+00:46:18,779 --> 00:46:20,699
+Berhenti Merekam Video Langsung?
+
+740
+00:46:20,782 --> 00:46:23,160
+24 Jam Terakhir
+
+741
+00:46:25,787 --> 00:46:27,289
+Mundur 72 Jam
+Memindai mundur...
+
+742
+00:46:34,380 --> 00:46:36,756
+Apa yang bisa kukatakan?
+Ini operasi yang cukup mendasar.
+
+743
+00:46:36,840 --> 00:46:38,717
+Ada sekering jam di dalam sini.
+
+744
+00:46:38,800 --> 00:46:40,385
+Dia mengaitkannya ke sakelar di sini.
+
+745
+00:46:40,468 --> 00:46:41,802
+Jadi, ada apa, Bob?
+
+746
+00:46:42,303 --> 00:46:44,805
+Petasan besar. Kesenangan ahli komputer.
+
+747
+00:46:45,265 --> 00:46:47,059
+Sudah kubilang kita butuh kamera
+di lorong ini.
+
+748
+00:46:47,142 --> 00:46:48,893
+Untuk melindungi apa? Pel?
+
+749
+00:46:49,602 --> 00:46:51,104
+Seseorang membodohimu lagi, Bob.
+
+750
+00:46:51,187 --> 00:46:53,940
+Kecuali jika itu adalah pengalihan.
+Milo Hoffman ada di kantorku.
+
+751
+00:46:54,024 --> 00:46:55,525
+- Dia menguntit dan aku...
+- Bob.
+
+752
+00:46:55,608 --> 00:46:57,318
+Milo bukan sekadar ahli komputer.
+
+753
+00:46:57,861 --> 00:47:00,738
+Dia sangat penting bagi Gary.
+Jadi, jangan menuduhnya, ya?
+
+754
+00:47:02,699 --> 00:47:04,158
+Baik. Sampai jumpa.
+
+755
+00:47:08,411 --> 00:47:10,330
+Mundur 72 Jam
+Memindai mundur...
+
+756
+00:47:14,709 --> 00:47:16,795
+Putar video yang diarsipkan
+dari 72 jam lalu?
+
+757
+00:47:30,934 --> 00:47:32,143
+Mundur 72 Jam
+Memindai mundur...
+
+758
+00:47:43,654 --> 00:47:45,197
+Kembali ke mode merekam
+setelah memutar video yang diarsipkan?
+
+759
+00:47:51,788 --> 00:47:53,247
+Apakah semuanya baik-baik saja, Bob?
+
+760
+00:48:09,555 --> 00:48:10,388
+Hei.
+
+761
+00:48:12,141 --> 00:48:12,974
+Hai, Gary.
+
+762
+00:48:13,975 --> 00:48:15,226
+Bekerja lembur, ya?
+
+763
+00:48:15,644 --> 00:48:16,477
+Ya.
+
+764
+00:48:17,813 --> 00:48:18,688
+Boleh aku melihatnya?
+
+765
+00:48:20,023 --> 00:48:20,856
+Ya.
+
+766
+00:48:24,360 --> 00:48:25,193
+Bagus.
+
+767
+00:48:25,695 --> 00:48:26,654
+Itu luar biasa.
+
+768
+00:48:28,156 --> 00:48:30,116
+- Terima kasih.
+- Kau tampak agak gelisah, Milo.
+
+769
+00:48:31,159 --> 00:48:32,285
+Tidak, aku hanya...
+
+770
+00:48:33,578 --> 00:48:36,246
+Aku sedikit terkejut
+melihatmu di sini sekarang.
+
+771
+00:48:36,498 --> 00:48:38,958
+Terkadang aku datang diam-diam
+pada larut malam...
+
+772
+00:48:39,042 --> 00:48:40,877
+untuk melihat siapa yang obsesif.
+
+773
+00:48:45,549 --> 00:48:46,923
+Jangan bekerja sampai larut malam.
+
+774
+00:48:48,717 --> 00:48:50,094
+Aku memperhatikanmu.
+
+775
+00:49:44,021 --> 00:49:45,690
+- Bagaimana?
+- Malam yang panjang.
+
+776
+00:49:46,441 --> 00:49:48,025
+Aku beralih dari teh ke kopi.
+
+777
+00:49:49,068 --> 00:49:50,612
+Membawa makna baru untuk pekerjaanku.
+
+778
+00:51:24,911 --> 00:51:26,453
+Sekarang dia tahu.
+
+779
+00:51:27,663 --> 00:51:28,706
+Tidak ada apa-apa di sana.
+
+780
+00:51:28,999 --> 00:51:30,373
+<i>Mungkin dia akan kembali bekerja.</i>
+
+781
+00:51:30,708 --> 00:51:32,209
+Ya. Dimengerti.
+
+782
+00:51:32,584 --> 00:51:34,126
+- Omong-omong...
+<i>- Baik.</i>
+
+783
+00:51:34,378 --> 00:51:35,545
+<i>Aku dalam perjalanan kembali.</i>
+
+784
+00:54:36,262 --> 00:54:42,310
+Pengenalan Karakter Optis Diaktifkan
+Menunggu membaca pengiriman bitmap...
+
+785
+00:54:47,064 --> 00:54:48,982
+Kau sudah mengunduh Corey di San Jose?
+
+786
+00:54:49,400 --> 00:54:51,568
+- Sialan.
+- Aku saja.
+
+787
+00:54:51,651 --> 00:54:53,153
+Menghapus Fail dari MegaDrive
+
+788
+00:54:53,445 --> 00:54:55,446
+Sayang sekali kita tak bisa
+berjalan di pintu depan.
+
+789
+00:54:55,531 --> 00:54:57,283
+Ya. Bukankah Bob akan menyukainya?
+
+790
+00:55:14,091 --> 00:55:15,384
+Pegawai Saat Ini
+
+791
+00:55:32,108 --> 00:55:34,485
+Orang Tua: Bercerai, Ibu menikah lagi
+Dianiaya ayah tiri pada usia 8 tahun
+
+792
+00:55:38,281 --> 00:55:42,243
+Anak Dianiaya oleh Ayah Tiri
+
+793
+00:55:47,582 --> 00:55:50,293
+Area Terlarang
+
+794
+00:55:52,044 --> 00:55:54,129
+Di Bawah Pengawasan
+
+795
+00:56:03,930 --> 00:56:06,140
+Penghargaan Ilmu Komputer untuk Chin
+
+796
+00:56:06,223 --> 00:56:07,726
+Mahasiswa Tahun Ketiga Stanford Diakui
+untuk Keunggulan Kompresi Data
+
+797
+00:56:23,700 --> 00:56:25,409
+Partner reguler Milo Hoffman
+
+798
+00:56:25,659 --> 00:56:27,286
+Pemuda Daerah Memenangkan Beasiswa
+ke Stanford
+
+799
+00:56:29,330 --> 00:56:31,289
+Alergi parah terhadap biji wijen.
+
+800
+00:56:39,256 --> 00:56:40,508
+Jika dikonsumsi:
+Sulit bernapas
+
+801
+00:56:40,592 --> 00:56:42,218
+Hilang kesadaran
+Risiko kematian mendadak
+
+802
+00:56:44,929 --> 00:56:47,556
+Tes Alergi: 1 Menit
+
+803
+00:57:11,371 --> 00:57:15,125
+Dibawa ke Pusat Kesehatan Stanford
+oleh Alice Poulson.
+
+804
+00:57:25,218 --> 00:57:27,178
+Nama asli Rebecca Paul
+
+805
+00:57:28,721 --> 00:57:30,305
+Nama asli Rebecca Paul
+
+806
+00:57:33,851 --> 00:57:36,270
+Kepolisian New Haven
+
+807
+00:57:36,353 --> 00:57:39,314
+Dikeluarkan
+
+808
+00:57:42,317 --> 00:57:43,150
+Dihubungi oleh ND47
+Negosiasi berhasil
+
+809
+00:57:43,234 --> 00:57:44,403
+Pertemuan pertama dengan Hoffaman
+
+810
+00:57:44,486 --> 00:57:46,446
+Catatan sekolah diubah ND47
+Dipindahkan ke Universitas Stanford
+
+811
+00:57:49,449 --> 00:57:51,952
+Dihubungi oleh ND47
+Negosiasi berhasil
+
+812
+00:57:53,745 --> 00:57:56,874
+Catatan penangkapan dihapus oleh ND47
+
+813
+00:57:58,917 --> 00:58:01,587
+Memuat dari Fail Sumber ND47
+
+814
+00:58:06,340 --> 00:58:08,301
+Akses data dari: Cerebellum
+
+815
+00:58:10,011 --> 00:58:12,430
+Memuat dari Fail Sumber ND47
+
+816
+00:58:13,890 --> 00:58:16,475
+Tersangka Kejahatan
+
+817
+00:58:16,851 --> 00:58:18,352
+Pembunuh Rasis Diburu
+
+818
+00:58:20,646 --> 00:58:22,231
+Modus Operandi:
+1. Epitet rasis di dinding atau jendela.
+
+819
+00:58:22,314 --> 00:58:23,608
+2. Perusakan barang-barang.
+3. Tulisan kebencian.
+
+820
+00:58:29,201 --> 00:58:30,034
+Mati Kau, Chink
+
+821
+00:58:31,866 --> 00:58:32,699
+Mati Kau, Chink
+
+822
+00:58:36,453 --> 00:58:40,165
+1. Epitet rasis di dinding atau jendela
+Contoh: Mati Kau, Chink
+
+823
+00:58:40,540 --> 00:58:42,584
+Fail Video Dihapus
+Eror Fail Hilang
+
+824
+00:58:44,211 --> 00:58:45,962
+Fail Video Dihapus
+Eror Fail Hilang
+
+825
+00:59:24,375 --> 00:59:25,334
+Astaga!
+
+826
+01:00:52,835 --> 01:00:54,170
+Cadangan Cerebellum
+
+827
+01:01:26,868 --> 01:01:29,621
+Departemen Kehakiman Amerika Serikat
+
+828
+01:01:43,843 --> 01:01:46,012
+Tunawisma
+
+829
+01:01:52,601 --> 01:01:55,062
+Aku membutuhkan pemeriksaan
+latar belakang yang menyeluruh.
+
+830
+01:01:55,146 --> 01:01:57,272
+Aku ingin tahu setiap organisasi
+yang pernah dia ikuti...
+
+831
+01:01:57,356 --> 01:01:58,983
+- Baik.
+- atau kelompok gereja.
+
+832
+01:01:59,066 --> 01:02:00,359
+- Pak Barton?
+- Ya.
+
+833
+01:02:00,776 --> 01:02:01,609
+Permisi.
+
+834
+01:02:03,195 --> 01:02:04,238
+Apakah kau ingat denganku?
+
+835
+01:02:04,906 --> 01:02:05,907
+Meelo, bukan?
+
+836
+01:02:05,990 --> 01:02:06,990
+- Milo.
+- Milo.
+
+837
+01:02:07,241 --> 01:02:08,826
+Kita bena-benar harus bicara, Pak.
+
+838
+01:02:08,910 --> 01:02:12,078
+Baik. Beri aku waktu sebentar
+dengan Lacey.
+
+839
+01:02:12,162 --> 01:02:13,789
+Kau bisa ke ruanganku.
+Aku tak akan lama.
+
+840
+01:02:16,334 --> 01:02:17,627
+Aku atau kau yang menelepon?
+
+841
+01:02:17,710 --> 01:02:19,503
+Kurasa sebaiknya aku saja.
+
+842
+01:02:21,505 --> 01:02:23,257
+Kirimi dia faks sesegera mungkin.
+
+843
+01:02:23,341 --> 01:02:24,550
+Aku tidak ingin dia kaget.
+
+844
+01:02:42,234 --> 01:02:43,526
+- Milo.
+- Hai.
+
+845
+01:02:44,527 --> 01:02:45,360
+Ya.
+
+846
+01:02:46,195 --> 01:02:48,240
+Terima kasih sudah menemuiku, Pak.
+
+847
+01:02:48,323 --> 01:02:49,615
+Bukan masalah. Silakan duduk.
+
+848
+01:02:49,699 --> 01:02:50,575
+Tidak perlu.
+
+849
+01:02:53,744 --> 01:02:54,830
+Kau tampak agak gelisah.
+
+850
+01:02:54,913 --> 01:02:56,289
+Memang, Pak.
+
+851
+01:02:57,956 --> 01:02:58,957
+Apa masalahnya, Nak?
+
+852
+01:03:03,295 --> 01:03:04,379
+Temanku...
+
+853
+01:03:05,464 --> 01:03:09,843
+Sahabatku, Teddy,
+dibunuh di Silicon Valley dan aku...
+
+854
+01:03:10,886 --> 01:03:13,554
+Kupikir mungkin ada cara
+untuk membantu mereka menemukan tersangka.
+
+855
+01:03:13,638 --> 01:03:14,722
+Maksudmu Teddy Chin?
+
+856
+01:03:14,806 --> 01:03:15,639
+Ya, Pak.
+
+857
+01:03:17,517 --> 01:03:19,686
+Kurasa kau tidak melihat
+berita pukul 23.00 semalam.
+
+858
+01:03:20,729 --> 01:03:24,024
+Kepolisian San Jose menangkap tersangka
+dan menahan mereka tanpa jaminan.
+
+859
+01:03:24,483 --> 01:03:26,276
+Bagus sekali. Itu...
+
+860
+01:03:27,861 --> 01:03:29,905
+Semoga aku bisa tidur lebih nyenyak
+malam ini.
+
+861
+01:03:32,407 --> 01:03:34,950
+Aku sedikit kecewa.
+
+862
+01:03:37,328 --> 01:03:39,914
+Kupikir kau akan memutuskan
+untuk bergabung dengan pihak kami.
+
+863
+01:03:40,915 --> 01:03:42,791
+Tidak, Pak. Aku...
+
+864
+01:03:43,709 --> 01:03:45,085
+Aku sangat senang di NURV.
+
+865
+01:03:46,337 --> 01:03:47,170
+Namun...
+
+866
+01:03:48,673 --> 01:03:50,799
+Terima kasih. Atas waktumu juga.
+
+867
+01:03:52,885 --> 01:03:55,554
+Jadi, dia tidak mengatakan
+akan pergi ke Departemen Kehakiman?
+
+868
+01:03:55,679 --> 01:03:56,512
+<i>Tidak.</i>
+
+869
+01:03:56,596 --> 01:03:58,266
+Dia masih di bawah kendalimu, Rebecca?
+
+870
+01:03:58,349 --> 01:03:59,684
+<i>Jangan lupa bagianmu.</i>
+
+871
+01:03:59,767 --> 01:04:01,311
+<i>Imbalanmu besar di sini.</i>
+
+872
+01:04:01,394 --> 01:04:03,270
+Phil, dia akan memberitahuku
+saat dia kembali.
+
+873
+01:04:03,478 --> 01:04:05,188
+Itu akan menjadi ujian, bukan?
+
+874
+01:04:05,605 --> 01:04:06,438
+Ya.
+
+875
+01:04:07,899 --> 01:04:08,732
+Berengsek.
+
+876
+01:04:23,373 --> 01:04:26,584
+Ini sudah pukul 10.00.
+Aku sangat mengkhawatirkanmu.
+
+877
+01:04:28,169 --> 01:04:29,504
+Apa yang kau lihat di sana?
+
+878
+01:04:29,588 --> 01:04:30,421
+Tidak ada.
+
+879
+01:04:31,506 --> 01:04:32,339
+Tidak ada?
+
+880
+01:04:33,300 --> 01:04:37,010
+Persis seperti yang mereka katakan.
+Studio siaran yang belum selesai.
+
+881
+01:04:41,515 --> 01:04:43,767
+Sepertinya aku melampiaskan
+rasa bersalahku pada Gary.
+
+882
+01:04:44,226 --> 01:04:45,102
+Rasa bersalah?
+
+883
+01:04:46,145 --> 01:04:49,106
+Ya. Jika aku membuat rintisan itu,
+mungkin Teddy masih hidup.
+
+884
+01:04:50,232 --> 01:04:51,608
+Mungkin kau akan mati juga.
+
+885
+01:04:53,193 --> 01:04:54,194
+Menurutku,
+
+886
+01:04:54,445 --> 01:04:57,490
+daripada tenggelam dalam delusi paranoid
+dan membuatmu takut,
+
+887
+01:04:57,573 --> 01:04:59,950
+aku harus melakukan sesuatu yang berguna
+dengan kesedihanku.
+
+888
+01:05:01,327 --> 01:05:04,162
+Aku temui Barton di Departemen Kehakiman.
+Kau ingat dia?
+
+889
+01:05:06,873 --> 01:05:07,706
+Ya.
+
+890
+01:05:08,000 --> 01:05:10,210
+Aku ingin berusaha membantu
+menemukan pembunuh Teddy.
+
+891
+01:05:10,293 --> 01:05:12,962
+Ternyata mereka menangkap
+orang-orang itu tadi malam, jadi...
+
+892
+01:05:15,673 --> 01:05:17,508
+Aku sangat mengkhawatirkanmu.
+
+893
+01:05:18,802 --> 01:05:20,762
+Kau benar membiarkan dia
+masuk ke Gedung 21.
+
+894
+01:05:20,845 --> 01:05:22,847
+Dia merasa sangat bodoh setelah itu.
+
+895
+01:05:23,681 --> 01:05:26,225
+Dia bilang itu semua
+karena rasa bersalahnya...
+
+896
+01:05:26,976 --> 01:05:29,353
+karena tidak ada untuk Teddy,
+membuat rintisan.
+
+897
+01:05:29,770 --> 01:05:31,856
+Sahabatnya baru saja dibunuh.
+
+898
+01:05:31,940 --> 01:05:35,318
+Kau yakin dia benar-benar fokus
+pada Synapse lagi?
+
+899
+01:05:35,944 --> 01:05:37,486
+<i>- Dia tidak berakting?</i>
+- Tidak.
+
+900
+01:05:38,321 --> 01:05:40,031
+Dia cukup jujur ​​dengan perasaannya.
+
+901
+01:05:40,865 --> 01:05:42,449
+<i>Kurasa dia tidak tahu cara berakting.</i>
+
+902
+01:05:44,076 --> 01:05:44,909
+<i>Sudah?</i>
+
+903
+01:05:46,120 --> 01:05:47,746
+Bagus. Itu saja untuk saat ini.
+
+904
+01:05:47,830 --> 01:05:49,414
+<i>Lisa, aku harus memberi tahu seseorang.</i>
+
+905
+01:05:49,540 --> 01:05:51,249
+<i>Mereka tahu segalanya tentang semua orang.</i>
+
+906
+01:05:51,542 --> 01:05:53,585
+Mereka mencuri kode dari semua tempat.
+
+907
+01:05:53,669 --> 01:05:56,087
+Terkadang, jika seseorang
+mendahului mereka, seperti Teddy...
+
+908
+01:05:56,547 --> 01:05:58,214
+- Itu semua tidak terdeteksi.
+- Apa?
+
+909
+01:05:58,382 --> 01:06:01,259
+Kejahatannya dilakukan langsung.
+Mereka bekerja di bisnis informasi.
+
+910
+01:06:01,343 --> 01:06:03,636
+Jika korbannya orang Tionghoa,
+jebak orang rasis setempat.
+
+911
+01:06:03,845 --> 01:06:06,306
+Selain itu, aku yakin Gary
+pasti menyangkal habis-habisan.
+
+912
+01:06:06,390 --> 01:06:09,475
+Dia bilang, "Kejutkan aku.
+Pecahkan masalah. Tentang aku."
+
+913
+01:06:09,559 --> 01:06:11,227
+Mereka berbalik dan berkata begitu
+kepada orang selanjutnya.
+
+914
+01:06:11,311 --> 01:06:13,730
+Kedengarannya gila. Kenapa dia
+mempertaruhkan dirinya begitu?
+
+915
+01:06:13,814 --> 01:06:16,858
+Synapse. Dia investasikan miliaran
+untuk menjadi yang pertama.
+
+916
+01:06:16,941 --> 01:06:18,901
+Dia akan lakukan apa pun
+untuk memenuhi tenggat. Harus.
+
+917
+01:06:19,735 --> 01:06:20,568
+Lisa,
+
+918
+01:06:22,071 --> 01:06:23,322
+mereka membunuh sahabatku.
+
+919
+01:06:24,615 --> 01:06:25,532
+Mungkin yang lain.
+
+920
+01:06:26,033 --> 01:06:28,493
+Aku tinggal dengan seseorang
+yang mereka bayar untuk tidur denganku.
+
+921
+01:06:28,577 --> 01:06:31,039
+- Kita harus lakukan sesuatu.
+- Contohnya? Kita bisa apa?
+
+922
+01:06:31,122 --> 01:06:33,415
+Aku belum tahu, tetapi kita
+selangkah lebih maju dari mereka.
+
+923
+01:06:33,499 --> 01:06:36,127
+Mereka tidak tahu aku datang
+ke penitipan anak. Hanya Gedung 21.
+
+924
+01:06:36,210 --> 01:06:38,545
+Mereka membiarkanku.
+Hanya itu yang mereka tahu.
+
+925
+01:06:43,384 --> 01:06:44,217
+Lisa.
+
+926
+01:06:48,262 --> 01:06:50,265
+- Lisa.
+- Aku minta maaf, Milo.
+
+927
+01:06:51,557 --> 01:06:52,725
+Paham? Aku minta maaf.
+
+928
+01:07:03,945 --> 01:07:06,447
+Lisa, aku tahu kenapa kau
+tak membiarkan siapa pun mendekatimu.
+
+929
+01:07:16,917 --> 01:07:18,167
+Aku tahu perbuatannya kepadamu.
+
+930
+01:07:25,257 --> 01:07:27,008
+Jika pergi sekarang,
+kau bisa dalam bahaya.
+
+931
+01:07:28,719 --> 01:07:30,303
+Mereka akan menggunakan ayah tiriku?
+
+932
+01:07:30,471 --> 01:07:32,180
+Mereka bisa menjebaknya jika harus.
+
+933
+01:07:44,652 --> 01:07:45,902
+Bagaimana dengan FBI?
+
+934
+01:07:46,153 --> 01:07:47,195
+Terlalu berisiko.
+
+935
+01:07:47,655 --> 01:07:50,199
+Aku pergi ke Departemen Kehakiman,
+tetapi di sana ada bawahannya.
+
+936
+01:07:50,282 --> 01:07:51,283
+Mungkin ada yang lain.
+
+937
+01:07:51,951 --> 01:07:53,200
+Entah siapa yang mereka bayar.
+
+938
+01:07:55,036 --> 01:07:56,246
+Siapa yang bisa kita percayai?
+
+939
+01:07:56,329 --> 01:07:59,290
+Bagaimana kau memberi tahu rahasia
+bukan ke orang yang salah?
+
+940
+01:07:59,915 --> 01:08:00,748
+Entahlah.
+
+941
+01:08:05,504 --> 01:08:07,006
+Kita beri tahu semua orang sekaligus.
+
+942
+01:08:07,632 --> 01:08:09,592
+Dengan begitu, tidak ada rahasia lagi.
+
+943
+01:08:09,676 --> 01:08:11,802
+Jika semua orang tahu,
+mereka tak bisa menyentuh kita.
+
+944
+01:08:12,345 --> 01:08:13,178
+Benar?
+
+945
+01:08:17,725 --> 01:08:18,893
+Bagaimana dengan <i>60 Minutes?</i>
+
+946
+01:08:24,858 --> 01:08:27,526
+"CBS News telah bermitra
+dengan Sistem Informasi NURV...
+
+947
+01:08:27,609 --> 01:08:30,445
+di jaringan berita kabel yang akan
+diluncurkan pada musim gugur 2001."
+
+948
+01:08:32,489 --> 01:08:35,242
+AOL Time Warner memiliki 40% saham
+di dekoder Gary.
+
+949
+01:08:35,325 --> 01:08:37,035
+Itu juga mencoret CNN.
+
+950
+01:08:38,704 --> 01:08:41,206
+"Disney bergabung dengan NURV
+dalam usaha baru." ABC dicoret.
+
+951
+01:08:42,207 --> 01:08:44,751
+Tempat-tempat ini mungkin
+memiliki mata-mata. Mungkin semuanya.
+
+952
+01:08:48,630 --> 01:08:49,547
+- Tunggu.
+- Apa?
+
+953
+01:08:50,089 --> 01:08:51,758
+Kapan kau akan menyelesaikan Synapse?
+
+954
+01:08:52,718 --> 01:08:54,385
+Dia sudah menaikkan semua satelit.
+
+955
+01:08:55,136 --> 01:08:56,719
+Ada parabola di atas Gedung 21.
+
+956
+01:08:56,804 --> 01:08:59,723
+Dia membangun jaringan besar ini
+hanya untuk Synapse.
+
+957
+01:09:00,390 --> 01:09:03,227
+Kita bisa terhubung ke semua orang
+pada setiap perangkat secara bersamaan.
+
+958
+01:09:03,311 --> 01:09:05,062
+Itulah Synapse.
+
+959
+01:09:07,064 --> 01:09:08,273
+Itu yang akan kita gunakan.
+
+960
+01:09:09,942 --> 01:09:10,776
+Kena kau.
+
+961
+01:09:16,198 --> 01:09:19,993
+Di dalam penitipan anak
+ada satu ton bahan mentah.
+
+962
+01:09:20,244 --> 01:09:23,122
+Kau harus merancang
+semacam format grafis...
+
+963
+01:09:23,205 --> 01:09:24,790
+agar orang bisa mengikuti
+yang mereka lihat.
+
+964
+01:09:24,874 --> 01:09:25,707
+Bukan masalah.
+
+965
+01:09:26,083 --> 01:09:27,543
+- Sialan.
+- Apa?
+
+966
+01:09:29,044 --> 01:09:31,672
+Aku harus masuk ke rumah Gary
+untuk mendapatkan alamat satelit.
+
+967
+01:09:31,755 --> 01:09:33,548
+Dia menjalankan semuanya
+dari ruang kerjanya.
+
+968
+01:09:34,299 --> 01:09:35,341
+Maksudmu, masuk diam-diam?
+
+969
+01:09:35,800 --> 01:09:36,884
+Entahlah.
+
+970
+01:09:37,635 --> 01:09:39,762
+Bagaimana jika parabola
+di atas Gedung 21 belum panas?
+
+971
+01:09:39,846 --> 01:09:41,180
+Tempat itu bahkan belum selesai.
+
+972
+01:09:43,015 --> 01:09:43,848
+Aku akan memeriksa.
+
+973
+01:09:45,434 --> 01:09:46,266
+Kau tidak takut?
+
+974
+01:09:55,360 --> 01:09:58,114
+Mengetes
+
+975
+01:09:58,197 --> 01:09:59,283
+Uplink Aktif
+
+976
+01:09:59,366 --> 01:10:01,201
+<i>Selamat datang kembali
+di</i> Good Morning Portland.
+
+977
+01:10:01,284 --> 01:10:04,579
+<i>Kamis ini, 50 pasangan elite Portland...</i>
+
+978
+01:10:04,662 --> 01:10:08,165
+<i>akan menghadiri pesta gala
+di rumah Gary dan Clarissa Winston...</i>
+
+979
+01:10:08,248 --> 01:10:10,376
+<i>untuk mengumpulkan uang
+untuk Museum Seni Portland.</i>
+
+980
+01:10:10,709 --> 01:10:12,127
+<i>Julie ada di museum.</i>
+
+981
+01:10:12,211 --> 01:10:15,881
+<i>Pengunjung pesta tahun lalu menjanjikan
+dua juta dolar lebih untuk museum ini.</i>
+
+982
+01:10:16,048 --> 01:10:17,173
+- Lihat ini.
+- Apa?
+
+983
+01:10:17,966 --> 01:10:21,011
+Kenapa kita tak diundang ke pestanya?
+Dia bahkan tak pernah bertemu denganmu.
+
+984
+01:10:21,511 --> 01:10:23,555
+Milo, dia memiliki ribuan karyawan.
+
+985
+01:10:23,639 --> 01:10:26,140
+Aku tahu, Alice,
+tetapi ini untuk museum seni.
+
+986
+01:10:26,224 --> 01:10:27,309
+Kau adalah seorang seniman.
+
+987
+01:10:27,393 --> 01:10:29,269
+Jika ada yang harus diundang,
+kau orangnya.
+
+988
+01:10:32,940 --> 01:10:34,649
+Ini bukan video langsung.
+
+989
+01:10:35,442 --> 01:10:37,860
+Ini adalah pemutaran dari hari lain.
+Ini telah dikacaukan.
+
+990
+01:10:39,111 --> 01:10:40,279
+Panggil Randy dan Phil?
+
+991
+01:10:40,654 --> 01:10:44,657
+Jangan. Mereka suka mencemoohku
+karena aku tidak genius.
+
+992
+01:10:46,242 --> 01:10:49,163
+Aku bersumpah demi Tuhan,
+pelakunya adalah Milo.
+
+993
+01:10:49,956 --> 01:10:51,581
+Kita periksa entri kartu.
+
+994
+01:10:51,833 --> 01:10:53,000
+Periksa dua minggu lalu.
+
+995
+01:10:57,296 --> 01:10:58,840
+Skullbocks. Dengan Larry.
+
+996
+01:10:59,007 --> 01:11:00,215
+Hei, Larry, ini Milo.
+
+997
+01:11:00,590 --> 01:11:01,592
+Hei, Kawan.
+
+998
+01:11:01,884 --> 01:11:04,678
+<i>- Bagaimana kabarmu?</i>
+- Aku baik.
+
+999
+01:11:04,804 --> 01:11:07,181
+Aku kembali ke garasi.
+
+1000
+01:11:07,724 --> 01:11:09,766
+Aku tidak ingin tinggal di tempat itu.
+
+1001
+01:11:10,892 --> 01:11:11,725
+<i>Ada apa?</i>
+
+1002
+01:11:14,563 --> 01:11:15,396
+<i>Milo?</i>
+
+1003
+01:11:16,857 --> 01:11:17,690
+Kau di sana?
+
+1004
+01:11:19,568 --> 01:11:21,111
+Larry, kau punya waktu sebentar?
+
+1005
+01:11:21,194 --> 01:11:22,654
+<i>Aku mungkin butuh bantuanmu.</i>
+
+1006
+01:11:23,905 --> 01:11:25,281
+Tentu, Bung. Katakan.
+
+1007
+01:11:29,870 --> 01:11:30,912
+Hei, itu Gary.
+
+1008
+01:11:32,247 --> 01:11:33,080
+Milo?
+
+1009
+01:11:34,415 --> 01:11:36,543
+Aku akan memberi donasi
+untuk museum seni Kamis malam.
+
+1010
+01:11:36,626 --> 01:11:37,961
+Mungkin kau ingin mengajak Alice.
+
+1011
+01:11:38,378 --> 01:11:39,505
+Luar biasa. Terima kasih.
+
+1012
+01:11:39,588 --> 01:11:41,005
+Maaf mendadak.
+
+1013
+01:12:04,528 --> 01:12:06,989
+Modul Uplink Satelit Selesai
+
+1014
+01:12:07,615 --> 01:12:10,075
+Pergi ke Gedung 21 dua kali tanpa keluar.
+
+1015
+01:12:10,367 --> 01:12:12,244
+Keluar dua kali tanpa kembali.
+
+1016
+01:12:12,328 --> 01:12:13,746
+Siapa kau, Harry Houdini?
+
+1017
+01:12:13,829 --> 01:12:15,997
+Tidak. Ini kacau. Lihat.
+
+1018
+01:12:17,290 --> 01:12:19,125
+Aku juga ke penitipan anak malam itu.
+
+1019
+01:12:19,459 --> 01:12:21,003
+Penitipan anak bukan bagianmu.
+
+1020
+01:12:21,086 --> 01:12:22,628
+Tepat. Aku belum pernah ke sana.
+
+1021
+01:12:27,008 --> 01:12:28,050
+Milo, kita terlambat.
+
+1022
+01:12:28,134 --> 01:12:29,552
+Sebentar. Aku harus...
+
+1023
+01:12:30,303 --> 01:12:32,138
+mencari gunting untuk...
+
+1024
+01:14:07,313 --> 01:14:08,564
+Mereka menelepon ke rumah.
+
+1025
+01:14:09,232 --> 01:14:11,067
+Mereka bertanya siapa seniman favoritmu.
+
+1026
+01:14:22,412 --> 01:14:24,122
+Alice, aku Gary.
+
+1027
+01:14:24,206 --> 01:14:25,748
+- Hai.
+- Ini istriku, Clarissa.
+
+1028
+01:14:25,831 --> 01:14:27,582
+Jadi, ini Alice. Halo.
+
+1029
+01:14:28,083 --> 01:14:29,458
+Gary bilang kau seorang seniman.
+
+1030
+01:14:29,668 --> 01:14:31,086
+- Ya, benar.
+- Milo, ini Barry Linder.
+
+1031
+01:14:31,170 --> 01:14:32,838
+Dia berkunjung dari Hollywood.
+
+1032
+01:14:33,463 --> 01:14:36,717
+Studio Barry akan membantu kita
+mengisi <i>pipeline</i> Synapse.
+
+1033
+01:14:36,967 --> 01:14:39,595
+- Bagus.
+- Implikasi pemasarannya luar biasa.
+
+1034
+01:14:40,221 --> 01:14:41,680
+Seorang anak sedang menonton film.
+
+1035
+01:14:41,763 --> 01:14:44,057
+Dia menunjuk dan mengeklik pistol laser,
+
+1036
+01:14:44,141 --> 01:14:47,353
+dan sebelum videonya selesai,
+mainannya terbeli.
+
+1037
+01:14:47,436 --> 01:14:50,939
+Begitu. Jadi, tidak peduli ceritanya,
+berapa banyak mainan yang bisa kau jual?
+
+1038
+01:14:52,315 --> 01:14:53,525
+Bagaimana dengan senimannya?
+
+1039
+01:14:53,609 --> 01:14:54,442
+Seniman?
+
+1040
+01:14:55,360 --> 01:14:57,487
+Satu-satunya seni yang tersisa di Amerika
+adalah bisnis.
+
+1041
+01:14:57,571 --> 01:14:59,072
+Kau berdiri di rumah Da Vinci.
+
+1042
+01:14:59,155 --> 01:15:01,741
+Permisi. Di mana kamar mandinya?
+
+1043
+01:15:02,448 --> 01:15:03,994
+Naik tangga, di sudut.
+
+1044
+01:15:04,077 --> 01:15:05,244
+Ini tentang uang.
+
+1045
+01:16:27,742 --> 01:16:28,951
+Hentikan.
+
+1046
+01:16:35,790 --> 01:16:37,750
+Alamat IP Satelit
+
+1047
+01:17:39,353 --> 01:17:40,937
+Kau meninggalkan pesta untuk bekerja?
+
+1048
+01:17:41,730 --> 01:17:43,022
+Aku mendapat inspirasi.
+
+1049
+01:17:43,898 --> 01:17:44,731
+Aku...
+
+1050
+01:17:45,149 --> 01:17:47,985
+Aku tidak mau sampai lupa,
+jadi aku ke sini untuk menuliskannya.
+
+1051
+01:17:49,695 --> 01:17:50,946
+Maaf jika aku tidak sopan.
+
+1052
+01:18:00,122 --> 01:18:01,790
+Aku tahu apa yang kau lakukan, Milo.
+
+1053
+01:18:04,919 --> 01:18:07,629
+Aku hanya ingin tahu
+itu tidak memengaruhi pekerjaanmu.
+
+1054
+01:18:09,090 --> 01:18:10,299
+Aku tidak tahu apa maksudmu.
+
+1055
+01:18:11,383 --> 01:18:12,718
+Milo, aku tidak buta.
+
+1056
+01:18:14,094 --> 01:18:16,304
+Lisa adalah wanita muda
+yang sangat menarik.
+
+1057
+01:18:16,971 --> 01:18:18,056
+Siapa pun tahu.
+
+1058
+01:18:18,639 --> 01:18:20,433
+Kehidupan pribadimu itu urusanmu,
+
+1059
+01:18:21,226 --> 01:18:23,353
+tetapi tenggat peluncuran kita
+sebentar lagi.
+
+1060
+01:18:23,603 --> 01:18:25,897
+Kau harus berfokus.
+
+1061
+01:18:27,274 --> 01:18:29,025
+- Aku mengerti, Gary.
+- Bagus.
+
+1062
+01:18:30,777 --> 01:18:31,902
+Ayo, kita minum-minum.
+
+1063
+01:18:43,206 --> 01:18:45,333
+<i>Periksa garis miring terbalik
+dan tanda titik dua.</i>
+
+1064
+01:18:45,834 --> 01:18:47,876
+Anak-anak tidak memakainya,
+tetapi ahli komputer.
+
+1065
+01:18:48,752 --> 01:18:50,295
+Apa yang diinginkan Milo di sini?
+
+1066
+01:18:50,379 --> 01:18:52,464
+Mereka tahu.
+Mereka hanya tidak memercayaiku.
+
+1067
+01:18:52,964 --> 01:18:56,176
+Jadi, kita dapatkan buktinya dahulu,
+ajukan pertanyaan nanti.
+
+1068
+01:18:56,343 --> 01:18:58,095
+- Kau mulai yang itu.
+- Ya.
+
+1069
+01:19:02,099 --> 01:19:04,767
+Membangun Modul Synapse
+
+1070
+01:19:04,851 --> 01:19:06,770
+7 Modul Penerjemah Selesai
+
+1071
+01:19:11,191 --> 01:19:12,651
+Bagaimana jika dia tahu rencana kita?
+
+1072
+01:19:12,735 --> 01:19:13,985
+Menurutmu dia mempermainkan kita?
+
+1073
+01:19:14,069 --> 01:19:15,988
+- Kau butuh berapa lama?
+- Dua hari.
+
+1074
+01:19:16,363 --> 01:19:18,240
+Kau sudah menulis kode
+untuk mengurutkan fail video?
+
+1075
+01:19:18,324 --> 01:19:19,908
+Ya. Audionya selesai.
+
+1076
+01:19:20,699 --> 01:19:23,159
+Fail teks akan diumpankan
+melalui penyintesis suara.
+
+1077
+01:19:28,457 --> 01:19:30,460
+Hei! Kau sudah pulang.
+
+1078
+01:19:31,002 --> 01:19:32,420
+Aku membeli buku masak Hunan...
+
+1079
+01:19:32,629 --> 01:19:35,756
+karena kita selalu takut
+kau makan di restoran Tionghoa.
+
+1080
+01:19:36,215 --> 01:19:41,429
+Aku sudah mencincang dan memotong
+sampai kecil-kecil sepanjang sore.
+
+1081
+01:19:42,847 --> 01:19:45,015
+- Kau tidak pernah memasak.
+- Aku tahu.
+
+1082
+01:19:48,937 --> 01:19:50,146
+Aku akan berganti pakaian.
+
+1083
+01:21:11,348 --> 01:21:12,517
+Jangan kabur.
+
+1084
+01:21:16,104 --> 01:21:18,606
+- Kau terlihat cantik.
+- Terima kasih.
+
+1085
+01:21:30,826 --> 01:21:31,658
+Milo.
+
+1086
+01:21:34,496 --> 01:21:36,665
+Aku akan naik dan berganti pakaian.
+
+1087
+01:21:37,165 --> 01:21:38,542
+Aku suka penampilanmu.
+
+1088
+01:21:40,544 --> 01:21:41,377
+Terima kasih.
+
+1089
+01:21:47,509 --> 01:21:48,927
+Hei, apakah kita punya sumpit?
+
+1090
+01:21:50,053 --> 01:21:50,886
+Ya.
+
+1091
+01:22:28,925 --> 01:22:29,758
+Baik.
+
+1092
+01:22:32,886 --> 01:22:33,719
+Tunggu.
+
+1093
+01:22:34,930 --> 01:22:35,763
+Benar.
+
+1094
+01:22:36,516 --> 01:22:37,348
+Bersulang.
+
+1095
+01:22:49,611 --> 01:22:50,653
+Untuk umur panjang.
+
+1096
+01:23:43,038 --> 01:23:44,038
+Apakah itu enak?
+
+1097
+01:23:44,872 --> 01:23:45,956
+Lezat.
+
+1098
+01:23:46,749 --> 01:23:47,582
+Ya?
+
+1099
+01:23:49,543 --> 01:23:51,337
+Aku ingin memberi tahu sesuatu.
+
+1100
+01:23:52,047 --> 01:23:52,880
+Apa?
+
+1101
+01:23:58,718 --> 01:23:59,887
+Aku mencintaimu.
+
+1102
+01:24:10,856 --> 01:24:12,566
+- Rebecca?
+- Ya?
+
+1103
+01:24:33,128 --> 01:24:36,256
+Ayo.
+
+1104
+01:24:36,715 --> 01:24:37,548
+Lihat?
+
+1105
+01:24:39,050 --> 01:24:40,135
+Siapa yang butuh komputer?
+
+1106
+01:24:47,808 --> 01:24:51,061
+Gary, percayalah,
+aku sedang melihat sidik jarinya.
+
+1107
+01:24:53,397 --> 01:24:54,689
+Kau ingin Phil menanganinya?
+
+1108
+01:24:56,483 --> 01:24:57,443
+Apa pun perintahmu.
+
+1109
+01:24:58,861 --> 01:24:59,694
+Bajingan.
+
+1110
+01:25:10,747 --> 01:25:13,500
+Proyek Membangun Synapse
+
+1111
+01:25:13,582 --> 01:25:16,795
+Semua Modul Synapse Selesai
+
+1112
+01:25:20,630 --> 01:25:23,885
+Rekam fail Synapse ke 2 CD-ROM
+
+1113
+01:25:26,429 --> 01:25:28,723
+Merekam 1 dari 2 CD-ROM
+
+1114
+01:25:36,898 --> 01:25:38,398
+Masukkan CD-ROM Selanjutnya
+
+1115
+01:25:38,482 --> 01:25:40,485
+Merekam 2 dari 2 CD-ROM
+
+1116
+01:25:58,460 --> 01:25:59,836
+Gedung 18 Penitipan Anak
+
+1117
+01:26:04,717 --> 01:26:07,844
+Tidak. Kau tidak bisa
+mengelabuiku dua kali, Nak.
+
+1118
+01:26:11,056 --> 01:26:13,183
+- Kau akan menelepon Gary?
+- Persetan Gary.
+
+1119
+01:26:37,957 --> 01:26:39,458
+Bob, orang-orang ini adalah penjahat.
+
+1120
+01:26:43,087 --> 01:26:45,255
+Aku akan mengambil risiko
+karena sangat mungkin...
+
+1121
+01:26:45,338 --> 01:26:47,341
+kau tidak memercayai
+apa pun yang akan kukatakan.
+
+1122
+01:26:52,597 --> 01:26:54,932
+Kau akan terkejut dengan apa
+yang kupercaya tentang mereka.
+
+1123
+01:26:57,685 --> 01:26:58,935
+Tunjukkan apa yang kau pegang.
+
+1124
+01:27:26,296 --> 01:27:28,089
+- Milo?
+- Ambil laptopmu. Kita pergi malam ini.
+
+1125
+01:27:28,256 --> 01:27:29,632
+Katamu dua hari.
+
+1126
+01:27:29,924 --> 01:27:31,175
+Lantas? Aku seorang genius.
+
+1127
+01:27:39,058 --> 01:27:42,603
+- Kita belum siap. Katamu dua hari.
+- Siap. Lisa, percaya aku, ya?
+
+1128
+01:27:43,437 --> 01:27:44,646
+Kau harus memercayaiku.
+
+1129
+01:27:46,482 --> 01:27:47,315
+Baik.
+
+1130
+01:27:50,528 --> 01:27:51,361
+Baiklah.
+
+1131
+01:27:52,571 --> 01:27:53,655
+Dia meninggalkan kampus.
+
+1132
+01:27:54,072 --> 01:27:55,907
+Dia membawa beberapa data kamera pengawas.
+
+1133
+01:27:58,076 --> 01:27:59,912
+Jangan khawatir. Kami tahu di mana dia.
+
+1134
+01:28:33,861 --> 01:28:35,488
+Apakah Brian ada? Brian Bissel?
+
+1135
+01:28:36,197 --> 01:28:37,029
+Namamu?
+
+1136
+01:28:44,204 --> 01:28:46,331
+Ada apa? Kau terdengar gila di telepon.
+
+1137
+01:28:46,498 --> 01:28:48,416
+Kita harus melakukan
+siaran langsung sekarang.
+
+1138
+01:28:48,541 --> 01:28:50,670
+Kau tidak bisa mendahului Yoga.
+Itu acara terbesar kami.
+
+1139
+01:28:50,753 --> 01:28:53,546
+Brian, kau ingin sukses dalam hidup, 'kan?
+Itu mimpimu, 'kan?
+
+1140
+01:28:55,048 --> 01:28:57,508
+- Artinya aku akan bekerja untuk NURV?
+- Setelah ini, tak akan ada NURV.
+
+1141
+01:28:57,592 --> 01:28:59,136
+Kita akan jatuhkan mereka.
+Kau akan bantu kami.
+
+1142
+01:28:59,219 --> 01:29:00,220
+Itu hal yang tergila...
+
+1143
+01:29:00,304 --> 01:29:02,306
+Ayo, Bung.
+Apa yang pernah mereka lakukan untukmu?
+
+1144
+01:29:05,475 --> 01:29:06,392
+- Baik.
+- Bagus.
+
+1145
+01:29:08,062 --> 01:29:09,604
+Kau ingin menjadi bagian dari sejarah?
+
+1146
+01:29:09,687 --> 01:29:10,562
+Tidak juga.
+
+1147
+01:29:11,064 --> 01:29:13,149
+Baiklah, bagaimana dengan tambahan...
+
+1148
+01:29:14,901 --> 01:29:16,110
+132 dolar?
+
+1149
+01:29:26,371 --> 01:29:28,580
+Satukan tangan ke belakang.
+
+1150
+01:29:28,956 --> 01:29:31,375
+Angkat tulang dada. Angkat lengan.
+
+1151
+01:29:31,625 --> 01:29:33,293
+Jatuhkan kepala ke belakang.
+
+1152
+01:29:35,755 --> 01:29:36,880
+Perlahan-lahan.
+
+1153
+01:29:37,506 --> 01:29:38,632
+Perlahan mundur.
+
+1154
+01:29:40,384 --> 01:29:42,261
+Duduk bersila. Ambil napas.
+
+1155
+01:29:52,187 --> 01:29:53,604
+Kau dihubungkan dengan parabola.
+
+1156
+01:29:54,272 --> 01:29:57,442
+Baik. Bacakan alamat IP ini,
+dimulai dengan nomor satu.
+
+1157
+01:29:57,817 --> 01:29:58,650
+Tunggu.
+
+1158
+01:30:00,069 --> 01:30:02,196
+Phil, kemari. Ini hampir pukul 10 malam.
+
+1159
+01:30:02,280 --> 01:30:04,490
+- Kita akan mematikan satelit induk.
+- Apa?
+
+1160
+01:30:04,573 --> 01:30:06,451
+Bacakan alamat IP,
+dimulai dengan nomor satu.
+
+1161
+01:30:06,909 --> 01:30:08,411
+- Gary, aku...
+- Lakukan saja, Phil!
+
+1162
+01:30:09,537 --> 01:30:10,913
+Ini sudah terlalu jauh.
+
+1163
+01:30:11,080 --> 01:30:12,790
+Waktu nyata
+
+1164
+01:30:17,753 --> 01:30:18,712
+Waktu nyata
+
+1165
+01:30:20,922 --> 01:30:21,883
+- Bacakan.
+- Bacakan.
+
+1166
+01:30:21,966 --> 01:30:22,966
+- 10.
+- 10.
+
+1167
+01:30:23,425 --> 01:30:24,258
+24.
+
+1168
+01:30:24,760 --> 01:30:25,635
+53.
+
+1169
+01:30:26,428 --> 01:30:28,013
+- 192.
+- 192.
+
+1170
+01:30:28,096 --> 01:30:29,848
+Status Komunikasi
+mencoba menghubungkan...
+
+1171
+01:30:35,603 --> 01:30:36,563
+Matikan
+
+1172
+01:30:37,148 --> 01:30:38,857
+Ayo.
+
+1173
+01:30:48,657 --> 01:30:50,284
+Status Komunikasi
+Koneksi Gagal
+
+1174
+01:30:50,910 --> 01:30:52,495
+- Itu perangkat lunakmu?
+- Itu parabolamu?
+
+1175
+01:30:53,495 --> 01:30:55,373
+Baiklah, nomor dua. Mulai.
+
+1176
+01:30:55,457 --> 01:30:56,373
+Beri aku nomor dua.
+
+1177
+01:30:57,291 --> 01:30:59,086
+Milo, beberapa pria
+berpenampilan aneh datang.
+
+1178
+01:30:59,169 --> 01:31:01,504
+Brian, jangan khawatir tentang itu.
+Berikan saja nomor dua.
+
+1179
+01:31:02,504 --> 01:31:05,716
+10, 43, 84, 143.
+
+1180
+01:31:13,641 --> 01:31:14,934
+Ayo.
+
+1181
+01:31:19,687 --> 01:31:20,521
+Sialan.
+
+1182
+01:31:28,947 --> 01:31:31,033
+- Berhenti!
+- Minggir!
+
+1183
+01:31:31,116 --> 01:31:32,868
+- Sudah memeriksa koneksimu?
+- Ya.
+
+1184
+01:31:33,701 --> 01:31:35,078
+- Dia tahu.
+- Apa?
+
+1185
+01:31:35,203 --> 01:31:36,997
+Dia mematikan satelit
+selangkah lebih maju.
+
+1186
+01:31:37,079 --> 01:31:38,748
+Bacakan yang terakhir. Beri aku nomor 12.
+
+1187
+01:31:39,458 --> 01:31:40,291
+42.
+
+1188
+01:31:41,210 --> 01:31:42,043
+Tunggu.
+
+1189
+01:31:43,587 --> 01:31:45,380
+- Dia tahu aku mematikannya.
+- Apa?
+
+1190
+01:31:45,672 --> 01:31:47,006
+Aku tahu cara kerja pikirannya.
+
+1191
+01:31:48,217 --> 01:31:49,802
+Beri aku yang terakhir, nomor 12.
+
+1192
+01:31:49,885 --> 01:31:51,094
+- Gary...
+- Lakukan saja!
+
+1193
+01:31:54,721 --> 01:31:55,681
+Beri aku nomor lima.
+
+1194
+01:31:58,600 --> 01:32:00,060
+48, 29.
+
+1195
+01:32:00,727 --> 01:32:01,687
+Cepat.
+
+1196
+01:32:01,771 --> 01:32:03,314
+- 234.
+- Buka pintunya, Milo!
+
+1197
+01:32:03,397 --> 01:32:05,232
+- Sudah?
+- Satu detik lagi.
+
+1198
+01:32:09,694 --> 01:32:10,863
+Angkat lengan...
+
+1199
+01:32:14,075 --> 01:32:15,701
+Kawan-Kawan, sudah.
+
+1200
+01:32:16,660 --> 01:32:17,743
+Aku mengendalikannya.
+
+1201
+01:32:21,623 --> 01:32:22,791
+Berikan diskanya, Milo. Ayo.
+
+1202
+01:32:26,127 --> 01:32:28,838
+Diskanya, Milo, sekarang. Ayolah.
+Ini sudah berakhir.
+
+1203
+01:32:48,275 --> 01:32:49,902
+Kembali ke perut,
+
+1204
+01:32:49,985 --> 01:32:53,404
+rasakan ketenangan.
+
+1205
+01:32:56,616 --> 01:32:58,367
+Hei! Berengsek!
+
+1206
+01:33:39,698 --> 01:33:42,535
+Ada apa dengan omong kosong
+<i>Mission: Impossible 007,</i> Milo?
+
+1207
+01:33:43,620 --> 01:33:44,620
+Kau ahli komputer.
+
+1208
+01:33:48,332 --> 01:33:49,164
+Bagus sekali.
+
+1209
+01:33:51,085 --> 01:33:53,922
+Mereka akan kembali ke sini
+dalam lima menit dengan Milo dan diskanya.
+
+1210
+01:33:54,005 --> 01:33:54,838
+Bagus.
+
+1211
+01:33:55,798 --> 01:33:56,798
+Kau ingin apakan dia?
+
+1212
+01:34:00,719 --> 01:34:01,637
+Kejutkan aku.
+
+1213
+01:34:06,558 --> 01:34:09,019
+Baik, Pak Shrot, aku perlu diska
+yang Milo berikan kepadamu.
+
+1214
+01:34:13,357 --> 01:34:15,565
+Ada hal tidak berbau komputer
+yang bisa kulakukan?
+
+1215
+01:34:16,109 --> 01:34:18,069
+Ya. Kita butuh satu set TV di sini.
+
+1216
+01:34:18,278 --> 01:34:19,111
+Baik.
+
+1217
+01:34:41,174 --> 01:34:42,634
+Apa yang kau ketik, Larry?
+
+1218
+01:34:43,760 --> 01:34:46,680
+Alamat IP. Ini seperti menelepon satelit.
+
+1219
+01:34:46,764 --> 01:34:49,683
+Dua yang pertama belum mengangkat.
+Ayolah. Angkat, Bung.
+
+1220
+01:34:49,766 --> 01:34:51,476
+Status Komunikasi
+mencoba menghubungkan...
+
+1221
+01:35:03,530 --> 01:35:04,363
+Terima kasih.
+
+1222
+01:35:05,490 --> 01:35:06,575
+Terima kasih untukmu juga.
+
+1223
+01:35:07,493 --> 01:35:09,952
+Kau telah mencapai hal yang ajaib.
+
+1224
+01:35:10,828 --> 01:35:12,038
+Aku sangat bangga padamu.
+
+1225
+01:35:12,663 --> 01:35:14,875
+Maafkan caraku,
+tetapi ketika kau keluar jalur,
+
+1226
+01:35:14,958 --> 01:35:17,418
+kami harus memotivasimu
+untuk terus mengerjakan Synapse.
+
+1227
+01:35:18,377 --> 01:35:21,547
+Tanpa Lisa mendesakmu,
+kita mungkin tidak akan berhasil.
+
+1228
+01:35:22,048 --> 01:35:24,968
+Betul sekali, Milo.
+Yang kita lakukan sangat penting.
+
+1229
+01:35:26,802 --> 01:35:28,888
+Status Komunikasi
+mencoba menghubungkan...
+
+1230
+01:35:29,264 --> 01:35:31,223
+- Astaga.
+- Apa?
+
+1231
+01:35:32,350 --> 01:35:33,183
+Astaga.
+
+1232
+01:35:40,859 --> 01:35:41,692
+Gary.
+
+1233
+01:35:47,113 --> 01:35:48,698
+Sistem Aktif
+
+1234
+01:36:15,474 --> 01:36:16,934
+Siapa yang memegang Synapse, Milo?
+
+1235
+01:36:18,770 --> 01:36:21,438
+Artinya kita berhasil?
+
+1236
+01:36:24,650 --> 01:36:25,859
+Ya, Bung!
+
+1237
+01:36:26,319 --> 01:36:28,404
+- Itu baru bagus!
+- Fantastis.
+
+1238
+01:36:28,488 --> 01:36:31,782
+Ya. Kalian tidak menduganya!
+Kami menyerang!
+
+1239
+01:36:32,158 --> 01:36:34,577
+<i>Konsumen tidak peduli
+dari mana datangnya ide-ide baru...</i>
+
+1240
+01:36:34,659 --> 01:36:37,247
+<i>asalkan mereka ditawari harga bersaing.</i>
+
+1241
+01:36:37,330 --> 01:36:38,915
+<i>Bisnis perangkat lunak itu biner.</i>
+
+1242
+01:36:38,998 --> 01:36:41,875
+<i>Kita satu atau nol. Hidup atau mati.</i>
+
+1243
+01:36:41,959 --> 01:36:45,462
+<i>Kita satu atau nol. Hidup atau mati.</i>
+
+1244
+01:36:45,628 --> 01:36:48,464
+<i>Ada monopoli di sini.</i>
+
+1245
+01:36:48,798 --> 01:36:51,760
+<i>Mereka yang tidak berinovasi
+ditakdirkan untuk mati.</i>
+
+1246
+01:36:51,843 --> 01:36:55,388
+<i>Ditakdirkan untuk mati.</i>
+
+1247
+01:36:55,471 --> 01:36:58,182
+<i>Tidak ada tempat kedua.</i>
+
+1248
+01:36:58,349 --> 01:37:01,228
+<i>Synapse akan sepenuhnya
+menyatukan desa global.</i>
+
+1249
+01:37:01,310 --> 01:37:05,064
+<i>Ide-ide baru siap untuk dilahap
+dan didefinisikan ulang.</i>
+
+1250
+01:37:05,273 --> 01:37:09,944
+<i>Bisnis ini biner. Kita satu atau nol.</i>
+
+1251
+01:37:10,028 --> 01:37:13,490
+<i>Hidup atau mati.</i>
+
+1252
+01:37:13,573 --> 01:37:15,200
+<i>Hidup atau mati.</i>
+
+1253
+01:37:15,283 --> 01:37:18,578
+<i>Dikelilingi oleh para kritikus.
+Mereka yang tidak berinovasi...</i>
+
+1254
+01:37:18,662 --> 01:37:21,371
+<i>Mereka yang tidak berinovasi
+ditakdirkan untuk mati.</i>
+
+1255
+01:37:21,455 --> 01:37:23,791
+<i>Tidak ada tempat kedua.</i>
+
+1256
+01:37:23,874 --> 01:37:25,960
+<i>Konsumen tidak peduli
+dari mana datangnya ide-ide baru.</i>
+
+1257
+01:37:26,043 --> 01:37:28,129
+<i>Konsumen tidak peduli
+dari mana datangnya ide-ide baru...</i>
+
+1258
+01:37:28,212 --> 01:37:30,381
+<i>asalkan mereka ditawari harga bersaing.</i>
+
+1259
+01:37:30,464 --> 01:37:34,343
+<i>Anak mana pun di dunia ini
+dengan ide bagus...</i>
+
+1260
+01:37:34,425 --> 01:37:35,719
+<i>bisa membuat kita gulung tikar.</i>
+
+1261
+01:37:35,803 --> 01:37:37,013
+<i>Hidup atau mati.</i>
+
+1262
+01:37:37,096 --> 01:37:40,974
+<i>Ada monopoli di sini di NURV.
+Tidak ada tempat kedua.</i>
+
+1263
+01:37:41,058 --> 01:37:43,309
+<i>Kita satu atau nol. Hidup atau mati.</i>
+
+1264
+01:37:43,393 --> 01:37:46,063
+Aku Membunuh Pemrogram
+
+1265
+01:37:46,147 --> 01:37:47,982
+Apakah kau gila? Apa yang kau lakukan?
+
+1266
+01:37:48,065 --> 01:37:49,733
+Aku memberi tahu orang-orang perbuatanmu.
+
+1267
+01:37:49,817 --> 01:37:51,068
+Phil, dari mana sinyalnya berasal?
+
+1268
+01:37:51,152 --> 01:37:52,695
+Sedang kukerjakan.
+
+1269
+01:37:52,778 --> 01:37:53,820
+Bekerja lebih cepat!
+
+1270
+01:37:53,903 --> 01:37:56,573
+Setiap pecatur yang baik mengetahui
+gerakan lawannya sebelum dia bergerak.
+
+1271
+01:37:56,656 --> 01:37:57,489
+Benar, Gary?
+
+1272
+01:37:57,573 --> 01:38:00,826
+Kau pikir kau tahu semua gerakanku?
+Dasar bajingan sombong.
+
+1273
+01:38:01,452 --> 01:38:04,413
+Kau pikir mereka akan mengejarku sekarang
+karena Synapse sudah diluncurkan?
+
+1274
+01:38:04,747 --> 01:38:07,833
+Ini teknologi yang akan mendorong bisnis
+selama 30 tahun ke depan.
+
+1275
+01:38:08,000 --> 01:38:11,046
+Kau pikir mereka akan mengizinkan
+pembukaan seperti itu dari pesaing asing?
+
+1276
+01:38:11,129 --> 01:38:12,922
+Menghancurkan seluruh perekonomian?
+
+1277
+01:38:13,130 --> 01:38:15,466
+Karena apa? Sebuah lelucon dunia maya?
+
+1278
+01:38:15,633 --> 01:38:17,594
+Berarti kau tidak perlu khawatir, 'kan?
+
+1279
+01:38:22,015 --> 01:38:24,267
+Pengacara datang, Gary.
+Mereka bilang FBI sedang dalam perjalanan.
+
+1280
+01:38:24,350 --> 01:38:25,308
+Astaga.
+
+1281
+01:38:26,227 --> 01:38:27,811
+Asalnya dari NURV. Gedung 21.
+
+1282
+01:38:27,895 --> 01:38:29,645
+Panggil keamanan.
+Suruh seseorang ke sana sekarang.
+
+1283
+01:38:29,729 --> 01:38:31,773
+Dobrak pintunya jika perlu,
+tetapi ambil diska itu.
+
+1284
+01:38:31,856 --> 01:38:32,983
+Ambil!
+
+1285
+01:38:33,066 --> 01:38:35,068
+- Kenapa bisa, Phil?
+- Entahlah.
+
+1286
+01:38:35,277 --> 01:38:37,987
+Rebecca menelepon.
+Katanya Milo memegang Synapse.
+
+1287
+01:38:38,070 --> 01:38:39,405
+Milo keluar dari kampus dan...
+
+1288
+01:38:42,284 --> 01:38:43,910
+Kau berbohong? Untuk dia?
+
+1289
+01:38:45,120 --> 01:38:46,496
+Kau sedang bermain api.
+
+1290
+01:38:47,080 --> 01:38:49,499
+Jika kau berpikir aku tidak akan
+mengembalikanmu ke tempat asalmu...
+
+1291
+01:38:49,583 --> 01:38:50,999
+Gary, aku ingin kau melihat ini.
+
+1292
+01:38:54,337 --> 01:38:55,963
+Ini kode yang memungkinkan
+siaran ini terjadi.
+
+1293
+01:38:56,048 --> 01:38:57,340
+Ambil. Gunakan.
+Pengetahuan manusia milik dunia.
+
+1294
+01:38:58,633 --> 01:38:59,967
+Apakah kau masih bangga padaku?
+
+1295
+01:39:03,554 --> 01:39:06,223
+Ini kode yang memungkinkan
+siaran ini terjadi.
+
+1296
+01:39:06,306 --> 01:39:08,517
+Ambil. Gunakan.
+Pengetahuan manusia milik dunia.
+
+1297
+01:39:10,060 --> 01:39:15,357
+Selesai mengunduh
+Kode sumber Synapse di www.skullbocks.com
+
+1298
+01:39:15,440 --> 01:39:16,942
+Kalian tahu harus ke mana.
+
+1299
+01:39:17,651 --> 01:39:18,902
+Pergi!
+
+1300
+01:39:19,445 --> 01:39:20,988
+Redmond, Danny, ayo pergi dari sini.
+
+1301
+01:39:21,279 --> 01:39:23,366
+Ayo.
+
+1302
+01:39:23,449 --> 01:39:24,449
+Pergi. Ayo.
+
+1303
+01:39:26,160 --> 01:39:28,162
+Rebecca, ayo.
+
+1304
+01:39:31,248 --> 01:39:32,415
+Aku tak akan pergi denganmu.
+
+1305
+01:39:35,168 --> 01:39:38,630
+Lebih baik aku di sini dan menghadapi
+konsekuensi dari tindakanku...
+
+1306
+01:39:39,214 --> 01:39:41,048
+daripada dikaitkan dengan tindakanmu.
+
+1307
+01:39:46,095 --> 01:39:47,389
+Ini milikku, Milo.
+
+1308
+01:39:47,472 --> 01:39:49,473
+Kau mengatakan itu
+kepada orang yang kau rampok!
+
+1309
+01:39:49,683 --> 01:39:51,351
+- Katakan kepada Teddy!
+- Ayolah.
+
+1310
+01:39:52,018 --> 01:39:54,520
+Dalam waktu dekat seseorang
+pasti akan memiliki informasi itu.
+
+1311
+01:39:54,854 --> 01:39:56,898
+Kau tak bisa menghentikannya.
+Kau hanya memperlambatnya.
+
+1312
+01:39:56,982 --> 01:39:59,525
+Aku memperlambatmu, Gary.
+Itulah yang penting bagiku.
+
+1313
+01:40:00,068 --> 01:40:01,277
+Ini bukan permainan.
+
+1314
+01:40:01,486 --> 01:40:05,530
+Di dunia nyata, ketika kau membunuh orang,
+mereka mati. Sungguhan.
+
+1315
+01:40:06,282 --> 01:40:08,325
+Di dunia nyata, kau tamat.
+
+1316
+01:40:14,246 --> 01:40:15,080
+Kau ikut?
+
+1317
+01:40:25,092 --> 01:40:26,134
+Biarkan mereka pergi.
+
+1318
+01:40:27,553 --> 01:40:29,929
+Besok, dia adalah ahli komputer
+paling terkenal di dunia.
+
+1319
+01:40:35,853 --> 01:40:37,188
+Gary, kami membutuhkan informasi.
+
+1320
+01:40:37,271 --> 01:40:40,147
+Aku telah dikhianati.
+Randy dan Phil hilang.
+
+1321
+01:40:40,607 --> 01:40:41,774
+Sesuatu sedang terjadi!
+
+1322
+01:40:42,274 --> 01:40:43,233
+Turunkan ini.
+
+1323
+01:40:45,736 --> 01:40:46,945
+Aku memperhatikan...
+
+1324
+01:40:48,322 --> 01:40:49,991
+bahwa beberapa bajingan di perusahaanku...
+
+1325
+01:40:50,074 --> 01:40:52,243
+telah terlibat dalam kegiatan ilegal...
+
+1326
+01:40:52,327 --> 01:40:54,620
+dalam upaya untuk mendiskreditkanku...
+
+1327
+01:40:54,704 --> 01:40:56,331
+dan merebut kendali perusahaanku.
+
+1328
+01:40:56,873 --> 01:40:59,249
+<i>Aku terkejut sekaligus sedih
+dengan pengkhianatan ini.</i>
+
+1329
+01:40:59,917 --> 01:41:03,254
+<i>Aku akan berusaha semampunya untuk
+bekerja sama dengan pihak berwenang...</i>
+
+1330
+01:41:03,338 --> 01:41:05,590
+<i>dan mengadili para penjahat ini.</i>
+
+1331
+01:41:05,673 --> 01:41:09,636
+<i>Berita bahwa agen FBI
+telah menangkap CEO NURV, Gary Winston.</i>
+
+1332
+01:41:09,886 --> 01:41:13,847
+<i>TV, ponsel, dan komputer terganggu
+di seluruh dunia tadi malam...</i>
+
+1333
+01:41:13,930 --> 01:41:17,350
+<i>oleh siaran brutal yang diprakarsai
+oleh pemrogram Milo Hoffman.</i>
+
+1334
+01:41:17,601 --> 01:41:20,270
+<i>Polisi juga telah menangkap
+anggota tim Winston lainnya...</i>
+
+1335
+01:41:20,354 --> 01:41:23,774
+<i>di lapangan terbang Portland
+saat mereka mencoba naik jet pribadi.</i>
+
+1336
+01:41:24,190 --> 01:41:26,943
+<i>Pejabat Departemen Kehakiman
+bereaksi cepat terhadap siaran ini...</i>
+
+1337
+01:41:27,152 --> 01:41:29,946
+Bung, kesaksian Clinton
+tidak seterkenal ini.
+
+1338
+01:41:30,030 --> 01:41:31,989
+Ini luar biasa.
+
+1339
+01:41:32,449 --> 01:41:35,202
+Ada 400 permintaan per detik, Brian.
+
+1340
+01:41:35,284 --> 01:41:36,536
+Kita melakukan ini.
+
+1341
+01:41:36,953 --> 01:41:38,454
+Aku terkejut servernya tidak meledak.
+
+1342
+01:41:39,789 --> 01:41:40,622
+Kemari.
+
+1343
+01:41:41,500 --> 01:41:42,333
+Kemarilah.
+
+1344
+01:41:43,292 --> 01:41:44,125
+Kemarilah.
+
+1345
+01:41:44,209 --> 01:41:46,379
+<i>Lebih dari 18 juta orang
+telah mengunduh...</i>
+
+1346
+01:41:46,462 --> 01:41:48,671
+<i>kode sumber untuk Synapse
+dari situs web Skullbocks.</i>
+
+1347
+01:41:48,755 --> 01:41:49,588
+Apakah itu...
+
+1348
+01:41:49,881 --> 01:41:53,844
+<i>Skullbocks diperkirakan berasal dari sini,
+di garasi Palo Alto ini.</i>
+
+1349
+01:42:06,648 --> 01:42:08,276
+Hai, ada beberapa pertanyaan
+untuk kalian berdua.
+
+1350
+01:42:08,359 --> 01:42:11,069
+Apakah Milo Hoffman akan bersaksi?
+Kalian tahu di mana dia sekarang?
+
+1351
+01:42:12,154 --> 01:42:13,780
+Berapa banyak hit yang kalian catat?
+
+1352
+01:42:14,865 --> 01:42:17,824
+- Apa hubungan kalian dengan Milo Hoffman?
+- Apa dia akan segera ke sini?
+
+1353
+01:42:17,907 --> 01:42:19,410
+Dia mengharapkan persidangan yang panjang?
+
+1354
+01:42:20,912 --> 01:42:22,496
+- Semoga berhasil.
+- Baik.
+
+1355
+01:42:26,793 --> 01:42:27,626
+Milo?
+
+1356
+01:42:28,962 --> 01:42:30,171
+Tidak semuanya palsu.
+
+1357
+01:42:33,508 --> 01:42:34,340
+Aku tahu.
+
+1358
+01:42:35,425 --> 01:42:36,259
+Selamat tinggal.
+
+1359
+01:42:41,098 --> 01:42:44,269
+Kalian menganggap ini sebagai
+kemenangan akhir untuk sumber terbuka?
+
+1360
+01:42:44,352 --> 01:42:46,480
+Bagaimana rasanya
+menjatuhkan Gary Winston?
+
+1361
+01:42:46,563 --> 01:42:49,815
+Menurut kalian, apa efek tindakan kalian
+terhadap konspirasi itu?
+
+1362
+01:42:49,897 --> 01:42:52,025
+- Permisi.
+- Milo?
+
+1363
+01:42:57,655 --> 01:42:58,740
+Kita berhasil, Kawan.
+
+1364
+01:42:58,824 --> 01:43:00,408
+Milo, apakah kau akan bersaksi?
+
+1365
+01:43:00,784 --> 01:43:04,455
+Winston selalu berkata bahwa anak mana pun
+di garasi bisa membuatnya gulung tikar.
+
+1366
+01:43:04,538 --> 01:43:05,790
+Itukah yang kau lakukan, Milo?
+
+1367
+01:43:05,873 --> 01:43:06,830
+Ini garasi.
+
+1368
+01:43:06,915 --> 01:43:09,376
+Hei, itu dia.
+
+1369
+01:43:09,460 --> 01:43:11,336
+<i>Kami baru saja mendapatkan kabar bahwa...</i>
+
+1370
+01:43:11,836 --> 01:43:13,380
+<i>Ya. Ini dia.</i>
+
+1371
+01:43:13,464 --> 01:43:16,258
+<i>Inilah Gary Winston yang dipimpin
+oleh Marshal AS...</i>
+
+1372
+01:43:16,341 --> 01:43:18,010
+<i>ke pengadilan federal di Portland.</i>
+
+1373
+01:43:18,093 --> 01:43:20,929
+<i>Kami memahami bahwa proses dakwaan
+dimulai dalam semalam,</i>
+
+1374
+01:43:21,013 --> 01:43:22,555
+<i>didorong oleh siaran itu.</i>
+
+1375
+01:43:22,889 --> 01:43:24,724
+<i>Sudah bisa dilihat di video...</i>
+
+1376
+01:43:25,224 --> 01:43:27,935
+Milo, kapan pertama kali kau sadar
+bahwa Gary Winston mencuri kode?
+
+1377
+01:43:28,019 --> 01:43:29,979
+Apa sebenarnya yang menurutmu
+telah kau lakukan, Milo?
+
+1378
+01:43:30,062 --> 01:43:31,481
+Apa artinya semua itu?
+
+1379
+01:43:31,731 --> 01:43:34,816
+Artinya kami telah mengembalikan Synapse
+kepada orang-orang yang memilikinya.
+
+1380
+01:43:35,568 --> 01:43:37,487
+Pengetahuan manusia milik dunia.
+
+1381
+01:43:37,570 --> 01:43:39,154
+Bisakah kami memotret tim Skullbocks?
+
+1382
+01:43:40,113 --> 01:43:42,074
+<i>Bagaimana ini akan memengaruhi ekonomi...</i>
+
+1383
+01:43:42,098 --> 01:43:54,098
+v ip2 1.e u. or g
+
