@@ -1,0 +1,2694 @@
+1
+00:04:23,931 --> 00:04:26,060
+<i>Namaku Alice.</i>
+
+2
+00:04:26,234 --> 00:04:28,364
+<i>Dulu aku bekerja
+untuk Umbrella Corporation...</i>
+
+3
+00:04:28,536 --> 00:04:32,238
+<i>...perusahaan komersil terbesar
+dan terkuat di dunia.</i>
+
+4
+00:04:32,365 --> 00:04:35,972
+<i>Aku kepala keamanan di lab rahasia
+yang canggih bernama The Hive...</i>
+
+5
+00:04:36,451 --> 00:04:41,924
+<i>...sebuah lab besar bawah tanah yang
+memperkuat eksperimen senjata virus.</i>
+
+6
+00:04:42,750 --> 00:04:43,923
+<i>Terjadi insiden.</i>
+
+7
+00:04:45,038 --> 00:04:46,515
+<i>Sebuah virus lolos.</i>
+
+8
+00:04:47,862 --> 00:04:49,773
+<i>Banyak orang yang mati.</i>
+
+9
+00:04:52,120 --> 00:04:55,769
+<i>Persoalannya ialah,
+mereka tidak tetap mati.</i>
+
+10
+00:04:58,333 --> 00:05:01,373
+<i>Komputer yang mengendalikan
+The Hive ialah komputer pintar...</i>
+
+11
+00:05:01,548 --> 00:05:04,024
+<i>...super canggih: Ratu Merah.</i>
+
+12
+00:05:06,123 --> 00:05:10,553
+<i>Ratu Merah merespon penyebaran
+virus dengan cara yang ekstrim.</i>
+
+13
+00:05:11,283 --> 00:05:12,716
+<i>Dia mulai membunuh orang-orang.</i>
+
+14
+00:05:12,758 --> 00:05:14,982
+<i>Kalian semua akan mati di bawah sini.</i>
+
+15
+00:05:15,364 --> 00:05:17,450
+<i>Ratu Merah ingin membunuh
+semua orang...</i>
+
+16
+00:05:17,623 --> 00:05:20,317
+<i>...entah mereka terinfeksi atau tidak.</i>
+
+17
+00:05:22,142 --> 00:05:26,616
+<i>Aku berhasil lolos,
+tapi ini baru permulaan.</i>
+
+18
+00:05:30,323 --> 00:05:33,407
+<i>Virusnya menyebar dengan cepat...</i>
+
+19
+00:05:33,928 --> 00:05:37,794
+<i>...pertama di seluruh Amerika Serikat,
+lalu ke seluruh dunia.</i>
+
+20
+00:05:39,515 --> 00:05:42,774
+<i>T-Virus bukan hanya
+membangkitkan orang mati.</i>
+
+21
+00:05:42,948 --> 00:05:45,989
+<i>Virus ini mengubah mereka
+jadi menyeramkan.</i>
+
+22
+00:05:47,723 --> 00:05:49,938
+<i>Meskipun mereka telah
+menimbulkan kiamat...</i>
+
+23
+00:05:50,112 --> 00:05:54,457
+<i>...Umbrella Corporation terus
+bereksperimen dengan virus mematikan.</i>
+
+24
+00:05:55,082 --> 00:05:56,689
+<i>Aku terinfeksi.</i>
+
+25
+00:05:56,863 --> 00:06:00,165
+<i>Tapi virusnya menyatu
+dengan sel tubuhku.</i>
+
+26
+00:06:00,338 --> 00:06:02,815
+<i>Aku jadi punya kekuatan.</i>
+
+27
+00:06:03,550 --> 00:06:05,679
+<i>Kuncinya ialah struktur genetikmu.</i>
+
+28
+00:06:05,852 --> 00:06:07,590
+<i>Aku menjadi berbeda.</i>
+
+29
+00:06:09,328 --> 00:06:10,814
+<i>Sangat kuat.</i>
+
+30
+00:06:10,925 --> 00:06:12,837
+<i>Tak terhentikan.</i>
+
+31
+00:06:14,532 --> 00:06:18,355
+<i>Sementara aku menguat,
+umat manusia melemah.</i>
+
+32
+00:06:18,790 --> 00:06:22,570
+<i>Kucoba membawa orang-orang
+yang selamat ke lokasi yang aman...</i>
+
+33
+00:06:22,744 --> 00:06:25,176
+<i>...tapi kami diburu terus menerus.</i>
+
+34
+00:06:25,351 --> 00:06:28,696
+<i>Bahkan temanku Jill Valentine ditangkap
+dan dicuci otak oleh Umbrella.</i>
+
+35
+00:06:28,870 --> 00:06:29,616
+<i>Tembak mati.</i>
+
+36
+00:06:29,742 --> 00:06:33,001
+<i>Akhirnya, aku menghadapi
+kepala Umbrella Corporation...</i>
+
+37
+00:06:33,175 --> 00:06:35,347
+<i>...Albert Wesker.</i>
+
+38
+00:06:35,521 --> 00:06:39,953
+<i>Ia merenggut kekuatanku,
+tapi aku berhasil mengalahkannya.</i>
+
+39
+00:06:40,126 --> 00:06:44,036
+<i>Akhirnya, kami pikir
+semua sudah berakhir.</i>
+
+40
+00:06:44,298 --> 00:06:46,468
+<i>Kami pikir kami selamat dari kengerian.</i>
+
+41
+00:06:49,731 --> 00:06:51,686
+<i>Tapi kami salah.</i>
+
+42
+00:06:51,859 --> 00:06:56,378
+<i>Sekali lagi,
+kami harus berjuang...</i>
+
+43
+00:06:56,551 --> 00:06:58,115
+<i>...untuk nyawa kami.</i>
+
+44
+00:07:06,414 --> 00:07:08,108
+Ayo!
+
+45
+00:08:01,122 --> 00:08:02,730
+Bangunlah.
+
+46
+00:08:03,793 --> 00:08:06,400
+Ayo, sayang. Kita terlambat.
+
+47
+00:08:06,573 --> 00:08:08,573
+Alarmnya mati.
+
+48
+00:08:08,745 --> 00:08:10,918
+Becky belum bangun.
+
+49
+00:08:11,092 --> 00:08:13,743
+Bu Henderson pasti akan marah.
+
+50
+00:08:13,916 --> 00:08:17,653
+Kau tahu reaksi mereka jika kau
+terlambat mengantarnya ke sekolah.
+
+51
+00:08:24,102 --> 00:08:26,708
+Sayang?
+Kau baik saja, sayang?
+
+52
+00:08:28,501 --> 00:08:29,240
+Ya.
+
+53
+00:08:32,151 --> 00:08:33,324
+Akan kupanggil Becky.
+
+54
+00:08:36,451 --> 00:08:38,276
+Aku sudah isi bateraimu.
+
+55
+00:08:41,488 --> 00:08:45,137
+Becky, kau tahu Bu Henderson...
+
+56
+00:08:45,919 --> 00:08:48,917
+...ingin kau berbicara
+saat menggunakan bahasa isyarat.
+
+57
+00:08:49,051 --> 00:08:50,918
+Terima kasih, Ayah.
+
+58
+00:08:51,885 --> 00:08:56,012
+Saat kau pulang dari sekolah
+aku punya kejutan untukmu.
+
+59
+00:08:56,186 --> 00:08:57,133
+Aku dengar itu.
+
+60
+00:08:59,507 --> 00:09:01,766
+Daya tahan baterainya
+semakin berkurang.
+
+61
+00:09:01,941 --> 00:09:03,330
+Kita perlu beli yang baru.
+
+62
+00:09:03,344 --> 00:09:04,604
+Baik. Akan kubelikan...
+
+63
+00:09:04,778 --> 00:09:07,036
+- ...dalam perjalanan pulang.
+- Aku akan terlambat lagi.
+
+64
+00:09:10,903 --> 00:09:12,424
+Biar kuambilkan kemeja baru...
+
+65
+00:09:12,598 --> 00:09:13,571
+...dari kamar.
+
+66
+00:09:13,753 --> 00:09:16,012
+Ada yang mengambilkan
+cucianmu kemarin.
+
+67
+00:09:17,577 --> 00:09:19,575
+Kau memang malaikat kecilku.
+
+68
+00:09:19,922 --> 00:09:21,443
+Kau akan terlambat, ingat?
+
+69
+00:09:21,735 --> 00:09:22,735
+Oh, ya.
+
+70
+00:09:26,168 --> 00:09:27,341
+Akan kuambilkan kemejamu.
+
+71
+00:09:29,388 --> 00:09:30,169
+Jaga Becky!
+
+72
+00:09:33,045 --> 00:09:34,392
+Tidak!
+
+73
+00:09:38,172 --> 00:09:39,258
+Tidak!
+
+74
+00:09:45,036 --> 00:09:47,383
+Tolong! Tolong kami!
+
+75
+00:09:58,917 --> 00:10:00,045
+Ayo!
+
+76
+00:10:01,392 --> 00:10:02,131
+Ayo!
+
+77
+00:10:19,049 --> 00:10:20,092
+Cepat.
+
+78
+00:10:21,309 --> 00:10:22,699
+Cepat.
+
+79
+00:11:22,414 --> 00:11:23,109
+Cepat!
+
+80
+00:11:24,674 --> 00:11:26,063
+Cepat!
+
+81
+00:11:28,019 --> 00:11:28,714
+Tidak!
+
+82
+00:11:40,239 --> 00:11:42,108
+- Mundur!
+- Tunggu!
+
+83
+00:11:42,282 --> 00:11:43,194
+- Tunggu!
+- Mundur!
+
+84
+00:11:46,888 --> 00:11:48,146
+Kau ini kenapa?
+
+85
+00:11:49,981 --> 00:11:51,024
+Ayo, naik ke mobil!
+
+86
+00:12:07,411 --> 00:12:08,757
+Apa yang terjadi?
+
+87
+00:12:08,932 --> 00:12:10,191
+Aku juga tidak tahu.
+
+88
+00:12:10,365 --> 00:12:11,452
+Kenapa orang-orang...
+
+89
+00:12:11,626 --> 00:12:14,554
+- ...jadi seperti ini?
+- Mereka bukan orang. Bukan orang lagi.
+
+90
+00:12:38,182 --> 00:12:39,878
+Kau terluka?
+
+91
+00:12:43,135 --> 00:12:45,655
+Kau bisa bergerak? Baiklah.
+
+92
+00:12:56,112 --> 00:12:57,372
+Ayo.
+
+93
+00:13:15,049 --> 00:13:16,744
+Ibu!
+
+94
+00:13:16,777 --> 00:13:17,820
+Ibu, ayo.
+
+95
+00:13:17,839 --> 00:13:19,055
+Cepat!
+
+96
+00:14:03,478 --> 00:14:05,824
+<i>Aku menyayangimu.</i>
+
+97
+00:15:03,940 --> 00:15:06,113
+UMBRELLA PRIME
+KEAMANAN - SEL TAHANAN 919
+
+98
+00:15:06,286 --> 00:15:07,807
+ARSIP DOKUMEN
+
+99
+00:15:12,186 --> 00:15:13,708
+TAHANAN
+PROYEK ALICE
+
+100
+00:15:14,925 --> 00:15:16,575
+STATUS
+MENUNGGU INTEROGASI
+
+101
+00:15:47,074 --> 00:15:48,865
+Proyek Alice...
+
+102
+00:15:48,905 --> 00:15:51,598
+...kenapa kau berkhianat
+melawan Umbrella?
+
+103
+00:15:52,293 --> 00:15:53,380
+Jill?
+
+104
+00:15:54,248 --> 00:15:55,551
+Kaukah itu?
+
+105
+00:15:55,726 --> 00:15:57,419
+Proyek Alice...
+
+106
+00:15:57,511 --> 00:16:00,508
+...kenapa kau berkhianat
+melawan Umbrella?
+
+107
+00:16:00,683 --> 00:16:03,245
+Apa yang terjadi pada Chris dan Claire?
+
+108
+00:16:03,419 --> 00:16:05,201
+Di mana orang-orang
+yang berada di kapal?
+
+109
+00:16:22,669 --> 00:16:24,581
+Proyek Alice...
+
+110
+00:16:25,277 --> 00:16:27,970
+...kau bekerja untuk siapa?
+
+111
+00:16:29,409 --> 00:16:30,799
+Proyek Alice...
+
+112
+00:16:32,937 --> 00:16:34,631
+...kau bekerja untuk siapa?
+
+113
+00:16:36,499 --> 00:16:39,758
+Jill, mengapa kau melakukan ini?
+
+114
+00:17:04,457 --> 00:17:06,021
+<i>Peringatan. Peringatan.</i>
+
+115
+00:17:06,518 --> 00:17:09,298
+<i>Akses komputer tanpa izin.</i>
+
+116
+00:17:10,080 --> 00:17:11,905
+<i>Sistem keamanan dimatikan.</i>
+
+117
+00:17:12,470 --> 00:17:16,032
+<i>Komputer utama diulang
+dalam dua menit.</i>
+
+118
+00:17:19,396 --> 00:17:20,612
+<i>Sistem keamanan dimatikan.</i>
+
+119
+00:17:21,438 --> 00:17:22,133
+<i>Komputer...</i>
+
+120
+00:17:22,306 --> 00:17:23,567
+<i>...utama mengulang...</i>
+
+121
+00:17:23,740 --> 00:17:25,783
+<i>...dalam satu menit...</i>
+
+122
+00:17:25,957 --> 00:17:27,173
+<i>...50 detik.</i>
+
+123
+00:17:29,190 --> 00:17:31,406
+<i>Sistem keamanan dimatikan.</i>
+
+124
+00:17:31,580 --> 00:17:35,794
+<i>Komputer utama mengulang dalam
+satu menit, 40 detik.</i>
+
+125
+00:17:39,042 --> 00:17:40,692
+<i>Sistem keamanan dimatikan.</i>
+
+126
+00:17:41,431 --> 00:17:43,777
+<i>Komputer utama mengulang...</i>
+
+127
+00:17:43,951 --> 00:17:45,862
+<i>...dalam 30 detik.</i>
+
+128
+00:17:47,537 --> 00:17:49,666
+<i>Sistem keamanan dimatikan.</i>
+
+129
+00:17:49,840 --> 00:17:54,357
+<i>Komputer utama mengulang
+dalam 20 detik.</i>
+
+130
+00:17:56,096 --> 00:17:58,182
+<i>Sistem keamanan dimatikan.</i>
+
+131
+00:17:58,299 --> 00:18:02,731
+<i>Komputer utama mengulang
+dalam 10 detik.</i>
+
+132
+00:18:03,643 --> 00:18:06,251
+<i>Komputer utama mengulang.</i>
+
+133
+00:18:11,941 --> 00:18:13,853
+UMBRELLA PRIME
+SISTEM KEAMANAN DIBOBOL
+
+134
+00:18:14,419 --> 00:18:15,678
+BURONAN PROYEK ALICE
+KERAHKAN KEAMANAN
+
+135
+00:18:15,851 --> 00:18:17,068
+PERIKSA KORIDOR
+DENGAN JARINGAN LASER
+
+136
+00:18:17,715 --> 00:18:19,583
+Kerahkan seluruh regu keamanan.
+
+137
+00:18:19,787 --> 00:18:20,482
+Periksa...
+
+138
+00:18:20,656 --> 00:18:22,611
+...seluruh koridor
+dengan jaringan laser.
+
+139
+00:19:37,726 --> 00:19:39,812
+BURONAN - PROYEK ALICE
+PROTOKOL ENAM DIMULAI
+
+140
+00:19:42,505 --> 00:19:43,808
+<i>Bersiaplah.</i>
+
+141
+00:19:45,967 --> 00:19:47,314
+<i>Bersiaplah.</i>
+
+142
+00:19:49,704 --> 00:19:52,788
+<i>Simulasi Tokyo dimulai.</i>
+
+143
+00:24:47,507 --> 00:24:48,854
+<i>Bersiaplah.</i>
+
+144
+00:24:51,244 --> 00:24:52,808
+<i>Bersiaplah.</i>
+
+145
+00:24:58,934 --> 00:25:03,235
+<i>Selamat datang
+di Pusat Kendali Umbrella.</i>
+
+146
+00:25:27,131 --> 00:25:28,651
+Bagus.
+
+147
+00:25:52,897 --> 00:25:54,027
+Jangan.
+
+148
+00:25:54,201 --> 00:25:56,069
+- Namaku...
+- Ada Wong.
+
+149
+00:25:56,243 --> 00:25:59,901
+Agen untuk Umbrella Corporation dan
+salah satu agen terbaik Albert Wesker.
+
+150
+00:26:00,126 --> 00:26:03,515
+Aku tahu benar siapa dan apa kau ini.
+
+151
+00:26:03,628 --> 00:26:05,584
+Pertanyaannya ialah...
+
+152
+00:26:05,758 --> 00:26:08,148
+...kenapa tidak kubatalkan saja
+kontrakmu sekarang?
+
+153
+00:26:08,625 --> 00:26:11,232
+Aku tidak bekerja lagi untuk Umbrella.
+
+154
+00:26:11,884 --> 00:26:14,317
+Albert Wesker juga tidak.
+
+155
+00:26:14,490 --> 00:26:15,794
+Aku tidak peduli.
+
+156
+00:26:15,968 --> 00:26:17,793
+<i>Silakan bunuh dia...</i>
+
+157
+00:26:17,966 --> 00:26:20,486
+<i>...tapi nanti kau takkan bisa
+keluar dari tempat ini.</i>
+
+158
+00:26:20,660 --> 00:26:22,789
+- Wesker.
+<i>- Jadilah gadis yang baik.</i>
+
+159
+00:26:23,179 --> 00:26:24,135
+<i>Letakkan pisaumu.</i>
+
+160
+00:26:27,177 --> 00:26:27,872
+<i>Dan Alice...</i>
+
+161
+00:26:28,045 --> 00:26:30,262
+<i>...senang bertemu lagi denganmu.</i>
+
+162
+00:26:30,458 --> 00:26:31,892
+Bagaimana dia bisa lolos?
+
+163
+00:26:32,066 --> 00:26:33,934
+Jelas ada yang menolongnya.
+
+164
+00:26:34,108 --> 00:26:36,802
+Ada pengkhianat di fasilitas ini.
+
+165
+00:26:36,975 --> 00:26:39,235
+Sistem keamanan dimatikan
+selama 2 menit, Bu.
+
+166
+00:26:39,281 --> 00:26:41,278
+- Bagaimana dengan pusat kendali?
+- Masih...
+
+167
+00:26:41,453 --> 00:26:42,713
+<i>...belum bisa dihubungi.</i>
+
+168
+00:26:42,885 --> 00:26:44,928
+PUTAR ULANG:
+PENGAMAT RUANG KENDALI
+
+169
+00:26:45,792 --> 00:26:46,921
+Kubunuh semua orang...
+
+170
+00:26:47,096 --> 00:26:48,513
+...di ruang kendali ini.
+
+171
+00:26:48,619 --> 00:26:50,879
+Kubuat agar Wesker
+bisa meretas komputer pusat.
+
+172
+00:26:51,053 --> 00:26:54,007
+Kami matikan sistem keamanan.
+
+173
+00:26:54,181 --> 00:26:55,831
+Kami biarkan kau keluar dari sel itu.
+
+174
+00:26:56,006 --> 00:26:59,134
+<i>Kami harus mengeluarkanmu
+dari fasilitas ini.</i>
+
+175
+00:26:59,308 --> 00:27:02,522
+- Kenapa kau ingin menolongku?
+<i>- Kami membutuhkanmu.</i>
+
+176
+00:27:02,697 --> 00:27:05,216
+<i>Umat manusia menghadapi kepunahan.</i>
+
+177
+00:27:05,390 --> 00:27:09,082
+<i>Satu-satunya cara agar kita bertahan
+hidup ialah kita harus bekerja sama.</i>
+
+178
+00:27:09,256 --> 00:27:10,516
+Aku tak mau ke mana-mana...
+
+179
+00:27:10,690 --> 00:27:13,557
+...sampai kutahu kita di mana
+dan apa yang terjadi di sini.
+
+180
+00:27:13,715 --> 00:27:16,235
+<i>Kau berada di
+Pusat Fasilitas Uji Coba Umbrella.</i>
+
+181
+00:27:16,408 --> 00:27:18,277
+Jelaskan tentang Tokyo.
+
+182
+00:27:18,450 --> 00:27:21,014
+<i>Yang kau lihat hanyalah
+simulasi yang terperinci...</i>
+
+183
+00:27:21,188 --> 00:27:22,925
+<i>...dan tidak lebih.</i>
+
+184
+00:27:23,099 --> 00:27:25,489
+<i>Hanya meliputi beberapa blok kota.</i>
+
+185
+00:27:25,974 --> 00:27:26,974
+<i>Itu saja.</i>
+
+186
+00:27:27,148 --> 00:27:28,711
+Aku berada di luar ruangan.
+
+187
+00:27:28,885 --> 00:27:29,797
+Benarkah?
+
+188
+00:27:30,448 --> 00:27:32,187
+Kau melihat ke langit, kan?
+
+189
+00:27:32,361 --> 00:27:35,749
+- Saat itu malam hari.
+- Bintang? Bulan?
+
+190
+00:27:35,923 --> 00:27:41,354
+<i>Gedung uji cobanya hampir setinggi
+100 meter, langit-langitnya hitam.</i>
+
+191
+00:27:41,528 --> 00:27:43,353
+<i>Biasanya memang malam di sana.</i>
+
+192
+00:27:43,527 --> 00:27:45,873
+<i>Tapi bukankah monster-monster
+memang keluar pada malam hari?</i>
+
+193
+00:27:46,527 --> 00:27:48,829
+- Saat itu sedang hujan.
+<i>- Pengatur iklim.</i>
+
+194
+00:27:49,002 --> 00:27:51,087
+<i>Angin, hujan.</i>
+
+195
+00:27:51,261 --> 00:27:53,477
+<i>Bahkan mereka bisa membuatnya
+bersalju.</i>
+
+196
+00:27:53,551 --> 00:27:55,724
+- Buat apa bangun tempat seperti itu?
+<i>- Sederhana.</i>
+
+197
+00:27:56,114 --> 00:27:59,068
+<i>Penghasilan utama
+Umbrella Corporation berasal...</i>
+
+198
+00:27:59,242 --> 00:28:01,328
+<i>...dari menjual senjata virus...</i>
+
+199
+00:28:01,502 --> 00:28:04,022
+<i>...sesuatu yang mustahil
+untuk diuji coba di dunia nyata.</i>
+
+200
+00:28:04,579 --> 00:28:06,751
+<i>Mereka membuat simulasi...</i>
+
+201
+00:28:06,925 --> 00:28:08,098
+<i>...pusat New York...</i>
+
+202
+00:28:08,272 --> 00:28:10,167
+<i>...terjangkiti, menunjukkannya
+kepada Rusia...</i>
+
+203
+00:28:10,294 --> 00:28:12,197
+<i>...dan menjual virusnya.</i>
+
+204
+00:28:12,271 --> 00:28:16,442
+<i>Mereka buat simulasi di Moskow,
+lalu menjualnya kepada Amerika.</i>
+
+205
+00:28:16,832 --> 00:28:18,005
+<i>Perjangkitan di Tokyo.</i>
+
+206
+00:28:18,570 --> 00:28:19,960
+Dijual kepada Cina.
+
+207
+00:28:20,134 --> 00:28:23,174
+- Perjangkitan di Cina.
+- Dijual kepada Jepang.
+
+208
+00:28:23,197 --> 00:28:26,177
+<i>Tepat. Semua orang ingin memilikinya.</i>
+
+209
+00:28:26,252 --> 00:28:29,293
+<i>Umbrella Corporation membangun
+persenjataan yang baru.</i>
+
+210
+00:28:29,467 --> 00:28:30,988
+<i>Hanya saja kali ini...</i>
+
+211
+00:28:31,163 --> 00:28:34,334
+<i>...senjatanya biologis, bukan nuklir.</i>
+
+212
+00:28:34,507 --> 00:28:35,767
+<i>Sangat menguntungkan.</i>
+
+213
+00:28:36,549 --> 00:28:38,895
+<i>Dan di sinilah semuanya berlangsung.</i>
+
+214
+00:28:39,069 --> 00:28:41,380
+<i>Ini ciptaan Umbrella yang terbesar.</i>
+
+215
+00:28:42,762 --> 00:28:44,804
+<i>Perut monster.</i>
+
+216
+00:28:44,850 --> 00:28:47,414
+Lalu, kenapa kita
+tidak pergi saja dari sini?
+
+217
+00:28:48,223 --> 00:28:49,310
+Berhenti!
+
+218
+00:28:51,395 --> 00:28:53,176
+Pagi akan tiba kurang dari semenit.
+
+219
+00:28:54,088 --> 00:28:54,957
+Lihat saja...
+
+220
+00:28:55,131 --> 00:28:56,860
+...sendiri.
+
+221
+00:28:56,983 --> 00:28:59,893
+<i>Fasilitas ini terletak di Kamchatka...</i>
+
+222
+00:29:00,893 --> 00:29:04,108
+<i>...Rusia Utara. Uni Soviet lama...</i>
+
+223
+00:29:04,114 --> 00:29:06,678
+<i>...membangun bunker kapal selam
+di sini tahun '80-an.</i>
+
+224
+00:29:07,286 --> 00:29:08,763
+<i>Usai Perang Dingin...</i>
+
+225
+00:29:09,719 --> 00:29:12,161
+<i>...Umbrella Corporation
+memperluasnya...</i>
+
+226
+00:29:12,206 --> 00:29:14,858
+<i>...dan membangun fasilitas uji coba.</i>
+
+227
+00:29:18,290 --> 00:29:22,026
+<i>Belum pernah ada yang lolos
+dari fasilitas ini.</i>
+
+228
+00:29:23,305 --> 00:29:24,139
+Es.
+
+229
+00:29:24,265 --> 00:29:26,525
+<i>Kau membutuhkan
+semua bantuan yang ada...</i>
+
+230
+00:29:26,699 --> 00:29:30,739
+<i>...jadi aku siapkan regu penyerang untuk
+masuk dari atas dan menolongmu.</i>
+
+231
+00:30:16,150 --> 00:30:17,671
+Itu dia.
+
+232
+00:30:17,846 --> 00:30:20,539
+Saluran udara untuk fasilitas Umbrella.
+
+233
+00:30:23,104 --> 00:30:24,190
+Kelihatannya sudah ditinggalkan.
+
+234
+00:30:24,625 --> 00:30:26,320
+Mereka mau kau berpikir demikian.
+
+235
+00:30:26,721 --> 00:30:29,545
+Ayo! Kita punya dua jam untuk...
+
+236
+00:30:29,719 --> 00:30:31,108
+<i>...menjemput Alice dan Ada.</i>
+
+237
+00:30:31,282 --> 00:30:34,628
+<i>Setelah itu, bala bantuan Umbrella
+akan datang.</i>
+
+238
+00:30:46,874 --> 00:30:47,700
+Jalankan peretas sistem.
+
+239
+00:30:52,653 --> 00:30:53,391
+Ini kode akses...
+
+240
+00:30:53,565 --> 00:30:54,651
+...yang diberikan Ada kepada kita.
+
+241
+00:30:54,935 --> 00:30:55,804
+Kau percaya kepadanya?
+
+242
+00:30:55,977 --> 00:30:57,498
+Masukkan saja angka-angkanya.
+
+243
+00:31:02,652 --> 00:31:04,390
+Peledaknya siap.
+
+244
+00:31:07,865 --> 00:31:08,820
+Kita bisa masuk.
+
+245
+00:31:25,714 --> 00:31:27,452
+Ayo kita lakukan ini.
+
+246
+00:31:28,582 --> 00:31:29,251
+Mereka sudah masuk.
+
+247
+00:31:29,364 --> 00:31:33,101
+<i>Regu penyerang mengamankan satu lift
+agar kau bisa loloskan diri ke atas.</i>
+
+248
+00:31:33,275 --> 00:31:35,316
+Mereka akan mengatasi
+perlawanan dari Umbrella...
+
+249
+00:31:35,489 --> 00:31:37,053
+...lalu bertemu dengan kita...
+
+250
+00:31:37,228 --> 00:31:38,488
+...dan mengawal kita keluar.
+
+251
+00:31:38,835 --> 00:31:39,965
+Seorang temanmu...
+
+252
+00:31:40,139 --> 00:31:41,356
+...bersama dengan mereka.
+
+253
+00:31:41,529 --> 00:31:43,093
+Luther West.
+
+254
+00:31:43,267 --> 00:31:44,831
+Dia masih hidup?
+
+255
+00:31:45,026 --> 00:31:47,373
+Baik. Berpeganglah, nona-nona.
+
+256
+00:31:54,992 --> 00:31:58,816
+Samakan jam.
+Persis dua jam dari...
+
+257
+00:31:58,990 --> 00:32:01,815
+...tiga, dua, satu, samakan.
+
+258
+00:32:01,987 --> 00:32:03,812
+PELEDAK
+DIAKTIFKAN
+
+259
+00:32:08,537 --> 00:32:09,754
+Leon...
+
+260
+00:32:09,928 --> 00:32:10,753
+...kenapa kita...
+
+261
+00:32:10,927 --> 00:32:11,883
+...tidak ledakkan dari jauh?
+
+262
+00:32:12,403 --> 00:32:14,402
+Kita tidak mau mereka
+mengacak sinyalnya.
+
+263
+00:32:14,967 --> 00:32:19,356
+Entah kita berhasil atau tidak,
+fasilitas ini harus dihancurkan.
+
+264
+00:32:19,765 --> 00:32:21,937
+Bagaimana jika kita butuh lebih
+dari dua jam?
+
+265
+00:32:21,965 --> 00:32:24,702
+Maka kuharap kau kuat menahan napas.
+
+266
+00:32:26,527 --> 00:32:30,697
+<i>Kepala Keamanan Valentine telah tiba
+di simulasi uji coba Tokyo.</i>
+
+267
+00:32:30,872 --> 00:32:31,740
+<i>Dia...</i>
+
+268
+00:32:31,914 --> 00:32:32,827
+<i>...melacakmu.</i>
+
+269
+00:32:33,000 --> 00:32:34,695
+Mereka menuju kemari.
+
+270
+00:32:35,167 --> 00:32:36,854
+<i>Perintahnya ialah menangkapmu...</i>
+
+271
+00:32:36,967 --> 00:32:38,140
+<i>...jika memungkinkan...</i>
+
+272
+00:32:38,314 --> 00:32:41,094
+<i>...membunuhmu, jika terpaksa.</i>
+
+273
+00:32:41,268 --> 00:32:42,927
+Siapa yang berikan perintah-perintah ini?
+
+274
+00:32:43,096 --> 00:32:44,269
+<i>Ratu Merah.</i>
+
+275
+00:32:44,443 --> 00:32:46,442
+- Komputer itu?
+<i>- Ya.</i>
+
+276
+00:32:46,615 --> 00:32:50,221
+<i>Komputer pintar sama
+yang kau temukan di The Hive.</i>
+
+277
+00:32:50,395 --> 00:32:53,871
+<i>Kini dia mengendalikan yang tersisa
+dari Umbrella Corporation.</i>
+
+278
+00:32:54,046 --> 00:32:57,477
+<i>Dia akan melakukan apa pun untuk
+menghentikanmu mencapai permukaan.</i>
+
+279
+00:32:57,928 --> 00:32:58,753
+<i>Sudah kurencanakan...</i>
+
+280
+00:32:58,928 --> 00:33:00,274
+<i>...rute pelarianmu.</i>
+
+281
+00:33:00,447 --> 00:33:03,314
+<i>Kau akan melintasi simulasi New York
+ke Pinggir Kota...</i>
+
+282
+00:33:03,488 --> 00:33:05,791
+<i>...tempat kau akan bertemu
+dengan regu penyerang.</i>
+
+283
+00:33:05,965 --> 00:33:08,754
+<i>Mereka akan mengantarmu
+melewati simulasi Moskow...</i>
+
+284
+00:33:08,887 --> 00:33:10,764
+<i>...ke bunker kapal selam.</i>
+
+285
+00:33:10,826 --> 00:33:13,258
+<i>Lalu naik lift untuk kembali
+ke permukaan.</i>
+
+286
+00:33:13,562 --> 00:33:16,169
+<i>Ratu Merah
+telah menangkap sinyalku.</i>
+
+287
+00:33:16,343 --> 00:33:19,070
+<i>Dia akan memegang kendali fasilitas ini.</i>
+
+288
+00:33:19,172 --> 00:33:20,563
+<i>Kau harus cepat. Aku tidak bisa...</i>
+
+289
+00:33:23,039 --> 00:33:24,950
+<i>Jangan dengarkan
+si pengkhianat Wesker.</i>
+
+290
+00:33:25,473 --> 00:33:27,210
+<i>Aku yang pegang kendali sekarang!</i>
+
+291
+00:33:27,289 --> 00:33:28,201
+<i>Proyek Alice...</i>
+
+292
+00:33:28,343 --> 00:33:29,212
+<i>...Ada Wong...</i>
+
+293
+00:33:29,386 --> 00:33:30,863
+<i>...diam di tempat.</i>
+
+294
+00:33:31,254 --> 00:33:32,906
+- Ayo!
+<i>- Proyek Alice...</i>
+
+295
+00:33:35,164 --> 00:33:37,380
+<i>...kalian semua akan mati di sini.</i>
+
+296
+00:33:38,120 --> 00:33:40,334
+Aku pernah dengar itu sebelumnya.
+
+297
+00:33:54,345 --> 00:33:59,663
+PERINGATAN PENYUSUP!
+AKSES LIFT TANPA IZIN
+
+298
+00:34:01,557 --> 00:34:03,382
+Formasi pertahanan.
+
+299
+00:34:04,642 --> 00:34:05,641
+Bidik sasaranmu.
+
+300
+00:34:06,032 --> 00:34:07,422
+Tembak segera.
+
+301
+00:34:23,971 --> 00:34:26,230
+Bunker kapal selam ada di depan.
+
+302
+00:34:28,968 --> 00:34:31,748
+Barry, kau dan aku pimpin jalan.
+
+303
+00:34:32,733 --> 00:34:35,948
+Kita bertemu dengan Alice dan Ada
+dalam 30 menit.
+
+304
+00:34:53,189 --> 00:34:54,579
+Aman!
+
+305
+00:35:01,590 --> 00:35:03,283
+Itu kapal yang canggih.
+
+306
+00:35:03,458 --> 00:35:04,370
+Kelas Typhoon.
+
+307
+00:35:05,023 --> 00:35:08,063
+Kapal selam nuklir terbesar
+yang pernah dibuat oleh Soviet.
+
+308
+00:35:08,068 --> 00:35:11,891
+Umbrella gunakan itu untuk mengirim
+senjata biologis ke seluruh dunia.
+
+309
+00:35:12,019 --> 00:35:14,930
+Ayo lebih cepat.
+Waktu kita kurang dari 90 menit.
+
+310
+00:35:15,103 --> 00:35:16,973
+<i>Penyusup terdeteksi.</i>
+
+311
+00:35:17,145 --> 00:35:18,449
+<i>Mereka harus dibunuh.</i>
+
+312
+00:35:18,623 --> 00:35:20,187
+5 PENYUSUP TERIDENTIFIKASI
+TARGET UNTUK DIBUNUH
+
+313
+00:35:23,706 --> 00:35:25,400
+New York.
+
+314
+00:35:25,426 --> 00:35:27,424
+Kita harus melewati dua...
+
+315
+00:35:27,598 --> 00:35:28,668
+...simulasi lagi untuk meloloskan diri.
+
+316
+00:35:28,848 --> 00:35:29,588
+Ayo jalan.
+
+317
+00:35:29,762 --> 00:35:32,020
+Buat apa Umbrella
+terus menjalani uji coba ini?
+
+318
+00:35:32,194 --> 00:35:35,801
+Mereka ingin pelajari virus ini,
+belajar cara mengendalikannya.
+
+319
+00:35:35,975 --> 00:35:38,842
+<i>Jalankan simulasi New York.</i>
+
+320
+00:35:39,016 --> 00:35:41,492
+<i>Aktifkan virus.</i>
+
+321
+00:35:44,030 --> 00:35:48,071
+<i>Bersiaplah.</i>
+
+322
+00:35:48,244 --> 00:35:51,250
+<i>Simulasi New York dijalankan.</i>
+
+323
+00:35:51,373 --> 00:35:52,241
+Ratu Merah.
+
+324
+00:35:52,416 --> 00:35:53,676
+Ia mengaktifkan...
+
+325
+00:35:53,850 --> 00:35:55,978
+...senjata biologis
+untuk menghentikan kita. Ayo.
+
+326
+00:35:56,153 --> 00:35:57,455
+Tunggu.
+
+327
+00:35:58,411 --> 00:35:59,714
+Kau dengar itu?
+
+328
+00:36:08,689 --> 00:36:09,732
+Kau tahu itu apa?
+
+329
+00:36:10,470 --> 00:36:12,078
+Aku ada dugaan.
+
+330
+00:36:31,411 --> 00:36:33,366
+Yang benar saja!
+
+331
+00:38:06,372 --> 00:38:07,197
+Hei, teman-teman.
+
+332
+00:38:09,458 --> 00:38:10,457
+Ide buruk.
+
+333
+00:38:30,729 --> 00:38:31,729
+Ayo.
+
+334
+00:38:32,146 --> 00:38:34,317
+Kita terlambat dari jadwal.
+
+335
+00:38:47,283 --> 00:38:48,890
+Ada apa?
+
+336
+00:38:49,064 --> 00:38:51,367
+Ini akhir dari simulasi.
+
+337
+00:38:51,540 --> 00:38:53,756
+Mereka jarang berlangsung
+lebih dari satu jam.
+
+338
+00:38:53,930 --> 00:38:55,277
+Ayo.
+
+339
+00:38:56,132 --> 00:38:59,086
+Sebelum Ratu Merah
+mengaktifkan hal lain.
+
+340
+00:38:59,830 --> 00:39:02,133
+<i>Sasaran selamat.</i>
+
+341
+00:39:02,176 --> 00:39:05,173
+<i>Kepala Keamanan Valentine
+akan mencegatnya.</i>
+
+342
+00:39:05,781 --> 00:39:08,952
+<i>Penyusup memasuki
+simulasi uji coba Moskow.</i>
+
+343
+00:39:09,127 --> 00:39:11,994
+<i>Aktifkan Mayat Hidup Las Plagas.</i>
+
+344
+00:39:12,167 --> 00:39:14,860
+AKTIFKAN:
+MAYAT HIDUP LAS PLAGAS
+
+345
+00:39:22,013 --> 00:39:23,532
+Ada apa ini?
+
+346
+00:39:23,602 --> 00:39:27,252
+Ratu Merah tahu kita di sini.
+Waspadalah.
+
+347
+00:39:27,426 --> 00:39:31,161
+<i>Bersiaplah.</i>
+
+348
+00:39:31,335 --> 00:39:33,594
+<i>Simulasi Moskow dijalankan.</i>
+
+349
+00:39:38,069 --> 00:39:40,763
+- Apa?
+- Dengarkan.
+
+350
+00:39:46,296 --> 00:39:46,990
+Di sana.
+
+351
+00:39:56,367 --> 00:39:58,235
+Mereka itu apa?
+
+352
+00:40:03,293 --> 00:40:04,639
+Mundur!
+
+353
+00:40:04,814 --> 00:40:05,595
+Semuanya, mundur!
+
+354
+00:40:28,555 --> 00:40:29,902
+Awan.
+
+355
+00:40:30,591 --> 00:40:32,156
+Itu tidak nyata.
+
+356
+00:40:32,330 --> 00:40:34,719
+Itu proyeksi hologram.
+
+357
+00:40:35,674 --> 00:40:37,847
+Ketika mereka menjalankan simulasi...
+
+358
+00:40:38,020 --> 00:40:41,496
+...percayalah tidak ada
+yang melihat ke langit.
+
+359
+00:40:47,777 --> 00:40:49,471
+Ini titik pertemuannya.
+
+360
+00:40:50,428 --> 00:40:51,904
+Regu penyerang terlambat.
+
+361
+00:40:52,816 --> 00:40:53,599
+Di mana mereka?
+
+362
+00:40:55,192 --> 00:40:57,886
+Ada gerakan di dalam rumah
+di belakangmu.
+
+363
+00:40:58,060 --> 00:41:00,015
+Jendela atas.
+
+364
+00:41:24,177 --> 00:41:26,132
+Kenapa mereka di dalam sini?
+
+365
+00:41:34,012 --> 00:41:36,098
+Mereka menggunakan tiruan diriku.
+
+366
+00:41:36,619 --> 00:41:37,922
+Tentu.
+
+367
+00:41:38,095 --> 00:41:40,138
+Dulu kau salah satu
+dari 50 model dasar.
+
+368
+00:41:42,161 --> 00:41:43,881
+"Model dasar."
+
+369
+00:41:43,907 --> 00:41:47,731
+Pikirmu bagaimana Umbrella menaruh
+orang-orang untuk skenario uji coba ini?
+
+370
+00:41:47,905 --> 00:41:49,990
+Ratusan orang mati setiap kali...
+
+371
+00:41:50,163 --> 00:41:51,424
+...mereka menjalankan simulasi.
+
+372
+00:41:51,597 --> 00:41:54,812
+Umbrella mengisi otak mereka
+dengan ingatan dasar...
+
+373
+00:41:54,986 --> 00:41:58,114
+...cukup untuk memastikan
+adanya respon emosional yang benar...
+
+374
+00:41:58,287 --> 00:42:00,200
+...terhadap ancaman virus biologis.
+
+375
+00:42:00,764 --> 00:42:02,154
+Dalam satu kehidupan, ia bisa menjadi...
+
+376
+00:42:02,328 --> 00:42:03,588
+...seorang istri di pinggir kota.
+
+377
+00:42:03,761 --> 00:42:06,238
+Dalam kehidupan berikutnya,
+seorang pengusaha di New York.
+
+378
+00:42:06,412 --> 00:42:09,931
+Berikutnya, seorang tentara
+yang bekerja untuk Umbrella.
+
+379
+00:43:29,680 --> 00:43:30,375
+Ibu!
+
+380
+00:43:31,417 --> 00:43:32,113
+Aku bersembunyi...
+
+381
+00:43:32,286 --> 00:43:33,633
+...seperti yang kau minta.
+
+382
+00:43:38,151 --> 00:43:39,715
+Apa yang terjadi dengan pakaian...
+
+383
+00:43:39,889 --> 00:43:41,322
+...dan rambutmu?
+
+384
+00:43:51,573 --> 00:43:52,615
+PROYEK ALICE
+BERSENJATA DAN DIDAPATI
+
+385
+00:44:26,090 --> 00:44:27,045
+Roket! Tiarap!
+
+386
+00:44:32,041 --> 00:44:33,519
+Kita kehabisan waktu!
+
+387
+00:44:34,126 --> 00:44:36,255
+Kau harus temukan
+jalan keluar sekarang!
+
+388
+00:44:36,837 --> 00:44:38,315
+Sebentar lagi!
+
+389
+00:44:57,039 --> 00:44:58,603
+Semua ini tidak nyata.
+
+390
+00:44:59,124 --> 00:45:01,035
+- Baginya nyata.
+- Aku tahu.
+
+391
+00:45:01,209 --> 00:45:02,382
+Itulah tujuannya.
+
+392
+00:45:02,556 --> 00:45:06,553
+Semua perasaannya kepadamu
+diprogram di pikirannya.
+
+393
+00:45:07,721 --> 00:45:08,894
+Sehari lalu...
+
+394
+00:45:09,067 --> 00:45:10,936
+...dia masih kosong.
+
+395
+00:45:11,108 --> 00:45:14,541
+Aku bisa tunjukkan lusinan dirinya,
+di ruang pendingin.
+
+396
+00:45:15,838 --> 00:45:17,837
+Maaf, tapi itu benar.
+
+397
+00:45:18,314 --> 00:45:19,357
+Siap!
+
+398
+00:45:19,531 --> 00:45:21,703
+Aku cepat, kan?
+
+399
+00:45:22,398 --> 00:45:23,962
+Ya, kau cepat.
+
+400
+00:45:53,037 --> 00:45:54,818
+- Ayah?
+- Dia bukan ayahmu.
+
+401
+00:45:54,992 --> 00:45:56,644
+<i>Tangkap jika bisa.</i>
+
+402
+00:45:56,817 --> 00:45:58,859
+<i>Bunuh jika terpaksa.</i>
+
+403
+00:46:00,641 --> 00:46:02,508
+Ada anak kecil di sini.
+
+404
+00:46:02,544 --> 00:46:04,891
+Itu masalahmu, bukan masalah kami.
+
+405
+00:46:04,902 --> 00:46:08,204
+Kau penuh belas kasihan.
+Kau belum berubah sedikit pun.
+
+406
+00:46:08,378 --> 00:46:10,507
+Aku tidak mengenalmu.
+
+407
+00:46:10,681 --> 00:46:11,897
+Sekarang...
+
+408
+00:46:12,071 --> 00:46:14,895
+...menyerah atau mati.
+
+409
+00:46:27,723 --> 00:46:28,419
+Tetap merunduk!
+
+410
+00:47:12,964 --> 00:47:14,094
+Maju dalam formasi kelompok!
+
+411
+00:47:14,267 --> 00:47:15,484
+Baik!
+
+412
+00:47:22,334 --> 00:47:23,030
+Kau tak bisa...
+
+413
+00:47:23,203 --> 00:47:24,203
+...tetap di sini!
+
+414
+00:47:24,724 --> 00:47:26,679
+Ini akan menunjukkan jalan keluar.
+
+415
+00:47:27,287 --> 00:47:28,764
+Pergilah melewati Moskow untuk...
+
+416
+00:47:28,939 --> 00:47:29,721
+...ke bunker kapal selam.
+
+417
+00:47:30,501 --> 00:47:31,240
+Ambil ini.
+
+418
+00:47:32,456 --> 00:47:33,499
+Semakin sedikit kubawa...
+
+419
+00:47:33,673 --> 00:47:35,194
+...semakin baik.
+
+420
+00:47:35,986 --> 00:47:37,941
+Regu Alpha maju!
+
+421
+00:48:00,090 --> 00:48:01,350
+Mereka datang. Kita harus cepat.
+
+422
+00:48:01,525 --> 00:48:02,827
+Ayo.
+
+423
+00:48:53,170 --> 00:48:53,909
+Aku menemukannya!
+
+424
+00:48:54,083 --> 00:48:54,865
+Lewat sini!
+
+425
+00:49:02,916 --> 00:49:04,437
+Hei.
+
+426
+00:49:05,132 --> 00:49:06,044
+Tunggu.
+
+427
+00:49:06,218 --> 00:49:07,739
+Dia menolong kita.
+Kau tidak ingat?
+
+428
+00:49:08,785 --> 00:49:10,001
+Kalian berdua selamat!
+
+429
+00:49:12,426 --> 00:49:13,685
+Kupikir hanya aku...
+
+430
+00:49:13,860 --> 00:49:14,643
+...yang selamat.
+
+431
+00:49:14,815 --> 00:49:17,856
+Tempat apa ini dan kenapa semuanya
+pakai bahasa Rusia?
+
+432
+00:49:18,030 --> 00:49:20,637
+Apa maksudnya kostum itu?
+
+433
+00:49:21,637 --> 00:49:22,018
+Kau tahu cara...
+
+434
+00:49:22,177 --> 00:49:22,524
+...menggunakan ini?
+
+435
+00:49:23,152 --> 00:49:24,802
+Aku kampanye untuk
+mencekal senjata api.
+
+436
+00:49:27,062 --> 00:49:30,233
+Kau tidak mengerti.
+Aku menentang NRA.
+
+437
+00:49:30,408 --> 00:49:32,014
+Konsentrasi.
+
+438
+00:49:32,709 --> 00:49:34,578
+Ini sama seperti kamera.
+
+439
+00:49:34,750 --> 00:49:37,619
+Bidik dan tembak.
+
+440
+00:49:41,398 --> 00:49:44,961
+Selamat. Kau resmi jadi jagoan.
+
+441
+00:49:47,634 --> 00:49:49,329
+Apa yang terjadi di sini?
+
+442
+00:49:49,711 --> 00:49:51,274
+Akan kujelaskan saat aku kembali.
+
+443
+00:49:51,448 --> 00:49:52,839
+Saat ini, kau harus menjaganya.
+
+444
+00:49:53,708 --> 00:49:55,967
+- Kau tetap bersamanya.
+- Kau mau pergi?
+
+445
+00:49:56,140 --> 00:49:57,878
+Katamu kau takkan pergi.
+
+446
+00:49:57,925 --> 00:50:00,531
+Percayalah kepadaku. Ucapanku benar.
+
+447
+00:50:00,705 --> 00:50:01,791
+Aku akan kembali menjemputmu.
+
+448
+00:50:01,965 --> 00:50:03,312
+Kau berjanji?
+
+449
+00:50:03,486 --> 00:50:05,180
+Percayalah kepadaku.
+
+450
+00:50:10,012 --> 00:50:11,532
+Aku sayang kepadamu.
+
+451
+00:50:14,399 --> 00:50:15,138
+Ayo.
+
+452
+00:50:15,804 --> 00:50:17,498
+Dia akan kembali untukmu.
+
+453
+00:50:17,672 --> 00:50:19,235
+Kita harus cari tempat bersembunyi.
+
+454
+00:50:19,755 --> 00:50:21,928
+- Aku bertemu saudarimu.
+- Apa?
+
+455
+00:50:22,100 --> 00:50:24,534
+Dia tidak ramah.
+
+456
+00:50:25,750 --> 00:50:27,575
+Kita coba bersembunyi di bawah sini.
+
+457
+00:50:39,207 --> 00:50:39,901
+Lewat sini.
+
+458
+00:50:40,206 --> 00:50:41,465
+Ayo!
+
+459
+00:50:42,875 --> 00:50:44,134
+Kita bisa memutari perimeter.
+
+460
+00:51:11,542 --> 00:51:13,236
+Kau menunggu undangan tertulis?
+
+461
+00:51:23,748 --> 00:51:24,887
+Mobilmu bagus.
+
+462
+00:51:25,021 --> 00:51:27,411
+Ini Moskow.
+
+463
+00:51:27,466 --> 00:51:29,551
+Kudengar suara tembakan.
+Kupikir kau butuh...
+
+464
+00:51:29,726 --> 00:51:31,680
+- ...bantuan.
+- Mana Ada?
+
+465
+00:51:31,854 --> 00:51:33,113
+Kurasa dia tidak selamat.
+
+466
+00:51:34,562 --> 00:51:36,247
+- Maaf.
+- Kau lihat...
+
+467
+00:51:36,304 --> 00:51:37,260
+...dia mati?
+
+468
+00:51:37,693 --> 00:51:38,519
+Tidak.
+
+469
+00:51:39,257 --> 00:51:39,953
+Dia selalu...
+
+470
+00:51:40,126 --> 00:51:41,517
+...punya rencana.
+
+471
+00:52:20,683 --> 00:52:22,855
+Anak-anak, kalian keberatan?
+
+472
+00:52:23,507 --> 00:52:25,548
+- Kita mulai?
+- Dengan senang hati.
+
+473
+00:52:57,525 --> 00:52:59,428
+Beri tahu aku
+jika kau ingin melakukan itu lagi.
+
+474
+00:53:05,282 --> 00:53:06,281
+Awas.
+
+475
+00:53:42,773 --> 00:53:44,989
+Teman kita kembali!
+
+476
+00:53:50,938 --> 00:53:52,415
+- Sedikit lagi.
+- Jangan.
+
+477
+00:53:52,675 --> 00:53:54,412
+Tunggu dulu!
+Kau tak boleh ke bawah sana!
+
+478
+00:54:36,914 --> 00:54:37,652
+Semuanya baik saja?
+
+479
+00:54:39,602 --> 00:54:40,384
+Ya.
+
+480
+00:54:40,731 --> 00:54:41,948
+Baiklah, ayo.
+
+481
+00:54:44,608 --> 00:54:45,782
+Halo.
+
+482
+00:54:46,737 --> 00:54:48,387
+Kalian boleh keluar!
+
+483
+00:54:49,593 --> 00:54:50,591
+Aku kembali!
+
+484
+00:54:56,446 --> 00:54:58,011
+Di mana kau bertemu mereka?
+
+485
+00:55:00,052 --> 00:55:01,095
+Siapa ini?
+
+486
+00:55:01,573 --> 00:55:02,832
+Namaku Becky.
+
+487
+00:55:03,137 --> 00:55:04,397
+Hai, Becky.
+
+488
+00:55:04,614 --> 00:55:06,135
+Ini ibuku.
+
+489
+00:55:06,439 --> 00:55:08,046
+Ibumu?
+
+490
+00:55:09,404 --> 00:55:10,707
+Ceritanya panjang.
+
+491
+00:55:12,620 --> 00:55:13,618
+22 menit lagi.
+
+492
+00:55:14,528 --> 00:55:16,308
+Kita tak bisa kembali lewat jalan semula.
+
+493
+00:55:16,483 --> 00:55:17,915
+Petanya hilang bersama Sergei.
+
+494
+00:55:18,220 --> 00:55:19,218
+Aku ada cara.
+
+495
+00:55:33,077 --> 00:55:34,555
+Kita bisa lewat terowongan ini.
+
+496
+00:55:34,728 --> 00:55:37,900
+Di ujungnya, ada lift untuk perawatan
+menuju bunker kapal selam.
+
+497
+00:55:38,364 --> 00:55:39,667
+Ayo!
+
+498
+00:56:04,839 --> 00:56:06,968
+Bagaimana kau bisa bekerja
+untuk Wesker?
+
+499
+00:56:07,142 --> 00:56:08,792
+Aku tidak kerja untuk dia...
+
+500
+00:56:08,967 --> 00:56:10,964
+...tapi keadaan di permukaan
+sudah berubah.
+
+501
+00:56:11,399 --> 00:56:13,450
+Wesker bilang kau tahu
+semacam senjata...
+
+502
+00:56:13,832 --> 00:56:15,535
+...sesuatu yang dapat mengubah...
+
+503
+00:56:15,586 --> 00:56:16,717
+...keadaan kita.
+
+504
+00:56:17,368 --> 00:56:18,411
+Tapi tidak kukira...
+
+505
+00:56:18,584 --> 00:56:20,930
+...aku akan ambil
+risiko begitu besar untuk satu orang.
+
+506
+00:56:22,319 --> 00:56:24,012
+Mungkin kau benar.
+
+507
+00:56:24,186 --> 00:56:25,532
+Lewat sini.
+
+508
+00:56:26,489 --> 00:56:27,575
+Bunker kapal selam...
+
+509
+00:56:27,748 --> 00:56:28,921
+...ada di atas kita.
+
+510
+00:56:29,442 --> 00:56:30,920
+Ayo, cepat.
+
+511
+00:56:50,244 --> 00:56:53,243
+Podium liftnya ada di depan.
+
+512
+00:56:53,415 --> 00:56:54,111
+11 menit.
+
+513
+00:56:55,154 --> 00:56:57,456
+- Kita akan selamat.
+- Tunggu.
+
+514
+00:56:59,117 --> 00:57:02,027
+11 menit. Kita akan selamat.
+
+515
+00:57:02,201 --> 00:57:05,155
+- Tunggu.
+<i>- Mengakses jaringan tenaga.</i>
+
+516
+00:57:05,329 --> 00:57:07,371
+<i>Melepaskan senjata biologis.</i>
+
+517
+00:57:12,661 --> 00:57:14,312
+Semuanya cepat naik!
+
+518
+00:57:17,810 --> 00:57:20,286
+Berpeganglah. Perhentian berikut...
+
+519
+00:57:20,459 --> 00:57:22,979
+...pakaian lelaki
+dan perlengkapan olah raga.
+
+520
+00:57:30,322 --> 00:57:31,016
+Merangkak!
+
+521
+00:57:32,493 --> 00:57:34,621
+- Barry, ada apa?
+- Entahlah.
+
+522
+00:57:35,447 --> 00:57:36,403
+Kau mau ke mana?
+
+523
+00:57:36,576 --> 00:57:38,531
+Pasti ada yang memutuskan
+aliran listriknya.
+
+524
+00:57:41,611 --> 00:57:43,393
+Kuatkan dirimu.
+
+525
+00:57:43,566 --> 00:57:44,957
+Aku akan melindungimu.
+
+526
+00:57:54,928 --> 00:57:55,971
+Kau bisa aktifkan kembali?
+
+527
+00:57:56,144 --> 00:57:57,057
+Tidak tanpa...
+
+528
+00:57:57,230 --> 00:57:58,186
+...kode akses
+
+529
+00:58:01,792 --> 00:58:04,400
+Sembilan menit. Tampaknya kita akan
+menggunakan rencana B.
+
+530
+00:58:05,398 --> 00:58:05,884
+Apa?
+
+531
+00:58:06,025 --> 00:58:08,283
+Ada alasan mengapa kita
+memasang peledak-peledak itu.
+
+532
+00:58:18,517 --> 00:58:19,211
+Tidak!
+
+533
+00:58:24,816 --> 00:58:25,511
+Ibu!
+
+534
+00:58:28,031 --> 00:58:29,986
+Ibu!
+
+535
+00:58:36,503 --> 00:58:37,458
+Aku merasa kesakitan.
+
+536
+00:58:41,302 --> 00:58:42,910
+Dia tewas.
+
+537
+00:58:51,669 --> 00:58:53,972
+- Kau mau apa?
+- Dia masih hidup.
+
+538
+00:58:54,147 --> 00:58:55,405
+Aku akan menolongnya.
+
+539
+00:58:55,579 --> 00:58:56,926
+Aku tidak kehilangan banyak teman...
+
+540
+00:58:57,100 --> 00:58:57,925
+...agar kau bisa...
+
+541
+00:58:58,099 --> 00:58:59,360
+- ...pergi begitu saja.
+- Aku berencana...
+
+542
+00:58:59,532 --> 00:59:00,488
+...untuk kembali.
+
+543
+00:59:01,749 --> 00:59:03,138
+Jangan lakukan ini.
+
+544
+00:59:03,313 --> 00:59:04,269
+Kau lebih penting...
+
+545
+00:59:04,442 --> 00:59:05,311
+...dari dia.
+
+546
+00:59:05,484 --> 00:59:06,962
+Di situlah kau salah.
+
+547
+00:59:07,014 --> 00:59:08,490
+Ini sebuah kesalahan.
+
+548
+00:59:08,604 --> 00:59:10,429
+Minggirlah.
+
+549
+00:59:20,073 --> 00:59:21,984
+Jangan pergi tanpa aku.
+
+550
+00:59:22,158 --> 00:59:24,330
+Kau bercanda? Aku ikut denganmu.
+
+551
+00:59:32,194 --> 00:59:33,931
+Jangan bergerak.
+
+552
+00:59:34,105 --> 00:59:35,148
+Tak apa-apa.
+
+553
+00:59:35,528 --> 00:59:36,397
+Pergilah tolong dia.
+
+554
+01:00:05,285 --> 01:00:07,414
+Kau suka itu?
+
+555
+01:01:44,962 --> 01:01:45,701
+Maju!
+
+556
+01:01:54,073 --> 01:01:55,377
+Mundur ke lift!
+
+557
+01:01:56,680 --> 01:01:57,375
+Kau pergilah!
+
+558
+01:01:58,106 --> 01:01:59,409
+Aku akan di sini sebentar.
+
+559
+01:01:59,582 --> 01:02:01,060
+Barry!
+
+560
+01:02:01,234 --> 01:02:03,666
+Saat hitungan mundur tiba
+pada angka nol...
+
+561
+01:02:03,840 --> 01:02:05,838
+...kau harus berada di lift itu!
+
+562
+01:02:06,012 --> 01:02:07,229
+Harus ada yang tetap di sini, Leon!
+
+563
+01:02:08,880 --> 01:02:09,792
+Lagi pula...
+
+564
+01:02:13,035 --> 01:02:15,120
+...aku menikmatinya!
+
+565
+01:02:19,507 --> 01:02:22,070
+Pergilah.
+
+566
+01:02:22,939 --> 01:02:24,764
+Pergi!
+
+567
+01:03:50,656 --> 01:03:52,481
+Oh, Becky. Becky.
+
+568
+01:04:06,839 --> 01:04:07,534
+Cepat!
+
+569
+01:04:33,884 --> 01:04:35,100
+Keluarkan tahanannya!
+
+570
+01:04:44,184 --> 01:04:45,400
+Hentikan tembakan.
+
+571
+01:04:46,443 --> 01:04:47,963
+Atau kutembak dia.
+
+572
+01:04:50,267 --> 01:04:51,047
+Sekarang...
+
+573
+01:04:51,885 --> 01:04:53,630
+...jatuhkan senjatamu...
+
+574
+01:04:53,807 --> 01:04:54,938
+...dan keluarlah.
+
+575
+01:04:55,719 --> 01:04:56,415
+Keluar...
+
+576
+01:04:56,589 --> 01:04:58,239
+...atau dia mati!
+
+577
+01:06:18,693 --> 01:06:19,778
+Ibu, siapa mereka?
+
+578
+01:06:25,065 --> 01:06:25,847
+Ibu, siapa mereka?
+
+579
+01:06:30,714 --> 01:06:31,625
+Ibu, kaukah itu?
+
+580
+01:06:46,767 --> 01:06:48,157
+Kau ibuku, kan?
+
+581
+01:06:48,722 --> 01:06:50,068
+Sekarang ya.
+
+582
+01:07:56,331 --> 01:07:57,199
+Minggir!
+
+583
+01:09:02,645 --> 01:09:04,164
+Helikopter dalam perjalanan...
+
+584
+01:09:04,338 --> 01:09:07,076
+...jadi tunggu saja dan tenanglah.
+
+585
+01:09:40,511 --> 01:09:41,726
+Apa yang terjadi?
+
+586
+01:09:52,674 --> 01:09:53,847
+Apa itu?
+
+587
+01:10:04,208 --> 01:10:05,642
+Becky, kau terluka?
+
+588
+01:10:05,815 --> 01:10:07,336
+Tidak, aku baik saja.
+
+589
+01:11:26,160 --> 01:11:27,811
+Sudah kubilang ia punya rencana.
+
+590
+01:11:32,591 --> 01:11:34,285
+Hanya kalian berdua?
+
+591
+01:11:34,458 --> 01:11:36,283
+Itu cukup.
+
+592
+01:11:40,982 --> 01:11:43,067
+Parasit Las Plagas.
+
+593
+01:16:38,239 --> 01:16:39,933
+SUBYEK
+PROYEK ALICE
+
+594
+01:16:40,585 --> 01:16:42,409
+<i>Bunuh Proyek Alice.</i>
+
+595
+01:16:42,584 --> 01:16:44,278
+PERINTAH:
+BUNUH SUBYEK
+
+596
+01:19:13,708 --> 01:19:14,490
+Alice!
+
+597
+01:19:30,216 --> 01:19:32,953
+Kau tak bisa membunuhku.
+
+598
+01:19:33,127 --> 01:19:34,779
+Aku tak perlu membunuhmu.
+
+599
+01:20:19,851 --> 01:20:21,459
+Aku akan memburumu!
+
+600
+01:20:21,586 --> 01:20:23,020
+Semoga berhasil.
+
+601
+01:20:49,772 --> 01:20:50,512
+Leon.
+
+602
+01:21:03,822 --> 01:21:05,125
+Apa itu?
+
+603
+01:21:05,300 --> 01:21:06,430
+Itu bantuan.
+
+604
+01:22:14,959 --> 01:22:16,349
+Aku senang kau sudah kembali.
+
+605
+01:22:18,478 --> 01:22:20,867
+Aku senang kau sudah kembali.
+
+606
+01:22:55,516 --> 01:22:57,080
+Aku tak peduli.
+
+607
+01:23:26,686 --> 01:23:27,512
+Wesker.
+
+608
+01:23:28,503 --> 01:23:30,849
+Kulihat kau sudah merasa nyaman.
+
+609
+01:23:32,239 --> 01:23:33,890
+Harus aku akui...
+
+610
+01:23:34,671 --> 01:23:37,539
+...memang terasa nyaman.
+
+611
+01:23:53,413 --> 01:23:55,750
+Apa ini?
+Apa yang kau lakukan...
+
+612
+01:23:55,963 --> 01:23:57,048
+...kepadaku?
+
+613
+01:23:59,438 --> 01:24:00,655
+Kau satu-satunya...
+
+614
+01:24:00,829 --> 01:24:04,001
+...yang berhasil menyatu
+dengan T-Virus...
+
+615
+01:24:04,825 --> 01:24:07,345
+...dan menggunakan
+kekuatan penuhnya.
+
+616
+01:24:07,894 --> 01:24:09,631
+Kini aku membutuhkanmu.
+
+617
+01:24:10,109 --> 01:24:11,716
+Dirimu yang dulu.
+
+618
+01:24:11,771 --> 01:24:14,465
+Maka kukembalikan kekuatanmu.
+
+619
+01:24:14,639 --> 01:24:16,289
+Kaulah...
+
+620
+01:24:16,464 --> 01:24:18,026
+...senjatanya.
+
+621
+01:24:24,443 --> 01:24:26,181
+Akan kubunuh kau.
+
+622
+01:24:26,968 --> 01:24:28,229
+Mungkin.
+
+623
+01:24:29,315 --> 01:24:32,139
+Tapi sebelumnya, kau punya tugas.
+
+624
+01:24:35,397 --> 01:24:39,533
+Ratu Merah bertekad untuk
+menghancurkan kehidupan di bumi.
+
+625
+01:24:39,679 --> 01:24:43,633
+Inilah yang tersisa dari kita,
+dari umat manusia.
+
+626
+01:24:45,058 --> 01:24:47,838
+Tampaknya kita
+memiliki musuh yang sama.
+
+627
+01:24:48,012 --> 01:24:52,009
+Karena ini kami butuh kau kembali.
+Senjata terkuat.
+
+628
+01:24:57,744 --> 01:25:00,828
+Inilah kesempatan terakhir manusia.
+
+629
+01:25:01,003 --> 01:25:03,696
+Awal dari yang akhir.
+
+630
+01:25:10,939 --> 01:25:14,501
+Tutup celahnya! Tutup celahnya!
+Pertahankan perimeter!
+
+631
+01:25:14,525 --> 01:25:26,525
+vi p2 1. e u.o rg
+

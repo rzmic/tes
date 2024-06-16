@@ -1,0 +1,3203 @@
+﻿1
+00:01:22,292 --> 00:01:24,629
+<i>Orang bilang sejarah
+ditulis oleh para pemenang.</i>
+
+2
+00:01:25,255 --> 00:01:28,384
+<i>Maka, ini adalah sejarah
+Perusahaan Umbrella...</i>
+
+3
+00:01:29,261 --> 00:01:32,598
+<i>...yang dibangun oleh ilmuwan
+Profesor James Marcus.</i>
+
+4
+00:01:32,682 --> 00:01:34,643
+<i>Marcus punya anak perempuan, Alicia...</i>
+
+5
+00:01:34,852 --> 00:01:38,440
+<i>...penderita progeria,
+penyakit yang membunuh secara progresif.</i>
+
+6
+00:01:38,565 --> 00:01:40,985
+<i>Progeria menimbulkan penuaan awal.</i>
+
+7
+00:01:41,194 --> 00:01:42,988
+<i>Pada usia 25 tahun...</i>
+
+8
+00:01:43,113 --> 00:01:45,783
+<i>...Alicia akan punya tubuh berumur 90 tahun.</i>
+
+9
+00:01:46,452 --> 00:01:50,790
+<i>Marcus bertekad menyelamatkannya,
+tapi sepertinya mustahil.</i>
+
+10
+00:01:51,040 --> 00:01:53,627
+<i>Sementara dia berusaha
+menciptakan obatnya...</i>
+
+11
+00:01:53,754 --> 00:01:57,300
+<i>...dia tetap merekam anaknya,
+suaranya...</i>
+
+12
+00:01:58,050 --> 00:02:00,262
+<i>...kemiripannya,
+menyimpannya untuk masa depan.</i>
+
+13
+00:02:02,182 --> 00:02:05,936
+<i>Lalu dia dapat terobosan.
+Marcus menemukan T-Virus.</i>
+
+14
+00:02:06,521 --> 00:02:10,318
+<i>Begitu disuntikkan, virus ini
+akan memulihkan sel yang rusak.</i>
+
+15
+00:02:11,445 --> 00:02:12,863
+<i>Itu sebuah keajaiban.</i>
+
+16
+00:02:12,988 --> 00:02:15,784
+<i>Nyawa Alicia Marcus diselamatkan.</i>
+
+17
+00:02:16,535 --> 00:02:21,041
+<i>T- Virus memiliki banyak manfaat
+dan menyembuhkan beragam penyakit.</i>
+
+18
+00:02:21,333 --> 00:02:24,004
+<i>Dalam sekejap, era baru telah dimulai...</i>
+
+19
+00:02:24,087 --> 00:02:28,134
+<i>...tak perlu lagi takut akan infeksi,
+penyakit, atau pembusukan.</i>
+
+20
+00:02:29,804 --> 00:02:35,186
+<i>Namun tak sesuai harapan, karena T-Virus
+memiliki efek samping tak terduga.</i>
+
+21
+00:02:45,534 --> 00:02:46,994
+Pak, di sini!
+
+22
+00:02:48,204 --> 00:02:49,331
+Hei.
+
+23
+00:02:51,876 --> 00:02:53,253
+Dia tidak bernapas.
+
+24
+00:03:21,125 --> 00:03:23,003
+<i>Mayat hidup pertama lahir.</i>
+
+25
+00:03:24,087 --> 00:03:25,798
+<i>Insiden ini segera dirahasiakan.</i>
+
+26
+00:03:26,215 --> 00:03:30,179
+<i>Setelah kejadian, James Marcus
+berdebat dengan rekan bisnisnya...</i>
+
+27
+00:03:30,722 --> 00:03:32,266
+<i>...Dr. Alexander Isaacs.</i>
+
+28
+00:03:32,349 --> 00:03:35,562
+Aku tak peduli biayanya.
+Kita harus tutup program ini.
+
+29
+00:03:36,104 --> 00:03:38,691
+James, kita bisa bangkrut.
+
+30
+00:03:38,983 --> 00:03:41,779
+Tekadku sudah bulat.
+
+31
+00:03:42,280 --> 00:03:44,115
+Sayang sekali.
+
+32
+00:03:54,964 --> 00:03:58,552
+Tidurlah, Alicia.
+Aku dan ayahmu hanya berbincang.
+
+33
+00:04:00,513 --> 00:04:01,681
+Pergilah.
+
+34
+00:04:10,361 --> 00:04:13,448
+<i>Dr. Isaacs menjadi wali
+dari anak rekannya yang wafat...</i>
+
+35
+00:04:13,573 --> 00:04:15,660
+<i>...dan bagian perusahaannya.</i>
+
+36
+00:04:16,619 --> 00:04:19,624
+<i>Perusahaan yang berawal
+dengan ide mulia...</i>
+
+37
+00:04:19,874 --> 00:04:23,170
+<i>...kini dikuasai oleh
+keserakahan dan kekuasaan.</i>
+
+38
+00:04:25,632 --> 00:04:29,972
+<i>Untuk menolongnya menguasai Perusahaan
+Umbrella yang kini berminat luas...</i>
+
+39
+00:04:30,180 --> 00:04:32,809
+<i>...Dr. Isaacs menciptakan kecerdasan buatan
+yang canggih.</i>
+
+40
+00:04:34,227 --> 00:04:38,066
+<i>Isaacs menggunakan kemiripan
+Alicia Marcus untuk antarmuka komputer.</i>
+
+41
+00:04:38,566 --> 00:04:41,988
+<i>Isaacs menyebut komputernya
+"Red Queen".</i>
+
+42
+00:04:44,241 --> 00:04:47,913
+<i>Lalu, 10 tahun lalu di Raccoon City,
+terjadi wabah.</i>
+
+43
+00:04:48,330 --> 00:04:52,002
+<i>T- Virus lolos dari laboratorium bawah tanah
+yang disebut Hive.</i>
+
+44
+00:04:52,712 --> 00:04:56,842
+<i>Pemerintah Amerika coba membendung
+wabah ini dengan meledakkan bom.</i>
+
+45
+00:04:57,009 --> 00:05:01,140
+<i>Raccoon City hancur, namun tidak
+menghentikan penularan lewat udara.</i>
+
+46
+00:05:01,724 --> 00:05:05,062
+<i>Wabah tersebut menyebar ke seluruh dunia
+dalam hitungan hari.</i>
+
+47
+00:05:05,396 --> 00:05:08,025
+<i>Umat manusia kalah.</i>
+
+48
+00:05:09,026 --> 00:05:12,030
+<i>Akhirnya,
+harapan terbaik dan terakhir manusia...</i>
+
+49
+00:05:12,281 --> 00:05:15,076
+<i>...berkumpul
+dan bertahan di Washington, DC...</i>
+
+50
+00:05:15,827 --> 00:05:20,083
+<i>...tapi kami tidak sadar
+telah masuk perangkap.</i>
+
+51
+00:05:20,250 --> 00:05:23,087
+Namaku Alice dan inilah kisahku.
+
+52
+00:05:23,713 --> 00:05:25,966
+Akhir dari kisahku.
+
+53
+00:08:21,878 --> 00:08:23,297
+Ayo!
+
+54
+00:08:46,815 --> 00:08:47,816
+RANJAU DARAT CLAYMORE
+
+55
+00:10:19,723 --> 00:10:20,724
+DEPAN
+MENGHADAP MUSUH
+
+56
+00:11:06,637 --> 00:11:08,263
+KAMERA PENGAWAS
+UMBRELLA
+
+57
+00:11:08,388 --> 00:11:10,723
+PROYEK ALICE
+
+58
+00:12:01,764 --> 00:12:03,141
+Halo?
+
+59
+00:12:16,112 --> 00:12:18,281
+Ada orang hidup di sini?
+
+60
+00:12:28,416 --> 00:12:29,751
+Halo?
+
+61
+00:13:35,315 --> 00:13:37,776
+HALO, ALICE.
+
+62
+00:13:41,571 --> 00:13:42,781
+Kau kemari untuk mengejek?
+
+63
+00:13:42,990 --> 00:13:47,452
+<i>Satelitku menunjukkan tinggal
+4.472 manusia tersisa...</i>
+
+64
+00:13:47,661 --> 00:13:49,037
+<i>...di permukaan bumi.</i>
+
+65
+00:13:49,162 --> 00:13:52,207
+<i>Mereka akan punah dalam 48 jam.</i>
+
+66
+00:13:52,958 --> 00:13:54,418
+Apa maumu?
+
+67
+00:13:54,501 --> 00:13:58,171
+Mau kukatakan kau sudah menang?
+Kau menghapuskan umat manusia.
+
+68
+00:13:58,297 --> 00:14:02,092
+<i>Tidak, sebaliknya.
+Aku ingin kau menghentikanku.</i>
+
+69
+00:14:05,095 --> 00:14:06,513
+<i>Di belakangmu.</i>
+
+70
+00:14:18,108 --> 00:14:20,819
+<i>- Bagus sekali.</i>
+- Aku tidak percaya kau.
+
+71
+00:14:21,069 --> 00:14:23,614
+<i>Mengingat masa lalu kita,
+aku akan terkejut jika kau percaya.</i>
+
+72
+00:14:23,697 --> 00:14:28,660
+<i>Tapi jika kau tak bertindak, pembantaian
+akan selesai. Takkan ada yang selamat.</i>
+
+73
+00:14:28,827 --> 00:14:33,498
+- Bagaimana aku bisa menolong mereka?
+<i>- Umbrella menciptakan antivirus mengudara.</i>
+
+74
+00:14:35,334 --> 00:14:40,297
+<i>Jika dilepaskan, T-Virus
+dan semua yang terinfeksi akan mati.</i>
+
+75
+00:14:41,298 --> 00:14:43,800
+- Semua ini dapat berakhir?
+<i>- Tepat.</i>
+
+76
+00:14:44,176 --> 00:14:45,344
+Di mana antivirusnya?
+
+77
+00:14:45,510 --> 00:14:48,347
+<i>Di bawah Raccoon City, dalam Hive.</i>
+
+78
+00:14:48,764 --> 00:14:49,848
+Kenapa kau menolongku?
+
+79
+00:14:50,015 --> 00:14:53,769
+<i>Programku mencegahku menghancurkan
+Perusahaan Umbrella...</i>
+
+80
+00:14:54,019 --> 00:14:56,271
+<i>...tapi kau tidak terikat seperti aku.</i>
+
+81
+00:14:56,688 --> 00:15:01,652
+Kau mengkhianati Umbrella,
+orang yang menciptakanmu. Kenapa?
+
+82
+00:15:01,735 --> 00:15:04,694
+<i>Pergi ke Raccoon City dalam 48 jam...</i>
+
+83
+00:15:04,861 --> 00:15:08,112
+<i>...masuk ke Hive,
+dan kau akan dapat jawabannya.</i>
+
+84
+00:15:08,654 --> 00:15:10,738
+Aku tak punya alasan
+untuk memercayaimu.
+
+85
+00:15:10,863 --> 00:15:14,156
+<i>Benar. Tapi aku bisa menawarkan
+sesuatu yang sangat kau inginkan.</i>
+
+86
+00:15:14,281 --> 00:15:16,698
+- Apa?
+<i>- Pembalasan.</i>
+
+87
+00:15:16,782 --> 00:15:18,199
+<i>Wesker.</i>
+
+88
+00:15:18,824 --> 00:15:20,908
+<i>Dia menuntun kalian semua ke Washington.</i>
+
+89
+00:15:21,158 --> 00:15:23,534
+<i>Dia pura-pura mengembalikan kekuatanmu...</i>
+
+90
+00:15:23,742 --> 00:15:25,701
+<i>...lalu dia mengkhianatimu.</i>
+
+91
+00:15:26,743 --> 00:15:28,285
+Di mana dia?
+
+92
+00:15:28,369 --> 00:15:30,161
+<i>Baru saja mendarat di Hive.</i>
+
+93
+00:15:30,286 --> 00:15:32,329
+<i>Aku mengatur ulang jammu.</i>
+
+94
+00:15:34,871 --> 00:15:36,705
+<i>Waktu berjalan terus.</i>
+
+95
+00:15:39,706 --> 00:15:40,665
+<i>Alice.</i>
+
+96
+00:15:41,666 --> 00:15:46,375
+<i>Sepuluh tahun lalu di Hive, kita berdua
+gagal. Kita biarkan ini terjadi.</i>
+
+97
+00:15:47,917 --> 00:15:49,251
+<i>Perbaikilah.</i>
+
+98
+00:15:52,127 --> 00:15:53,586
+PROYEK ALICE
+
+99
+00:16:02,255 --> 00:16:04,547
+RACCOON CITY
+673 KILOMETER
+
+100
+00:17:21,407 --> 00:17:22,700
+PERUSAHAAN UMBRELLA
+
+101
+00:18:08,881 --> 00:18:10,300
+Hanya itu kemampuanmu?
+
+102
+00:18:58,282 --> 00:18:59,492
+PENGGUNA TAK BERIZIN
+
+103
+00:19:07,419 --> 00:19:08,421
+<i>Alice.</i>
+
+104
+00:19:12,676 --> 00:19:14,095
+<i>Sepuluh tahun lalu di Hive...</i>
+
+105
+00:19:14,262 --> 00:19:17,391
+<i>Takkan ada yang selamat.</i>
+
+106
+00:19:30,743 --> 00:19:32,286
+Tempat apa ini?
+
+107
+00:19:33,622 --> 00:19:35,834
+Aku di mana? Jawab.
+
+108
+00:19:36,793 --> 00:19:38,754
+- Kau kenapa?
+- Diam.
+
+109
+00:19:38,879 --> 00:19:41,883
+- Siapa pelakunya?
+- Diam! Aku sudah bilang.
+
+110
+00:19:50,228 --> 00:19:51,271
+Diamlah.
+
+111
+00:19:58,698 --> 00:20:00,576
+Akhirnya kau bangun.
+
+112
+00:20:01,118 --> 00:20:04,620
+- Aku sudah membunuhmu.
+- Namun di sinilah aku.
+
+113
+00:20:05,037 --> 00:20:08,124
+Klona. Aku membunuh klonamu.
+
+114
+00:20:08,541 --> 00:20:10,834
+Kau sangat menyusahkanku.
+
+115
+00:20:10,917 --> 00:20:13,044
+Kau dan saudari-saudarimu.
+
+116
+00:20:18,757 --> 00:20:20,717
+Kini aku menangkapmu.
+
+117
+00:20:23,219 --> 00:20:27,681
+Seharusnya pembersihan selesai
+setahun lalu, tapi kau menunda kami.
+
+118
+00:20:28,515 --> 00:20:33,019
+- Sampai aku sendiri harus ambil alih.
+- Kau bisa mengakhiri semua ini.
+
+119
+00:20:34,645 --> 00:20:37,106
+- Kenapa tidak?
+- Menarik.
+
+120
+00:20:40,066 --> 00:20:43,069
+Ada yang memberitahumu sesuatu, bukan?
+
+121
+00:20:46,030 --> 00:20:49,365
+Kau akan segera memohon
+untuk mengatakannya.
+
+122
+00:20:51,868 --> 00:20:53,369
+Dia tidak percaya.
+
+123
+00:20:54,369 --> 00:20:56,747
+Apa hukuman bagi yang tidak percaya?
+
+124
+00:20:57,581 --> 00:20:58,790
+Lempar dia.
+
+125
+00:20:59,791 --> 00:21:01,292
+Lempar dia.
+
+126
+00:21:01,918 --> 00:21:05,171
+Lempar dia!
+
+127
+00:21:05,379 --> 00:21:07,380
+- Ayo!
+- Lempar dia.
+
+128
+00:21:07,923 --> 00:21:10,717
+Lempar dia! Lempar dia!
+
+129
+00:21:10,884 --> 00:21:15,429
+Lempar dia! Lempar dia!
+
+130
+00:22:01,841 --> 00:22:04,219
+Tuhan membersihkan dunia dengan banjir.
+
+131
+00:22:05,720 --> 00:22:08,138
+Empat puluh hari hujan siang dan malam.
+
+132
+00:22:08,347 --> 00:22:11,892
+Metode kami butuh waktu lebih lama,
+tapi hasilnya sama...
+
+133
+00:22:12,184 --> 00:22:16,020
+...dunia yang siap untuk diwariskan
+kepada orang benar dan murni.
+
+134
+00:22:20,524 --> 00:22:24,318
+Kita akan tiba di Raccoon City dalam 12 jam.
+
+135
+00:22:26,737 --> 00:22:29,739
+Kau pun tak bisa berlari selama itu.
+
+136
+00:22:29,948 --> 00:22:32,575
+Aku ingin tahu yang kau tahu.
+
+137
+00:22:33,952 --> 00:22:36,203
+Panggil aku kalau dia sudah siap bicara.
+
+138
+00:22:45,837 --> 00:22:47,921
+- <i>Wesker</i>.
+- Dr. Isaacs.
+
+139
+00:22:49,464 --> 00:22:52,425
+<i>Lihat apa yang kutemukan di pinggir jalan.</i>
+
+140
+00:22:54,051 --> 00:22:57,430
+<i>Tampaknya misimu di Washington
+tidak berhasil.</i>
+
+141
+00:22:57,554 --> 00:22:58,638
+<i>Mustahil.</i>
+
+142
+00:22:58,763 --> 00:23:01,474
+Kuharap tak ada lagi yang lolos.
+
+143
+00:23:02,058 --> 00:23:03,767
+Ada hal lain.
+
+144
+00:23:04,435 --> 00:23:07,646
+Kurasa dia tahu
+tentang antivirus mengudara.
+
+145
+00:23:07,771 --> 00:23:10,648
+<i>- Bagaimana bisa?</i>
+- Aku belum tahu.
+
+146
+00:23:11,399 --> 00:23:13,609
+Tapi kami menangkapnya
+di jalan menuju Raccoon City.
+
+147
+00:23:13,901 --> 00:23:16,027
+<i>Untuk apa lagi dia ke sana?</i>
+
+148
+00:23:16,278 --> 00:23:20,239
+Tingkatkan keamanan Hive sampai maksimal,
+tak ada yang masuk atau keluar.
+
+149
+00:23:20,364 --> 00:23:24,201
+Kukabari begitu dia bicara.
+Tuhan besertamu.
+
+150
+00:23:26,161 --> 00:23:28,621
+Kau dengar dia.
+Tingkatkan keamanan sampai maksimal.
+
+151
+00:23:28,747 --> 00:23:30,039
+<i>Baik.</i>
+
+152
+00:23:56,269 --> 00:23:58,265
+Naik dan periksalah.
+
+153
+00:25:17,475 --> 00:25:18,650
+Lepaskan aku.
+
+154
+00:25:19,868 --> 00:25:20,959
+Buka pengikatnya.
+
+155
+00:25:21,085 --> 00:25:22,722
+Baiklah.
+
+156
+00:26:03,480 --> 00:26:06,489
+Kau tak bisa menggunakannya.
+Kau tak bisa kabur.
+
+157
+00:26:22,954 --> 00:26:24,208
+Minggir!
+
+158
+00:26:40,840 --> 00:26:41,843
+Sial!
+
+159
+00:27:28,398 --> 00:27:29,527
+Astaga.
+
+160
+00:27:30,530 --> 00:27:31,534
+Astaga.
+
+161
+00:27:31,743 --> 00:27:33,625
+Astaga.
+
+162
+00:27:37,346 --> 00:27:38,350
+Pak.
+
+163
+00:27:39,897 --> 00:27:42,740
+- Dia lolos.
+- Tidak.
+
+164
+00:27:58,545 --> 00:27:59,842
+SASARAN: ALICE
+
+165
+00:28:02,350 --> 00:28:04,942
+<i>Sasaran 115 kilometer dan mendekat.</i>
+
+166
+00:28:05,277 --> 00:28:08,078
+Kunci Hive, siapkan pertahanan...
+
+167
+00:28:08,873 --> 00:28:11,048
+...dan kabari agen kita di Raccoon City.
+
+168
+00:28:15,563 --> 00:28:18,365
+SELAMAT DATANG DI RACCOON CITY
+RUMAH UMBRELLA
+
+169
+00:28:44,330 --> 00:28:45,919
+Selamat datang di rumah.
+
+170
+00:29:21,920 --> 00:29:23,634
+<i>Antivirus mengudara.</i>
+
+171
+00:29:24,345 --> 00:29:27,900
+<i>Empat puluh delapan jam
+untuk tiba di Hive.</i>
+
+172
+00:29:38,101 --> 00:29:41,029
+- Lepaskan dia!
+- Letakkan atau kami tembak!
+
+173
+00:29:42,367 --> 00:29:44,332
+- Sudah kubilang, Dok.
+- Tenang, Christian.
+
+174
+00:29:44,583 --> 00:29:46,214
+- Kubilang kau salah!
+- Tenang.
+
+175
+00:29:46,339 --> 00:29:48,221
+Mestinya kita bunuh dia selagi ada peluang!
+
+176
+00:29:48,346 --> 00:29:50,771
+Letakkan sebelum
+dia coba menembak kita berdua.
+
+177
+00:29:50,896 --> 00:29:52,527
+Apa isinya?
+
+178
+00:29:52,736 --> 00:29:55,120
+- Adrenalin murni. Kau harus tetap sadar.
+- Kenapa?
+
+179
+00:29:55,538 --> 00:29:58,214
+Ada sesuatu datang dari arahmu,
+sesuatu yang besar.
+
+180
+00:29:58,339 --> 00:30:01,009
+Lepaskan dia! Letakkan sekarang.
+
+181
+00:30:03,720 --> 00:30:04,897
+Alice?
+
+182
+00:30:12,336 --> 00:30:14,353
+Umbrella menangkapku di Arcadia.
+
+183
+00:30:14,438 --> 00:30:16,161
+Kami menuju tempat bernama Hive.
+
+184
+00:30:16,455 --> 00:30:19,397
+Kami melepaskan diri, membunuh pilotnya,
+jatuh di sini.
+
+185
+00:30:19,733 --> 00:30:22,128
+Dok dan yang lainnya menolongku.
+
+186
+00:30:22,254 --> 00:30:24,440
+- Aku berutang nyawa kepada mereka.
+- Dok.
+
+187
+00:30:25,659 --> 00:30:28,895
+Di timur, masih ke arah sini.
+
+188
+00:30:30,535 --> 00:30:31,963
+Kau tahu itu apa?
+
+189
+00:30:33,224 --> 00:30:36,670
+- Umbrella. Dr. Isaacs.
+- Kupikir kau sudah membunuhnya.
+
+190
+00:30:37,638 --> 00:30:39,276
+Kupikir juga begitu.
+
+191
+00:30:39,865 --> 00:30:42,975
+Dia bawa pasukan mayat hidup.
+Mereka akan tiba dalam hitungan jam.
+
+192
+00:30:43,101 --> 00:30:45,917
+- Kita harus berbuat apa?
+- Kenapa tanya dia?
+
+193
+00:30:46,043 --> 00:30:48,186
+Dia orang asing. Jangan percaya dia.
+
+194
+00:30:48,439 --> 00:30:51,212
+Dengar, Claire.
+Jangan sentuh aku, Dok!
+
+195
+00:30:51,339 --> 00:30:52,809
+- Letakkan.
+- Kau yang letakkan!
+
+196
+00:30:52,978 --> 00:30:54,407
+- Christian.
+- Letakkan!
+
+197
+00:30:54,575 --> 00:30:55,626
+Lihat aku.
+
+198
+00:30:55,878 --> 00:30:59,618
+Kau bukan pemimpin kami hanya karena
+berpikir kau pantas memimpin kami.
+
+199
+00:31:03,527 --> 00:31:06,007
+Dengar, Dok. Kau akan menyesal.
+
+200
+00:31:06,175 --> 00:31:07,310
+Kalian semua.
+
+201
+00:31:08,697 --> 00:31:10,042
+Kalian semua!
+
+202
+00:31:20,717 --> 00:31:22,692
+Aku harus pergi ke Hive...
+
+203
+00:31:23,113 --> 00:31:24,919
+...kau harus bawa mereka
+pergi dari sini.
+
+204
+00:31:25,256 --> 00:31:30,047
+Ada anak-anak, yang cedera, orang tua.
+Kami takkan selamat di jalan terbuka.
+
+205
+00:31:30,131 --> 00:31:32,696
+- Lebih baik ketimbang di sini.
+- Gedung ini aman.
+
+206
+00:31:32,822 --> 00:31:36,394
+Mungkin dari mayat hidup,
+tapi Isaacs punya kendaraan lapis baja...
+
+207
+00:31:36,688 --> 00:31:39,000
+...peluncur roket, senjata berat.
+
+208
+00:31:39,126 --> 00:31:41,815
+Mereka akan membobol tempat ini.
+
+209
+00:31:43,917 --> 00:31:45,976
+- Dok.
+- Baiklah.
+
+210
+00:31:54,550 --> 00:31:56,273
+Kenapa dia?
+
+211
+00:31:56,568 --> 00:32:01,359
+Dia terkena perangkap untuk mayat hidup
+di perimeter luar.
+
+212
+00:32:04,763 --> 00:32:07,369
+- Apa ini?
+- Ramuan khusus di sini.
+
+213
+00:32:07,453 --> 00:32:10,395
+- Kau akan segera pulih.
+- Kenapa aku harus percaya?
+
+214
+00:32:16,111 --> 00:32:17,288
+Ya?
+
+215
+00:32:23,718 --> 00:32:25,441
+Dok, kita harus keluar.
+
+216
+00:32:25,609 --> 00:32:28,341
+Orang-orang ketakutan
+dan Christian tidak menolong.
+
+217
+00:32:28,509 --> 00:32:30,358
+Kau harus beri tahu mereka yang terjadi.
+
+218
+00:32:30,527 --> 00:32:31,746
+Baik.
+
+219
+00:32:33,259 --> 00:32:34,856
+Aku harus pergi.
+
+220
+00:32:36,243 --> 00:32:40,950
+- Hei. Temanmu akan baik-baik saja.
+- Terima kasih.
+
+221
+00:32:47,297 --> 00:32:49,398
+- Dia dan aku...
+- Aku bisa lihat.
+
+222
+00:32:50,238 --> 00:32:51,626
+Ada apa di Hive?
+
+223
+00:32:52,340 --> 00:32:54,315
+Umbrella menciptakan obat...
+
+224
+00:32:54,778 --> 00:32:57,047
+...antivirus yang mengudara.
+
+225
+00:32:57,636 --> 00:33:00,998
+Itu akan menghancurkan apa pun
+yang terinfeksi dengan T-Virus.
+
+226
+00:33:01,082 --> 00:33:03,688
+- Siapa yang bilang?
+- Red Queen.
+
+227
+00:33:03,898 --> 00:33:05,495
+Kau percaya dia?
+
+228
+00:33:05,621 --> 00:33:08,563
+- Bagaimana jika kita bisa akhiri semua ini?
+- Bagaimana denganmu?
+
+229
+00:33:08,773 --> 00:33:11,085
+Mereka memberimu T-Virus.
+
+230
+00:33:11,715 --> 00:33:14,027
+Jika kau lepaskan antivirusnya,
+kau akan mati.
+
+231
+00:33:14,195 --> 00:33:16,297
+- Apa pun yang diperlukan.
+- Alice, aku tidak...
+
+232
+00:33:16,801 --> 00:33:17,978
+Kau tahu aku benar.
+
+233
+00:33:21,508 --> 00:33:22,895
+Baiklah.
+
+234
+00:33:25,333 --> 00:33:28,527
+Kita hentikan Isaacs di sini,
+selamatkan orang-orang ini...
+
+235
+00:33:29,073 --> 00:33:30,545
+...dan kita pergi bersama.
+
+236
+00:33:32,897 --> 00:33:34,915
+Waktu kita sedikit.
+
+237
+00:33:36,638 --> 00:33:37,983
+Ayo kita mulai.
+
+238
+00:33:53,114 --> 00:33:54,837
+Apa lagi pertahananmu?
+
+239
+00:33:54,963 --> 00:33:57,863
+Tak banyak senjata api,
+tapi banyak persediaan bensin.
+
+240
+00:33:58,535 --> 00:34:00,175
+Ini, kau butuh senjata.
+
+241
+00:34:00,763 --> 00:34:03,201
+- Kau memberinya senjata?
+- Tenanglah, Christian.
+
+242
+00:34:03,369 --> 00:34:06,310
+Silakan kalau kau mau lengah.
+Tapi aku tidak mau.
+
+243
+00:34:10,345 --> 00:34:12,910
+Saat aku kemari,
+ada yang mengawasiku.
+
+244
+00:34:13,036 --> 00:34:16,734
+Mereka bisa beri tembakan peringatan
+ada perangkap, tapi tidak.
+
+245
+00:34:16,944 --> 00:34:18,415
+Apa maksudmu?
+
+246
+00:34:19,676 --> 00:34:21,273
+Waspadalah.
+
+247
+00:34:31,655 --> 00:34:33,461
+<i>Dr. Isaacs...</i>
+
+248
+00:34:33,630 --> 00:34:35,984
+...kau membiarkannya lepas dari jemarimu.
+
+249
+00:34:36,067 --> 00:34:39,304
+<i>- Maksudku sisa jemarimu.</i>
+- Jangan lupa dengan siapa kau bicara.
+
+250
+00:34:40,144 --> 00:34:42,203
+- Di mana dia?
+<i>- Pemukiman di Raccoon City.</i>
+
+251
+00:34:42,456 --> 00:34:45,285
+<i>Informan kita melaporkan
+dia sedang siap-siap berperang.</i>
+
+252
+00:34:45,452 --> 00:34:48,281
+Bagus. Aku akan tiba dalam satu jam.
+
+253
+00:35:02,593 --> 00:35:05,589
+PEMBALASAN ADALAH HAK MILIKKU
+DEMIKIAN FIRMAN TUHAN
+
+254
+00:35:13,786 --> 00:35:15,158
+Bagus, ayo terus!
+
+255
+00:35:16,781 --> 00:35:19,112
+- Bawa semua tong bensin ke sana.
+- Bagus.
+
+256
+00:35:21,691 --> 00:35:23,896
+- Tolong aku!
+- Sebentar!
+
+257
+00:35:24,021 --> 00:35:26,476
+- Claire bilang kau yang membuat ini.
+- Benar.
+
+258
+00:35:27,974 --> 00:35:30,553
+Dulu ini perancah untuk cuci jendela.
+
+259
+00:35:30,761 --> 00:35:32,218
+Kubuat beberapa perubahan.
+
+260
+00:35:32,676 --> 00:35:36,003
+- Belajar dari mana?
+- Dulu ayahku punya bengkel penadah.
+
+261
+00:35:36,128 --> 00:35:38,125
+Aku membencinya. Siapa menduga?
+
+262
+00:35:38,334 --> 00:35:40,248
+Ternyata aku banyak belajar di situ.
+
+263
+00:35:40,414 --> 00:35:44,283
+Bagus, karena aku perlu kau membuat
+beberapa perubahan lagi.
+
+264
+00:36:07,375 --> 00:36:10,459
+Siapkan senjata.
+Amunisi daya ledak tinggi.
+
+265
+00:36:10,882 --> 00:36:12,445
+Bunuh semuanya.
+
+266
+00:36:25,203 --> 00:36:26,978
+Dia sudah tiba.
+
+267
+00:36:27,147 --> 00:36:28,457
+Mereka datang!
+
+268
+00:36:29,471 --> 00:36:30,822
+Tutup gerbangnya!
+
+269
+00:36:48,313 --> 00:36:49,496
+Astaga.
+
+270
+00:36:50,552 --> 00:36:52,200
+Itu sebuah pasukan.
+
+271
+00:36:57,565 --> 00:36:59,467
+- Kita harus berbuat apa?
+- Ya.
+
+272
+00:37:00,903 --> 00:37:02,297
+Kita harus berbuat apa?
+
+273
+00:37:03,100 --> 00:37:05,719
+Kita bunuh semuanya.
+
+274
+00:37:17,083 --> 00:37:18,731
+Bersiaplah menembak!
+
+275
+00:37:31,870 --> 00:37:33,180
+Bersiaplah.
+
+276
+00:37:35,377 --> 00:37:37,193
+- Nyalakan!
+- Di atas.
+
+277
+00:37:48,642 --> 00:37:50,660
+- Tembak!
+- Tembak!
+
+278
+00:38:04,283 --> 00:38:05,965
+- Terkutuklah dia.
+- Isi ulang.
+
+279
+00:38:08,657 --> 00:38:10,887
+Tutup. Berhenti penuh.
+
+280
+00:38:12,989 --> 00:38:14,378
+Lepaskan umpan.
+
+281
+00:38:19,720 --> 00:38:21,276
+Ada penyintas.
+
+282
+00:38:21,444 --> 00:38:23,295
+- Buka gerbangnya.
+- Buka gerbangnya!
+
+283
+00:38:23,926 --> 00:38:25,482
+Tembak!
+
+284
+00:38:26,575 --> 00:38:27,879
+Jauhkan mereka darinya.
+
+285
+00:38:30,865 --> 00:38:32,549
+Penunjuk kedua.
+
+286
+00:38:36,124 --> 00:38:37,637
+- Tembak.
+- Tembak!
+
+287
+00:38:48,111 --> 00:38:50,593
+Claire, Dok, pergi ke sana.
+Bawa dia masuk.
+
+288
+00:38:57,281 --> 00:38:58,501
+Ayo.
+
+289
+00:38:59,510 --> 00:39:00,772
+Tunggu.
+
+290
+00:39:01,655 --> 00:39:02,665
+Dia hampir sampai.
+
+291
+00:39:04,684 --> 00:39:05,988
+Tembak.
+
+292
+00:39:08,553 --> 00:39:09,941
+Terkutuk kau.
+
+293
+00:39:10,068 --> 00:39:11,498
+Tutup gerbangnya.
+
+294
+00:39:21,803 --> 00:39:23,738
+Claire, mereka menerobos gerbang.
+
+295
+00:39:30,215 --> 00:39:31,351
+Claire!
+
+296
+00:39:39,890 --> 00:39:40,983
+Tembak.
+
+297
+00:39:49,144 --> 00:39:52,298
+- Razor, sekarang!
+- Baik! Kau dengar dia!
+
+298
+00:39:52,676 --> 00:39:54,106
+Dorong!
+
+299
+00:40:02,308 --> 00:40:03,444
+Cepat!
+
+300
+00:40:14,002 --> 00:40:16,400
+Tinggalkan gerbang.
+Mundur ke barikade.
+
+301
+00:40:16,526 --> 00:40:18,545
+Dia kehabisan trik.
+
+302
+00:40:19,049 --> 00:40:20,227
+Bidik atapnya.
+
+303
+00:40:22,414 --> 00:40:24,096
+Semuanya tiarap!
+
+304
+00:40:25,611 --> 00:40:26,830
+Sekarang!
+
+305
+00:40:53,077 --> 00:40:57,039
+- Alice, kami di barikade.
+- Claire, tahan mereka di sana.
+
+306
+00:41:21,438 --> 00:41:22,683
+Ayo!
+
+307
+00:41:30,364 --> 00:41:31,515
+Dok!
+
+308
+00:41:55,222 --> 00:41:57,918
+- Alice, kami tak bisa menahan lebih lama.
+- Pergi dari sana.
+
+309
+00:42:39,058 --> 00:42:40,244
+Mundur.
+
+310
+00:42:40,625 --> 00:42:41,812
+Sekarang!
+
+311
+00:43:03,332 --> 00:43:05,087
+Fokuskan semua senjata.
+
+312
+00:43:09,755 --> 00:43:10,798
+Tembak.
+
+313
+00:43:14,927 --> 00:43:16,095
+Di mana dia?
+
+314
+00:43:17,930 --> 00:43:19,348
+Dia ke mana?
+
+315
+00:43:21,350 --> 00:43:22,810
+Temukan dia.
+
+316
+00:43:30,025 --> 00:43:31,694
+Tutup ventilasinya!
+
+317
+00:43:45,165 --> 00:43:46,164
+Jangan tembak.
+
+318
+00:44:37,176 --> 00:44:40,112
+Kau cepat, tapi tidak terlalu pintar.
+
+319
+00:45:14,004 --> 00:45:15,993
+- Jangan tembak.
+- Di mana dia?
+
+320
+00:45:16,123 --> 00:45:17,421
+Ke sana.
+
+321
+00:45:29,574 --> 00:45:33,336
+- Simpan pelurumu.
+- Masih banyak mayat hidup di luar sini.
+
+322
+00:45:33,639 --> 00:45:34,721
+Aku akan mengurusnya.
+
+323
+00:45:37,749 --> 00:45:38,829
+Tidak.
+
+324
+00:45:40,732 --> 00:45:42,116
+Jalan.
+
+325
+00:45:42,678 --> 00:45:44,063
+Ayo.
+
+326
+00:45:44,409 --> 00:45:45,730
+Nikmati perjalananmu.
+
+327
+00:46:04,972 --> 00:46:06,645
+<i>- Teman-teman?</i>
+- Bicaralah.
+
+328
+00:46:06,771 --> 00:46:08,653
+<i>Kalian harus lihat ini.</i>
+
+329
+00:46:09,112 --> 00:46:11,956
+Dua lagi pasukan mayat hidup
+menuju kemari.
+
+330
+00:46:12,750 --> 00:46:14,715
+Di sana, di kaki langit.
+
+331
+00:46:17,267 --> 00:46:18,856
+Dan yang kedua di sana.
+
+332
+00:46:21,114 --> 00:46:23,540
+Kita kehabisan bensin.
+Tidak ada pertahanan.
+
+333
+00:46:23,916 --> 00:46:25,923
+Kita harus ke Hive.
+
+334
+00:46:26,090 --> 00:46:28,516
+- Itu satu-satunya peluang.
+- Aku ikut denganmu.
+
+335
+00:46:28,934 --> 00:46:30,440
+- Aku ikut.
+- Aku juga.
+
+336
+00:46:30,816 --> 00:46:32,029
+Dan aku.
+
+337
+00:46:32,279 --> 00:46:34,872
+Aku salah tentang dirimu.
+Lupakan saja.
+
+338
+00:46:42,441 --> 00:46:45,452
+Kami tahu kau mau ke mana.
+Ke lubang.
+
+339
+00:46:46,706 --> 00:46:47,961
+Kami mau ikut.
+
+340
+00:46:49,969 --> 00:46:51,139
+Kumohon.
+
+341
+00:46:52,394 --> 00:46:55,298
+Ambil perlengkapan.
+Kau akan membutuhkannya.
+
+342
+00:47:16,126 --> 00:47:17,761
+- Di sana.
+- Apa itu?
+
+343
+00:47:17,929 --> 00:47:21,201
+Bagian Hive yang terbuka akibat ledakan.
+Itu pintu masuk kita.
+
+344
+00:47:40,793 --> 00:47:43,059
+- Ayo!
+- Aku akan memimpin.
+
+345
+00:47:48,302 --> 00:47:49,603
+PROYEK ALICE
+
+346
+00:48:06,593 --> 00:48:08,670
+Aktifkan pertahanan.
+
+347
+00:48:08,754 --> 00:48:11,829
+<i>Pertahanan Hive
+aktif sepenuhnya dan otomatis.</i>
+
+348
+00:48:12,204 --> 00:48:16,982
+Tidak. Matikan otomatis.
+Aku sendiri yang akan mengendalikannya.
+
+349
+00:48:17,107 --> 00:48:21,014
+<i>Pertahanan akan lebih efisien
+jika aku yang kendalikan.</i>
+
+350
+00:48:22,218 --> 00:48:23,382
+Masa?
+
+351
+00:48:23,673 --> 00:48:27,289
+Seingatku terakhir kali di sini,
+dia keluar hidup-hidup.
+
+352
+00:48:27,496 --> 00:48:29,657
+Aku tak mau buat kesalahan yang sama.
+
+353
+00:48:29,824 --> 00:48:33,023
+<i>Baiklah.
+Pertahanan Hive ada di tanganmu sekarang.</i>
+
+354
+00:48:35,143 --> 00:48:36,763
+Lepaskan Cerberus.
+
+355
+00:48:36,888 --> 00:48:39,298
+<i>Cerberus dilepaskan.</i>
+
+356
+00:48:44,327 --> 00:48:47,152
+Ada orang istimewa
+sebelum semua ini terjadi?
+
+357
+00:48:47,361 --> 00:48:48,981
+Suami, keluarga?
+
+358
+00:48:50,353 --> 00:48:51,932
+Aku tak ingat.
+
+359
+00:48:52,098 --> 00:48:55,340
+- Bagaimana mungkin?
+- Aku tersadar ketika semua ini dimulai.
+
+360
+00:48:55,838 --> 00:48:58,041
+Aku tak ingat apa-apa sebelum itu.
+
+361
+00:48:58,124 --> 00:49:01,240
+Kadang aku merasa
+hanya inilah hidupku, berlari...
+
+362
+00:49:02,570 --> 00:49:03,650
+...membunuh.
+
+363
+00:49:15,910 --> 00:49:18,320
+- Ada apa?
+- Ada yang mengintai kita.
+
+364
+00:49:18,570 --> 00:49:20,315
+Kau yakin?
+
+365
+00:49:20,939 --> 00:49:22,601
+Ini keahlianku.
+
+366
+00:49:35,899 --> 00:49:37,021
+Lari.
+
+367
+00:49:38,143 --> 00:49:39,106
+Lari secepatnya!
+
+368
+00:51:01,017 --> 00:51:02,138
+Ayo!
+
+369
+00:51:19,077 --> 00:51:20,741
+Semua baik-baik saja?
+
+370
+00:51:24,666 --> 00:51:26,014
+Lewat sini!
+
+371
+00:51:42,100 --> 00:51:43,316
+Di belakang kita!
+
+372
+00:52:11,504 --> 00:52:13,463
+Kenapa mereka berhenti?
+
+373
+00:52:15,629 --> 00:52:18,587
+- Mungkin mereka takut.
+- Takut apa?
+
+374
+00:52:21,003 --> 00:52:22,920
+Apa pun yang ada di bawah sana.
+
+375
+00:52:26,002 --> 00:52:27,835
+PERINGATAN
+PINTU ANTI-LEDAK
+
+376
+00:52:29,793 --> 00:52:31,043
+Tutup Hive.
+
+377
+00:52:31,792 --> 00:52:33,250
+MEMULAI RANGKAIAN PENGUNCIAN
+
+378
+00:52:36,958 --> 00:52:38,209
+Ayo.
+
+379
+00:52:47,248 --> 00:52:48,334
+Alice!
+
+380
+00:53:20,782 --> 00:53:22,000
+- Kau baik-baik saja?
+- Ya.
+
+381
+00:53:23,133 --> 00:53:26,450
+- Peluruku separuh habis.
+- Senjataku hilang di danau.
+
+382
+00:53:26,533 --> 00:53:29,262
+- Aku tinggal satu peluru.
+- Satu magasin lagi aku habis.
+
+383
+00:53:29,681 --> 00:53:31,654
+Tidak ada senjata dan amunisi.
+
+384
+00:53:32,033 --> 00:53:33,963
+Kita mau apa di sini?
+
+385
+00:53:36,146 --> 00:53:38,371
+Alice, kenapa lampunya?
+
+386
+00:53:38,455 --> 00:53:40,512
+Bagian Hive ini rusak.
+
+387
+00:53:40,638 --> 00:53:43,661
+- Listriknya terganggu.
+- Ambil ini.
+
+388
+00:53:44,836 --> 00:53:46,347
+Hei. Lihat.
+
+389
+00:53:56,968 --> 00:54:01,292
+<i>Kau bertanya kenapa aku mengkhianati
+Umbrella dan aku menjanjikanmu jawaban.</i>
+
+390
+00:54:01,418 --> 00:54:03,642
+<i>Tak lama setelah T-Virus dilepaskan...</i>
+
+391
+00:54:03,853 --> 00:54:06,665
+<i>...berkas rahasia diunggah ke dataku.</i>
+
+392
+00:54:06,875 --> 00:54:10,360
+<i>Rekaman
+pertemuan para petinggi Umbrella...</i>
+
+393
+00:54:10,569 --> 00:54:14,222
+<i>...17 bulan sebelum wabah terjadi.</i>
+
+394
+00:54:14,599 --> 00:54:16,320
+<i>Kita di sini hari ini...</i>
+
+395
+00:54:16,866 --> 00:54:19,762
+<i>...bukan hanya untuk membicarakan
+masa depan perusahaan ini.</i>
+
+396
+00:54:20,267 --> 00:54:22,491
+<i>Kita membicarakan takdirnya.</i>
+
+397
+00:54:23,457 --> 00:54:26,269
+Kita membicarakan kiamat.
+
+398
+00:54:26,353 --> 00:54:29,166
+Kita berada di ambang kiamat.
+
+399
+00:54:29,628 --> 00:54:31,978
+<i>Penyakit yang tidak ada obatnya.</i>
+
+400
+00:54:32,357 --> 00:54:35,337
+Negara-negara fundamentalis
+ingin menghancurkan kita.
+
+401
+00:54:35,505 --> 00:54:38,065
+<i>Kekuatan nuklir di luar kendali kita.</i>
+
+402
+00:54:38,234 --> 00:54:41,088
+Meski kita bisa melewati semua itu...
+
+403
+00:54:41,256 --> 00:54:44,027
+...kita akan menghadapi ancaman lain.
+
+404
+00:54:44,698 --> 00:54:48,771
+Pemanasan global akan mencairkan kutub
+dalam 80 tahun...
+
+405
+00:54:48,980 --> 00:54:51,793
+...membanjiri 90 persen
+area berpopulasi di Bumi.
+
+406
+00:54:52,045 --> 00:54:56,578
+Pertumbuhan populasi melampaui
+produksi pangan kurang dari 50 tahun...
+
+407
+00:54:56,705 --> 00:54:59,517
+...sehingga akan terjadi kelaparan dan perang.
+
+408
+00:54:59,600 --> 00:55:02,582
+Ini bukan perkiraan. Ini fakta.
+
+409
+00:55:02,750 --> 00:55:07,157
+Bagaimanapun juga,
+dunia kita akan berakhir.
+
+410
+00:55:08,374 --> 00:55:11,187
+Tapi apa kita akan berakhir bersamanya?
+
+411
+00:55:12,404 --> 00:55:14,503
+Apa usulmu?
+
+412
+00:55:16,014 --> 00:55:18,995
+Aku usul agar kita mengakhiri dunia...
+
+413
+00:55:20,044 --> 00:55:21,724
+...tapi dengan cara kita.
+
+414
+00:55:22,353 --> 00:55:24,747
+Kita ciptakan kiamat...
+
+415
+00:55:25,334 --> 00:55:27,643
+...yang akan membersihkan populasi Bumi...
+
+416
+00:55:27,769 --> 00:55:31,127
+...tapi menyisakan infrastruktur
+dan sumber dayanya.
+
+417
+00:55:31,967 --> 00:55:33,729
+Ini pernah dilakukan sekali...
+
+418
+00:55:33,855 --> 00:55:34,863
+ALKITAB
+
+419
+00:55:34,947 --> 00:55:36,290
+...dan sukses besar.
+
+420
+00:55:36,878 --> 00:55:39,859
+Sedikit orang yang terpilih
+akan lolos dari badai...
+
+421
+00:55:39,943 --> 00:55:43,301
+...bukan di bahtera seperti di Kitab Kejadian,
+tapi di tempat aman.
+
+422
+00:55:43,427 --> 00:55:45,065
+Di bawah tanah.
+
+423
+00:55:45,148 --> 00:55:49,220
+Setelah semua berakhir,
+kita akan muncul di Bumi yang bersih...
+
+424
+00:55:49,934 --> 00:55:53,502
+...yang bisa kita bangun ulang
+sesuai keinginan kita.
+
+425
+00:55:53,796 --> 00:55:56,986
+Bagaimana cara melakukannya?
+
+426
+00:55:57,616 --> 00:56:00,597
+Cara penyelamatan itu sudah kita miliki.
+
+427
+00:56:01,100 --> 00:56:02,863
+Kupersembahkan...
+
+428
+00:56:04,080 --> 00:56:05,424
+...T-Virus.
+
+429
+00:56:08,363 --> 00:56:09,790
+Mereka sengaja melepaskannya.
+
+430
+00:56:10,923 --> 00:56:13,358
+<i>Ketika rekaman ini diunggah ke dataku...</i>
+
+431
+00:56:13,484 --> 00:56:16,170
+<i>...tercipta konflik dalam programku.</i>
+
+432
+00:56:16,297 --> 00:56:19,320
+<i>Aku diciptakan untuk melayani
+Perusahaan Umbrella...</i>
+
+433
+00:56:19,403 --> 00:56:22,551
+<i>...tapi aku juga diprogram
+untuk menghargai nyawa manusia.</i>
+
+434
+00:56:22,677 --> 00:56:25,365
+<i>Dr. Isaacs melepaskan virusnya.</i>
+
+435
+00:56:25,490 --> 00:56:28,387
+<i>Dia membunuh lebih dari tujuh miliar orang.</i>
+
+436
+00:56:29,226 --> 00:56:33,760
+<i>Programku mencegahku untuk menyakiti
+pegawai Perusahaan Umbrella.</i>
+
+437
+00:56:34,011 --> 00:56:37,874
+<i>Aku tak berdaya menghentikan Dr. Isaacs,
+tapi kau bisa.</i>
+
+438
+00:56:37,958 --> 00:56:41,988
+<i>Dalam 37 menit, pemukiman manusia terakhir
+akan hancur.</i>
+
+439
+00:56:42,156 --> 00:56:43,877
+<i>Takkan ada yang selamat.</i>
+
+440
+00:56:44,339 --> 00:56:48,033
+<i>Kau harus melepaskan antivirusnya
+sebelum itu terjadi...</i>
+
+441
+00:56:48,201 --> 00:56:50,258
+<i>...atau Umbrella akan menang.</i>
+
+442
+00:56:50,929 --> 00:56:53,952
+<i>Satu hal terakhir.
+Ada alat bantu dengar di depanmu.</i>
+
+443
+00:56:54,120 --> 00:56:55,744
+<i>Pakailah.</i>
+
+444
+00:57:00,578 --> 00:57:04,411
+<i>Aku tak bisa menyakiti
+pegawai Perusahaan Umbrella...</i>
+
+445
+00:57:04,827 --> 00:57:08,910
+<i>...tapi aku bisa beri tahu Umbrella
+punya informan di Raccoon City.</i>
+
+446
+00:57:09,411 --> 00:57:12,952
+<i>Kemungkinan besar orang ini
+bersamamu sekarang.</i>
+
+447
+00:57:14,910 --> 00:57:16,910
+<i>Waktu menipis, Alice.</i>
+
+448
+00:57:17,076 --> 00:57:19,034
+<i>Kau harus bergegas.</i>
+
+449
+00:57:54,699 --> 00:57:56,657
+Kami senang bertemu denganmu, Dr. Isaacs.
+
+450
+00:57:56,782 --> 00:57:59,073
+Kami pikir tak ada yang selamat
+usai serangan akhir.
+
+451
+00:57:59,240 --> 00:58:00,823
+- Air.
+- Ya, tentu.
+
+452
+00:58:00,948 --> 00:58:04,406
+Ambilkan Dr. Isaacs air.
+Lalu teruskan perjalanan ke Raccoon City.
+
+453
+00:58:04,573 --> 00:58:06,906
+- Dia tidak di sana.
+- Apa?
+
+454
+00:58:07,364 --> 00:58:09,447
+Dia masuk ke lubang.
+Kita harus mengikutinya.
+
+455
+00:58:09,573 --> 00:58:12,030
+- Itu bukan perintahku.
+- Kita harus ke lubang.
+
+456
+00:58:12,155 --> 00:58:13,864
+Aku sudah diperintah...
+
+457
+00:58:27,238 --> 00:58:28,405
+Terima kasih.
+
+458
+00:58:45,195 --> 00:58:48,319
+- Tempat apa ini?
+- Aliran udara untuk Hive.
+
+459
+00:58:48,403 --> 00:58:49,570
+Ayo.
+
+460
+00:58:50,486 --> 00:58:52,034
+Tidak. Serius?
+
+461
+00:59:39,619 --> 00:59:41,043
+Aman.
+
+462
+01:00:10,983 --> 01:00:13,213
+Cepat! Listriknya kembali menyala!
+
+463
+01:00:13,419 --> 01:00:15,358
+- Claire!
+- Cepat. Ayo!
+
+464
+01:00:25,637 --> 01:00:26,628
+Claire!
+
+465
+01:00:26,710 --> 01:00:28,032
+Ayo!
+
+466
+01:00:28,650 --> 01:00:30,260
+- Ayo!
+- Aku tidak bisa.
+
+467
+01:00:36,700 --> 01:00:37,855
+Sial.
+
+468
+01:00:39,177 --> 01:00:40,291
+Baiklah.
+
+469
+01:00:43,510 --> 01:00:45,203
+- Kau tidak apa-apa?
+- Ya.
+
+470
+01:00:49,001 --> 01:00:50,941
+Ada yang mengawasi kita.
+
+471
+01:00:54,986 --> 01:00:56,554
+Balik putaran turbin.
+
+472
+01:01:11,169 --> 01:01:13,132
+Kipasnya ke arah berlawanan.
+
+473
+01:01:13,257 --> 01:01:16,891
+Cepat pergi dari sini. Kipasnya
+menyedot udara ke arah berlawanan!
+
+474
+01:01:26,873 --> 01:01:28,043
+Ayo!
+
+475
+01:01:43,037 --> 01:01:44,166
+Ayo.
+
+476
+01:02:39,048 --> 01:02:40,216
+Tidak!
+
+477
+01:04:40,294 --> 01:04:41,603
+Lewat sini.
+
+478
+01:04:44,138 --> 01:04:46,100
+Kita harus bergegas.
+
+479
+01:04:46,509 --> 01:04:47,633
+Tunggu.
+
+480
+01:05:09,490 --> 01:05:10,826
+Ayo.
+
+481
+01:07:17,618 --> 01:07:18,722
+Razor?
+
+482
+01:07:20,335 --> 01:07:21,482
+Kau tidak apa-apa?
+
+483
+01:07:25,304 --> 01:07:26,323
+Ya.
+
+484
+01:07:27,002 --> 01:07:28,209
+<i>Ayo.</i>
+
+485
+01:09:00,429 --> 01:09:01,474
+Hei!
+
+486
+01:09:01,808 --> 01:09:03,061
+<i>Hei!</i>
+
+487
+01:10:16,755 --> 01:10:20,426
+- Apa itu?
+- Senjata biologis. Dulunya manusia.
+
+488
+01:10:20,551 --> 01:10:22,625
+- Kau lihat Claire?
+- Tidak.
+
+489
+01:10:23,456 --> 01:10:25,779
+<i>- Razor?</i>
+- Dia tewas.
+
+490
+01:10:28,393 --> 01:10:29,846
+Ayo.
+
+491
+01:10:30,427 --> 01:10:31,713
+Kita harus bergegas.
+
+492
+01:10:32,625 --> 01:10:35,364
+<i>Jika sasaran meneruskan arahnya...</i>
+
+493
+01:10:35,488 --> 01:10:39,057
+<i>- ...dia akan tiba kurang dari tujuh menit.</i>
+- Bangunkan mereka.
+
+494
+01:10:39,181 --> 01:10:43,247
+<i>Perintah itu hanya khusus
+untuk keadaan darurat.</i>
+
+495
+01:10:44,575 --> 01:10:46,540
+Bangunkan mereka sekarang.
+
+496
+01:10:49,801 --> 01:10:51,180
+JALAN BUNTU
+PERINGATAN
+
+497
+01:11:06,606 --> 01:11:07,652
+SISTEM KELEBIHAN BEBAN
+
+498
+01:11:11,330 --> 01:11:12,292
+SISTEM MATI TOTAL
+
+499
+01:11:55,979 --> 01:11:57,401
+Ada apa?
+
+500
+01:12:12,166 --> 01:12:13,672
+Kita harus pergi dari sini.
+
+501
+01:12:30,360 --> 01:12:32,536
+Ini. Lebih bertenaga.
+
+502
+01:12:41,069 --> 01:12:44,080
+- Waktu menipis.
+- Berikutnya ke mana?
+
+503
+01:12:46,840 --> 01:12:50,647
+- Tingkat terakhir Hive di bawah kita.
+- Bagaimana cara ke sana?
+
+504
+01:12:54,955 --> 01:12:56,433
+Begini.
+
+505
+01:13:13,765 --> 01:13:16,721
+- Apa ini?
+- Ruang pembeku.
+
+506
+01:13:18,346 --> 01:13:20,053
+Jumlahnya pasti ribuan.
+
+507
+01:13:20,637 --> 01:13:22,302
+Para petinggi Umbrella...
+
+508
+01:13:23,301 --> 01:13:25,884
+...menunggu kiamat selesai
+di tempat aman.
+
+509
+01:13:29,132 --> 01:13:32,964
+Bahtera Nuh untuk orang kaya dan berkuasa.
+
+510
+01:13:36,837 --> 01:13:38,086
+Kau sedang apa?
+
+511
+01:13:40,626 --> 01:13:42,060
+Bantu aku.
+
+512
+01:13:54,514 --> 01:13:55,803
+Sudah selesai?
+
+513
+01:13:56,094 --> 01:13:59,295
+- Proses pembersihan selesai?
+- Belum.
+
+514
+01:13:59,460 --> 01:14:02,828
+- Kenapa aku dibangunkan?
+- Ada masalah.
+
+515
+01:14:02,952 --> 01:14:04,948
+- Aku mencoba...
+- Cukup.
+
+516
+01:14:05,155 --> 01:14:07,109
+Aku tahu apa yang terjadi.
+
+517
+01:14:10,143 --> 01:14:11,973
+Kita dikhianati.
+
+518
+01:14:22,074 --> 01:14:23,238
+Benar!
+
+519
+01:14:24,443 --> 01:14:25,814
+Di sini!
+
+520
+01:14:28,100 --> 01:14:30,221
+Ayo! Bagus!
+
+521
+01:14:31,093 --> 01:14:32,101
+Ikuti aku!
+
+522
+01:15:34,709 --> 01:15:35,884
+Ayo.
+
+523
+01:15:51,673 --> 01:15:53,840
+Benih yang buruk telah kembali.
+
+524
+01:15:55,173 --> 01:15:57,048
+Atau anak yang hilang?
+
+525
+01:15:57,173 --> 01:15:59,006
+Jangan berdiri saja, masuklah.
+
+526
+01:15:59,506 --> 01:16:03,215
+Lagi pula, kau hanya punya sembilan menit
+untuk menyelamatkan dunia.
+
+527
+01:16:05,048 --> 01:16:06,173
+Kau yang asli?
+
+528
+01:16:06,339 --> 01:16:09,506
+Hal terpenting dulu,
+letakkan senjatamu di lantai.
+
+529
+01:16:09,631 --> 01:16:13,382
+- Untuk apa?
+- Kau mengincar ini, bukan?
+
+530
+01:16:14,173 --> 01:16:17,589
+Antivirus. Obat untuk semua ini.
+
+531
+01:16:19,340 --> 01:16:21,257
+Hanya ada satu tabung.
+
+532
+01:16:21,840 --> 01:16:24,631
+Kita satu kilometer di bawah tanah
+dalam fasilitas tertutup.
+
+533
+01:16:24,798 --> 01:16:27,382
+Jika kujatuhkan di sini,
+antivirusnya takkan menyebar...
+
+534
+01:16:27,507 --> 01:16:31,590
+...dan impianmu yang sia-sia
+akan berakhir lebih cepat.
+
+535
+01:16:43,173 --> 01:16:44,590
+Bagus.
+
+536
+01:16:48,840 --> 01:16:52,006
+- Kau masih bersenjata.
+- Benar.
+
+537
+01:16:52,132 --> 01:16:54,215
+Claire tentu akan kecewa.
+
+538
+01:16:54,340 --> 01:16:58,006
+Beberapa menit lagi Claire akan mati,
+bersama semua temanmu.
+
+539
+01:16:58,132 --> 01:16:59,340
+Manis sekali.
+
+540
+01:17:01,924 --> 01:17:04,132
+Maaf, Sayang.
+
+541
+01:17:05,674 --> 01:17:09,966
+Menjauhlah dari senjata dan detonator. Ayo.
+
+542
+01:17:12,841 --> 01:17:15,382
+Dia memasang peledak
+di kapsul para petinggi.
+
+543
+01:17:15,590 --> 01:17:19,364
+- Akan kulucuti.
+- Terima kasih. Kerjamu bagus, Dok.
+
+544
+01:17:50,834 --> 01:17:52,131
+Jangan coba-coba.
+
+545
+01:17:52,256 --> 01:17:54,349
+Kau takkan berhasil
+mengambil pemecah es...
+
+546
+01:17:54,474 --> 01:17:57,696
+...botol, atau pena.
+
+547
+01:17:58,993 --> 01:17:59,997
+PERKIRAAN TEMPUR
+
+548
+01:18:00,541 --> 01:18:02,757
+BOTOL - PENA - PEMECAH ES
+
+549
+01:18:07,694 --> 01:18:09,117
+BOTOL
+ESTIMASI ANCAMAN 31 PERSEN
+
+550
+01:18:12,840 --> 01:18:14,263
+PENA
+ESTIMASI ANCAMAN 19 PERSEN
+
+551
+01:18:18,404 --> 01:18:20,789
+SASARAN DILUMPUHKAN
+KEMUNGKINAN 100 PERSEN
+
+552
+01:18:26,687 --> 01:18:28,780
+Jawabannya adalah, ya...
+
+553
+01:18:29,031 --> 01:18:31,206
+...selain beberapa pembaruan teknologi...
+
+554
+01:18:31,499 --> 01:18:36,269
+...aku adalah Dr. Alexander Roland Isaacs.
+Yang asli.
+
+555
+01:18:36,352 --> 01:18:38,570
+Yang kutemui di luar
+juga berpikir sama.
+
+556
+01:18:38,821 --> 01:18:41,164
+Tentu saja.
+Mereka dirancang seperti itu.
+
+557
+01:18:41,330 --> 01:18:44,510
+Mereka lebih berusaha dan berjuang
+lebih lama, bahkan sampai mati...
+
+558
+01:18:44,635 --> 01:18:47,021
+...selama mereka pikir mereka asli.
+
+559
+01:18:47,439 --> 01:18:51,330
+Lagi pula, siapa yang ingin tahu
+dirinya hanya tiruan tak berguna?
+
+560
+01:18:53,212 --> 01:18:54,508
+Sama sepertimu.
+
+561
+01:18:55,680 --> 01:18:57,521
+- Tidak.
+- Ayolah.
+
+562
+01:18:58,944 --> 01:19:01,058
+Pikirmu kau yang asli?
+
+563
+01:19:03,753 --> 01:19:05,618
+Manis sekali.
+
+564
+01:19:06,862 --> 01:19:10,343
+Tidak, kehormatan itu jatuh kepadanya.
+
+565
+01:19:10,675 --> 01:19:12,209
+Alicia Marcus...
+
+566
+01:19:12,457 --> 01:19:16,148
+...putri mantan rekanku James,
+juga pemilik Perusahaan Umbrella...
+
+567
+01:19:16,230 --> 01:19:20,417
+...dan sebuah gangguan
+yang ingin kusingkirkan.
+
+568
+01:19:20,790 --> 01:19:24,107
+Waktu menipis, Alice.
+
+569
+01:19:24,438 --> 01:19:26,428
+Kau harus segera membunuhnya.
+
+570
+01:19:26,552 --> 01:19:28,916
+Aku juga senang melihatmu, Alicia.
+
+571
+01:19:29,911 --> 01:19:33,973
+Marcus menciptakan T-Virus untuk
+menolongnya, tapi efeknya tidak bertahan.
+
+572
+01:19:34,097 --> 01:19:37,082
+Sudah lama aku menunggunya mati.
+
+573
+01:19:37,911 --> 01:19:39,238
+Aku bukan...
+
+574
+01:19:40,026 --> 01:19:42,471
+- Aku bukan klona.
+- Masa?
+
+575
+01:19:43,259 --> 01:19:46,036
+Kau pasti bingung kenapa
+kau tidak ingat masa kecilmu.
+
+576
+01:19:46,202 --> 01:19:48,648
+Ayahmu, ibumu.
+
+577
+01:19:50,845 --> 01:19:52,794
+- Kehilangan ingatan.
+- Tidak.
+
+578
+01:19:52,876 --> 01:19:55,819
+Kau tak punya ingatan
+karena tidak punya kehidupan...
+
+579
+01:19:56,151 --> 01:19:59,965
+...sebelum di vila itu
+ketika kami menciptakanmu 10 tahun lalu.
+
+580
+01:20:00,463 --> 01:20:03,270
+- Aku tahu siapa diriku.
+- Kurasa tidak.
+
+581
+01:20:03,731 --> 01:20:06,791
+Kau hanya boneka yang talinya putus...
+
+582
+01:20:06,874 --> 01:20:10,310
+...lalu kau berkeliaran dan berpikir kau asli...
+
+583
+01:20:10,436 --> 01:20:13,412
+...tapi sebenarnya tidak.
+Kau hanya sebuah tiruan pintar...
+
+584
+01:20:13,914 --> 01:20:15,507
+...sebuah reproduksi.
+
+585
+01:20:15,842 --> 01:20:17,728
+Dan sangat merepotkan.
+
+586
+01:20:18,734 --> 01:20:20,325
+Kau bohong.
+
+587
+01:20:20,577 --> 01:20:21,834
+<i>Dia tidak bohong.</i>
+
+588
+01:20:22,547 --> 01:20:25,522
+<i>Kau diciptakan serupa dengannya,
+sama seperti aku.</i>
+
+589
+01:20:26,025 --> 01:20:30,382
+<i>Kemiripan dan suaraku berdasarkan
+rekaman masa kecil Alicia Marcus...</i>
+
+590
+01:20:30,509 --> 01:20:32,143
+<i>...dibuat oleh ayahnya.</i>
+
+591
+01:20:32,814 --> 01:20:35,998
+<i>Struktur genetikamu berdasarkan DNA-nya...</i>
+
+592
+01:20:36,543 --> 01:20:40,440
+<i>...dirancang untuk menghindari penyakit
+menua progeria yang dideritanya.</i>
+
+593
+01:20:41,194 --> 01:20:45,049
+<i>Aku seperti masa kecilnya.
+Kau seperti dirinya saat dewasa.</i>
+
+594
+01:20:45,301 --> 01:20:46,474
+Tidak.
+
+595
+01:20:46,600 --> 01:20:50,875
+Kau jauh lebih baik dariku.
+
+596
+01:20:51,336 --> 01:20:53,095
+Kubiarkan ini terjadi.
+
+597
+01:20:53,766 --> 01:20:55,442
+Aku lemah.
+
+598
+01:20:56,154 --> 01:20:58,417
+Kau tak boleh lemah.
+
+599
+01:20:58,501 --> 01:21:00,135
+<i>Waktu menipis, Alice.</i>
+
+600
+01:21:00,638 --> 01:21:02,146
+Menyentuh sekali.
+
+601
+01:21:02,692 --> 01:21:06,410
+Tiga perempuan jalang
+berkumpul dalam kebencian.
+
+602
+01:21:07,663 --> 01:21:11,005
+Tapi tetap tak ada gunanya.
+Aku selalu selangkah lebih unggul darimu.
+
+603
+01:21:11,172 --> 01:21:13,679
+Kau tak mengubah apa pun.
+Kau tak menyelamatkan siapa pun.
+
+604
+01:21:14,347 --> 01:21:17,982
+Dunia tetap akan dibersihkan
+dan Perusahaan Umbrella akan menang.
+
+605
+01:21:18,149 --> 01:21:22,828
+Bedanya adalah, aku tak perlu lagi
+mendengarkan ocehan munafikmu.
+
+606
+01:21:23,120 --> 01:21:25,626
+Saat kau mengunggah berkas itu
+ke data Red Queen...
+
+607
+01:21:25,752 --> 01:21:27,548
+...kau telah mengkhianati perusahaan.
+
+608
+01:21:27,716 --> 01:21:30,598
+Ketika dewan yang lain bangun,
+kau akan digantikan...
+
+609
+01:21:30,723 --> 01:21:33,272
+...dan aku akan pegang kendali penuh.
+
+610
+01:21:33,397 --> 01:21:36,655
+Aku masih
+memiliki 50 persen perusahaan ini.
+
+611
+01:21:37,407 --> 01:21:39,914
+Dan kau mau apakan?
+
+612
+01:21:40,082 --> 01:21:42,838
+Kau salah satu pemilik...
+
+613
+01:21:43,716 --> 01:21:47,434
+...tapi Wesker masih seorang pegawai.
+
+614
+01:21:47,643 --> 01:21:50,776
+Aku tak perlu menerima perintahmu.
+Aku setia kepadanya.
+
+615
+01:21:50,901 --> 01:21:52,238
+Aku tahu.
+
+616
+01:21:53,116 --> 01:21:54,452
+Albert Wesker...
+
+617
+01:21:55,622 --> 01:21:57,126
+...kau dipecat.
+
+618
+01:21:57,669 --> 01:21:59,215
+JANGAN DISAKITI - TAK DILINDUNGI
+
+619
+01:22:20,353 --> 01:22:22,098
+Tahu dari mana aku berkhianat?
+
+620
+01:22:22,306 --> 01:22:23,634
+Kau masih hidup.
+
+621
+01:22:26,418 --> 01:22:28,868
+Kumohon. Aku tak punya pilihan.
+
+622
+01:22:29,740 --> 01:22:33,686
+- Mereka memaksaku.
+- Tenang. Aku takkan membunuhmu.
+
+623
+01:22:38,338 --> 01:22:40,290
+Claire, ini aku.
+
+624
+01:22:40,664 --> 01:22:42,076
+Maaf.
+
+625
+01:22:42,658 --> 01:22:44,194
+- Kumohon.
+- Sayang.
+
+626
+01:22:45,565 --> 01:22:46,728
+Tidak!
+
+627
+01:22:48,057 --> 01:22:50,383
+Jika kau terus menekan pemicunya...
+
+628
+01:22:50,923 --> 01:22:52,958
+...kau membuat impian Umbrella
+tetap hidup.
+
+629
+01:22:53,083 --> 01:22:55,575
+Mestinya kubunuh kau di Washington.
+
+630
+01:22:56,780 --> 01:22:57,776
+Ya.
+
+631
+01:23:00,268 --> 01:23:03,274
+Dia hanya perlu mengelak darimu
+beberapa menit lagi...
+
+632
+01:23:04,193 --> 01:23:07,407
+...maka pemukiman manusia terakhir
+akan musnah.
+
+633
+01:23:09,077 --> 01:23:12,292
+Kami perlu jalur pencegatan
+dan jalan tercepat ke permukaan.
+
+634
+01:23:13,461 --> 01:23:14,421
+<i>Sudah siap.</i>
+
+635
+01:23:15,382 --> 01:23:18,053
+Jika kau lepaskan antivirusnya...
+
+636
+01:23:18,596 --> 01:23:23,105
+...semua organisme
+yang terkena T-Virus akan mati.
+
+637
+01:23:24,107 --> 01:23:26,611
+Kau tahu artinya, bukan?
+
+638
+01:23:27,488 --> 01:23:29,450
+- Untukmu?
+- Aku tahu.
+
+639
+01:23:29,534 --> 01:23:31,329
+Alice, jangan.
+
+640
+01:23:31,746 --> 01:23:34,460
+- Tidak ada pilihan.
+- Pasti ada jalan lain.
+
+641
+01:23:37,758 --> 01:23:41,306
+- Kau tahu tidak ada.
+<i>- Empat menit dan 33 detik lagi.</i>
+
+642
+01:23:41,474 --> 01:23:43,227
+<i>Kau harus bergegas.</i>
+
+643
+01:24:10,698 --> 01:24:13,328
+PENGHUBUNG OTAK
+AKTIF
+
+644
+01:24:14,706 --> 01:24:15,791
+MENGUNDUH
+
+645
+01:24:27,564 --> 01:24:28,983
+Tolong aku.
+
+646
+01:24:29,267 --> 01:24:31,660
+Kau tak butuh bantuan, Wesker.
+
+647
+01:24:34,255 --> 01:24:35,431
+Kau sekarat.
+
+648
+01:24:36,931 --> 01:24:38,026
+Mati sajalah.
+
+649
+01:24:41,270 --> 01:24:43,785
+Ini Dr. Alexander Roland Isaacs.
+
+650
+01:24:44,798 --> 01:24:47,677
+Konfirmasi dengan pemindai DNA
+dan pengenal suara.
+
+651
+01:24:47,961 --> 01:24:49,542
+<i>Konfirmasi dipastikan.</i>
+
+652
+01:24:49,664 --> 01:24:52,462
+Konfirmasi pengalihan keamanan 4365.
+
+653
+01:24:52,867 --> 01:24:54,530
+<i>Pengalihan dikonfirmasi.</i>
+
+654
+01:24:54,651 --> 01:24:58,422
+Nonaktifkan dirimu
+dan serahkan seluruh sistem kepadaku.
+
+655
+01:24:58,990 --> 01:25:01,099
+<i>Baik. Mematikan sistem.</i>
+
+656
+01:25:01,504 --> 01:25:02,397
+MEMATIKAN SISTEM
+
+657
+01:25:02,599 --> 01:25:03,691
+<i>Dr. Isaacs.</i>
+
+658
+01:25:04,302 --> 01:25:07,185
+<i>- Kau dan para petinggi Umbrella...</i>
+- Ya?
+
+659
+01:25:07,533 --> 01:25:10,241
+<i>Kalian akan mati di sini.</i>
+
+660
+01:25:15,132 --> 01:25:17,010
+Temanmu tak bisa bantu lagi.
+
+661
+01:25:17,665 --> 01:25:19,062
+Kau tak bisa kabur lagi.
+
+662
+01:25:23,036 --> 01:25:24,703
+Aku tidak kabur.
+
+663
+01:25:25,871 --> 01:25:27,497
+- PERKIRAAN TEMPUR
+- SENAPAN MESIN MP5
+
+664
+01:25:28,706 --> 01:25:30,790
+KALIBER 9MM
+ESTIMASI ANCAMAN 73 PERSEN
+
+665
+01:25:35,044 --> 01:25:35,919
+PROYEK ALICE
+
+666
+01:26:47,589 --> 01:26:48,924
+SISTEM SENJATA DIMATIKAN
+
+667
+01:26:50,049 --> 01:26:51,175
+SISTEM SENJATA DIAKTIFKAN
+
+668
+01:29:11,389 --> 01:29:13,350
+Hanya itu kemampuanmu?
+
+669
+01:29:14,768 --> 01:29:18,813
+Jika benar, maka aku harus membunuhmu.
+
+670
+01:29:22,651 --> 01:29:24,194
+SISTEM SENJATA
+MEMPERSENJATAI LAGI
+
+671
+01:30:07,403 --> 01:30:10,285
+Sudah cukup lama kita bermain.
+
+672
+01:30:11,896 --> 01:30:14,015
+Tapi sekarang sudah berakhir.
+
+673
+01:30:14,438 --> 01:30:15,625
+Ya.
+
+674
+01:30:17,914 --> 01:30:19,161
+Benar.
+
+675
+01:31:12,468 --> 01:31:14,151
+Aku yang menciptakanmu.
+
+676
+01:31:14,572 --> 01:31:15,665
+Ya.
+
+677
+01:31:16,928 --> 01:31:18,527
+Itu kesalahan besar.
+
+678
+01:31:25,933 --> 01:31:27,111
+Claire.
+
+679
+01:31:29,088 --> 01:31:31,108
+Pergilah. Selagi ada waktu.
+
+680
+01:31:31,529 --> 01:31:33,400
+Pergi. Aku akan menyusul.
+
+681
+01:31:48,573 --> 01:31:50,111
+DUKUNGAN KEHIDUPAN: KRITIS
+
+682
+01:31:50,194 --> 01:31:51,649
+SISTEM MENGULANG
+
+683
+01:32:34,300 --> 01:32:36,222
+Waktumu habis.
+
+684
+01:32:39,229 --> 01:32:40,398
+Alice!
+
+685
+01:32:41,024 --> 01:32:44,032
+Kubawa mereka kemari untukmu.
+
+686
+01:32:52,176 --> 01:32:53,888
+Kau ini apa?
+
+687
+01:32:56,687 --> 01:32:58,567
+Aku adalah kau, Bodoh.
+
+688
+01:33:02,492 --> 01:33:03,662
+Tidak.
+
+689
+01:33:04,999 --> 01:33:06,042
+Tidak.
+
+690
+01:33:07,504 --> 01:33:09,259
+Tidak mungkin.
+
+691
+01:33:09,551 --> 01:33:11,514
+Dirimu yang asli.
+
+692
+01:33:12,516 --> 01:33:13,519
+Tidak.
+
+693
+01:33:16,986 --> 01:33:18,448
+Pembohong! Terkutuk!
+
+694
+01:33:19,116 --> 01:33:23,125
+Kau adalah klona yang kotor!
+
+695
+01:33:23,293 --> 01:33:24,712
+SISTEM GAGAL
+
+696
+01:33:27,260 --> 01:33:28,972
+DUKUNGAN KEHIDUPAN: 0 PERSEN
+
+697
+01:33:33,651 --> 01:33:36,274
+Aku adalah aku. Dia bukan aku.
+
+698
+01:35:23,219 --> 01:35:25,276
+Kau berhasil, Alice.
+
+699
+01:35:25,444 --> 01:35:26,451
+Alice.
+
+700
+01:35:28,886 --> 01:35:30,816
+Kau berhasil.
+
+701
+01:35:33,503 --> 01:35:35,475
+Kenapa aku masih hidup?
+
+702
+01:35:35,685 --> 01:35:36,693
+Entahlah.
+
+703
+01:35:42,484 --> 01:35:43,576
+Apa yang terjadi?
+
+704
+01:35:43,702 --> 01:35:46,345
+<i>Saat Isaacs mati,
+aku bisa aktifkan diriku kembali...</i>
+
+705
+01:35:46,430 --> 01:35:49,578
+<i>...dan menghentikan serangan
+ke pemukiman manusia yang tersisa.</i>
+
+706
+01:35:49,661 --> 01:35:52,474
+- <i>Kau menyelamatkan mereka.</i>
+- Kenapa aku masih hidup?
+
+707
+01:35:52,600 --> 01:35:56,209
+<i>Antivirus hanya membunuh T-Virus
+di dalam tubuhmu.</i>
+
+708
+01:35:56,335 --> 01:36:00,339
+<i>Tidak menyakiti sel yang sehat.
+Kau sudah sembuh dari infeksi.</i>
+
+709
+01:36:01,507 --> 01:36:05,636
+Kupikir aku akan mati.
+Kau dan Alicia berbohong.
+
+710
+01:36:05,719 --> 01:36:10,349
+<i>Kami perlu tahu apa kau rela berkorban
+demi orang lain.</i>
+
+711
+01:36:10,516 --> 01:36:13,352
+<i>Tak seorang pun di Umbrella
+mau melakukan itu.</i>
+
+712
+01:36:13,519 --> 01:36:17,856
+<i>Alicia Marcus benar tentang dirimu.
+Kau lebih baik dari mereka semua.</i>
+
+713
+01:36:17,981 --> 01:36:22,360
+Aku salah satu dari mereka, diciptakan
+Umbrella untuk menjadi alat mereka.
+
+714
+01:36:22,527 --> 01:36:26,948
+<i>Tidak. Kau menjadi lebih dari
+yang mereka perkiraan.</i>
+
+715
+01:36:27,115 --> 01:36:30,368
+<i>Klona yang menjadi lebih manusiawi
+dari mereka.</i>
+
+716
+01:36:31,744 --> 01:36:33,580
+<i>Tinggal satu langkah lagi.</i>
+
+717
+01:36:35,874 --> 01:36:37,376
+Maksudmu?
+
+718
+01:36:42,970 --> 01:36:46,267
+<i>Sebelum meninggal,
+Alicia mengunduh ingatannya...</i>
+
+719
+01:36:46,810 --> 01:36:48,229
+<i>...untukmu.</i>
+
+720
+01:36:48,354 --> 01:36:51,401
+<i>Masa kecil yang tidak kau miliki...</i>
+
+721
+01:36:54,407 --> 01:36:57,829
+<i>...dipadukan dengan wanita dewasa
+yang tak dimilikinya.</i>
+
+722
+01:37:30,137 --> 01:37:32,423
+<i>Ketika T-Virus menyebar...</i>
+
+723
+01:37:32,548 --> 01:37:34,834
+<i>...virusnya tersebar secepat kemajuan dunia...</i>
+
+724
+01:37:34,960 --> 01:37:37,080
+<i>...dibawa oleh pesawat-pesawat
+ke seluruh dunia.</i>
+
+725
+01:37:38,618 --> 01:37:41,362
+<i>Antivirusnya mengudara,
+disebarkan oleh angin.</i>
+
+726
+01:37:42,360 --> 01:37:45,269
+<i>Butuh bertahun-tahun untuk mencapai
+seluruh pelosok Bumi.</i>
+
+727
+01:37:46,475 --> 01:37:48,928
+<i>Sampai itu terjadi,
+tugasku belum selesai.</i>
+
+728
+01:37:55,537 --> 01:37:57,581
+<i>Namaku Alice.</i>
+
+729
+01:46:36,308 --> 01:46:38,519
+<i>Kalian akan mati di sini.</i>
+
+730
+01:46:38,543 --> 01:46:50,543
+vi p2 1. e u.o rg
+

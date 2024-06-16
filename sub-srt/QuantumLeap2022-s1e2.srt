@@ -1,0 +1,3597 @@
+﻿1
+00:00:03,916 --> 00:00:05,920
+<i>Doktor Ben Song
+mempertaruhkan segalanya...</i>
+
+2
+00:00:06,004 --> 00:00:08,175
+<i>Saat dia menggunakan
+akselerator Lompatan Kuantum...</i>
+
+3
+00:00:08,258 --> 00:00:09,845
+<i>Untuk kembali ke masa lalu.</i>
+
+4
+00:00:10,178 --> 00:00:12,892
+<i>Tim kami berusaha
+mencari tahu alasannya...</i>
+
+5
+00:00:12,976 --> 00:00:14,563
+<i>Seiring dia melompat
+ke dalam tubuh yang berbeda-beda...</i>
+
+6
+00:00:14,646 --> 00:00:16,358
+<i>Tanpa ingat apa pun tentang dirinya.</i>
+
+7
+00:00:16,985 --> 00:00:18,487
+<i>Dia masih punya satu harapan...</i>
+
+8
+00:00:19,113 --> 00:00:20,241
+<i>Bahwa lompatan berikutnya...</i>
+
+9
+00:00:21,243 --> 00:00:22,579
+<i>Akan membawanya kembali...</i>
+
+10
+00:00:23,331 --> 00:00:25,669
+<i>Ke tempat dan orang-orang...</i>
+
+11
+00:00:26,045 --> 00:00:27,339
+<i>Yang dia sebut rumah.</i>
+
+12
+00:00:32,057 --> 00:00:33,476
+Addison?
+
+13
+00:00:35,188 --> 00:00:37,442
+<i>Atlantis, ini Kendali Misi.</i>
+
+14
+00:00:37,527 --> 00:00:40,073
+<i>Kunci helmmu
+dan mulailah aliran oksigen.</i>
+
+15
+00:00:40,156 --> 00:00:42,036
+<i>Kita akan meluncur dalam lima...</i>
+
+16
+00:00:42,119 --> 00:00:43,914
+- Tidak! Tunggu!
+<i>- Empat, tiga...</i>
+
+17
+00:00:43,998 --> 00:00:45,626
+- Berhenti! Jangan...
+<i>- Dua, satu...</i>
+
+18
+00:00:55,521 --> 00:00:57,191
+<i>Atlantis, silakan mempercepat.</i>
+
+19
+00:00:57,275 --> 00:00:59,321
+<i>Tak ada aksi. DBDT.</i>
+
+20
+00:00:59,947 --> 00:01:02,285
+<i>Operasi tiga mesin tunggal Atlantis.</i>
+
+21
+00:01:05,500 --> 00:01:08,625
+<i>Pemisahan dikonfirmasi.
+Kita menuju orbit.</i>
+
+22
+00:01:08,711 --> 00:01:11,185
+<i>Periksa Pod 21.</i>
+
+23
+00:01:11,576 --> 00:01:13,138
+<i>Kunci bisa dilepas.</i>
+
+24
+00:01:20,906 --> 00:01:24,370
+<i>Atlantis, Houston, kami melihat MECO
+dan ET Sep dengan jelas.</i>
+
+25
+00:01:43,233 --> 00:01:46,373
+Hei, sudah kubilang
+kita akan ke sini bersama.
+
+26
+00:01:46,750 --> 00:01:49,220
+Dan itu hanya butuh
+latihan seumur hidup.
+
+27
+00:01:50,601 --> 00:01:51,942
+Sudah kubilang.
+
+28
+00:01:52,025 --> 00:01:53,574
+Baiklah, kita cukup beruntung...
+
+29
+00:01:53,658 --> 00:01:55,082
+Menjadi kru
+yang meletakkan potongan pertama...
+
+30
+00:01:55,165 --> 00:01:57,259
+Stasiun Antariksa Internasional
+di orbit.
+
+31
+00:01:57,552 --> 00:02:00,183
+Stratton, kau siap
+membawa kita ke koordinat kita?
+
+32
+00:02:00,266 --> 00:02:01,310
+- Ya, Pak.
+- Baiklah.
+
+33
+00:02:01,394 --> 00:02:03,023
+Apa GPC dalam OP-2-mu bagus?
+
+34
+00:02:03,107 --> 00:02:04,317
+- Ya.
+- Kau siap untuk memulai...
+
+35
+00:02:04,401 --> 00:02:06,489
+Proses membuka pintu ruang muatan?
+
+36
+00:02:06,573 --> 00:02:07,659
+Reynolds.
+
+37
+00:02:08,327 --> 00:02:11,167
+Kau tahu berapa kali
+aku berlatih ini di simulator?
+
+38
+00:02:11,250 --> 00:02:13,965
+Hei, kita tak di simulator lagi.
+
+39
+00:02:14,508 --> 00:02:16,013
+Aku bisa melakukannya.
+
+40
+00:02:17,683 --> 00:02:19,186
+Maaf.
+
+41
+00:02:19,270 --> 00:02:20,356
+Sudah jadi kebiasaan.
+
+42
+00:02:21,358 --> 00:02:24,667
+Aku berjanji
+akan membuatmu bangga di sini.
+
+43
+00:02:27,147 --> 00:02:28,362
+Kau sudah melakukannya.
+
+44
+00:02:49,256 --> 00:02:50,951
+David, kau baik-baik saja?
+
+45
+00:02:51,860 --> 00:02:53,224
+Ya.
+
+46
+00:02:53,307 --> 00:02:56,695
+Tolong ingatkan aku
+di mana toilet antariksanya.
+
+47
+00:02:56,943 --> 00:02:58,432
+Di dek tengah.
+
+48
+00:03:02,316 --> 00:03:04,879
+Addison, kau bisa mendengarku?
+
+49
+00:03:05,292 --> 00:03:06,574
+Addison?
+
+50
+00:03:07,607 --> 00:03:08,722
+- Addison?
+<i>- Addison?</i>
+
+51
+00:03:08,930 --> 00:03:10,995
+Halo? Addison?
+
+52
+00:03:11,822 --> 00:03:12,897
+Hai.
+
+53
+00:03:13,062 --> 00:03:14,736
+Susu gandum. Tiga sendok gula.
+
+54
+00:03:14,820 --> 00:03:16,661
+- Kau sudah menemukan Ben?
+- Belum.
+
+55
+00:03:16,745 --> 00:03:18,042
+Tapi sistemnya kembali berfungsi.
+
+56
+00:03:18,125 --> 00:03:21,097
+Jadi, hanya masalah waktu sebelum...
+
+57
+00:03:21,181 --> 00:03:23,942
+Apa? Apa yang terjadi?
+Apa ada yang menerobos masuk?
+
+58
+00:03:24,068 --> 00:03:25,741
+Kau tak berpikir orang
+yang melakukan ini berusaha...
+
+59
+00:03:25,826 --> 00:03:27,666
+Tidak, aku yang melakukan ini.
+
+60
+00:03:27,959 --> 00:03:29,214
+- Kau...
+- Ya.
+
+61
+00:03:29,299 --> 00:03:30,386
+Kenapa?
+
+62
+00:03:31,224 --> 00:03:32,730
+Aku menemukan ponsel Ben.
+
+63
+00:03:33,023 --> 00:03:34,529
+Dia meninggalkan pesan
+sebelum melompat.
+
+64
+00:03:34,613 --> 00:03:35,659
+Dia menyuruhmu
+menghancurkan apartemen?
+
+65
+00:03:35,743 --> 00:03:38,882
+Tidak, dia mengatakan bahwa akan ada
+hal-hal yang kutemukan...
+
+66
+00:03:38,965 --> 00:03:40,513
+Tentang perbuatannya
+yang tak masuk akal bagiku.
+
+67
+00:03:40,596 --> 00:03:42,731
+Seolah-olah semua ini masuk akal!
+
+68
+00:03:42,814 --> 00:03:44,865
+Baiklah, tapi kenapa ini?
+
+69
+00:03:44,949 --> 00:03:46,414
+Kupikir jika dia bisa
+menyembunyikan satu hal...
+
+70
+00:03:46,497 --> 00:03:48,924
+- Maka dia bisa sembunyikan hal lain.
+- Apa dia melakukannya?
+
+71
+00:03:49,007 --> 00:03:51,351
+Aku menemukan diska lepas ini
+di rak buku.
+
+72
+00:03:51,435 --> 00:03:53,486
+- Jadi, apa isinya?
+- Aku baru mau mencari tahu.
+
+73
+00:03:58,173 --> 00:04:00,474
+Terenkripsi dengan kata sandi.
+Maksudku, itu bukan kejutan.
+
+74
+00:04:00,557 --> 00:04:01,897
+Bisakah kau membukanya?
+
+75
+00:04:01,980 --> 00:04:05,021
+Mungkin, tapi entahlah,
+itu keahlian Jenn.
+
+76
+00:04:07,405 --> 00:04:09,089
+Kau bisa tidur semalam?
+
+77
+00:04:09,172 --> 00:04:11,350
+Aku tak mengerti.
+Kukira kita melakukan ini bersama.
+
+78
+00:04:11,432 --> 00:04:13,322
+- Memang.
+- Maksudku, aku dan Ben.
+
+79
+00:04:14,021 --> 00:04:17,185
+- Benar. Maaf.
+- Kami bertemu di Lompatan Kuantum.
+
+80
+00:04:17,472 --> 00:04:21,747
+Kami jatuh cinta. Kami bekerja
+berdampingan selama bertahun-tahun.
+
+81
+00:04:22,198 --> 00:04:25,322
+Kami harus berusaha tak membicarakan
+pekerjaan saat berada di rumah.
+
+82
+00:04:25,404 --> 00:04:28,486
+Rasanya seperti seluruh hidup kami
+berkisar pada proyek ini.
+
+83
+00:04:30,335 --> 00:04:33,499
+Kini ada bagian lain dari itu.
+
+84
+00:04:34,814 --> 00:04:38,759
+Bagian lain dari dirinya
+yang dia sembunyikan dariku.
+
+85
+00:04:41,061 --> 00:04:43,321
+Aku benar-benar kesulitan
+menerima kenyataan...
+
+86
+00:04:43,402 --> 00:04:45,334
+Bahwa ini mungkin tak pernah
+benar-benar menjadi hidup kami.
+
+87
+00:04:46,238 --> 00:04:48,951
+Entahlah, itu sulit dijelaskan.
+
+88
+00:04:49,484 --> 00:04:52,608
+Kurasa kau sudah menjelaskannya
+dengan cukup baik.
+
+89
+00:04:56,676 --> 00:04:58,566
+Magic menemukan sesuatu.
+
+90
+00:04:59,429 --> 00:05:00,657
+Baiklah...
+
+91
+00:05:02,181 --> 00:05:04,298
+Aku berhasil memulihkan gambar ini
+semalam.
+
+92
+00:05:04,382 --> 00:05:07,176
+Wanita yang membantu Ben
+adalah Janis Calavicci.
+
+93
+00:05:07,261 --> 00:05:09,463
+Calavicci? Putri Al Calavicci?
+
+94
+00:05:09,547 --> 00:05:11,240
+Tunggu, kau tahu tentang ini semalam,
+tapi tak mengatakan apa pun?
+
+95
+00:05:11,325 --> 00:05:13,441
+- Kau mengalami banyak hal.
+- Apa Ben pernah menyebutkannya?
+
+96
+00:05:13,527 --> 00:05:14,754
+Tidak.
+
+97
+00:05:14,839 --> 00:05:17,082
+- Apa lagi yang tak kau katakan?
+- Addison.
+
+98
+00:05:17,167 --> 00:05:20,088
+Janis Calavicci
+adalah ahli astrofisika yang cerdas.
+
+99
+00:05:20,173 --> 00:05:22,331
+Ayahnya jalankan Lompatan Kuantum
+selama bertahun-tahun.
+
+100
+00:05:22,417 --> 00:05:25,126
+Dia tahu banyak tentang proyek ini.
+
+101
+00:05:25,210 --> 00:05:27,539
+Masuk akal Ben menemuinya
+jika dia butuh bantuan.
+
+102
+00:05:27,623 --> 00:05:29,994
+Tapi bagaimana jika sebaliknya?
+
+103
+00:05:30,079 --> 00:05:32,111
+Mungkin Janis
+dalang di balik semua ini.
+
+104
+00:05:32,195 --> 00:05:33,931
+- Tepat sekali.
+- Baiklah, aku akan tanya Ben...
+
+105
+00:05:34,016 --> 00:05:35,074
+Begitu kita menemukannya.
+
+106
+00:05:35,158 --> 00:05:36,513
+Itu mungkin akan bisa membantu
+mengembalikan ingatannya.
+
+107
+00:05:36,598 --> 00:05:38,037
+Tidak.
+
+108
+00:05:38,376 --> 00:05:41,636
+Ben tak ingat apa pun saat ini
+adalah hal yang baik.
+
+109
+00:05:41,847 --> 00:05:43,667
+- Apa?
+- Kita perlu...
+
+110
+00:05:43,753 --> 00:05:44,853
+Aku tak percaya...
+
+111
+00:05:44,938 --> 00:05:46,546
+Tapi setidaknya
+kita harus mempertimbangkan...
+
+112
+00:05:46,631 --> 00:05:48,960
+Kemungkinan
+Ben dimanipulasi oleh Janis.
+
+113
+00:05:49,467 --> 00:05:51,203
+Setidaknya kita harus
+mempertimbangkannya.
+
+114
+00:05:51,288 --> 00:05:52,811
+Jika ingatannya tiba-tiba kembali...
+
+115
+00:05:52,897 --> 00:05:54,887
+Dan rencananya adalah
+melakukan hal-hal buruk selama ini...
+
+116
+00:05:54,971 --> 00:05:56,664
+Tidak banyak yang bisa kita lakukan
+untuk menghentikannya.
+
+117
+00:05:56,748 --> 00:05:59,797
+Satu-satunya perlindungan
+adalah dia tak ingat...
+
+118
+00:05:59,881 --> 00:06:02,008
+Kenapa dia melompat atau niatnya.
+
+119
+00:06:02,091 --> 00:06:05,094
+Jadi, sampai kita tahu
+apa yang terjadi...
+
+120
+00:06:05,387 --> 00:06:08,556
+Kau harus memastikan
+kita tak memicu ingatannya.
+
+121
+00:06:08,640 --> 00:06:11,266
+- Mengerti?
+- Tidak.
+
+122
+00:06:11,350 --> 00:06:13,227
+Aku tak setuju
+dengan rencana serangan ini.
+
+123
+00:06:14,227 --> 00:06:17,355
+Maaf kalau kau merasa seperti itu,
+tapi ini bukan permintaan.
+
+124
+00:06:17,438 --> 00:06:20,274
+Baiklah. Dengar, kita tak bisa
+tidur nyenyak semalam...
+
+125
+00:06:20,358 --> 00:06:22,735
+Jadi, mungkin kita harus
+menundanya...
+
+126
+00:06:23,235 --> 00:06:25,570
+- Aku sudah menemukan Ben.
+- Di mana dia?
+
+127
+00:06:25,655 --> 00:06:26,697
+Itu...
+
+128
+00:06:26,780 --> 00:06:28,740
+Astaga!
+
+129
+00:06:29,032 --> 00:06:30,450
+Kau takkan percaya ini.
+
+130
+00:06:30,534 --> 00:06:32,744
+Ben ada
+di Pesawat Ulang Alik Atlantis...
+
+131
+00:06:32,827 --> 00:06:34,954
+7 Maret 1998.
+
+132
+00:06:38,332 --> 00:06:40,626
+Kulihat kau tak menyebutkan
+diska lepas kecil...
+
+133
+00:06:40,709 --> 00:06:41,835
+Yang kau temukan pagi ini.
+
+134
+00:06:41,919 --> 00:06:43,628
+Atau pesan
+yang Ben tinggalkan untukmu.
+
+135
+00:06:43,712 --> 00:06:45,046
+Aku perlu tahu apa yang Ben pikirkan.
+
+136
+00:06:45,130 --> 00:06:46,298
+Aku perlu tahu isi diska ini.
+
+137
+00:06:46,381 --> 00:06:47,465
+Seharusnya kau berikan kepada Jenn.
+
+138
+00:06:47,549 --> 00:06:48,591
+Mereka tak memercayainya.
+
+139
+00:06:48,674 --> 00:06:51,093
+Sebenarnya, kurasa
+mereka mencoba memercayainya.
+
+140
+00:06:51,385 --> 00:06:54,096
+Dengar,
+aku perlu tahu apa yang dia pikirkan.
+
+141
+00:06:54,179 --> 00:06:55,347
+Aku harus melihatnya dahulu.
+
+142
+00:06:55,431 --> 00:06:57,432
+Ingat pagi ini saat kau berkata...
+
+143
+00:06:57,516 --> 00:06:59,267
+"Kukira kita melakukan ini
+bersama"...
+
+144
+00:06:59,350 --> 00:07:00,685
+Dan kukira kau membicarakan
+soal kau dan aku...
+
+145
+00:07:00,768 --> 00:07:02,394
+Tapi sebenarnya membicarakan
+soal dirimu dan Ben...
+
+146
+00:07:02,477 --> 00:07:03,644
+Dan aku diam-diam malu...
+
+147
+00:07:03,727 --> 00:07:05,645
+- Tapi pulih dengan sangat anggun?
+- Ian.
+
+148
+00:07:05,728 --> 00:07:09,021
+Dengar, membagi menjadi dua tim
+sekarang adalah kesalahan.
+
+149
+00:07:09,105 --> 00:07:10,563
+Jika Ben ada di sini,
+dia takkan diam saja.
+
+150
+00:07:10,647 --> 00:07:12,147
+Tapi dia tak ada di sini.
+
+151
+00:07:12,731 --> 00:07:14,564
+Dengar, kumohon,
+buka saja diska lepasnya.
+
+152
+00:07:14,856 --> 00:07:15,981
+Demi aku.
+
+153
+00:07:16,523 --> 00:07:17,722
+Kumohon.
+
+154
+00:07:27,969 --> 00:07:29,052
+Kau baik-baik saja di dalam, David?
+
+155
+00:07:29,136 --> 00:07:32,846
+Ya. Kita tak bisa memburu-buru
+hal semacam ini.
+
+156
+00:07:32,929 --> 00:07:35,806
+- Kali pertama selalu agak sulit.
+- Ya.
+
+157
+00:07:37,014 --> 00:07:38,307
+Syukurlah.
+
+158
+00:07:38,683 --> 00:07:39,766
+Kau baik-baik saja?
+
+159
+00:07:39,849 --> 00:07:41,809
+Aku di pesawat ulang alik!
+
+160
+00:07:41,893 --> 00:07:43,018
+Aku tahu.
+
+161
+00:07:43,643 --> 00:07:46,603
+Kukira aku akan kembali ke 2022
+saat melompat.
+
+162
+00:07:46,686 --> 00:07:48,103
+Ya, itu tak berhasil.
+
+163
+00:07:48,187 --> 00:07:49,688
+Apa kita tahu alasannya?
+
+164
+00:07:49,772 --> 00:07:51,355
+Sedang kami usahakan.
+
+165
+00:07:51,605 --> 00:07:53,107
+Namun, tim cukup yakin...
+
+166
+00:07:53,190 --> 00:07:55,107
+Kami bisa membawamu kembali
+di lompatan berikutnya.
+
+167
+00:07:55,232 --> 00:07:57,359
+Seharusnya aku kecewa, tapi...
+
+168
+00:07:57,692 --> 00:08:00,485
+Pesawat ulang alik. Sangat keren.
+
+169
+00:08:01,611 --> 00:08:02,738
+Siapa aku kali ini?
+
+170
+00:08:02,821 --> 00:08:05,119
+Namamu David Tamura. Dia...
+
+171
+00:08:05,202 --> 00:08:07,456
+Tamura? Tunggu sebentar.
+
+172
+00:08:08,124 --> 00:08:09,628
+<i>Kau ingat dia?</i>
+
+173
+00:08:10,755 --> 00:08:12,759
+<i>- David Tamura...</i>
+- Astaga.
+
+174
+00:08:12,843 --> 00:08:15,683
+Aku mengidolakannya
+saat tumbuh dewasa.
+
+175
+00:08:15,766 --> 00:08:17,771
+Dia berimigrasi ke AS dari Jepang...
+
+176
+00:08:17,854 --> 00:08:18,939
+Dan menjadi astronaut...
+
+177
+00:08:19,023 --> 00:08:22,406
+Sedangkan aku berimigrasi dari Korea,
+dan ingin menjadi astronaut.
+
+178
+00:08:24,702 --> 00:08:27,750
+Aku berimigrasi dari Korea
+saat masih kecil.
+
+179
+00:08:27,834 --> 00:08:29,129
+Ya.
+
+180
+00:08:29,337 --> 00:08:30,548
+Aku mulai ingat.
+
+181
+00:08:30,631 --> 00:08:33,178
+Hei, Addison, gantilah topiknya.
+Kita tak mau dia...
+
+182
+00:08:33,596 --> 00:08:35,099
+Itu luar biasa, Ben.
+
+183
+00:08:35,183 --> 00:08:36,603
+Apa lagi yang kau ingat?
+
+184
+00:08:36,728 --> 00:08:37,855
+Addison!
+
+185
+00:08:41,405 --> 00:08:43,492
+- Tidak ada.
+- Baiklah.
+
+186
+00:08:43,576 --> 00:08:45,121
+- Kecuali... Astaga.
+- Ya?
+
+187
+00:08:45,204 --> 00:08:47,375
+David Tamura tewas
+di misi pertamanya.
+
+188
+00:08:47,460 --> 00:08:48,920
+- Misi ini.
+- Ya, kami tahu.
+
+189
+00:08:49,004 --> 00:08:50,758
+Ziggy bilang
+ada 92 persen kemungkinan...
+
+190
+00:08:50,841 --> 00:08:52,052
+Kau di sini untuk mencegah itu.
+
+191
+00:08:52,135 --> 00:08:53,179
+Baiklah. Bagaimana caranya?
+
+192
+00:08:53,264 --> 00:08:55,894
+NASA tak pernah mengumumkan
+penyebab kematiannya secara terbuka.
+
+193
+00:08:55,978 --> 00:08:59,109
+Jadi, kami sedang menunggu
+laporan misi rahasia.
+
+194
+00:08:59,234 --> 00:09:02,106
+Sampai saat itu,
+kita harus menjauhkanmu dari bahaya.
+
+195
+00:09:02,190 --> 00:09:04,478
+Baiklah. Menurutmu
+kenapa aku di kamar mandi?
+
+196
+00:09:04,561 --> 00:09:06,767
+Mereka berharap aku tahu banyak hal,
+dan ada jutaan tombol di luar sana.
+
+197
+00:09:06,850 --> 00:09:08,764
+- Jika kutekan tombol yang salah...
+- Ben.
+
+198
+00:09:08,931 --> 00:09:10,637
+Itu sebabnya aku di sini.
+
+199
+00:09:11,553 --> 00:09:12,676
+Aku akan membantumu.
+
+200
+00:09:15,132 --> 00:09:16,172
+Itu dia.
+
+201
+00:09:16,255 --> 00:09:18,169
+Hei, bisa mulai daftar pascamasuk...
+
+202
+00:09:18,253 --> 00:09:19,793
+Dan nyalakan lampu sorot PLB?
+
+203
+00:09:19,876 --> 00:09:21,582
+Tentu.
+
+204
+00:09:21,790 --> 00:09:22,872
+Ben.
+
+205
+00:09:26,202 --> 00:09:27,741
+Baiklah...
+
+206
+00:09:28,199 --> 00:09:30,239
+Tombol ketiga dari kiri,
+lalu yang di bawah.
+
+207
+00:09:30,321 --> 00:09:32,028
+Baiklah.
+
+208
+00:09:40,642 --> 00:09:42,681
+- Apa yang kulakukan?
+- Itu bukan kau.
+
+209
+00:09:42,764 --> 00:09:44,346
+Pintu muatan macet!
+
+210
+00:09:47,717 --> 00:09:50,269
+Tidak, jika muatan bergeser,
+itu bisa menghalangi...
+
+211
+00:10:28,671 --> 00:10:31,320
+Jawablah!
+Kalian baik-baik saja di sana?
+
+212
+00:10:31,403 --> 00:10:33,513
+<i>Sedikit terluka,
+tapi kami baik-baik saja.</i>
+
+213
+00:10:33,720 --> 00:10:35,417
+<i>Bagaimana dengan kalian berdua?</i>
+
+214
+00:10:37,817 --> 00:10:39,224
+Reynolds!
+
+215
+00:10:45,969 --> 00:10:47,128
+Kau baik-baik saja?
+
+216
+00:10:47,211 --> 00:10:48,411
+Ya.
+
+217
+00:10:48,493 --> 00:10:50,770
+{\an5}Candice membuatku berjanji
+untuk menjaganya di sini.
+
+218
+00:10:50,853 --> 00:10:52,342
+- Candice?
+- Istrinya.
+
+219
+00:10:52,426 --> 00:10:55,156
+Benar, Candice.
+Ya, aku suka Candice.
+
+220
+00:10:55,322 --> 00:10:57,515
+Candice tak ingin dia pergi lagi...
+
+221
+00:10:57,598 --> 00:10:58,840
+Tapi dia ingin berada
+di sini untukku.
+
+222
+00:10:59,833 --> 00:11:01,381
+Penerbangan pertamaku
+dan penerbangan terakhirnya.
+
+223
+00:11:01,464 --> 00:11:02,719
+Dia akan baik-baik saja.
+
+224
+00:11:02,803 --> 00:11:06,067
+Dia memilihku dari ribuan pelamar.
+
+225
+00:11:06,777 --> 00:11:10,375
+Berlatih denganku hari demi hari
+selama hampir satu dekade.
+
+226
+00:11:11,044 --> 00:11:13,931
+{\an5}Sepuluh tahun dia memberitahuku,
+"Sudah kubilang."
+
+227
+00:11:14,015 --> 00:11:15,562
+- "Sudah kubilang."
+- "Sudah kubilang"?
+
+228
+00:11:16,023 --> 00:11:19,077
+Kau pernah mendengarnya.
+Setiap kali dia benar dan aku salah.
+
+229
+00:11:19,160 --> 00:11:21,377
+Sangat menyebalkan
+bahwa sebagian besar waktu...
+
+230
+00:11:21,462 --> 00:11:24,432
+Dia selalu mengatakan,
+"Sudah kubilang."
+
+231
+00:11:25,310 --> 00:11:26,523
+Awalnya sangat menjengkelkan...
+
+232
+00:11:26,607 --> 00:11:28,531
+Tapi sekarang...
+
+233
+00:11:29,410 --> 00:11:31,125
+Saat kita benar-benar butuhkannya...
+
+234
+00:11:33,300 --> 00:11:35,016
+Kami seharusnya
+melakukan ini bersama.
+
+235
+00:11:37,191 --> 00:11:38,279
+Dia stabil.
+
+236
+00:11:38,362 --> 00:11:40,412
+Gegar otak yang cukup parah
+dan luka yang serius di kepalanya...
+
+237
+00:11:40,496 --> 00:11:42,797
+Tapi kurasa itu yang terburuk.
+
+238
+00:11:43,550 --> 00:11:44,972
+Max, kau benar.
+
+239
+00:11:45,056 --> 00:11:47,985
+{\an5}Entah bagaimana, muatan bergeser,
+dan saat menyentuh pintu...
+
+240
+00:11:48,068 --> 00:11:50,536
+Itu memicu pendorong
+untuk melepaskan modul ISS.
+
+241
+00:11:50,620 --> 00:11:52,754
+- Seberapa parah keadaannya?
+- Bisa lebih baik.
+
+242
+00:11:52,920 --> 00:11:54,553
+Ledakan itu memecahkan
+tangki oksigen kita.
+
+243
+00:11:54,636 --> 00:11:55,682
+Aku sudah beralih ke cadangan...
+
+244
+00:11:55,765 --> 00:11:56,811
+Tapi itu berarti...
+
+245
+00:11:56,895 --> 00:11:58,025
+Oksigen kita hanya tersisa
+untuk enam jam.
+
+246
+00:11:58,108 --> 00:12:00,027
+{\an5}- Enam jam? Itu tak terdengar...
+- Kita akan baik-baik saja.
+
+247
+00:12:00,111 --> 00:12:01,487
+Aku hanya perlu bicara
+dengan Houston...
+
+248
+00:12:01,570 --> 00:12:02,947
+Dan memikirkan
+langkah kita selanjutnya.
+
+249
+00:12:03,030 --> 00:12:04,949
+Max, aku butuh bantuanmu
+di dek penerbangan.
+
+250
+00:12:05,033 --> 00:12:06,242
+Baiklah.
+
+251
+00:12:07,118 --> 00:12:08,704
+Apa aku tak bisa melompat sekarang?
+
+252
+00:12:08,788 --> 00:12:11,707
+Belum bisa.
+Ziggy bilang tak ada yang berubah.
+
+253
+00:12:11,790 --> 00:12:13,042
+Tapi aku selamat dari ledakan.
+
+254
+00:12:13,126 --> 00:12:14,669
+Kau tak bisa
+mengendalikan lompatannya, Ben.
+
+255
+00:12:15,127 --> 00:12:16,963
+Jadi, jika bukan ini cara dia mati...
+
+256
+00:12:17,047 --> 00:12:18,631
+Apa sesuatu yang lebih buruk
+akan terjadi di sini?
+
+257
+00:12:19,216 --> 00:12:21,385
+Kita harus mencari tahu
+bagaimana David mati sekarang.
+
+258
+00:12:32,273 --> 00:12:33,641
+Magic!
+
+259
+00:12:33,724 --> 00:12:36,586
+{\an5}- Halo, Beth.
+- Ini kejutan yang menyenangkan.
+
+260
+00:12:38,577 --> 00:12:41,024
+- Apa kabar?
+- Baik.
+
+261
+00:12:41,564 --> 00:12:44,177
+Maaf aku belum datang
+sejak pemakaman Al.
+
+262
+00:12:44,260 --> 00:12:47,080
+{\an5}- Sudah lama ingin datang, tapi...
+- Jangan minta maaf.
+
+263
+00:12:47,163 --> 00:12:48,532
+Aku tahu betapa sibuknya kau.
+
+264
+00:12:49,361 --> 00:12:51,560
+Jadi, ada perlu apa kemari?
+
+265
+00:12:52,224 --> 00:12:54,380
+Aku perlu bicara dengan Janis.
+
+266
+00:12:55,832 --> 00:12:57,076
+Dia dalam masalah.
+
+267
+00:12:57,160 --> 00:12:59,357
+Aku harus menemukannya,
+dan kupikir kau bisa membantuku.
+
+268
+00:12:59,648 --> 00:13:02,331
+- Masalah apa?
+- Masalah yang tak bisa kuceritakan.
+
+269
+00:13:04,973 --> 00:13:07,908
+Sebenarnya, aku belum melihatnya
+lebih dari setahun.
+
+270
+00:13:08,033 --> 00:13:09,753
+Setelah Al meninggal,
+dia menarik diri.
+
+271
+00:13:09,837 --> 00:13:11,010
+Dariku, teman-temannya, hidupnya.
+
+272
+00:13:11,095 --> 00:13:13,904
+Kucoba mencari cara untuk membantu,
+tapi itu hanya membuatnya makin jauh.
+
+273
+00:13:13,988 --> 00:13:16,461
+Aku turut prihatin.
+Aku punya seorang putri.
+
+274
+00:13:16,546 --> 00:13:20,277
+Aku tahu betapa sulitnya berusaha
+menyayangi sekaligus melindungi.
+
+275
+00:13:20,361 --> 00:13:22,625
+Tapi ini serius.
+
+276
+00:13:22,960 --> 00:13:24,386
+Magic.
+
+277
+00:13:24,596 --> 00:13:26,860
+Apa ada masalah dengan proyeknya?
+
+278
+00:13:27,405 --> 00:13:29,124
+Kau bisa memberitahuku.
+
+279
+00:13:31,850 --> 00:13:33,821
+Senang bertemu denganmu, Beth.
+
+280
+00:13:34,030 --> 00:13:36,658
+Jika ada kabar dari Janis,
+kabari aku.
+
+281
+00:13:44,998 --> 00:13:46,589
+- Hei, bagaimana?
+<i>- Baik.</i>
+
+282
+00:13:46,672 --> 00:13:49,267
+- Semua baik-baik saja?
+<i>- Pastikan kita siap.</i>
+
+283
+00:13:49,350 --> 00:13:51,955
+<i>Jika aku benar, ini bisa
+menjadi kesempatan terbaik kita.</i>
+
+284
+00:14:12,547 --> 00:14:13,963
+Bagaimana?
+
+285
+00:14:16,462 --> 00:14:19,586
+Kita baru saja mendapat banyak berkas
+dari NASA...
+
+286
+00:14:19,670 --> 00:14:22,251
+Jadi, ada kemajuan sedikit.
+
+287
+00:14:22,377 --> 00:14:23,542
+Tadi Alex ke sini?
+
+288
+00:14:27,916 --> 00:14:30,415
+Ya. Dia hanya membantuku...
+
+289
+00:14:30,498 --> 00:14:33,747
+Menerapkan perangkat lunak rumit
+ke antarmuka Ziggy yang baru.
+
+290
+00:14:34,538 --> 00:14:36,454
+Aku tak tahu Alex ada
+di tim perangkat lunakmu.
+
+291
+00:14:37,413 --> 00:14:40,245
+Bukankah dia membantu kembangkan
+program enkripsi PTP kita?
+
+292
+00:14:40,328 --> 00:14:42,452
+Ya.
+
+293
+00:14:43,494 --> 00:14:46,576
+Kau tahu hal terburuk
+tentang Ben tak ada di sini sekarang?
+
+294
+00:14:47,492 --> 00:14:49,949
+Dia pria yang menyatukan kita semua.
+
+295
+00:14:50,033 --> 00:14:51,741
+Kau tahu, saat Magic dan aku
+terlalu khawatir...
+
+296
+00:14:51,824 --> 00:14:53,365
+Tentang kerahasiaan dan keamanan...
+
+297
+00:14:53,448 --> 00:14:56,364
+Dan Addison terbebani
+dengan detail operasional...
+
+298
+00:14:56,447 --> 00:14:57,863
+Atau kau sibuk...
+
+299
+00:14:57,946 --> 00:15:00,278
+Mengejar kode
+yang pada akhirnya tak penting.
+
+300
+00:15:00,987 --> 00:15:03,358
+Ben selalu memiliki kemampuan ajaib
+untuk menyatukan kita semua...
+
+301
+00:15:03,442 --> 00:15:05,314
+Lalu membuat kita
+menuju ke arah yang sama.
+
+302
+00:15:06,521 --> 00:15:09,059
+Kita semua,
+bekerja menuju tujuan yang sama...
+
+303
+00:15:09,351 --> 00:15:11,057
+- Bersama.
+- Jenn, dengar, aku...
+
+304
+00:15:11,140 --> 00:15:13,096
+Aku benci melihat Magic
+dan Addison bertengkar.
+
+305
+00:15:13,179 --> 00:15:14,761
+Ben tak di sini
+untuk memuluskan keadaan...
+
+306
+00:15:14,843 --> 00:15:15,884
+Jadi, tergantung pada kita...
+
+307
+00:15:15,967 --> 00:15:18,506
+Kau dan aku,
+untuk mencegah ini hancur.
+
+308
+00:15:18,713 --> 00:15:21,169
+Aku tak menyuruhmu
+menyerahkan diska itu sekarang...
+
+309
+00:15:21,251 --> 00:15:23,831
+Tapi mungkin orang yang berikan itu
+kepadamu harus melakukannya.
+
+310
+00:15:24,914 --> 00:15:26,620
+Bicaralah dengannya.
+
+311
+00:15:31,405 --> 00:15:33,652
+- Ini.
+- Terima kasih.
+
+312
+00:15:36,149 --> 00:15:37,439
+Akhirnya.
+
+313
+00:15:38,937 --> 00:15:42,099
+Kau tahu, menyebutkan David
+memicu kenangan dari masa kecilku.
+
+314
+00:15:42,183 --> 00:15:43,223
+Bukankah seharusnya
+kau lebih sering melakukan itu?
+
+315
+00:15:43,306 --> 00:15:45,428
+Seperti memakai perangkat genggammu
+untuk menunjukkan sesuatu?
+
+316
+00:15:45,512 --> 00:15:46,843
+Menunjukkan rangsangan
+dari hidupku...
+
+317
+00:15:46,927 --> 00:15:48,758
+Yang mungkin
+memicu lebih banyak ingatan?
+
+318
+00:15:50,755 --> 00:15:52,877
+Mereka tak ingin aku melakukannya.
+
+319
+00:15:53,751 --> 00:15:55,041
+Mereka...
+
+320
+00:15:58,827 --> 00:16:01,854
+Kalau-kalau aku melakukan ini
+untuk alasan yang salah...
+
+321
+00:16:02,185 --> 00:16:03,802
+Dan punya rencana jahat yang besar.
+
+322
+00:16:04,382 --> 00:16:06,786
+Andai kau yang berada di sini.
+
+323
+00:16:06,869 --> 00:16:09,273
+Kau selalu jauh lebih baik
+dalam berurusan dengan politik.
+
+324
+00:16:09,356 --> 00:16:11,055
+Percayalah, kuharap begitu.
+
+325
+00:16:11,138 --> 00:16:12,216
+Tapi antara kita berdua...
+
+326
+00:16:12,299 --> 00:16:14,702
+Kurasa kita berdua tahu siapa
+yang lebih cocok menjadi astronaut.
+
+327
+00:16:14,786 --> 00:16:16,859
+Ayolah. Kau melakukannya...
+
+328
+00:16:17,895 --> 00:16:19,180
+- Lebih baik dari yang diharapkan.
+- Terima kasih.
+
+329
+00:16:19,263 --> 00:16:20,506
+Ya.
+
+330
+00:16:22,579 --> 00:16:24,527
+Sebenarnya, aku mengerti.
+
+331
+00:16:25,066 --> 00:16:26,185
+Mengerti apa?
+
+332
+00:16:26,475 --> 00:16:28,258
+Merahasiakan segalanya dariku
+sampai mereka tahu...
+
+333
+00:16:28,340 --> 00:16:29,750
+Kenapa aku melompat.
+
+334
+00:16:29,832 --> 00:16:31,905
+Aku membencinya,
+tapi jika aku di pihak itu...
+
+335
+00:16:31,988 --> 00:16:34,310
+Aku mungkin akan membuat
+keputusan yang sama.
+
+336
+00:16:35,096 --> 00:16:37,253
+Ya, kau akan melakukannya, 'kan?
+
+337
+00:16:37,791 --> 00:16:38,993
+Karena kita tak bisa berbicara
+tentang aku...
+
+338
+00:16:39,076 --> 00:16:40,402
+Bisakah kita berbicara tentang kau?
+
+339
+00:16:43,304 --> 00:16:45,336
+Siapa pria yang beruntung itu?
+
+340
+00:16:45,998 --> 00:16:47,325
+Aku mengenalnya?
+
+341
+00:16:49,688 --> 00:16:51,428
+Kau takkan mengingatnya.
+
+342
+00:16:51,884 --> 00:16:54,371
+Benar juga. Kapan hari besarnya?
+
+343
+00:16:55,283 --> 00:16:56,775
+Enam bulan lagi.
+
+344
+00:16:57,190 --> 00:16:59,048
+Kuharap aku sudah kembali saat itu.
+
+345
+00:17:00,653 --> 00:17:02,172
+Sebaiknya begitu.
+
+346
+00:17:05,381 --> 00:17:08,337
+Bagus. Kami dapat
+laporan misi rahasia dari NASA.
+
+347
+00:17:08,421 --> 00:17:09,519
+Baiklah.
+
+348
+00:17:10,026 --> 00:17:11,292
+Bagaimana David meninggal?
+
+349
+00:17:11,798 --> 00:17:13,446
+Saat sedang berjalan di luar angkasa.
+
+350
+00:17:13,530 --> 00:17:15,429
+Dia terhantam puing-puing.
+
+351
+00:17:15,514 --> 00:17:16,991
+Baiklah, ini mudah.
+
+352
+00:17:17,076 --> 00:17:19,568
+Selama aku tak meninggalkan pesawat,
+maka aku bisa melompat, 'kan?
+
+353
+00:17:20,707 --> 00:17:22,396
+<i>David, bisa ke sini?</i>
+
+354
+00:17:23,832 --> 00:17:25,816
+Ledakannya merusak
+komunikasi jarak jauh.
+
+355
+00:17:25,900 --> 00:17:28,475
+- Kita tak bisa menghubungi Houston.
+- Baiklah.
+
+356
+00:17:28,561 --> 00:17:30,039
+Karena Reynolds pingsan,
+maka aku yang memimpin...
+
+357
+00:17:30,123 --> 00:17:31,896
+Dan aku memutuskan
+untuk kembali ke Kennedy...
+
+358
+00:17:31,981 --> 00:17:34,218
+- Selagi masih ada kesempatan.
+- Ya. Aku suka rencana ini.
+
+359
+00:17:34,303 --> 00:17:36,878
+Masalahnya, kita tak bisa mendarat
+sampai pintu muatan ditutup.
+
+360
+00:17:37,004 --> 00:17:38,905
+Benar. Ya, aku tahu itu.
+
+361
+00:17:38,989 --> 00:17:40,045
+Namun, untuk melakukan itu...
+
+362
+00:17:40,129 --> 00:17:42,029
+Kita harus melepas
+modul ISS yang rusak itu.
+
+363
+00:17:42,113 --> 00:17:44,013
+Ledakan itu merusak
+kemampuan kendali jarak jauh kita.
+
+364
+00:17:44,098 --> 00:17:46,209
+Dan Canadarm rusak dan tak responsif.
+
+365
+00:17:46,293 --> 00:17:48,066
+Jadi, kami ingin kau keluar...
+
+366
+00:17:48,151 --> 00:17:49,756
+Dan menggunakan tuas pelepas manual.
+
+367
+00:17:50,810 --> 00:17:52,499
+- Kau ingin aku...
+- Bersiaplah.
+
+368
+00:17:52,584 --> 00:17:54,611
+Kami ingin kau berjalan
+di luar angkasa karena sebab darurat.
+
+369
+00:18:00,775 --> 00:18:03,203
+Baik, menurut catatan,
+David tertimpa puing-puing...
+
+370
+00:18:03,285 --> 00:18:04,931
+Pada pukul 21.54 UTC.
+
+371
+00:18:05,014 --> 00:18:06,413
+Itu berarti kau punya waktu 90 menit.
+
+372
+00:18:06,495 --> 00:18:09,128
+Jika kau bisa ke luar sana,
+melepas modul ISS...
+
+373
+00:18:09,211 --> 00:18:11,227
+Lalu masuk kembali,
+kau akan baik-baik saja.
+
+374
+00:18:11,309 --> 00:18:13,614
+Mari pakai helm itu
+dan mulai tes tekanan.
+
+375
+00:18:13,697 --> 00:18:14,972
+Berapa lama tesnya?
+
+376
+00:18:15,178 --> 00:18:16,906
+Entahlah, 20 menit?
+
+377
+00:18:17,606 --> 00:18:19,580
+Aku baik-baik saja.
+Kita tak butuh tes itu.
+
+378
+00:18:19,663 --> 00:18:20,692
+Aku tak mau.
+
+379
+00:18:20,774 --> 00:18:22,462
+Maaf, David, kita harus ikuti aturan.
+
+380
+00:18:22,955 --> 00:18:25,013
+Benarkah? Oksigen kita
+hanya cukup untuk enam jam.
+
+381
+00:18:25,095 --> 00:18:27,728
+Aku mengerti kita harus berhati-hati,
+tapi aku harus keluar sekarang.
+
+382
+00:18:31,226 --> 00:18:32,872
+Reynolds pasti akan memeriksanya.
+
+383
+00:18:36,946 --> 00:18:38,469
+Tidak, David benar.
+
+384
+00:18:38,551 --> 00:18:40,197
+Pada akhirnya,
+detik-detik akan berarti.
+
+385
+00:18:40,280 --> 00:18:42,254
+Dia takkan lama di luar sana.
+Bawa dia ke kabin kedap udara.
+
+386
+00:18:43,036 --> 00:18:44,312
+Terima kasih.
+
+387
+00:18:44,724 --> 00:18:45,999
+Bagus.
+
+388
+00:18:51,061 --> 00:18:53,077
+Kau tahu apa yang akan
+dikatakan Reynolds sekarang?
+
+389
+00:18:54,188 --> 00:18:55,381
+Ingatkan aku.
+
+390
+00:18:55,916 --> 00:18:58,673
+Dia akan memandang kita
+dengan serius...
+
+391
+00:18:58,920 --> 00:19:00,412
+Lalu mendekat dan berkata...
+
+392
+00:19:00,494 --> 00:19:02,855
+"Kau telah berlatih
+untuk setiap kemungkinan...
+
+393
+00:19:02,937 --> 00:19:04,552
+Kecuali untuk yang akan kau hadapi.
+
+394
+00:19:04,676 --> 00:19:06,292
+Saat kau benar-benar di sini...
+
+395
+00:19:06,375 --> 00:19:08,570
+Yang penting bukanlah mengikuti
+diagram alir dan daftar periksa...
+
+396
+00:19:08,652 --> 00:19:10,474
+Tapi memercayai instingmu.
+
+397
+00:19:11,468 --> 00:19:15,029
+Selalu fleksibel, tetap terbuka,
+tetap aman."
+
+398
+00:19:17,349 --> 00:19:18,550
+Pria yang pintar.
+
+399
+00:19:19,253 --> 00:19:22,360
+Ya, ada saatnya dia seperti itu.
+
+400
+00:19:23,727 --> 00:19:24,895
+Ayo keluar.
+
+401
+00:19:55,455 --> 00:19:56,707
+Ini...
+
+402
+00:19:58,627 --> 00:20:03,135
+Aku tak tahu kita bisa ketakutan
+sekaligus kagum.
+
+403
+00:20:04,053 --> 00:20:05,347
+Ini gila.
+
+404
+00:20:07,267 --> 00:20:10,606
+Aku tahu
+aku tak benar-benar di sini...
+
+405
+00:20:11,900 --> 00:20:13,403
+Tapi ini...
+
+406
+00:20:14,864 --> 00:20:16,367
+Ini luar biasa.
+
+407
+00:20:17,536 --> 00:20:20,332
+Bisakah kita fokus?
+Aku agak terburu-buru.
+
+408
+00:20:20,540 --> 00:20:21,959
+Ya, benar.
+
+409
+00:20:23,337 --> 00:20:24,464
+Buka panel itu.
+
+410
+00:20:25,132 --> 00:20:26,468
+Terima kasih.
+
+411
+00:20:28,304 --> 00:20:30,892
+Hei. Aku baru saja
+memeriksa siarannya.
+
+412
+00:20:30,976 --> 00:20:33,814
+Ben mulai mengingat banyak hal
+dan Addison mendorongnya.
+
+413
+00:20:33,897 --> 00:20:36,235
+- Aku tahu. Aku menyuruhnya berhenti.
+- Tapi dia tak berhenti.
+
+414
+00:20:36,986 --> 00:20:38,155
+Kau seharusnya
+memutuskan koneksinya...
+
+415
+00:20:38,238 --> 00:20:39,657
+Dan mengeluarkannya
+dari Ruang Pencitraan.
+
+416
+00:20:39,741 --> 00:20:41,369
+Kurasa itu takkan berjalan lancar.
+
+417
+00:20:41,452 --> 00:20:43,748
+Dengar,
+aku tak menciptakan situasi ini.
+
+418
+00:20:43,832 --> 00:20:45,042
+Dia juga tidak.
+
+419
+00:20:47,713 --> 00:20:49,759
+- Ada apa?
+- Rencanamu berhasil.
+
+420
+00:20:49,843 --> 00:20:51,553
+Dua puluh menit
+usai kau meninggalkan rumah Beth...
+
+421
+00:20:51,637 --> 00:20:52,764
+Dia menelepon Janis.
+
+422
+00:20:52,847 --> 00:20:55,728
+Jadi, kini kita punya ponsel
+dan alamat Janis.
+
+423
+00:20:55,811 --> 00:20:57,648
+Kita dapat alamat Janis? Di mana dia?
+
+424
+00:20:57,731 --> 00:20:59,400
+Rumah kecil di Pasadena.
+Ponselnya masih di sana.
+
+425
+00:20:59,484 --> 00:21:00,569
+Ayo berangkat.
+
+426
+00:21:05,829 --> 00:21:08,126
+Bagus. Kini tarik kedua tuas itu.
+
+427
+00:21:08,209 --> 00:21:09,796
+Bagaimana waktunya?
+
+428
+00:21:09,879 --> 00:21:12,218
+Masih ada sepuluh menit,
+dan kita hampir...
+
+429
+00:21:13,637 --> 00:21:15,224
+Beri tahu kalau kau siap
+untuk melepaskan.
+
+430
+00:21:15,558 --> 00:21:18,064
+Stratton, aku siap melepaskannya.
+
+431
+00:21:18,482 --> 00:21:21,154
+Bagus, David. Kami sudah siap.
+
+432
+00:21:21,237 --> 00:21:22,741
+Mulai pelepasan.
+
+433
+00:21:23,033 --> 00:21:25,497
+Baiklah. Pindahkan tombol merah itu.
+
+434
+00:21:27,459 --> 00:21:29,130
+Mari kita coba.
+
+435
+00:21:35,269 --> 00:21:36,730
+<i>Kerja bagus, David.</i>
+
+436
+00:21:36,814 --> 00:21:39,569
+<i>Masuklah, kita akan menutup
+pintu ruang muatan ini.</i>
+
+437
+00:21:39,653 --> 00:21:41,239
+Kukira kau takkan mengatakannya.
+
+438
+00:21:43,913 --> 00:21:46,126
+Ben. Puingnya datang lebih awal.
+
+439
+00:21:46,209 --> 00:21:48,422
+- Apa?
+- Catatannya pasti kurang akurat.
+
+440
+00:21:48,506 --> 00:21:51,095
+- Kurang akurat?
+- Kau harus menunduk, sekarang!
+
+441
+00:21:59,405 --> 00:22:00,665
+<i>Jawablah.</i>
+
+442
+00:22:01,001 --> 00:22:02,344
+Kau baik-baik saja?
+
+443
+00:22:03,185 --> 00:22:06,544
+Ya. Aku baru saja menghindari
+puing luar angkasa.
+
+444
+00:22:06,628 --> 00:22:09,274
+Aku hampir kena,
+tapi aku baik-baik saja.
+
+445
+00:22:09,442 --> 00:22:11,415
+Kau masih hidup! Luar biasa!
+
+446
+00:22:11,751 --> 00:22:13,053
+Sekarang aku bisa melompat.
+
+447
+00:22:13,935 --> 00:22:15,572
+Kau tak mengendalikan
+lompatannya, Ben.
+
+448
+00:22:15,657 --> 00:22:17,840
+Ya, tentu, baiklah.
+Aku bisa menenangkan pikiranku.
+
+449
+00:22:17,924 --> 00:22:21,661
+Tapi David masih hidup,
+aku menghindari puing-puingnya...
+
+450
+00:22:21,746 --> 00:22:24,098
+- Kita baik-baik saja, 'kan?
+- Baiklah.
+
+451
+00:22:25,652 --> 00:22:27,751
+Tidak...
+
+452
+00:22:27,835 --> 00:22:29,431
+- Itu tak mungkin benar!
+- Ada apa?
+
+453
+00:22:29,515 --> 00:22:31,867
+Ben, di sini tertulis
+karena puingnya tak mengenaimu...
+
+454
+00:22:31,950 --> 00:22:33,756
+Itu merusak
+beberapa penutup pelindung panas.
+
+455
+00:22:33,841 --> 00:22:34,932
+Lalu kenapa? Itu hanya...
+
+456
+00:22:35,016 --> 00:22:37,536
+Tidak, saat pesawat mencapai atmosfer
+saat kembali ke Bumi...
+
+457
+00:22:37,620 --> 00:22:38,837
+Pelindung panasnya mati.
+
+458
+00:22:38,922 --> 00:22:40,239
+Ziggy bilang
+ada peluang 100 persen...
+
+459
+00:22:40,321 --> 00:22:42,379
+Seluruh tim akan mati sekarang.
+
+460
+00:22:52,752 --> 00:22:54,892
+Tampak sepi. Apa Janis masih di sana?
+
+461
+00:22:54,974 --> 00:22:57,239
+Aku ingin coba mengetuk,
+dan melihat apa dia di rumah.
+
+462
+00:22:58,227 --> 00:23:01,684
+Hei, kau harus lebih lembut
+dengan Addison.
+
+463
+00:23:02,877 --> 00:23:04,113
+Menurutmu dia benar?
+
+464
+00:23:04,195 --> 00:23:05,965
+Bahwa kita harus
+mencoba membuat Ben ingat?
+
+465
+00:23:06,047 --> 00:23:09,381
+Tidak, tapi dia merasa tak bisa
+mengendalikan diri saat ini...
+
+466
+00:23:09,464 --> 00:23:10,575
+Dan kita tak membantu.
+
+467
+00:23:10,657 --> 00:23:12,016
+Apa maksudmu?
+
+468
+00:23:12,633 --> 00:23:14,773
+Dia tak memilih
+untuk menjadi hologram.
+
+469
+00:23:14,855 --> 00:23:16,296
+Dia tak memilih untuk tunangannya...
+
+470
+00:23:16,378 --> 00:23:18,148
+Melompat kembali ke masa lalu
+tanpa memberitahunya...
+
+471
+00:23:18,231 --> 00:23:20,083
+Dia tak memilih untuk berada
+di tengah skandal...
+
+472
+00:23:20,166 --> 00:23:22,265
+Yang bisa mengubah masa lalu
+dengan cara yang tak terbayangkan.
+
+473
+00:23:23,047 --> 00:23:24,570
+Itu sulit dihadapi.
+
+474
+00:23:26,834 --> 00:23:30,003
+Aku tahu ini proyek militer,
+tapi kita tim, Magic.
+
+475
+00:23:30,580 --> 00:23:32,185
+Seharusnya begitu.
+
+476
+00:23:32,638 --> 00:23:34,531
+Jadi, jangan terlalu keras padanya.
+
+477
+00:23:34,942 --> 00:23:36,466
+Mulailah melibatkannya
+dalam pengambilan keputusan...
+
+478
+00:23:36,548 --> 00:23:38,647
+Alih-alih membiarkannya menjadi orang
+yang menindaklanjuti.
+
+479
+00:23:41,117 --> 00:23:42,393
+Apa?
+
+480
+00:23:42,845 --> 00:23:44,987
+Kau yakin Ben tak melompat
+ke dalam tubuhmu?
+
+481
+00:23:46,468 --> 00:23:48,787
+Itu mungkin hal terbaik
+yang pernah kau katakan kepadaku.
+
+482
+00:24:06,096 --> 00:24:07,557
+Semua baik-baik saja?
+
+483
+00:24:07,641 --> 00:24:08,726
+Tidak juga...
+
+484
+00:24:08,810 --> 00:24:10,731
+Tapi mereka sedang mengeluarkannya
+dari pakaian luar angkasa.
+
+485
+00:24:10,814 --> 00:24:12,777
+Jadi, dia baik-baik saja
+untuk sementara.
+
+486
+00:24:14,406 --> 00:24:16,411
+Bagaimana dengan diska itu?
+
+487
+00:24:16,494 --> 00:24:19,668
+Enkripsinya tingkat tinggi.
+
+488
+00:24:19,751 --> 00:24:22,299
+Butuh akses
+semua kekuatan komputasi...
+
+489
+00:24:22,383 --> 00:24:24,136
+Di gedung ini untuk membukanya...
+
+490
+00:24:24,219 --> 00:24:26,767
+Dan itu sesuatu yang tak bisa
+kita lakukan diam-diam.
+
+491
+00:24:26,851 --> 00:24:28,521
+Dengar, pasti ada cara.
+
+492
+00:24:28,604 --> 00:24:30,818
+Sebenarnya ada.
+
+493
+00:24:30,902 --> 00:24:33,282
+Ini disebut
+meminta bantuan teman-teman kita.
+
+494
+00:24:34,660 --> 00:24:38,084
+Dengar, kurasa kau
+bukan merahasiakan diska lepas itu...
+
+495
+00:24:38,167 --> 00:24:40,381
+Karena tak memercayai Magic dan Jenn.
+
+496
+00:24:40,465 --> 00:24:42,803
+Kurasa Ben-lah yang kau khawatirkan.
+
+497
+00:24:43,388 --> 00:24:46,144
+Mungkin di diska lepas ini
+ada bukti kesalahan...
+
+498
+00:24:46,228 --> 00:24:48,316
+Dan itu menakutkan untuk dipikirkan.
+
+499
+00:24:51,699 --> 00:24:53,076
+Aku akan kembali masuk.
+
+500
+00:24:55,540 --> 00:24:58,338
+Pelindung itu selalu rusak.
+Tidak apa-apa.
+
+501
+00:24:58,422 --> 00:24:59,675
+Tidak, Ben. Mereka tak tahu ini...
+
+502
+00:24:59,758 --> 00:25:01,763
+Tapi pesawat ulang alik
+dengan kerusakan puing seperti ini...
+
+503
+00:25:01,846 --> 00:25:04,352
+Hancur saat kembali ke Bumi
+pada tahun 2003.
+
+504
+00:25:04,894 --> 00:25:06,399
+Itu kerusakan besar.
+
+505
+00:25:06,482 --> 00:25:08,823
+Kita tak bisa mencoba kembali ke Bumi
+tanpa memperbaikinya dahulu.
+
+506
+00:25:08,906 --> 00:25:11,121
+Oksigen kita hanya tersisa
+untuk 4,5 jam lagi...
+
+507
+00:25:11,205 --> 00:25:13,629
+Dan tinggal 20 menit lagi
+untuk ambil posisi...
+
+508
+00:25:13,712 --> 00:25:15,050
+Atau kita akan kehilangan kesempatan
+untuk pergi ke Kennedy.
+
+509
+00:25:15,133 --> 00:25:18,100
+Jadi, kita bisa coba kembali ke Bumi
+sekarang dan berharap yang terbaik...
+
+510
+00:25:18,184 --> 00:25:20,733
+Atau berdebat tentang pelindung
+sampai mati lemas di sini.
+
+511
+00:25:20,816 --> 00:25:21,944
+Ada pilihan lain.
+
+512
+00:25:23,449 --> 00:25:25,539
+- MIR.
+- Stasiun Rusia?
+
+513
+00:25:26,374 --> 00:25:28,757
+Stasiun luar angkasa mereka
+seharusnya punya banyak oksigen.
+
+514
+00:25:28,840 --> 00:25:30,846
+Kita isi tangki oksigen,
+perbaiki pelindung, dan pulang.
+
+515
+00:25:30,930 --> 00:25:33,145
+Itu gila karena banyak alasan.
+
+516
+00:25:33,228 --> 00:25:35,944
+Tidak. Ziggy bilang
+ada peluang 87 persen...
+
+517
+00:25:36,028 --> 00:25:38,327
+Bahwa kalian semua akan selamat
+jika pergi ke MIR sekarang.
+
+518
+00:25:38,410 --> 00:25:40,792
+- Aku memilih MIR.
+- Sama sekali tidak.
+
+519
+00:25:41,043 --> 00:25:43,133
+Kita harus mencoba keluar
+dari orbit selagi bisa.
+
+520
+00:25:43,216 --> 00:25:45,597
+Ini bukan demokrasi. Kita
+kehilangan kontak dengan Houston.
+
+521
+00:25:45,682 --> 00:25:47,771
+Aku komandan pengganti,
+aku yang memutuskan.
+
+522
+00:25:47,855 --> 00:25:50,112
+- Kita akan pergi ke MIR.
+- Tidak akan.
+
+523
+00:25:50,278 --> 00:25:51,448
+Reynolds, kau baik-baik saja?
+
+524
+00:25:51,533 --> 00:25:54,039
+Tidak, tapi kau hendak membunuh
+kita semua di sini.
+
+525
+00:25:54,124 --> 00:25:55,962
+Dengar, banyak yang terjadi
+sejak kau...
+
+526
+00:25:56,046 --> 00:25:57,091
+Aku bisa mengatasinya.
+
+527
+00:25:57,174 --> 00:26:00,475
+Kita takkan meminta
+bantuan stasiun Rusia.
+
+528
+00:26:00,559 --> 00:26:03,059
+Kau tahu betapa memalukannya itu
+bagi program ini?
+
+529
+00:26:03,143 --> 00:26:05,643
+Kurasa kehilangan pesawat
+saat kembali ke Bumi itu lebih buruk.
+
+530
+00:26:05,727 --> 00:26:07,519
+Kita akan pulang.
+
+531
+00:26:12,937 --> 00:26:14,395
+Kopinya masih hangat.
+
+532
+00:26:16,563 --> 00:26:19,229
+Sepertinya dia cukup pintar
+untuk tinggalkan ponselnya dan pergi.
+
+533
+00:26:19,312 --> 00:26:20,813
+Risiko yang harus kita ambil.
+
+534
+00:26:21,229 --> 00:26:22,313
+Mungkin dia meninggalkan sesuatu...
+
+535
+00:26:22,396 --> 00:26:24,438
+Yang bisa memberi tahu kita
+apa yang dia dan Ben rencanakan.
+
+536
+00:26:24,563 --> 00:26:26,481
+Tidak ada yang aneh...
+
+537
+00:26:26,689 --> 00:26:28,898
+Kecuali kecintaan yang tak wajar
+terhadap Pottery Barn.
+
+538
+00:26:32,982 --> 00:26:34,084
+Bantu aku.
+
+539
+00:26:50,870 --> 00:26:53,012
+Sepuluh menit
+sampai kesempatan kita hilang.
+
+540
+00:26:53,601 --> 00:26:56,374
+Aku tahu kau gugup, tapi Max dan aku
+pernah ke luar angkasa.
+
+541
+00:26:56,794 --> 00:26:59,063
+Pesawatnya mungkin lebih rusak
+dari yang bisa kau terima...
+
+542
+00:26:59,148 --> 00:27:01,542
+- Tapi itu dirancang untuk bertahan.
+- Kerusakan pelindungnya parah.
+
+543
+00:27:01,627 --> 00:27:04,147
+Seperti katamu,
+"Ini bukan demokrasi."
+
+544
+00:27:04,526 --> 00:27:06,669
+Dengar, kita akan baik-baik saja.
+
+545
+00:27:06,753 --> 00:27:08,266
+Apa yang akan kukatakan kepadamu
+saat ini berakhir?
+
+546
+00:27:08,350 --> 00:27:10,240
+Ini bukan saatnya untuk bilang,
+"Sudah kubilang"!
+
+547
+00:27:10,703 --> 00:27:13,098
+Pelindungnya rusak parah,
+tangki oksigen bocor...
+
+548
+00:27:13,182 --> 00:27:14,989
+Canadarm tak berfungsi...
+
+549
+00:27:15,073 --> 00:27:16,922
+Dan itu baru masalah
+yang kita sadari.
+
+550
+00:27:17,005 --> 00:27:19,149
+Cara yang paling aman
+adalah pergi MIR.
+
+551
+00:27:19,233 --> 00:27:21,082
+Samantha, duduklah.
+
+552
+00:27:21,502 --> 00:27:25,451
+Aku tahu kadang kau menganggapku
+sebagai pemula berusia 20-an...
+
+553
+00:27:25,536 --> 00:27:27,469
+Tapi aku benar soal ini.
+
+554
+00:27:29,107 --> 00:27:31,587
+Kumohon, aku hanya ingin kau...
+
+555
+00:27:31,965 --> 00:27:35,116
+Mendengarkanku,
+dan melihat yang aku...
+
+556
+00:27:37,470 --> 00:27:39,780
+Candice membuatku berjanji untuk
+membawamu pulang dengan selamat.
+
+557
+00:27:39,865 --> 00:27:43,227
+Cukup! Sekarang duduk
+dan mulailah keluar dari orbit!
+
+558
+00:27:47,513 --> 00:27:49,025
+Stratton!
+
+559
+00:27:50,370 --> 00:27:52,092
+Bawa dia kembali ke sini sekarang.
+
+560
+00:27:59,068 --> 00:28:00,598
+Ben, kau harus menghentikan ini.
+
+561
+00:28:00,970 --> 00:28:02,294
+Bagaimana caranya?
+
+562
+00:28:02,542 --> 00:28:04,155
+Lakukanlah keahlianmu.
+
+563
+00:28:04,361 --> 00:28:06,264
+Buat mereka sepaham.
+
+564
+00:28:09,284 --> 00:28:11,228
+- Ada yang bisa kubantu?
+- Kau harus kembali ke sana.
+
+565
+00:28:11,476 --> 00:28:13,585
+- Kenapa?
+- Penolakan yang masuk akal.
+
+566
+00:28:14,909 --> 00:28:17,431
+Aku akan membuka pintu muatan
+dan kunci mereka keluar dari sistem.
+
+567
+00:28:17,515 --> 00:28:19,127
+Itu akan memaksa mereka
+membatalkan kepulangan ke Bumi.
+
+568
+00:28:20,285 --> 00:28:22,188
+- Kau...
+- Pergi ke sana, David.
+
+569
+00:28:22,394 --> 00:28:25,042
+Aku tak mau kau disidang militer
+jika kita selamat.
+
+570
+00:28:26,613 --> 00:28:27,937
+Dia akan membuka pintu muatan...
+
+571
+00:28:28,019 --> 00:28:29,219
+Dan memaksamu untuk membatalkan,
+Pak.
+
+572
+00:28:29,301 --> 00:28:31,825
+Ben, apa yang kau lakukan?
+Dia berusaha menyelamatkanmu.
+
+573
+00:28:31,907 --> 00:28:33,520
+Kau dalam keadaan yang kurang baik.
+
+574
+00:28:33,603 --> 00:28:34,637
+Kau mengalami gegar otak.
+
+575
+00:28:34,720 --> 00:28:37,160
+Kau tak sadarkan diri
+sampai sekitar 15 menit lalu.
+
+576
+00:28:37,242 --> 00:28:38,318
+Kau tak berpikir dengan baik.
+
+577
+00:28:38,400 --> 00:28:39,807
+Kau seharusnya tak duduk
+di kursi itu sekarang.
+
+578
+00:28:39,890 --> 00:28:41,999
+Lima menit
+sampai kesempatan kita hilang.
+
+579
+00:28:42,081 --> 00:28:43,363
+Apa yang selalu kau katakan?
+
+580
+00:28:43,736 --> 00:28:47,375
+Kita siap untuk setiap kemungkinan,
+kecuali untuk yang akan dihadapi.
+
+581
+00:28:47,458 --> 00:28:49,857
+Selalu fleksibel,
+tetap terbuka, tetap aman.
+
+582
+00:28:49,940 --> 00:28:52,214
+Dia bisa ada di sini karena aku
+yang memperjuangkannya.
+
+583
+00:28:52,298 --> 00:28:55,068
+Dia di sini karena kau melatihnya
+menjadi yang terbaik.
+
+584
+00:28:55,151 --> 00:28:58,087
+Kau sudah bekerja sama dengannya
+selama hampir satu dekade...
+
+585
+00:28:58,171 --> 00:28:59,742
+Mengajarinya semua yang kau tahu.
+
+586
+00:28:59,825 --> 00:29:01,893
+Setiap kalimat "Sudah kubilang"
+menjadikannya lebih baik...
+
+587
+00:29:01,977 --> 00:29:04,426
+Menyiapkannya
+untuk momen seperti ini.
+
+588
+00:29:05,480 --> 00:29:08,182
+Kini dia bersedia mempertaruhkan
+karier dan hidupnya...
+
+589
+00:29:08,266 --> 00:29:10,250
+Untuk meyakinkanmu bahwa kau salah.
+
+590
+00:29:10,503 --> 00:29:12,234
+Dia melihat sesuatu
+yang tak kau lihat.
+
+591
+00:29:12,698 --> 00:29:14,682
+Hanya karena kau tak bisa
+melihatnya sekarang...
+
+592
+00:29:14,766 --> 00:29:17,974
+Kau harus percaya bahwa tindakannya
+adalah yang terbaik untuk kita semua.
+
+593
+00:29:18,185 --> 00:29:20,379
+Karena dia masih Stratton
+yang kau sayangi...
+
+594
+00:29:21,814 --> 00:29:23,376
+Stratton yang menyayangimu.
+
+595
+00:29:25,233 --> 00:29:26,921
+Jadi, kumohon.
+
+596
+00:29:27,091 --> 00:29:28,989
+Batalkanlah pengeluaran dari orbit.
+
+597
+00:29:30,087 --> 00:29:33,464
+Komandan,
+kita harus memulainya sekarang!
+
+598
+00:29:37,600 --> 00:29:38,951
+Batalkan.
+
+599
+00:29:40,428 --> 00:29:41,694
+Pak?
+
+600
+00:29:41,778 --> 00:29:42,876
+Batalkan.
+
+601
+00:29:49,080 --> 00:29:51,106
+Kalian berdua sebaiknya benar
+tentang ini.
+
+602
+00:29:58,492 --> 00:30:01,029
+Anggaplah Stratton bisa
+membawa kita ke orbit MIR.
+
+603
+00:30:01,111 --> 00:30:02,503
+Aku sudah memetakan jalur.
+
+604
+00:30:02,584 --> 00:30:04,262
+Aku bisa membawa kita ke sana
+dalam waktu kurang dari satu jam.
+
+605
+00:30:04,671 --> 00:30:06,267
+- Aku sangat menyukainya.
+- Ya.
+
+606
+00:30:06,348 --> 00:30:07,699
+Itu menyelesaikan masalah pertama.
+
+607
+00:30:07,781 --> 00:30:09,581
+Tapi tetap saja, komunikasi
+jarak jauh kita masih mati.
+
+608
+00:30:09,663 --> 00:30:11,790
+Jika tak bisa bicara dengan mereka,
+kita tak bisa berlabuh.
+
+609
+00:30:11,873 --> 00:30:14,163
+Kita tak bisa datang begitu saja
+dan membunyikan klakson.
+
+610
+00:30:14,246 --> 00:30:15,350
+Hei, saat berada di Bumi...
+
+611
+00:30:15,432 --> 00:30:17,110
+Mustahil kita menggunakan...
+
+612
+00:30:17,192 --> 00:30:18,992
+Sistem komunikasi
+yang sangat kuat, 'kan?
+
+613
+00:30:19,074 --> 00:30:21,160
+Pasti ada pita frekuensi S
+berkekuatan tinggi juga di sini.
+
+614
+00:30:21,243 --> 00:30:22,715
+Pita frekuensi S berkekuatan tinggi,
+ide bagus.
+
+615
+00:30:23,288 --> 00:30:25,743
+- Bagus, Ben.
+- Hanya berfungsi di garis pandang.
+
+616
+00:30:25,825 --> 00:30:27,667
+Seseorang harus berada
+di area muatan...
+
+617
+00:30:27,748 --> 00:30:30,081
+Mengarahkan antenanya kepada mereka.
+
+618
+00:30:36,218 --> 00:30:37,773
+Tunggu. Sebentar.
+
+619
+00:30:37,855 --> 00:30:39,328
+Mungkin ada cara lain.
+
+620
+00:30:39,410 --> 00:30:41,210
+Kau siap berjalan
+di luar angkasa lagi, Kawan?
+
+621
+00:30:43,134 --> 00:30:44,525
+Bagus sekali.
+
+622
+00:30:51,603 --> 00:30:52,831
+Harus kuakui.
+
+623
+00:30:52,912 --> 00:30:54,877
+Dia tak peduli
+dengan kekuatan pemrosesan.
+
+624
+00:30:54,999 --> 00:30:56,677
+Itu tulisan tangan Ben.
+
+625
+00:30:56,759 --> 00:30:57,905
+Menurutmu apa artinya?
+
+626
+00:30:57,986 --> 00:30:59,406
+Aku tak tahu.
+
+627
+00:31:02,081 --> 00:31:03,710
+Hei, dia tahu kita di sini.
+
+628
+00:31:07,220 --> 00:31:08,556
+Sebaiknya kita bergerak cepat.
+
+629
+00:31:11,021 --> 00:31:12,692
+Komputer dilindungi kata sandi.
+
+630
+00:31:12,776 --> 00:31:15,116
+Periksa servernya,
+pastikan tak menempel di tanah.
+
+631
+00:31:15,658 --> 00:31:17,915
+Semuanya ditempel dengan sekrup
+yang dimodifikasi.
+
+632
+00:31:17,998 --> 00:31:20,630
+Aku mulai menyukai wanita ini,
+meski seharusnya tidak.
+
+633
+00:31:21,382 --> 00:31:23,304
+Aku bisa mengeluarkan sekrupnya
+dan melepas cakram kerasnya.
+
+634
+00:31:23,554 --> 00:31:24,975
+Cepatlah.
+
+635
+00:31:29,737 --> 00:31:31,242
+Akui saja.
+
+636
+00:31:32,537 --> 00:31:34,083
+Kau suka berjalan di luar angkasa.
+
+637
+00:31:34,376 --> 00:31:35,629
+Aku mencoba untuk bekerja.
+
+638
+00:31:35,922 --> 00:31:37,508
+Dua kali dalam satu hari.
+Hanya itu yang kukatakan.
+
+639
+00:31:41,603 --> 00:31:42,773
+Terima kasih.
+
+640
+00:31:43,525 --> 00:31:45,447
+Untuk apa?
+
+641
+00:31:48,538 --> 00:31:52,298
+Karena tak menyerah soal aku.
+
+642
+00:31:54,303 --> 00:31:55,974
+Karena membantuku.
+
+643
+00:31:57,437 --> 00:32:00,276
+Karena membantu pria
+yang tak dipercayai siapa pun.
+
+644
+00:32:03,324 --> 00:32:04,743
+Aku percaya kepadamu.
+
+645
+00:32:05,329 --> 00:32:06,623
+Benarkah?
+
+646
+00:32:07,416 --> 00:32:08,836
+Ya, Ben.
+
+647
+00:32:09,337 --> 00:32:10,673
+Sungguh.
+
+648
+00:32:19,107 --> 00:32:20,526
+Selesai.
+
+649
+00:32:23,658 --> 00:32:27,458
+<i>Atlantis, kita siap menghubungi MIR.</i>
+
+650
+00:32:27,709 --> 00:32:29,670
+Dimengerti. Bersiap.
+
+651
+00:32:36,643 --> 00:32:40,235
+Baiklah, antenanya
+sudah mengarah ke MIR.
+
+652
+00:32:41,028 --> 00:32:44,201
+Dalam skenario terbaik,
+dari saat mereka menerima kita...
+
+653
+00:32:44,284 --> 00:32:46,330
+Hingga saat kita terhubung
+ke oksigen mereka...
+
+654
+00:32:46,497 --> 00:32:48,126
+Butuh waktu berapa lama?
+
+655
+00:32:48,335 --> 00:32:51,257
+- Setidaknya satu jam.
+- Berapa banyak oksigen yang tersisa?
+
+656
+00:32:51,800 --> 00:32:52,844
+Satu jam dan 15 menit.
+
+657
+00:32:52,927 --> 00:32:54,888
+Jadi, kita punya 15 menit
+untuk menghubungi mereka...
+
+658
+00:32:54,972 --> 00:32:56,682
+Atau ini semua sia-sia?
+
+659
+00:33:02,775 --> 00:33:05,153
+MIR,
+ini Pesawat Ulang Alik Atlantis AS.
+
+660
+00:33:05,236 --> 00:33:06,613
+Kau dengar?
+
+661
+00:33:11,370 --> 00:33:12,497
+Kuulangi...
+
+662
+00:33:12,580 --> 00:33:14,082
+<i>Ini Pesawat Ulang Alik Atlantis.</i>
+
+663
+00:33:14,166 --> 00:33:15,869
+<i>Kami dalam kesulitan.</i>
+
+664
+00:33:23,088 --> 00:33:24,551
+<i>Halo, Magic.</i>
+
+665
+00:33:25,095 --> 00:33:26,309
+Janis.
+
+666
+00:33:26,601 --> 00:33:29,445
+Kau tak perlu memanfaatkan Beth
+seperti itu. Dia selalu menyukaimu.
+
+667
+00:33:29,529 --> 00:33:31,662
+Dia satu-satunya alasan
+kau tak dipenjara sekarang.
+
+668
+00:33:31,746 --> 00:33:33,879
+<i>Aku tak dipenjara sekarang
+karena kau tak bisa menemukanku.</i>
+
+669
+00:33:33,963 --> 00:33:35,427
+Dengar, aku hanya ingin bicara.
+
+670
+00:33:35,511 --> 00:33:37,267
+Mencoba pahami
+kau melibatkan Ben ke dalam apa.
+
+671
+00:33:37,351 --> 00:33:38,857
+Aku melibatkan?
+
+672
+00:33:40,613 --> 00:33:42,914
+Ben yang mendatangiku.
+
+673
+00:33:43,583 --> 00:33:46,386
+Dia mengetuk pintuku
+dan meminta bantuanku.
+
+674
+00:33:46,470 --> 00:33:48,477
+Semua ini bukan ideku.
+
+675
+00:33:48,602 --> 00:33:50,109
+Apa untungnya bagimu?
+
+676
+00:33:50,401 --> 00:33:52,828
+Aku sudah memeriksa keuangannya
+dengan teliti.
+
+677
+00:33:52,911 --> 00:33:54,166
+Aku tahu dia tak membayarmu.
+
+678
+00:33:54,250 --> 00:33:55,881
+Jangan halangi kami, Magic.
+
+679
+00:33:55,964 --> 00:33:58,474
+Janis, kemarilah dan bicara denganku.
+
+680
+00:33:58,557 --> 00:34:00,189
+Kita bisa menyelesaikan ini.
+
+681
+00:34:00,273 --> 00:34:02,657
+<i>Waktumu habis.
+Aku akan pergi jika jadi kau.</i>
+
+682
+00:34:02,866 --> 00:34:04,698
+Aku sudah mengambil
+tindakan pencegahan.
+
+683
+00:34:12,398 --> 00:34:14,323
+- Jenn, kita harus pergi!
+- Aku hampir selesai!
+
+684
+00:34:14,407 --> 00:34:16,206
+Jenn, itu tak sepadan! Ayo!
+
+685
+00:34:16,290 --> 00:34:17,963
+Dia akan membakar basemennya!
+
+686
+00:34:20,892 --> 00:34:22,608
+- Kau baik-baik saja?
+- Ya.
+
+687
+00:34:22,692 --> 00:34:24,282
+Kuhargai perhatianmu...
+
+688
+00:34:24,994 --> 00:34:26,249
+Tapi itu sangat sepadan.
+
+689
+00:34:32,065 --> 00:34:35,078
+MIR, ini Atlantis.
+Ada empat astronaut di pesawat ini.
+
+690
+00:34:35,371 --> 00:34:36,877
+Kami kehabisan oksigen.
+
+691
+00:34:39,263 --> 00:34:42,610
+MIR, kuulangi, ini Pesawat Ulang Alik
+Atlantis AS. Kau dengar?
+
+692
+00:34:42,694 --> 00:34:43,823
+Jim.
+
+693
+00:34:45,999 --> 00:34:47,799
+Mereka tak bisa mendengar kita.
+
+694
+00:34:53,699 --> 00:34:55,707
+Aku tak mengerti.
+Meski tak bisa mendengarmu...
+
+695
+00:34:55,791 --> 00:34:58,637
+Bagaimana bisa mereka tak melihatmu?
+Pesawat ini berwarna putih dan besar.
+
+696
+00:35:00,185 --> 00:35:02,194
+Ini tengah malam waktu UTC.
+
+697
+00:35:02,613 --> 00:35:04,204
+Mereka sedang tidur.
+
+698
+00:35:04,664 --> 00:35:06,088
+Itu sebabnya
+mereka tak tahu kita di sini.
+
+699
+00:35:10,693 --> 00:35:12,200
+Aku akan membangunkan mereka.
+
+700
+00:35:13,666 --> 00:35:15,675
+Dia baru saja melepas
+tali pengamannya.
+
+701
+00:35:15,759 --> 00:35:17,726
+David, apa yang kau lakukan?
+
+702
+00:35:17,810 --> 00:35:20,406
+<i>Kita kehabisan waktu.
+Aku akan mengetuk pintu mereka.</i>
+
+703
+00:35:20,490 --> 00:35:22,332
+Astaga, dia akan melompat!
+
+704
+00:35:24,215 --> 00:35:25,764
+Ben, tunggu, apa yang kau lakukan?
+
+705
+00:35:25,849 --> 00:35:27,607
+Aku mengendalikan lompatan.
+
+706
+00:35:27,690 --> 00:35:29,069
+Ben!
+
+707
+00:35:52,193 --> 00:35:53,490
+Ben, pegangan!
+
+708
+00:35:55,457 --> 00:35:57,396
+- Hampir saja gagal.
+- Ya, benar-benar hampir gagal.
+
+709
+00:35:57,478 --> 00:35:59,128
+- Kau baik-baik saja?
+- Ya.
+
+710
+00:35:59,211 --> 00:36:00,944
+Mari kita lihat
+apa ada orang di dalam.
+
+711
+00:36:04,492 --> 00:36:05,976
+Ayolah! Ada orang di dalam?
+
+712
+00:36:06,060 --> 00:36:07,379
+Kau pasti bercanda!
+
+713
+00:36:10,308 --> 00:36:11,629
+Hai!
+
+714
+00:36:12,866 --> 00:36:15,609
+Kami butuh bantuan! Tolong!
+
+715
+00:36:23,877 --> 00:36:24,948
+Atlantis...
+
+716
+00:36:25,689 --> 00:36:27,501
+<i>Aku memutuskan untuk berkunjung.</i>
+
+717
+00:36:27,830 --> 00:36:29,313
+Aku berhasil menghubungi MIR.
+
+718
+00:36:30,795 --> 00:36:33,389
+- Bagus, David!
+- Aku tak percaya!
+
+719
+00:36:35,612 --> 00:36:36,889
+Hei.
+
+720
+00:36:38,207 --> 00:36:39,483
+Hei...
+
+721
+00:36:39,936 --> 00:36:41,456
+Maafkan aku.
+
+722
+00:36:51,034 --> 00:36:52,327
+Sudah kubilang.
+
+723
+00:36:58,456 --> 00:37:00,791
+- Apa kata Ziggy?
+- Mereka selamat.
+
+724
+00:37:01,000 --> 00:37:02,042
+Semuanya.
+
+725
+00:37:02,125 --> 00:37:03,293
+Mereka berlabuh di MIR...
+
+726
+00:37:03,376 --> 00:37:06,086
+Memperbaiki pesawat mereka,
+dan pulang dengan selamat.
+
+727
+00:37:06,170 --> 00:37:07,921
+Stratton menjadi komandan pesawat...
+
+728
+00:37:08,005 --> 00:37:10,381
+Dan David menjadi
+salah satu astronaut pertama...
+
+729
+00:37:10,465 --> 00:37:12,549
+Yang tinggal di Stasiun Luar Angkasa
+Internasional...
+
+730
+00:37:12,633 --> 00:37:13,675
+Begitu selesai dibangun.
+
+731
+00:37:13,758 --> 00:37:15,259
+Itu bagus.
+
+732
+00:37:18,887 --> 00:37:21,347
+Berapa peluang lompatan ini
+akan membawaku pulang?
+
+733
+00:37:23,807 --> 00:37:27,017
+Sejujurnya,
+kemungkinannya 50-50, Ben.
+
+734
+00:37:27,435 --> 00:37:29,603
+Tapi aku berjanji,
+apa pun yang terjadi...
+
+735
+00:37:29,811 --> 00:37:32,897
+Aku akan bersamamu di setiap langkah.
+
+736
+00:37:33,772 --> 00:37:35,732
+Sampai kami bisa membawamu pulang.
+
+737
+00:37:38,066 --> 00:37:39,484
+Terima kasih.
+
+738
+00:37:40,944 --> 00:37:42,946
+Aku senang kita bisa melakukan ini...
+
+739
+00:37:43,696 --> 00:37:45,074
+Bersama.
+
+740
+00:38:01,366 --> 00:38:03,450
+Kode Ben tak membawanya kembali.
+
+741
+00:38:03,533 --> 00:38:05,409
+- Kami masih belum yakin kenapa.
+- Kita akan menemukannya.
+
+742
+00:38:05,825 --> 00:38:07,868
+Pada akhirnya, kita akan berhasil.
+
+743
+00:38:09,744 --> 00:38:11,286
+Aku ingin...
+
+744
+00:38:13,162 --> 00:38:14,287
+Maafkan aku.
+
+745
+00:38:14,829 --> 00:38:16,704
+Aku seharusnya memberitahumu
+tentang Janis lebih awal...
+
+746
+00:38:16,787 --> 00:38:19,330
+Dan keputusan
+tentang cara menangani ingatan Ben...
+
+747
+00:38:19,413 --> 00:38:21,122
+Seharusnya didiskusikan bersama.
+
+748
+00:38:22,831 --> 00:38:24,290
+Aku menghargai itu...
+
+749
+00:38:24,749 --> 00:38:26,166
+Tapi kau benar.
+
+750
+00:38:27,541 --> 00:38:29,000
+Bahkan Ben pun berpikir begitu.
+
+751
+00:38:30,875 --> 00:38:34,668
+Sampai kita lebih memahami
+motivasinya...
+
+752
+00:38:35,335 --> 00:38:36,960
+Kita seharusnya tak memberitahunya.
+
+753
+00:38:39,128 --> 00:38:42,129
+Aku sudah menjadi tentara
+seumur hidupku.
+
+754
+00:38:42,254 --> 00:38:45,838
+Saat ada yang tak beres,
+aku langsung memberi perintah...
+
+755
+00:38:45,921 --> 00:38:48,255
+Tapi proyek ini berbeda.
+
+756
+00:38:48,547 --> 00:38:50,923
+Kita harus bekerja sama
+untuk mencari solusi.
+
+757
+00:38:52,549 --> 00:38:53,966
+Aku membutuhkanmu.
+
+758
+00:38:54,299 --> 00:38:55,675
+Terima kasih, Magic.
+
+759
+00:38:56,175 --> 00:38:57,967
+Kami berhasil melacak Janis.
+
+760
+00:38:58,050 --> 00:38:59,384
+Dia lolos...
+
+761
+00:38:59,467 --> 00:39:01,593
+Tapi kami mendapatkan
+salah satu cakram kerasnya.
+
+762
+00:39:03,469 --> 00:39:05,011
+Biar kutunjukkan.
+
+763
+00:39:06,345 --> 00:39:09,097
+Aku terkejut cakramnya terenkripsi.
+
+764
+00:39:09,805 --> 00:39:11,014
+<i>Arsip Terenkripsi.
+Masukkan Kata Sandi.</i>
+
+765
+00:39:11,431 --> 00:39:13,015
+- Jenn, kau bisa meretasnya?
+- Sudah kucoba.
+
+766
+00:39:13,099 --> 00:39:16,099
+Tapi tanpa kunci enkripsi, bisa
+berbulan-bulan atau tak sama sekali.
+
+767
+00:39:16,183 --> 00:39:18,142
+Kemungkinan Ben
+menyimpan kunci digital...
+
+768
+00:39:18,226 --> 00:39:19,643
+Yang bisa dia masukkan
+ke kerangka utama...
+
+769
+00:39:19,726 --> 00:39:21,227
+Yang akan mendekripsi servernya.
+
+770
+00:39:21,310 --> 00:39:25,479
+Dia mungkin menyimpannya
+di diska lepas atau...
+
+771
+00:39:29,564 --> 00:39:30,731
+Aku bisa membantu.
+
+772
+00:39:34,274 --> 00:39:36,400
+Aku menemukan ini
+di apartemenku pagi ini.
+
+773
+00:39:36,817 --> 00:39:38,526
+Seharusnya kuserahkan saat kutemukan.
+
+774
+00:39:39,610 --> 00:39:40,694
+Tidak apa-apa.
+
+775
+00:39:40,902 --> 00:39:43,111
+Kita semua memikirkannya
+sambil melakukannya.
+
+776
+00:39:43,737 --> 00:39:47,238
+Aku takut dengan isinya,
+tapi tak lagi.
+
+777
+00:39:47,529 --> 00:39:49,781
+Ben mungkin tak ingat siapa dia,
+tapi aku ingat.
+
+778
+00:39:49,864 --> 00:39:52,448
+Aku melihatnya hari ini di Atlantis.
+Dia...
+
+779
+00:39:53,824 --> 00:39:55,325
+Dia masih Ben yang sama.
+
+780
+00:39:56,742 --> 00:39:58,361
+Mari kita lihat isinya.
+
+781
+00:40:04,506 --> 00:40:05,543
+<i>Arsip Terenkripsi.
+Masukkan Kata Sandi.</i>
+
+782
+00:40:05,627 --> 00:40:06,665
+<i>Kunci dimasukkan</i>
+
+783
+00:40:07,454 --> 00:40:09,779
+Astaga, itu data yang sangat banyak.
+
+784
+00:40:09,986 --> 00:40:11,273
+Kurasa datanya berputar
+seperti ini...
+
+785
+00:40:11,356 --> 00:40:15,341
+Karena dirancang
+dengan ide struktur 3D.
+
+786
+00:40:15,674 --> 00:40:17,361
+Tunggu sebentar.
+
+787
+00:40:17,731 --> 00:40:20,737
+<i>Masukkan Perintah</i>
+
+788
+00:40:31,603 --> 00:40:35,871
+Jutaan variabel yang mewakili
+jutaan tempat dalam waktu.
+
+789
+00:40:47,532 --> 00:40:48,795
+Apa itu?
+
+790
+00:40:55,616 --> 00:40:56,964
+Itu destinasi.
+
+791
+00:40:59,196 --> 00:41:02,270
+Kurasa Ben mengunggah
+semua kode baru ini...
+
+792
+00:41:02,355 --> 00:41:04,039
+Dan masuk ke mesin karena berusaha...
+
+793
+00:41:04,123 --> 00:41:06,903
+Untuk sampai ke tempat tertentu,
+titik tertentu dalam waktu...
+
+794
+00:41:06,987 --> 00:41:10,145
+Tapi aku tak tahu di mana atau kapan.
+
+795
+00:41:10,903 --> 00:41:12,311
+Atau kenapa.
+
+796
+00:41:28,457 --> 00:41:29,782
+<i>Angkat tanganmu!</i>
+
+797
+00:41:30,444 --> 00:41:32,837
+Kenapa menatapku?
+Dia yang harus kau awasi!
+
+798
+00:41:34,013 --> 00:41:36,364
+Tunggu sebentar.
+Pasti ada kesalahpahaman! Aku...
+
+799
+00:41:38,489 --> 00:41:46,885
+VIP21.EU.ORG
+
