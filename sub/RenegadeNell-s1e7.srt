@@ -1,0 +1,2263 @@
+﻿1
+00:00:01,004 --> 00:00:04,465
+{\an8}Sofia, aku akan mengajarimu semua
+yang kutahu tentang ilmu ini.
+
+2
+00:00:04,549 --> 00:00:07,719
+{\an8}Sebelumnya...
+
+3
+00:00:08,928 --> 00:00:11,848
+-Penjara Newgate tahu namamu.
+-Kenapa?
+
+4
+00:00:11,931 --> 00:00:15,101
+-Kau akan mati, Nelly Jackson.
+-Sofia?
+
+5
+00:00:15,184 --> 00:00:17,895
+Rasselas! Rasselas!
+
+6
+00:00:17,979 --> 00:00:20,690
+-Ratu adalah pengkhianat.
+-Kau memang seorang Jacobite.
+
+7
+00:00:20,773 --> 00:00:24,610
+Raja yang sah dari negara ini
+adalah James Stuart.
+
+8
+00:00:24,694 --> 00:00:27,155
+Besok, kita akan merencanakan pernikahan.
+
+9
+00:00:27,238 --> 00:00:28,281
+Atau kau akan mati.
+
+10
+00:00:29,198 --> 00:00:32,744
+Jika vonis bersalah,
+mereka akan segera menggantungmu.
+
+11
+00:00:32,827 --> 00:00:34,829
+Aku bisa menangkap Ratu
+dengan bantuan mereka,
+
+12
+00:00:34,912 --> 00:00:37,081
+agar pasukan James
+bisa bergerak tanpa perlawanan.
+
+13
+00:00:37,165 --> 00:00:39,709
+Sofia, kau bisa menghentikan ini semua.
+Hanya dengan mengatakan yang sebenarnya.
+
+14
+00:00:39,792 --> 00:00:41,794
+Apa kau tidak tahu apa yang akan
+mereka lakukan pada Thomas?
+
+15
+00:00:43,171 --> 00:00:44,422
+Jangan ganggu aku!
+
+16
+00:00:44,505 --> 00:00:45,590
+<i>Bagaimana dengan Nell?</i>
+
+17
+00:00:45,673 --> 00:00:46,674
+<i>Kembalilah padanya.</i>
+
+18
+00:00:46,758 --> 00:00:48,092
+{\an8}<i>Apa yang dikatakan surat kabar?</i>
+
+19
+00:00:48,176 --> 00:00:50,511
+-Mereka menulis...
+-"Nell Jackson makan bayi."
+
+20
+00:00:50,595 --> 00:00:53,514
+Buah jatuh tak jauh dari pohonnya.
+Orang tidak akan percaya.
+
+21
+00:00:53,598 --> 00:00:55,683
+Ini akan menyalakan api dalam dirinya.
+
+22
+00:00:55,767 --> 00:00:58,019
+Kita akan menghancurkan pers.
+
+23
+00:00:58,102 --> 00:01:00,646
+Orang-orang perlu tahu
+bahwa kebenaran itu penting.
+
+24
+00:01:33,763 --> 00:01:38,851
+<i>Ini hari baru dan matahari terbit
+Kota terbangun</i>
+
+25
+00:01:45,274 --> 00:01:51,155
+<i>Saat kau tidur, dalam bayangan merayap
+Kisah yang membuatmu gemetar</i>
+
+26
+00:01:53,449 --> 00:01:56,661
+<i>Dari istana Ratu sendiri
+Tempat para pengkhianat bersembunyi</i>
+
+27
+00:01:56,744 --> 00:01:59,914
+<i>Ke sel kosong Newgate</i>
+
+28
+00:01:59,997 --> 00:02:04,502
+<i>Satu nama terdengar dari mulut London</i>
+
+29
+00:02:05,962 --> 00:02:07,672
+<i>Nelly Jackson</i>
+
+30
+00:02:09,382 --> 00:02:11,717
+Atau aku suka memanggilnya...
+
+31
+00:02:13,386 --> 00:02:16,764
+<i>Iblis Nell</i>
+
+32
+00:02:24,856 --> 00:02:25,982
+Pelan-pelan.
+
+33
+00:02:26,065 --> 00:02:27,525
+Kau akan mendapatkan beritamu.
+
+34
+00:02:27,608 --> 00:02:29,986
+-Baiklah.
+-Baiklah. Silakan ambil.
+
+35
+00:02:30,695 --> 00:02:33,489
+-Kepalanya yang bertanduk.
+-Dan kulit bersisik.
+
+36
+00:02:33,573 --> 00:02:35,867
+-Terlihat jelas.
+-Terlihat jelas.
+
+37
+00:02:35,950 --> 00:02:38,327
+-Tapi "bagaimana"?
+<i>-Aku dengar pertanyaanmu, temanku</i>
+
+38
+00:02:38,411 --> 00:02:39,412
+<i>-Apa...</i>
+-Monster!
+
+39
+00:02:39,495 --> 00:02:43,583
+-Monster!
+<i>-Monster muncul?</i>
+
+40
+00:02:43,666 --> 00:02:45,543
+<i>Nelly Jackson</i>
+
+41
+00:02:52,008 --> 00:02:54,343
+<i>Ayah Trotter adalah seorang pemburu liar</i>
+
+42
+00:02:54,427 --> 00:02:56,888
+<i>Apakah dia menebus dosa ayahnya?</i>
+
+43
+00:02:56,971 --> 00:03:01,934
+<i>Mereka bilang ibunya
+Yang sangat menyukai gin</i>
+
+44
+00:03:02,018 --> 00:03:03,019
+-Gin?
+-Gin.
+
+45
+00:03:03,102 --> 00:03:04,103
+Gin!
+
+46
+00:03:09,233 --> 00:03:11,569
+<i>Dua lagi lahir</i>
+
+47
+00:03:11,652 --> 00:03:13,196
+<i>Untuk Keluarga Trotter</i>
+
+48
+00:03:14,113 --> 00:03:16,449
+<i>Tiga anak perempuan</i>
+
+49
+00:03:21,537 --> 00:03:23,831
+<i>Tapi dengar pendapatku, jangan salah</i>
+
+50
+00:03:23,915 --> 00:03:25,917
+<i>Buah jatuh tak jauh dari pohonnya</i>
+
+51
+00:03:27,043 --> 00:03:28,794
+<i>Itu Nell</i>
+
+52
+00:03:28,878 --> 00:03:29,921
+<i>Aku tak percaya!</i>
+
+53
+00:03:30,713 --> 00:03:32,506
+<i>Dia sampah!</i>
+
+54
+00:03:32,590 --> 00:03:35,718
+<i>Buatan setan, kelas rendah, sampah!</i>
+
+55
+00:03:37,178 --> 00:03:39,055
+<i>Nell Jackson. Jackson.</i>
+
+56
+00:03:39,138 --> 00:03:41,766
+<i>-Nell Jackson.
+-Jackson, Jackson, Jackson.</i>
+
+57
+00:03:41,849 --> 00:03:43,893
+<i>-Kau memalukan di sini.
+-Jackson.</i>
+
+58
+00:03:43,976 --> 00:03:45,853
+<i>Nell Jackson.</i>
+
+59
+00:03:47,188 --> 00:03:51,234
+<i>Sekarang berhati-hatilah
+dengan kejahatan di hatimu</i>
+
+60
+00:03:51,317 --> 00:03:54,737
+<i>Kecuali jika kau ingin menemukan</i>
+
+61
+00:03:54,820 --> 00:04:01,535
+<i>Anak-anakmu jadi busuk</i>
+
+62
+00:04:01,619 --> 00:04:07,541
+<i>Seperti Nell dan semua</i>
+
+63
+00:04:08,668 --> 00:04:12,421
+<i>Keluarganya</i>
+
+64
+00:04:13,256 --> 00:04:16,759
+Tidak bisa disangkal!
+
+65
+00:04:30,314 --> 00:04:31,315
+Baiklah.
+
+66
+00:04:40,700 --> 00:04:41,742
+George!
+
+67
+00:04:41,826 --> 00:04:43,035
+Iblis NELL
+
+68
+00:04:43,119 --> 00:04:44,120
+Apa yang kau lakukan?
+
+69
+00:04:47,540 --> 00:04:49,166
+Banyak pengkhianat di istana.
+
+70
+00:04:50,167 --> 00:04:52,920
+Masalah sedang terjadi.
+Godolphin dikirim ke Menara.
+
+71
+00:04:53,004 --> 00:04:55,214
+Dan dia akan membayar
+atas pengkhianatannya dengan nyawanya.
+
+72
+00:04:55,298 --> 00:04:56,966
+Godolphin hanya satu orang.
+
+73
+00:04:57,717 --> 00:05:01,554
+Ada banyak orang Jacobite
+yang menginginkan James naik takhta.
+
+74
+00:05:01,637 --> 00:05:02,972
+Dia masih anak-anak,
+
+75
+00:05:03,055 --> 00:05:06,726
+dan dia hanya jadi boneka
+untuk siapa pun di balik ini semua.
+
+76
+00:05:07,393 --> 00:05:09,562
+Kau percaya
+ada pengkhianat lain di istana?
+
+77
+00:05:10,896 --> 00:05:12,189
+Tentu saja.
+
+78
+00:05:13,441 --> 00:05:14,859
+Lantas, kau tidak bisa tinggal di sini.
+
+79
+00:05:17,820 --> 00:05:19,238
+Aku tak akan sembunyi, Poynton.
+
+80
+00:05:19,322 --> 00:05:21,198
+Jika kecurigaanmu benar,
+
+81
+00:05:21,282 --> 00:05:24,785
+dan ada lebih banyak orang di dalam istana
+yang ingin kau celaka,
+
+82
+00:05:24,869 --> 00:05:27,163
+aku khawatir hanya sedikit
+yang bisa kulakukan,
+
+83
+00:05:27,246 --> 00:05:29,415
+bahkan dengan penjagaan dari pengawalmu.
+
+84
+00:05:30,416 --> 00:05:34,170
+Yang Mulia,
+rakyat membutuhkan Ratu mereka.
+
+85
+00:05:35,504 --> 00:05:37,506
+Izinkan aku untuk membawamu
+ke tempat yang aman.
+
+86
+00:05:38,341 --> 00:05:39,383
+Ya.
+
+87
+00:05:53,647 --> 00:05:54,648
+Nelly.
+
+88
+00:05:56,984 --> 00:05:58,277
+-Nelly.
+-George.
+
+89
+00:06:00,529 --> 00:06:01,572
+Nelly.
+
+90
+00:06:02,281 --> 00:06:03,491
+Sial.
+
+91
+00:06:03,574 --> 00:06:04,992
+Nelly.
+
+92
+00:06:12,041 --> 00:06:13,584
+-Ini tempatnya.
+-Ya.
+
+93
+00:06:14,877 --> 00:06:16,295
+Baiklah, ayo.
+
+94
+00:06:17,463 --> 00:06:20,800
+Nelly Jackson. Ini Billy. Billy Blind.
+
+95
+00:06:20,883 --> 00:06:21,884
+Apa yang kau lakukan?
+
+96
+00:06:25,429 --> 00:06:26,806
+Ada apa, Billy?
+
+97
+00:06:28,307 --> 00:06:29,642
+Aku sudah berpikir.
+
+98
+00:06:29,725 --> 00:06:33,896
+Hal tentang menghancurkan pers,
+bukankah ini kau masuk perangkap mereka?
+
+99
+00:06:35,272 --> 00:06:37,942
+-Perangkap siapa?
+-Semua orang.
+
+100
+00:06:38,025 --> 00:06:40,403
+Jika kau masuk ke sana
+dan menghancurkan segalanya,
+
+101
+00:06:40,486 --> 00:06:43,531
+besok akan ada berita "Jackson
+berkepala tiga menyerang surat kabar."
+
+102
+00:06:43,614 --> 00:06:47,993
+Kau melihat bagaimana hal ini menyebar.
+Koran ini sangat kuat.
+
+103
+00:06:48,077 --> 00:06:52,581
+Mereka tidak keberatan menggunakan orang.
+Mungkin kita harus
+
+104
+00:06:52,665 --> 00:06:54,750
+-menggunakan orang-orang.
+-Menggunakan. Ya, tapi bagaimana?
+
+105
+00:06:58,337 --> 00:07:00,464
+Aku berharap kau bisa memikirkan caranya.
+
+106
+00:07:00,548 --> 00:07:01,590
+Billy?
+
+107
+00:07:14,854 --> 00:07:15,855
+Seharusnya aku tahu.
+
+108
+00:07:17,022 --> 00:07:18,732
+-Apa?
+-Moggerhangar.
+
+109
+00:07:18,816 --> 00:07:21,360
+Ini Ny. Devereux. Ini pasti tempatnya.
+
+110
+00:07:21,444 --> 00:07:25,739
+Lady Moggerhangar
+lebih dari sekadar "Nyonya" seseorang.
+
+111
+00:07:25,823 --> 00:07:28,617
+Dia pelopor dunia cetak.
+
+112
+00:07:29,660 --> 00:07:30,828
+Tidak konvensional.
+
+113
+00:07:32,288 --> 00:07:33,497
+Dia bisa disebut begitu.
+
+114
+00:07:52,933 --> 00:07:54,226
+Tidak, keluar! Keluar!
+
+115
+00:07:54,310 --> 00:07:58,606
+-Aku akan mengusirmu dengan paksa.
+-Kau harus percaya padaku.
+
+116
+00:07:58,689 --> 00:08:00,065
+Baiklah. Baiklah.
+
+117
+00:08:00,941 --> 00:08:03,444
+-Tn. Rasselas!
+-Hai.
+
+118
+00:08:08,866 --> 00:08:10,743
+-Kau menjual cerita tentang kami?
+-Tidak.
+
+119
+00:08:10,826 --> 00:08:13,579
+-Jelaskan kenapa kau kabur.
+-Aku tidak kabur. Maksudku, ya.
+
+120
+00:08:13,662 --> 00:08:17,374
+Tapi tidak seperti itu. Aku tidak akan...
+Aku tidak akan pernah menjual ceritamu
+
+121
+00:08:17,458 --> 00:08:18,459
+Atau cerita tentang yang lain.
+
+122
+00:08:19,668 --> 00:08:21,462
+-Polly Honeycombe. Senang...
+-Tidak, Polly.
+
+123
+00:08:21,879 --> 00:08:22,880
+Tidak.
+
+124
+00:08:22,963 --> 00:08:26,091
+Setelah kekacauan di penjara,
+aku kehilangan Nell. Lalu...
+
+125
+00:08:27,092 --> 00:08:28,469
+Sofia ada di sana.
+
+126
+00:08:28,552 --> 00:08:31,555
+-Di Newgate?
+-Ya. Tidak. Semacam itu.
+
+127
+00:08:32,264 --> 00:08:34,391
+Ilmu hitam itu? Itu perbuatannya.
+
+128
+00:08:37,353 --> 00:08:39,855
+-Apa?
+-Sofia.
+
+129
+00:08:39,939 --> 00:08:43,150
+-Dia di balik semua ini.
+-Tapi bagaimana caranya?
+
+130
+00:08:43,234 --> 00:08:44,610
+Pria perlente itu, Poynton,
+
+131
+00:08:44,693 --> 00:08:48,656
+dia berhasil memengaruhi Sofia,
+dan bukan hanya Newgate.
+
+132
+00:08:49,740 --> 00:08:51,075
+Mereka juga mengincar Ratu.
+
+133
+00:08:53,494 --> 00:08:54,495
+Apa?
+
+134
+00:08:55,955 --> 00:08:58,457
+-Kami perlu berbicara dengan Moggerhangar.
+-Kau lagi?
+
+135
+00:08:58,541 --> 00:09:01,377
+Jika kau akan mencoba menjual
+kisah bohong padaku
+
+136
+00:09:01,460 --> 00:09:03,128
+soal Lord Poynton...
+
+137
+00:09:03,212 --> 00:09:05,172
+-Ini bukan kisah bohong.
+-Rasselas mendengarnya.
+
+138
+00:09:05,256 --> 00:09:08,634
+Earl Poynton adalah salah satu
+penasihat paling tepercaya Ratu Anne.
+
+139
+00:09:08,717 --> 00:09:11,053
+-Bukan pengkhianat.
+-Sudah kubilang dia tak mau mendengarkan.
+
+140
+00:09:11,136 --> 00:09:13,556
+Sebaiknya kita pergi ke istana saja
+dan memperingatkan seseorang.
+
+141
+00:09:13,639 --> 00:09:16,016
+Kau pikir ada orang di sana
+yang mungkin memercayai kita?
+
+142
+00:09:16,100 --> 00:09:17,851
+Tapi kalau ada di koran,
+semua orang memercayainya.
+
+143
+00:09:17,935 --> 00:09:21,313
+Kami tidak mencetak
+cerita yang tidak berdasar.
+
+144
+00:09:21,397 --> 00:09:23,315
+Kau tidak keberatan mencetak berita buruk
+tentang Nelly.
+
+145
+00:09:23,399 --> 00:09:24,483
+Nelly?
+
+146
+00:09:25,192 --> 00:09:30,656
+-Jadi, kau Nelly Jackson?
+-Nell Jackson.
+
+147
+00:09:30,739 --> 00:09:33,617
+Kau Nell Jackson ketiga
+yang kutemui pagi ini.
+
+148
+00:09:33,701 --> 00:09:35,786
+Meskipun setidaknya dia berusaha.
+
+149
+00:09:35,869 --> 00:09:40,666
+Baiklah, ada koran yang harus kusunting.
+
+150
+00:09:40,749 --> 00:09:42,293
+Apa? Tunggu.
+
+151
+00:09:42,376 --> 00:09:44,336
+-Tidak, aku tak akan menunggu.
+-Tapi ini berita.
+
+152
+00:09:44,420 --> 00:09:45,462
+Berita sungguhan.
+
+153
+00:09:45,546 --> 00:09:50,926
+Ya. Aku tidak bisa mencetak apa pun
+tanpa persetujuan Lady Moggerhangar.
+
+154
+00:09:51,010 --> 00:09:54,430
+Katakan padanya aku di sini.
+Karena aku juga ingin bicara tentang...
+
+155
+00:09:56,140 --> 00:09:59,101
+-Tiarap!
+-Tentang berita bohong
+
+156
+00:09:59,184 --> 00:10:00,603
+soal ayahku seorang pemburu gelap.
+
+157
+00:10:00,686 --> 00:10:02,062
+Siapa yang membuktikan itu?
+
+158
+00:10:03,230 --> 00:10:08,277
+-Kau... Kau memang Nell Jackson!
+-Aku sudah bilang.
+
+159
+00:10:09,778 --> 00:10:13,866
+-Jangan terburu-buru.
+-Kumohon. Jangan sakiti kami.
+
+160
+00:10:14,783 --> 00:10:16,702
+Tidak, aku tidak akan menyakiti siapa pun.
+
+161
+00:10:16,785 --> 00:10:19,246
+Itulah masalahnya.
+Ini semua kesalahpahaman besar.
+
+162
+00:10:19,330 --> 00:10:21,206
+Kau bilang kau butuh
+persetujuan Moggerhangar?
+
+163
+00:10:23,208 --> 00:10:26,170
+Aku yakin kami bisa membuat pengecualian.
+
+164
+00:10:26,253 --> 00:10:28,547
+Tidak, kami akan melalui jalur resmi.
+
+165
+00:10:28,631 --> 00:10:30,924
+Dengan begitu, kau bisa memberi tahu orang
+bahwa aku tidak seperti dugaan mereka.
+
+166
+00:10:31,008 --> 00:10:32,801
+Panggil Mogs kemari.
+
+167
+00:10:32,885 --> 00:10:36,680
+-Itu akan membantu.
+-Mog... Lady Moggerhangar...
+
+168
+00:10:37,514 --> 00:10:38,515
+sedang...
+
+169
+00:10:39,224 --> 00:10:40,684
+-Sedang di pengadilan.
+-Aku tak bisa...
+
+170
+00:10:41,477 --> 00:10:42,519
+George.
+
+171
+00:10:43,812 --> 00:10:45,105
+{\an8}Isambard Tulley - DIGANTUNG
+
+172
+00:10:45,189 --> 00:10:48,359
+-Tn. Devereux telah digantung.
+-Tidak. Tidak.
+
+173
+00:10:48,442 --> 00:10:49,568
+Belum.
+
+174
+00:10:50,694 --> 00:10:56,075
+Sebenarnya, kami mempersiapkan
+kedua hasil tersebut.
+
+175
+00:11:03,791 --> 00:11:05,125
+Haruskah kita membantunya, Nelly?
+
+176
+00:11:09,296 --> 00:11:10,839
+Kami akan menunggu di sini
+untuk Moggerhangar.
+
+177
+00:11:12,841 --> 00:11:16,220
+Dia akan menyuap seseorang
+untuk membebaskannya. Lihat saja.
+
+178
+00:11:18,847 --> 00:11:19,848
+Baiklah.
+
+179
+00:11:35,823 --> 00:11:39,993
+GANTUNG PENGKHIANAT ITU
+
+180
+00:11:51,588 --> 00:11:53,966
+Untuk menangkal penyakit.
+
+181
+00:11:54,049 --> 00:11:57,428
+Kita tidak bisa terlalu berhati-hati
+ketika menyangkut orang-orang.
+
+182
+00:12:13,527 --> 00:12:18,449
+Seperti biasanya,
+para korban akan mewakili diri sendiri.
+
+183
+00:12:18,532 --> 00:12:20,200
+Karena ada begitu banyak korban
+dalam kasus ini,
+
+184
+00:12:20,284 --> 00:12:23,746
+kudengar akan ada juru bicara.
+
+185
+00:12:23,829 --> 00:12:25,330
+Ny. Miller?
+
+186
+00:12:26,457 --> 00:12:30,252
+-Kau mewakili pihak penuntut?
+-Ya, Yang Agung.
+
+187
+00:12:31,044 --> 00:12:33,589
+Yang Luhur. Tuan!
+
+188
+00:12:34,757 --> 00:12:35,758
+Benar?
+
+189
+00:12:39,011 --> 00:12:41,472
+Sir George Horner.
+
+190
+00:12:41,555 --> 00:12:45,893
+Kau ditunjuk sebagai penasihat hukum
+untuk terdakwa?
+
+191
+00:12:45,976 --> 00:12:48,020
+Ya, Yang Mulia.
+
+192
+00:12:49,062 --> 00:12:50,230
+Baiklah.
+
+193
+00:12:50,314 --> 00:12:55,903
+Juri harus memutuskan.
+Bersalah atau tidak bersalah.
+
+194
+00:12:55,986 --> 00:12:58,197
+Mari kita lanjutkan.
+
+195
+00:12:58,280 --> 00:13:03,076
+Tuan, bisakah saya meminta Anda
+mengklarifikasi nama Anda?
+
+196
+00:13:03,160 --> 00:13:04,995
+Charles Devereux.
+
+197
+00:13:05,078 --> 00:13:07,539
+-Dari 32 Hanover Square?
+-Benar.
+
+198
+00:13:08,457 --> 00:13:10,626
+Apakah Anda punya nama lain?
+
+199
+00:13:11,960 --> 00:13:15,088
+Saya pernah punya kekasih
+yang bersikeras memanggilku "Pooky."
+
+200
+00:13:18,258 --> 00:13:19,676
+Saya tidak tahu alasannya.
+
+201
+00:13:19,760 --> 00:13:22,971
+Jadi, Anda tidak pernah menggunakan
+nama Isambard Tulley?
+
+202
+00:13:23,055 --> 00:13:24,765
+Ya. Karena itu bukan namaku.
+
+203
+00:13:24,848 --> 00:13:27,392
+Meskipun seperti orang lain,
+saya pernah mendengar tentang orang itu.
+
+204
+00:13:27,476 --> 00:13:33,357
+Jadi, bagaimana seorang pria terhormat
+seperti diri Anda, Tn. Devereux,
+
+205
+00:13:33,440 --> 00:13:34,525
+bisa dituduh
+
+206
+00:13:34,608 --> 00:13:37,528
+sebagai salah satu penyamun
+paling terkenal di London?
+
+207
+00:13:39,488 --> 00:13:41,114
+Itu salah Nell Jackson.
+
+208
+00:13:43,492 --> 00:13:46,870
+-Si pembunuh, Nell Jackson?
+-Benar.
+
+209
+00:13:46,954 --> 00:13:50,290
+Begini, saat itu,
+saya dalam perjalanan pulang ke Mayfair.
+
+210
+00:13:50,374 --> 00:13:51,625
+Saya mengunjungi teman
+
+211
+00:13:51,708 --> 00:13:53,710
+dan menikmati terlalu banyak kegembiraan.
+
+212
+00:13:53,794 --> 00:13:55,796
+Saya sedang tidur
+
+213
+00:13:55,879 --> 00:13:59,925
+ketika bau aneh membangunkan saya.
+
+214
+00:14:00,008 --> 00:14:01,760
+Bau seperti apa?
+
+215
+00:14:01,844 --> 00:14:03,971
+Baunya memuakkan.
+Seperti daging dan kol busuk.
+
+216
+00:14:04,054 --> 00:14:09,685
+Tiba-tiba keretaku berhenti.
+Ada wajah di jendela.
+
+217
+00:14:09,768 --> 00:14:14,022
+Seorang wanita yang mengerikan
+menodongkan pistol ke kepala saya.
+
+218
+00:14:14,106 --> 00:14:18,110
+Dia memamerkan taringnya
+seolah-olah mau melahap saya.
+
+219
+00:14:18,193 --> 00:14:19,862
+Aku sangat terkejut
+
+220
+00:14:19,945 --> 00:14:23,031
+ketika dia memerintahku
+berperan sebagai suaminya.
+
+221
+00:14:23,115 --> 00:14:25,701
+Untungnya, aku lolos dari cengkeramannya.
+
+222
+00:14:25,784 --> 00:14:29,955
+Dan setelah dia menyerang Newgate
+untuk dapatkan saya, saya baru mengerti.
+
+223
+00:14:30,038 --> 00:14:32,207
+Dia terobsesi dengan saya.
+
+224
+00:14:33,208 --> 00:14:37,921
+Tapi saya menolak tawaran kekayaan darinya
+demi bisa membersihkan nama saya.
+
+225
+00:14:38,672 --> 00:14:43,051
+Saya bukanlah penyamun.
+Tapi Charles Devereux.
+
+226
+00:14:43,969 --> 00:14:45,637
+Pria terhormat,
+
+227
+00:14:45,721 --> 00:14:49,766
+dan korban dari kejahatan
+yang dituduhkan pada saya.
+
+228
+00:14:51,852 --> 00:14:54,646
+Terima kasih, Yang Mulia.
+Tidak ada pertanyaan lagi.
+
+229
+00:15:19,046 --> 00:15:20,255
+Ya?
+
+230
+00:15:22,674 --> 00:15:25,594
+-Lady Wilmot.
+-Maaf aku datang tanpa pemberitahuan.
+
+231
+00:15:25,677 --> 00:15:26,720
+Tidak apa-apa, silakan duduk.
+
+232
+00:15:28,513 --> 00:15:30,515
+Setelah kau berangkat ke London,
+
+233
+00:15:30,599 --> 00:15:34,061
+Rasselas, bocah istal itu,
+kembali ke Broadwater Hall tadi malam.
+
+234
+00:15:34,144 --> 00:15:36,521
+-Dia bersama Nell Jackson.
+-Dia memberitahumu di mana Nell Jackson?
+
+235
+00:15:36,605 --> 00:15:40,359
+Tidak, dia sangat setia padanya
+dan akan kembali ke sisinya.
+
+236
+00:15:40,442 --> 00:15:41,443
+Tapi...
+
+237
+00:15:42,277 --> 00:15:43,320
+aku mengambil ini.
+
+238
+00:15:44,571 --> 00:15:47,699
+Ini darahnya. Kita bisa gunakan
+pentagrammu untuk menemukannya.
+
+239
+00:15:50,202 --> 00:15:54,039
+Kau akan segera punya kesempatan
+untuk gunakan kekuatanmu lagi.
+
+240
+00:15:55,874 --> 00:16:00,462
+Pagi ini, Ratu menjadikanku
+kapten Pengawal.
+
+241
+00:16:00,545 --> 00:16:02,673
+Dia akan tinggal di Broadwater Hall.
+
+242
+00:16:10,555 --> 00:16:13,141
+-Kapan?
+-Dalam waktu dekat.
+
+243
+00:16:13,976 --> 00:16:18,647
+Rekanku akan berkumpul di sini hari ini
+untuk menyelesaikan rencananya.
+
+244
+00:16:19,898 --> 00:16:21,233
+Kapan mereka akan datang?
+
+245
+00:16:26,738 --> 00:16:29,157
+Kau telah memberi tahu mereka
+tentang keterlibatanku, bukan?
+
+246
+00:16:30,993 --> 00:16:34,663
+Walaupun aku sepemikiran dengan mereka,
+
+247
+00:16:34,746 --> 00:16:38,709
+seorang wanita
+yang punya kekuatan sepertimu
+
+248
+00:16:38,792 --> 00:16:41,003
+mungkin akan membuat mereka terkejut.
+
+249
+00:16:44,756 --> 00:16:49,553
+Kita mengubah sejarah, Lady Wilmot.
+
+250
+00:16:49,636 --> 00:16:52,222
+Kau ditakdirkan untuk hal-hal besar.
+
+251
+00:16:52,305 --> 00:16:54,933
+Jauh lebih besar daripada perseteruanmu
+dengan Nell Jackson.
+
+252
+00:16:57,019 --> 00:17:00,564
+-Dasar tukang bohong, berwajah masam...
+-Berandal?
+
+253
+00:17:00,647 --> 00:17:03,316
+Aku tahu dia bermasalah.
+
+254
+00:17:03,400 --> 00:17:05,902
+Aku tahu, tapi apa Newgate hanya lelucon?
+
+255
+00:17:05,986 --> 00:17:10,407
+Apa yang pernah kita lakukan
+selain bayar sewa untuk isi kantong mereka
+
+256
+00:17:10,490 --> 00:17:13,285
+agar dia dan saudara laki-lakinya itu
+
+257
+00:17:13,368 --> 00:17:17,706
+bisa duduk di rumah besar dan mengerikan
+sambil melakukan sihir bersama...
+
+258
+00:17:17,789 --> 00:17:18,999
+-Poynton.
+-Benarkah?
+
+259
+00:17:19,082 --> 00:17:21,293
+Dan akulah yang dituduh sebagai monster.
+
+260
+00:17:21,376 --> 00:17:24,254
+Hei, apa menurutmu Poynton
+yang mengirim Herne?
+
+261
+00:17:24,337 --> 00:17:26,214
+Sepertinya begitu.
+
+262
+00:17:26,298 --> 00:17:28,300
+Dan jika dia bisa memanggil
+orang jahat itu,
+
+263
+00:17:28,383 --> 00:17:31,011
+aku tidak sanggup membayangkan
+dia memimpin pasukan.
+
+264
+00:17:31,094 --> 00:17:33,555
+Poynton membawa perang ke sini, Billy.
+
+265
+00:17:33,638 --> 00:17:36,475
+Dan bukan bangsawan
+yang terluka parah di medan perang.
+
+266
+00:17:36,558 --> 00:17:37,934
+Bukan.
+
+267
+00:17:38,018 --> 00:17:39,895
+Yang akan benar-benar menderita
+
+268
+00:17:39,978 --> 00:17:42,939
+adalah yang tidak punya suara
+dalam masalah ini.
+
+269
+00:17:43,023 --> 00:17:46,818
+-Ya, orang-orang seperti kita.
+-Tidak akan sampai seperti itu.
+
+270
+00:17:47,861 --> 00:17:49,112
+Moggerhangar akan mencetak ceritanya.
+
+271
+00:17:49,196 --> 00:17:51,281
+Kita akan pastikan semua orang tahu
+kebenaran tentang mereka.
+
+272
+00:17:51,364 --> 00:17:54,659
+Begitukah? Kita harus memastikannya...
+
+273
+00:17:56,036 --> 00:17:57,913
+demi kita semua.
+
+274
+00:17:57,996 --> 00:17:59,581
+Semoga kau beruntung, Nelly.
+
+275
+00:18:00,874 --> 00:18:02,084
+Aku tidak butuh keberuntungan.
+
+276
+00:18:03,919 --> 00:18:04,920
+Aku punya kau.
+
+277
+00:18:09,925 --> 00:18:12,719
+Tn. Devereux, Anda mengenaliku?
+
+278
+00:18:13,553 --> 00:18:17,057
+-Tidak. Haruskah saya kenal?
+-Anda seharusnya kenal.
+
+279
+00:18:17,140 --> 00:18:19,267
+Karena Juli lalu,
+
+280
+00:18:19,351 --> 00:18:22,771
+Anda merampok kereta penuh barang
+di Jalan Exeter.
+
+281
+00:18:22,854 --> 00:18:25,982
+Anda mengambil delapan shilling,
+cincin perak,
+
+282
+00:18:26,066 --> 00:18:28,110
+dan kue buah yang saya buat
+untuk adik saya.
+
+283
+00:18:28,193 --> 00:18:31,279
+Sepertinya Anda salah, Nyonya.
+
+284
+00:18:31,363 --> 00:18:35,575
+Kue buah menimbulkan efek
+yang paling tidak menyenangkan bagi saya.
+
+285
+00:18:35,659 --> 00:18:38,995
+Pembengkakan di tenggorokan,
+pustula yang marah.
+
+286
+00:18:40,288 --> 00:18:42,457
+-Haruskah kita menguji itu?
+-Tidak.
+
+287
+00:18:43,792 --> 00:18:44,793
+Baiklah.
+
+288
+00:18:49,005 --> 00:18:50,132
+Anda tinggal di Mayfair?
+
+289
+00:18:50,841 --> 00:18:53,718
+Itu rumah ayah saya.
+Saya mewarisinya ketika dia meninggal.
+
+290
+00:18:53,802 --> 00:18:55,595
+-Dan Anda tinggal sendiri?
+-Ada penyewa.
+
+291
+00:18:56,138 --> 00:18:59,307
+-Anda punya pekerjaan?
+-Saya tuan tanah. Makanya ada penyewa.
+
+292
+00:19:02,185 --> 00:19:06,523
+Anda bilang nama Anda
+adalah Charles Devereux?
+
+293
+00:19:06,606 --> 00:19:08,859
+Saya pikir hal itu sudah dibahas.
+
+294
+00:19:09,568 --> 00:19:10,610
+Devereux.
+
+295
+00:19:11,570 --> 00:19:14,322
+Devereux. Apakah itu nama Prancis?
+
+296
+00:19:14,406 --> 00:19:17,784
+Ya. Kakek saya orang Prancis.
+
+297
+00:19:18,660 --> 00:19:19,828
+Anda bisa bahasa Prancis?
+
+298
+00:19:19,911 --> 00:19:24,499
+Ya. Kakek saya orang Prancis.
+Anggota dewan yang paling terhormat.
+
+299
+00:19:26,168 --> 00:19:30,714
+-Ini luar biasa.
+-Ada yang ingin disampaikan, Ny. Miller?
+
+300
+00:19:30,797 --> 00:19:31,798
+Ya.
+
+301
+00:19:35,677 --> 00:19:37,637
+Apa Anda tahu tentang Jacobite?
+
+302
+00:19:39,723 --> 00:19:40,724
+Tentu saja.
+
+303
+00:19:40,807 --> 00:19:42,058
+Pertanyaan yang konyol.
+
+304
+00:19:42,142 --> 00:19:47,022
+Tapi dengan kejadian baru-baru ini,
+mungkin beritanya tidak sampai ke Newgate.
+
+305
+00:19:47,105 --> 00:19:49,274
+Biar saya beri tahu.
+
+306
+00:19:49,357 --> 00:19:52,194
+Kemarin, Earl Godolphin dikirim ke Menara
+
+307
+00:19:52,277 --> 00:19:54,946
+karena berkomplot dengan Prancis
+untuk menggulingkan Ratu kita.
+
+308
+00:19:55,030 --> 00:19:57,115
+Tapi dia tidak bekerja sendirian, 'kan?
+
+309
+00:19:58,033 --> 00:20:01,494
+Saya usulkan ke pengadilan ini bahwa Anda,
+
+310
+00:20:01,578 --> 00:20:05,207
+Tn. Devereux,
+adalah tokoh kunci dalam plot ini.
+
+311
+00:20:05,290 --> 00:20:06,917
+-Apa?
+-Bahkan,
+
+312
+00:20:07,000 --> 00:20:11,254
+Saya sarankan Anda diadili
+bukan hanya untuk perampokan,
+
+313
+00:20:11,338 --> 00:20:12,589
+tapi juga pengkhianatan.
+
+314
+00:20:12,672 --> 00:20:14,382
+Ini tidak masuk akal.
+
+315
+00:20:17,302 --> 00:20:21,223
+Tipe pria terhormat yang misterius.
+Tidak ada keluarga.
+
+316
+00:20:21,306 --> 00:20:24,851
+Penyewa Anda, saya berkesempatan
+untuk bicara dengan mereka,
+
+317
+00:20:24,935 --> 00:20:28,647
+mengatakan bahwa Anda bisa pergi
+selama berminggu-minggu.
+
+318
+00:20:30,941 --> 00:20:32,317
+Anda pergi ke mana, Tn. Devereux?
+
+319
+00:20:33,276 --> 00:20:34,277
+Saya mengunjungi teman.
+
+320
+00:20:35,237 --> 00:20:36,988
+-Teman di Prancis?
+-Bukan!
+
+321
+00:20:39,032 --> 00:20:40,700
+Saya belum pernah ke Prancis.
+
+322
+00:20:40,784 --> 00:20:43,787
+Saya bukan bangsawan Jacobite.
+Ayah saya pembuat sepatu.
+
+323
+00:20:43,870 --> 00:20:47,791
+Pembuat sepatu dengan rumah di Mayfair?
+
+324
+00:20:49,084 --> 00:20:51,419
+Dia... Saya...
+
+325
+00:20:51,503 --> 00:20:54,381
+Bangsawan Prancis
+atau putra pembuat sepatu?
+
+326
+00:20:54,464 --> 00:20:56,841
+Anda yang mana, Tn. Devereux?
+
+327
+00:20:56,925 --> 00:21:00,512
+Bisakah kami memercayai kata-kata
+yang keluar dari mulut Anda?
+
+328
+00:21:01,846 --> 00:21:05,392
+Eularia. Kumohon.
+Pasti ada sesuatu yang bisa kau lakukan.
+
+329
+00:21:06,184 --> 00:21:07,978
+Ini menyenangkan, Charles.
+
+330
+00:21:10,063 --> 00:21:11,064
+Pergi!
+
+331
+00:21:56,693 --> 00:21:58,737
+-Kita akan lihat siapa yang di pihak mana.
+-Itu...
+
+332
+00:21:58,820 --> 00:21:59,946
+Periksa itu...
+
+333
+00:22:03,867 --> 00:22:04,868
+Bagaimana menurutmu?
+
+334
+00:22:05,869 --> 00:22:06,870
+-Ya.
+-Tepat sekali.
+
+335
+00:22:11,624 --> 00:22:12,625
+Thomas.
+
+336
+00:23:36,084 --> 00:23:38,420
+-Diculik?
+-Ya. Oleh pemain teater.
+
+337
+00:23:38,503 --> 00:23:41,131
+Aku dan Nell menyelamatkan mereka.
+Begitulah kami bertemu Polly.
+
+338
+00:23:42,048 --> 00:23:43,341
+Selama ini kau sibuk.
+
+339
+00:23:45,009 --> 00:23:49,264
+Kupikir saat Nell kembali tanpamu,
+kami mungkin tidak akan melihatmu lagi.
+
+340
+00:23:49,347 --> 00:23:51,975
+Kau mungkin tidak mau melihatku lagi.
+
+341
+00:23:53,977 --> 00:23:56,563
+Tapi aku memintamu jadi kekasihku.
+
+342
+00:23:58,481 --> 00:24:02,318
+Aku bertanya pada Nell. Dia tidak bilang?
+
+343
+00:24:04,737 --> 00:24:07,740
+-Tidak ada tanda dari wanita tua itu?
+-Teganya kau.
+
+344
+00:24:07,824 --> 00:24:09,576
+-Baiklah. Dia tidak tua.
+-Teganya kau tidak memberitahuku.
+
+345
+00:24:09,659 --> 00:24:12,704
+Tentang percakapan kita di kedai kopi.
+
+346
+00:24:13,997 --> 00:24:15,331
+Aku bukan tidak memberitahumu.
+
+347
+00:24:17,208 --> 00:24:20,253
+-Aku hanya tidak bilang.
+-Aku senang kita membereskannya.
+
+348
+00:24:21,045 --> 00:24:24,299
+Dia meninggalkan kita.
+Kukira dia berubah pikiran.
+
+349
+00:24:24,382 --> 00:24:26,593
+Atau mati.
+
+350
+00:24:26,676 --> 00:24:30,180
+-Atau jatuh dari...
+-Lihat ini.
+
+351
+00:24:30,263 --> 00:24:34,392
+Nelly Jackson.
+
+352
+00:24:34,476 --> 00:24:38,062
+Aku sudah tahu dia asli
+saat pertama melihat...
+
+353
+00:24:39,022 --> 00:24:44,986
+Jadi, kau kemari
+untuk menjual cerita padaku?
+
+354
+00:24:45,069 --> 00:24:46,946
+-Kami tak menjual apa pun.
+-Tapi kami memang punya cerita.
+
+355
+00:24:47,030 --> 00:24:48,156
+Kami ingin kau mencetaknya.
+
+356
+00:24:48,239 --> 00:24:50,283
+Dan berjanji kau berhenti
+menulis berita palsu soal Nell.
+
+357
+00:24:50,366 --> 00:24:53,620
+-Atau siapa pun.
+-Astaga, sungguh mudah ditebak.
+
+358
+00:24:58,333 --> 00:25:02,837
+"Mata Nell Jackson tidak membara
+seperti api neraka,
+
+359
+00:25:02,921 --> 00:25:04,797
+seperti yang dilaporkan sebelumnya.
+
+360
+00:25:04,881 --> 00:25:08,134
+Matanya seperti sinar surgawi
+yang menyinari
+
+361
+00:25:08,218 --> 00:25:11,054
+dan membimbing jiwa yang tersesat."
+
+362
+00:25:11,137 --> 00:25:12,222
+Apa ini?
+
+363
+00:25:12,305 --> 00:25:15,767
+-Hanya ide.
+-Gambaran yang berani.
+
+364
+00:25:17,060 --> 00:25:19,938
+Tapi menarik.
+
+365
+00:25:21,022 --> 00:25:22,232
+Jadi, kau akan mencetaknya?
+
+366
+00:25:22,732 --> 00:25:24,526
+Tentu saja aku tidak akan mencetaknya.
+
+367
+00:25:24,609 --> 00:25:26,736
+Tapi kau harus mencetaknya,
+kau harus menarik berita bohong
+
+368
+00:25:26,819 --> 00:25:28,071
+yang kau cetak soal Nell.
+
+369
+00:25:29,489 --> 00:25:31,616
+Biar kuberi tahu sesuatu, Nona Muda.
+
+370
+00:25:31,699 --> 00:25:37,705
+Sebagus apa pun tulisannya,
+penarikan tidak akan melariskan koran.
+
+371
+00:25:37,789 --> 00:25:38,873
+Ya, tapi kebohongan melariskan.
+
+372
+00:25:38,957 --> 00:25:41,543
+Ya. Aku mencetak
+apa yang diinginkan orang.
+
+373
+00:25:41,626 --> 00:25:43,628
+-Nell.
+-Orang-orang menginginkan kebenaran.
+
+374
+00:25:43,711 --> 00:25:47,173
+Ceramah moral dari seorang penyamun.
+
+375
+00:25:47,257 --> 00:25:50,510
+Kau munafik yang menjijikkan,
+Nell Jackson.
+
+376
+00:25:50,593 --> 00:25:56,432
+Dan aku akan menggunakan tiap tetes tinta,
+memastikan seluruh dunia mengetahuinya.
+
+377
+00:25:59,102 --> 00:26:00,645
+Jalur resmi tidak berguna.
+
+378
+00:26:07,652 --> 00:26:08,987
+Cetak kisah ini,
+
+379
+00:26:09,070 --> 00:26:11,698
+atau aku akan membuat begitu banyak lubang
+pada mesin cetak ini
+
+380
+00:26:11,781 --> 00:26:15,410
+sampai kau bisa memarut keju dengannya,
+lalu aku akan pergi.
+
+381
+00:26:17,662 --> 00:26:24,168
+Jangan bawa cahaya ke api,
+tapi batas yang jelas.
+
+382
+00:26:25,670 --> 00:26:31,384
+Jangan bawa cahaya ke api,
+tapi batas yang jelas.
+
+383
+00:26:31,467 --> 00:26:37,557
+Jangan bawa cahaya ke api,
+tapi batas yang jelas.
+
+384
+00:26:38,349 --> 00:26:44,230
+Jangan bawa cahaya ke api,
+tapi batas yang jelas.
+
+385
+00:26:44,314 --> 00:26:49,652
+Jangan bawa cahaya ke api,
+tapi batas yang jelas.
+
+386
+00:26:49,736 --> 00:26:52,447
+Jangan bawa cahaya ke api,
+tapi batas yang jelas.
+
+387
+00:26:52,530 --> 00:26:55,283
+-Kau tak akan berani.
+-Kau tak kenal aku.
+
+388
+00:27:05,418 --> 00:27:06,461
+Hati-hati, George.
+
+389
+00:27:21,184 --> 00:27:26,856
+"Kau tidak akan ke mana-mana,
+Nell Jackson."
+
+390
+00:27:28,691 --> 00:27:29,692
+Apa?
+
+391
+00:27:32,487 --> 00:27:34,238
+Kubilang...
+
+392
+00:27:36,616 --> 00:27:38,284
+George, kemarilah.
+
+393
+00:27:41,954 --> 00:27:42,955
+Kau tidak akan...
+
+394
+00:27:43,039 --> 00:27:44,749
+Ke mana-mana.
+
+395
+00:27:44,832 --> 00:27:46,751
+Sofia. Itu pasti dia.
+
+396
+00:27:57,470 --> 00:27:58,888
+Bawa mereka pergi dari sini.
+
+397
+00:28:00,848 --> 00:28:03,601
+Aku tahu kau di sana.
+Sofia, ini bukan kau.
+
+398
+00:28:05,478 --> 00:28:10,942
+-Ras!
+-Pembunuh. Pencuri. Hina.
+
+399
+00:28:11,025 --> 00:28:14,362
+Orang tak penting yang membunuh ayahku!
+
+400
+00:28:15,238 --> 00:28:16,322
+Gawat.
+
+401
+00:28:21,202 --> 00:28:22,537
+Lakukan sesuatu, Nelly. Lawan!
+
+402
+00:28:22,620 --> 00:28:24,580
+-Aku tidak bisa. Dia wanita.
+-Kau juga!
+
+403
+00:28:25,289 --> 00:28:27,625
+Tapi ini bukan perbuatannya. Tidak juga.
+
+404
+00:28:28,459 --> 00:28:29,669
+Tidak!
+
+405
+00:28:39,554 --> 00:28:41,264
+Kau pikir kau melindungi saudaramu?
+
+406
+00:28:42,181 --> 00:28:44,308
+Dia tidak akan pernah melakukan
+hal yang sama untukmu.
+
+407
+00:28:44,392 --> 00:28:45,435
+Pembohong!
+
+408
+00:28:45,518 --> 00:28:47,103
+Pembohong!
+
+409
+00:28:57,655 --> 00:29:01,617
+<i>Dia membunuhnya. Dia menembaknya!
+Dia membunuh ayahku!</i>
+
+410
+00:29:01,701 --> 00:29:03,369
+<i>Pembunuh!</i>
+
+411
+00:29:03,453 --> 00:29:04,704
+<i>Makhluk yang tidak wajar.</i>
+
+412
+00:29:04,787 --> 00:29:05,830
+<i>Iblis</i>
+
+413
+00:29:05,913 --> 00:29:08,207
+<i>yang juga membunuh pria malang
+di Tottenham.</i>
+
+414
+00:29:08,291 --> 00:29:10,376
+<i>"Hakim dibunuh oleh Nelly Jackson."</i>
+
+415
+00:29:10,460 --> 00:29:11,461
+<i>Kau jahat!</i>
+
+416
+00:29:11,544 --> 00:29:14,255
+<i>Ayahmu tertangkap sedang berburu.</i>
+
+417
+00:29:14,338 --> 00:29:15,548
+Jangan dengarkan itu, Nell.
+
+418
+00:29:15,631 --> 00:29:16,674
+Itu semua bohong!
+
+419
+00:29:16,758 --> 00:29:18,176
+<i>Dia makan bayi!</i>
+
+420
+00:29:18,259 --> 00:29:22,930
+<i>Dia sangat mengerikan untuk dilihat.
+Menatap matanya saja...</i>
+
+421
+00:29:23,848 --> 00:29:24,891
+<i>Dia tercela!</i>
+
+422
+00:29:24,974 --> 00:29:27,268
+<i>-Dia seperti...
+-Pembunuhan!</i>
+
+423
+00:29:27,351 --> 00:29:29,937
+<i>Katanya kau jahat.</i>
+
+424
+00:29:34,901 --> 00:29:36,819
+<i>Makhluk yang tidak wajar.</i>
+
+425
+00:29:36,903 --> 00:29:39,071
+Kau perlu mendengar kebenaran, Nelly!
+
+426
+00:29:47,663 --> 00:29:52,084
+<i>Semua orang bicara tentang Nell kami</i>
+
+427
+00:29:52,168 --> 00:29:56,339
+<i>Tentang dia membunuh Lord Blancheford
+Dan dia agak bau</i>
+
+428
+00:29:56,422 --> 00:29:57,507
+Apa yang kau lakukan, George? Merunduk!
+
+429
+00:29:57,590 --> 00:30:02,011
+<i>Tapi Nelly bukan pembunuh
+Sofia Wilmot jahat</i>
+
+430
+00:30:02,094 --> 00:30:06,891
+<i>Thomas menembak ayah mereka
+Dan kini mereka menginginkan Ratu kita</i>
+
+431
+00:30:06,974 --> 00:30:07,975
+George!
+
+432
+00:30:08,059 --> 00:30:12,438
+<i>Dengan Poynton si bangsawan Jacobite
+Mereka sedang menyiapkan perang</i>
+
+433
+00:30:12,522 --> 00:30:16,734
+<i>Jadi, jangan salahkan Nell
+Dia berani dan jujur</i>
+
+434
+00:30:16,818 --> 00:30:19,445
+<i>-Dan kami tidak akan lari lagi
+-Kau jahat!</i>
+
+435
+00:30:19,529 --> 00:30:22,281
+<i>Dan membunuh Lord Blancheford!</i>
+
+436
+00:30:57,650 --> 00:30:59,777
+Kenapa tidak di tempat
+yang kita rencanakan sebelumnya?
+
+437
+00:30:59,861 --> 00:31:01,654
+Itu terlalu sederhana.
+
+438
+00:31:02,780 --> 00:31:05,032
+-Semua orang diundang?
+-Bagus sekali. Mereka sudah siap.
+
+439
+00:31:05,116 --> 00:31:07,451
+Lord Umberland akan sangat berharga
+untuk usaha kita.
+
+440
+00:31:07,535 --> 00:31:10,830
+Kita harus membiarkan orang Skotlandia
+tahu secepat mungkin.
+
+441
+00:31:11,622 --> 00:31:15,001
+-Putra Harley yang paling tepercaya.
+-Aku akan mengirim pesan.
+
+442
+00:31:16,127 --> 00:31:17,753
+-Dia tahu.
+-Astaga.
+
+443
+00:31:17,837 --> 00:31:19,755
+Nell Jackson. Dia tahu soal invasinya.
+
+444
+00:31:19,839 --> 00:31:21,132
+Dia tidak mungkin tahu.
+
+445
+00:31:21,215 --> 00:31:25,303
+Rasselas pasti...
+Dia memberitahunya. Semuanya.
+
+446
+00:31:25,386 --> 00:31:26,804
+Mereka di kantor koran.
+
+447
+00:31:26,888 --> 00:31:29,932
+Poynton. Apa ini? Siapa wani...
+
+448
+00:31:30,016 --> 00:31:32,143
+Aku sedang bicara.
+
+449
+00:31:34,979 --> 00:31:36,689
+Kita harus segera bertindak
+
+450
+00:31:36,772 --> 00:31:38,441
+jika mau rencana kita berhasil.
+
+451
+00:31:38,524 --> 00:31:39,525
+Tenanglah.
+
+452
+00:31:40,151 --> 00:31:44,071
+Walau Jackson tahu,
+dia hanya rakyat jelata,
+
+453
+00:31:44,155 --> 00:31:47,199
+seorang kriminal,
+tidak ada yang percaya padanya.
+
+454
+00:31:47,283 --> 00:31:49,076
+Kau meremehkannya.
+
+455
+00:31:50,953 --> 00:31:53,414
+Butuh waktu untuk membawa pasukan ke sini
+dari Prancis.
+
+456
+00:31:53,497 --> 00:31:55,791
+-Kita butuh waktu.
+-Tidak ada waktu.
+
+457
+00:31:58,461 --> 00:31:59,754
+Kita bawa Ratu besok.
+
+458
+00:32:12,683 --> 00:32:14,644
+Lady Moggerhangar, kau harus...
+
+459
+00:32:15,186 --> 00:32:17,021
+Apa yang terjadi?
+
+460
+00:32:18,522 --> 00:32:23,736
+Aku dikalahkan.
+Aku dimanipulasi. Aku digunakan.
+
+461
+00:32:24,987 --> 00:32:27,198
+Siapa pelakunya?
+Aku akan mengakhiri mereka.
+
+462
+00:32:27,281 --> 00:32:31,577
+Sofia Wilmot. Dia dan saudaranya,
+Thomas, menjebak Nell.
+
+463
+00:32:31,661 --> 00:32:33,496
+Dan sisanya, seperti yang George katakan.
+
+464
+00:32:35,706 --> 00:32:37,917
+Poynton dan Sofia.
+
+465
+00:32:38,501 --> 00:32:40,586
+Kita mulai lagi.
+
+466
+00:32:41,170 --> 00:32:43,631
+Apa? Kau tahu tentang ini?
+
+467
+00:32:48,260 --> 00:32:49,303
+Itu semua benar.
+
+468
+00:32:49,387 --> 00:32:51,347
+Kupikir kau bukan berkecimpung
+dalam bisnis kebenaran.
+
+469
+00:32:51,430 --> 00:32:54,392
+Aku dalam bisnis cerita.
+
+470
+00:32:54,475 --> 00:32:59,605
+Dan cerita terbaik
+sering kali berdasarkan kehidupan nyata.
+
+471
+00:32:59,689 --> 00:33:02,233
+Omong-omong soal itu, pengadilan Devereux.
+
+472
+00:33:02,316 --> 00:33:03,776
+Kau membebaskannya.
+
+473
+00:33:04,443 --> 00:33:07,071
+Benar?
+
+474
+00:33:07,738 --> 00:33:09,323
+Tidak juga.
+
+475
+00:33:09,407 --> 00:33:12,118
+Isambard Tulley,
+
+476
+00:33:12,201 --> 00:33:16,247
+Anda dinyatakan bersalah
+atas semua tuduhan
+
+477
+00:33:16,330 --> 00:33:19,125
+dan akan digantung karena kejahatan Anda.
+
+478
+00:33:25,006 --> 00:33:26,007
+Nell!
+
+479
+00:33:26,966 --> 00:33:28,342
+Kau datang untukku.
+
+480
+00:33:34,849 --> 00:33:36,058
+-Apa?
+-Hentikan dia!
+
+481
+00:33:36,142 --> 00:33:37,727
+Penjaga!
+
+482
+00:33:37,810 --> 00:33:40,688
+Hentikan dia!
+
+483
+00:33:42,273 --> 00:33:43,315
+Dia kabur?
+
+484
+00:33:47,945 --> 00:33:51,824
+Mari perbaiki mesin cetak itu.
+Kau, ikuti aku.
+
+485
+00:33:53,367 --> 00:33:54,910
+Apa? Ambil ini.
+
+486
+00:33:56,078 --> 00:33:58,080
+Kau bisa pegang? Terima kasih.
+
+487
+00:34:02,209 --> 00:34:04,920
+Kami punya posisi untuk editor baru.
+
+488
+00:34:05,004 --> 00:34:07,089
+Sungguh?
+
+489
+00:34:10,259 --> 00:34:11,302
+Baiklah.
+
+490
+00:34:13,846 --> 00:34:14,847
+Selamat tinggal.
+
+491
+00:34:18,934 --> 00:34:20,102
+-Terima kasih.
+-Sampai jumpa.
+
+492
+00:34:20,186 --> 00:34:21,479
+Aku akan tinggalkan ini.
+
+493
+00:34:21,562 --> 00:34:22,563
+Pergilah.
+
+494
+00:34:22,646 --> 00:34:25,024
+Tapi kau harus membuktikan diri.
+
+495
+00:34:25,107 --> 00:34:28,444
+Jam kerjanya panjang.
+Upah bulanannya tiga shilling.
+
+496
+00:34:28,527 --> 00:34:31,405
+Kau membayarku? Untuk menulis?
+
+497
+00:34:38,704 --> 00:34:41,457
+Silakan. Jika mau pekerjaannya.
+
+498
+00:34:45,795 --> 00:34:47,004
+Apa katanya?
+
+499
+00:34:53,052 --> 00:34:54,595
+Maksudnya catatan itu.
+
+500
+00:35:03,104 --> 00:35:07,399
+"Ratu Anne akan pindah
+ke Broadwater Hall besok
+
+501
+00:35:07,483 --> 00:35:11,153
+di bawah instruksi Earl Poynton."
+
+502
+00:35:13,322 --> 00:35:14,740
+Astaga.
+
+503
+00:35:14,824 --> 00:35:17,409
+Kau akan mencetak cerita itu, 'kan?
+
+504
+00:35:18,285 --> 00:35:19,995
+-Lalu semua orang akan tahu.
+-Tidak ada waktu.
+
+505
+00:35:20,079 --> 00:35:21,705
+Apa pun yang mereka rencanakan,
+itu terjadi sekarang.
+
+506
+00:35:21,789 --> 00:35:23,207
+Apa yang harus kita lakukan, Nelly?
+
+507
+00:35:27,253 --> 00:35:28,295
+Kita akan menghentikan mereka.
+
+508
+00:37:01,680 --> 00:37:03,682
+Diterjemahkan oleh Anggiat
+
