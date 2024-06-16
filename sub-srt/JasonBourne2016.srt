@@ -1,0 +1,4687 @@
+﻿1
+00:00:57,808 --> 00:00:58,850
+<i>Aku ingat.</i>
+
+2
+00:01:00,477 --> 00:01:01,478
+<i>Aku ingat segalanya.</i>
+
+3
+00:01:06,149 --> 00:01:07,818
+Kapten Webb.
+
+4
+00:01:07,985 --> 00:01:09,069
+Selamat pagi.
+
+5
+00:01:09,486 --> 00:01:12,030
+Semuanya sudah dijelaskan?
+
+6
+00:01:13,699 --> 00:01:14,533
+Ya, Pak.
+
+7
+00:01:15,993 --> 00:01:17,327
+Setelah selesai...
+
+8
+00:01:17,411 --> 00:01:19,621
+kau bukan lagi David Webb.
+
+9
+00:01:19,913 --> 00:01:22,040
+Aku akan jadi yang kau perlukan, Pak.
+
+10
+00:01:23,792 --> 00:01:26,128
+Kau tahu apa artinya bagimu...
+
+11
+00:01:26,503 --> 00:01:28,380
+jika kau memilih untuk tinggal.
+
+12
+00:01:30,549 --> 00:01:32,676
+Kau tak bisa lari
+dari perbuatanmu, Jason.
+
+13
+00:01:34,011 --> 00:01:36,013
+Kau menjadikan dirimu seperti ini.
+
+14
+00:01:37,556 --> 00:01:40,684
+Pada akhirnya nanti
+kau harus menghadapi fakta.
+
+15
+00:01:42,019 --> 00:01:44,021
+Kau sukarela.
+
+16
+00:02:29,900 --> 00:02:35,364
+TSAMANTAS, YUNANI
+DI PERBATASAN YUNANI-ALBANIA
+
+17
+00:02:47,668 --> 00:02:50,295
+Vasily, kau giliran pertama.
+
+18
+00:02:57,594 --> 00:02:58,720
+10 untuk orang Serbia!
+
+19
+00:02:59,096 --> 00:02:59,971
+20 untuk orang Serbia!
+
+20
+00:03:01,598 --> 00:03:02,974
+10 untuk orang Rusia!
+
+21
+00:04:05,871 --> 00:04:09,291
+REYKJAVIK, ISLANDIA
+
+22
+00:04:25,557 --> 00:04:27,434
+Christian Dassault memesan tempat.
+
+23
+00:04:50,332 --> 00:04:53,585
+Gunakan SQL untuk merusak
+basis data mereka...
+
+24
+00:05:08,350 --> 00:05:11,895
+BADAN INTELIJEN PUSAT
+LANGLEY, VIRGINIA
+
+25
+00:05:12,938 --> 00:05:15,774
+Washington Post
+CIA Kehilangan Kepercayaan
+
+26
+00:05:15,857 --> 00:05:18,485
+Komite Intelijen Senat
+meneliti kesiapan agensi
+
+27
+00:05:24,950 --> 00:05:27,661
+menjalankan algoritma prediksi
+
+28
+00:05:29,538 --> 00:05:32,541
+ALEPPO
+Suriah
+
+29
+00:05:37,254 --> 00:05:38,213
+Heather Lee.
+
+30
+00:05:38,463 --> 00:05:40,507
+<i>Bu, ada alat...</i>
+
+31
+00:05:40,590 --> 00:05:43,552
+milik regu yang menetap
+di Novosibirsk, Rusia, tahun 1993.
+
+32
+00:05:44,094 --> 00:05:46,429
+Tercatat sudah dihancurkan.
+
+33
+00:05:46,721 --> 00:05:48,306
+<i>Komputernya coba mengakses kita.</i>
+
+34
+00:05:54,312 --> 00:05:56,106
+Operasi Rahasia
+
+35
+00:05:58,483 --> 00:06:00,819
+Salin ke USB Drive
+
+36
+00:06:01,278 --> 00:06:04,656
+Mengunduh berkas 'Operasi Rahasia'
+ke USB Drive
+
+37
+00:06:16,334 --> 00:06:17,460
+Apa statusnya?
+
+38
+00:06:17,627 --> 00:06:19,671
+Siapa pun orangnya,
+dia hanya duduk diam.
+
+39
+00:06:21,006 --> 00:06:23,592
+Server utama CIA
+
+40
+00:06:24,009 --> 00:06:25,594
+Tidak ada pemindahan data.
+
+41
+00:06:25,677 --> 00:06:27,262
+DATA TERKIRIM: 283
+DITERIMA: 0
+
+42
+00:06:27,971 --> 00:06:28,805
+Minggir.
+
+43
+00:06:33,977 --> 00:06:35,437
+SISTEM DIRETAS
+
+44
+00:06:35,604 --> 00:06:37,105
+Mereka menemukan pintu belakang.
+
+45
+00:06:37,480 --> 00:06:40,025
+Kita perlu program penghubung.
+Akan kutemukan sumbernya.
+
+46
+00:06:40,191 --> 00:06:41,026
+Kukerjakan.
+
+47
+00:06:41,151 --> 00:06:44,279
+Ada penyusup
+di kerangka utama rahasia kita.
+
+48
+00:06:44,362 --> 00:06:46,364
+Tinggalkan pekerjaanmu,
+dan selesaikan ini!
+
+49
+00:06:49,326 --> 00:06:53,580
+WEBB, RICHARD
+ANALIS
+
+50
+00:06:57,083 --> 00:06:59,753
+TANGGUNGAN
+DAVID WEBB (PUTRA)
+
+51
+00:07:13,141 --> 00:07:14,684
+Bu, kukirim kodenya.
+
+52
+00:07:14,851 --> 00:07:15,685
+Dapat.
+
+53
+00:07:17,020 --> 00:07:18,396
+- Butuh sekarang?
+- Ya.
+
+54
+00:07:18,480 --> 00:07:20,148
+- Mendapatkan IP.
+- Di mana rute lacaknya?
+
+55
+00:07:20,231 --> 00:07:21,858
+Pengguna tak dikenal. Memonitor.
+
+56
+00:07:23,860 --> 00:07:24,694
+Reykjavik.
+
+57
+00:07:26,363 --> 00:07:27,197
+KOORDINAT IP
+
+58
+00:07:27,364 --> 00:07:28,573
+Kamp peretas SecOps.
+
+59
+00:07:28,698 --> 00:07:29,824
+Matikan listrik gedungnya.
+
+60
+00:07:30,033 --> 00:07:31,451
+Masuk ke jaringan listrik.
+
+61
+00:07:31,534 --> 00:07:32,577
+Ya, Pak.
+
+62
+00:07:33,495 --> 00:07:35,622
+Luncurkan utilitas implan
+aktivasi malware jarak jauh
+
+63
+00:07:39,167 --> 00:07:41,795
+PERINGATAN
+JEJAK EKSTERNAL TERLACAK
+
+64
+00:07:44,214 --> 00:07:46,174
+- Aku masuk ke pengatur daya gedung.
+- Tunggu.
+
+65
+00:07:47,342 --> 00:07:48,218
+Sepuluh detik.
+
+66
+00:07:49,177 --> 00:07:50,011
+Ayo tuntaskan.
+
+67
+00:07:50,095 --> 00:07:51,888
+MALWARE TERPASANG
+
+68
+00:07:51,972 --> 00:07:53,848
+- Matikan.
+- Baik. Mematikan.
+
+69
+00:08:03,566 --> 00:08:04,484
+Kau masih terhubung?
+
+70
+00:08:28,216 --> 00:08:29,801
+KHUSUS DIREKTUR CIA
+
+71
+00:08:34,639 --> 00:08:35,598
+Dewey.
+
+72
+00:08:36,433 --> 00:08:37,892
+Kita diretas.
+
+73
+00:08:38,435 --> 00:08:39,436
+Seberapa buruk?
+
+74
+00:08:39,602 --> 00:08:41,229
+Bisa lebih buruk dari Snowden.
+
+75
+00:08:42,105 --> 00:08:43,565
+Kita tahu siapa pelakunya?
+
+76
+00:08:43,690 --> 00:08:44,691
+<i>Kami berusaha.</i>
+
+77
+00:08:44,816 --> 00:08:47,402
+Kata Lee pelakunya
+mengenal baik sistem kita.
+
+78
+00:08:48,069 --> 00:08:50,739
+Ini bisa memengaruhi Deep Dream,
+dan Iron Hand.
+
+79
+00:08:51,448 --> 00:08:56,327
+Atur pengarahan di ruang rapat
+satu jam lagi.
+
+80
+00:09:00,415 --> 00:09:04,586
+PERUSAHAAN DEEP DREAM
+SILICON VALLEY, CALIFORNIA
+
+81
+00:09:06,129 --> 00:09:07,130
+Ya.
+
+82
+00:09:08,631 --> 00:09:11,176
+- Dapat konfirmasi?
+- Ya, ada peretasan.
+
+83
+00:09:11,968 --> 00:09:13,094
+Kita terbongkar?
+
+84
+00:09:13,511 --> 00:09:15,180
+Belum tahu. Masih diperiksa.
+
+85
+00:09:15,305 --> 00:09:16,973
+Hubungi Dewey.
+Atur pertemuan di DC.
+
+86
+00:09:17,223 --> 00:09:19,100
+Aaron, risikonya besar,
+jangan buat masalah.
+
+87
+00:09:19,184 --> 00:09:20,477
+Lakukan saja.
+
+88
+00:09:23,229 --> 00:09:25,398
+George. Siap untuk peluncuran?
+
+89
+00:09:31,780 --> 00:09:33,323
+PIRANTI DIKENAL
+Dubna 48k
+
+90
+00:09:33,406 --> 00:09:34,741
+Tampilkan aktivitas terakhir
+
+91
+00:09:38,620 --> 00:09:40,205
+SORTIR AKTIVITAS TERAKHIR
+
+92
+00:09:41,164 --> 00:09:43,291
+Christian DASSAULT
+KUMPULAN PERETAS PANDEMIC
+
+93
+00:09:43,500 --> 00:09:45,710
+Knightrider 2 jam lalu
+
+94
+00:09:47,670 --> 00:09:50,548
+DIDUGA PEREMPUAN, AWAL 30-AN
+Aktif 2009 - Sekarang
+
+95
+00:09:52,133 --> 00:09:56,346
+PEREMPUAN 30-35
+PELABUHAN ISLANDIA, BANDARA
+
+96
+00:09:56,513 --> 00:09:57,472
+305 COCOK
+
+97
+00:09:58,640 --> 00:10:00,100
+MENCARI
+PENGENALAN WAJAH
+
+98
+00:10:09,609 --> 00:10:10,693
+COCOK
+
+99
+00:10:16,241 --> 00:10:19,786
+TERKAIT DENGAN JASON BOURNE
+
+100
+00:10:32,382 --> 00:10:34,926
+Heather, kau kenal
+Direktur Intelijen Nasional?
+
+101
+00:10:35,301 --> 00:10:37,178
+Heather Lee, Operasi Siber, Pak.
+
+102
+00:10:38,179 --> 00:10:39,347
+Dapat nama pelakunya?
+
+103
+00:10:39,889 --> 00:10:42,100
+Peretasnya mantan agen CIA.
+
+104
+00:10:43,142 --> 00:10:45,186
+Diyakini bekerja
+dengan Christian Dassault...
+
+105
+00:10:45,270 --> 00:10:48,148
+dan sebelumnya terkait
+dengan Jason Bourne.
+
+106
+00:10:49,566 --> 00:10:50,525
+Bourne?
+
+107
+00:10:51,359 --> 00:10:53,444
+- Astaga.
+- Apa yang mereka curi?
+
+108
+00:10:53,695 --> 00:10:55,113
+Berkas-berkas operasi rahasia.
+
+109
+00:10:55,280 --> 00:10:57,740
+Dari Treadstone sampai Iron Hand.
+
+110
+00:10:58,700 --> 00:10:59,617
+Iron Hand?
+
+111
+00:11:00,660 --> 00:11:02,996
+Itu bahkan belum beroperasi.
+
+112
+00:11:03,621 --> 00:11:06,166
+Di mana Nicky Parsons?
+
+113
+00:11:06,708 --> 00:11:07,584
+Sedang bergerak.
+
+114
+00:11:08,209 --> 00:11:10,879
+Dia meninggalkan Reykjavik,
+melewati Bucharest menuju Athena.
+
+115
+00:11:12,213 --> 00:11:13,673
+Dia ingin bertemu seseorang.
+
+116
+00:11:15,800 --> 00:11:16,926
+Apa rencanamu?
+
+117
+00:11:19,888 --> 00:11:21,598
+Kita putuskan sumbernya.
+
+118
+00:11:26,895 --> 00:11:29,022
+Pak, aku ingin ditugaskan
+untuk operasi ini.
+
+119
+00:11:33,568 --> 00:11:35,486
+Kau tidak dilatih untuk operasi ini.
+
+120
+00:11:35,570 --> 00:11:36,696
+Aku sudah terlibat.
+
+121
+00:11:37,238 --> 00:11:39,490
+Kupasang malware
+di unduhan Parsons.
+
+122
+00:11:39,741 --> 00:11:42,577
+Begitu berkasnya dibuka,
+aku bisa melacaknya.
+
+123
+00:11:43,494 --> 00:11:44,829
+Izinkan aku bergabung.
+
+124
+00:11:46,623 --> 00:11:48,750
+Akan kudapatkan Parsons, berkasnya...
+
+125
+00:11:48,917 --> 00:11:51,628
+dan, jika dia di luar sana,
+akan kudapatkan Bourne juga.
+
+126
+00:11:59,928 --> 00:12:00,803
+Permisi.
+
+127
+00:12:07,268 --> 00:12:08,811
+Kuhargai semangatmu...
+
+128
+00:12:09,854 --> 00:12:14,776
+tapi jangan melibatkan
+urusan pribadimu lagi dengan DNI.
+
+129
+00:12:14,943 --> 00:12:15,860
+Mengerti.
+
+130
+00:12:16,486 --> 00:12:18,571
+Baik. Kurasa kau bisa bantu.
+
+131
+00:12:19,489 --> 00:12:22,283
+Kuberi kau wewenang penuh...
+
+132
+00:12:22,617 --> 00:12:26,621
+dan memberimu akses untuk
+semua regu dan sumber daya.
+
+133
+00:12:26,788 --> 00:12:30,041
+Dan aku ingin tahu setiap langkahmu.
+
+134
+00:12:31,000 --> 00:12:31,876
+Baik, Pak.
+
+135
+00:12:32,543 --> 00:12:33,836
+Terima kasih, Pak.
+
+136
+00:12:38,424 --> 00:12:41,302
+ROMA, ITALIA
+
+137
+00:13:01,280 --> 00:13:02,115
+Ya?
+
+138
+00:13:02,365 --> 00:13:03,533
+Aku butuh bantuanmu.
+
+139
+00:13:05,159 --> 00:13:06,369
+Aku belum selesai.
+
+140
+00:13:07,328 --> 00:13:08,997
+Jason Bourne terlihat.
+
+141
+00:13:11,666 --> 00:13:13,459
+- Di mana?
+<i>- Athena.</i>
+
+142
+00:13:13,918 --> 00:13:15,253
+Akhiri misimu di Roma.
+
+143
+00:13:16,754 --> 00:13:17,755
+Mengerti.
+
+144
+00:13:33,312 --> 00:13:36,232
+ATHENA, YUNANI
+
+145
+00:14:26,366 --> 00:14:29,368
+PASPOR
+AMERIKA SERIKAT
+
+146
+00:15:49,157 --> 00:15:52,785
+KIOS ALUN-ALUN SYNTAGMA
+1 JAM LAGI.
+
+147
+00:16:31,032 --> 00:16:32,742
+Lee melihatnya di CCTV.
+
+148
+00:16:32,909 --> 00:16:35,578
+Parsons naik bus setengah jam lalu
+ke barat melintasi Athena.
+
+149
+00:16:35,661 --> 00:16:37,079
+Dua regu lokal akan mencegatnya.
+
+150
+00:16:37,288 --> 00:16:39,081
+- Bourne terlihat?
+- Sejauh ini belum.
+
+151
+00:16:39,832 --> 00:16:41,626
+Dia terlibat. Aku bisa merasakannya.
+
+152
+00:16:44,545 --> 00:16:46,756
+Unggah semua data
+dan transmisi Athena...
+
+153
+00:16:47,131 --> 00:16:48,758
+dan aktifkan proses perkiraan.
+
+154
+00:16:49,133 --> 00:16:50,134
+Baik.
+
+155
+00:16:52,261 --> 00:16:53,471
+Bagaimana situasinya?
+
+156
+00:16:54,388 --> 00:16:56,766
+Bus Parsons baru tiba
+di alun-alun Syntagma.
+
+157
+00:16:57,433 --> 00:17:00,102
+Ada unjuk rasa di depan
+gedung parlemen Yunani.
+
+158
+00:17:00,269 --> 00:17:01,646
+Dia gunakan untuk sembunyi.
+
+159
+00:17:02,021 --> 00:17:04,232
+Kirim Alpha dan Bravo ke alun-alun.
+
+160
+00:17:04,774 --> 00:17:07,276
+Cari Parsons dalam keramaian
+di depan gedung parlemen...
+
+161
+00:17:07,360 --> 00:17:09,278
+dan tempat pertemuannya.
+
+162
+00:17:09,570 --> 00:17:10,655
+Baik, Pak.
+
+163
+00:17:10,863 --> 00:17:12,365
+Pak, aset telah mendarat.
+
+164
+00:17:45,314 --> 00:17:46,691
+Regu Alpha tiba.
+
+165
+00:17:47,024 --> 00:17:47,942
+Baik.
+
+166
+00:18:18,431 --> 00:18:19,849
+Aku dapat transmisi
+dari Regu Alpha.
+
+167
+00:18:20,141 --> 00:18:21,267
+Tampilkan.
+
+168
+00:18:46,417 --> 00:18:49,337
+Polisi Athena melaporkan unit khusus
+menghadapi para pengunjuk rasa.
+
+169
+00:18:49,795 --> 00:18:52,048
+Tangkap setiap posting
+media sosial dari alun-alun.
+
+170
+00:18:52,131 --> 00:18:53,257
+Baik, Bu.
+
+171
+00:19:21,452 --> 00:19:22,995
+Ulang transmisi Alpha Satu.
+
+172
+00:19:23,162 --> 00:19:24,789
+Baik, Bu. 20 detik.
+
+173
+00:19:40,429 --> 00:19:41,430
+Ada apa?
+
+174
+00:19:42,598 --> 00:19:43,808
+Aku meretas Agensi.
+
+175
+00:19:44,433 --> 00:19:45,976
+Untuk Christian Dassault.
+
+176
+00:19:46,060 --> 00:19:47,645
+Aku dapat semua berkas operasi rahasia.
+
+177
+00:19:47,728 --> 00:19:49,021
+Kami akan taruh di Internet.
+
+178
+00:19:50,022 --> 00:19:51,232
+Kita harus pergi.
+
+179
+00:19:55,152 --> 00:19:55,986
+Stop.
+
+180
+00:19:57,196 --> 00:19:58,239
+Maju dua detik.
+
+181
+00:19:58,572 --> 00:19:59,698
+Rambut pirang.
+
+182
+00:20:03,202 --> 00:20:04,161
+Pertajam gambar.
+
+183
+00:20:09,417 --> 00:20:10,251
+Temukan dia.
+
+184
+00:20:14,171 --> 00:20:15,965
+<i>Nicky Parsons terlihat</i>
+<i>di alun-alun Syntagma.</i>
+
+185
+00:20:16,048 --> 00:20:17,675
+<i>Menuju selatan di Stadiou.</i>
+
+186
+00:20:17,842 --> 00:20:20,678
+Sudah kubilang, kau bisa dibunuh
+karena Christian Dassault.
+
+187
+00:20:20,761 --> 00:20:22,138
+Tidak ada pilihan, Jason.
+
+188
+00:20:22,388 --> 00:20:24,598
+Program baru dimulai lagi.
+
+189
+00:20:24,932 --> 00:20:26,642
+Iron Hand. Ini lebih buruk.
+
+190
+00:20:26,809 --> 00:20:27,935
+Apa kaitannya denganku?
+
+191
+00:20:28,436 --> 00:20:30,396
+Karena ini penting.
+
+192
+00:20:30,563 --> 00:20:31,897
+Bagiku tidak.
+
+193
+00:20:32,148 --> 00:20:33,607
+Bagiku yang penting tetap hidup.
+
+194
+00:20:34,191 --> 00:20:36,485
+Bersembunyi, bertahan hidup.
+
+195
+00:20:36,569 --> 00:20:38,362
+Aku tak percaya itu dan kau juga.
+
+196
+00:20:38,946 --> 00:20:40,656
+Lihat dirimu.
+
+197
+00:20:40,823 --> 00:20:42,116
+Lihat kehidupanmu.
+
+198
+00:20:43,033 --> 00:20:44,910
+Kau tak bisa terus seperti ini.
+
+199
+00:20:47,580 --> 00:20:49,957
+Jason, aku kemari
+karena menemukan sesuatu.
+
+200
+00:20:51,125 --> 00:20:53,294
+Kutemukan nama ayahmu
+di berkas Treadstone.
+
+201
+00:20:53,711 --> 00:20:54,962
+Dia seorang analis.
+
+202
+00:20:55,171 --> 00:20:57,756
+Dia tidak terlibat Operasi
+atau hal semacam itu.
+
+203
+00:20:58,007 --> 00:21:01,635
+Aku melihatnya.
+Sepertinya dia terlibat langsung.
+
+204
+00:21:02,178 --> 00:21:03,596
+Ada lagi.
+
+205
+00:21:03,679 --> 00:21:05,598
+- Tentang dirimu.
+- Apa maksudmu?
+
+206
+00:21:06,223 --> 00:21:08,726
+Sebelum kau ikut program,
+mereka mengawasimu.
+
+207
+00:21:09,810 --> 00:21:11,061
+Mengawasiku?
+
+208
+00:21:12,229 --> 00:21:14,690
+Sudah lama kau menyiksa dirimu, Jason.
+
+209
+00:21:15,608 --> 00:21:17,485
+Kau menyiksa dirimu atas perbuatanmu.
+
+210
+00:21:18,360 --> 00:21:20,821
+Tapi kau tak tahu perbuatan mereka
+yang sebenarnya kepadamu.
+
+211
+00:21:21,238 --> 00:21:22,990
+Kau perlu membaca berkas itu.
+
+212
+00:21:28,537 --> 00:21:30,456
+Ayo. Mereka melacakmu.
+
+213
+00:21:34,418 --> 00:21:37,796
+Alpha Satu melihat kedua sasaran.
+Satu perempuan, satu lelaki.
+
+214
+00:21:37,922 --> 00:21:39,840
+- Kenali yang lelaki.
+- Baik, Pak.
+
+215
+00:21:40,382 --> 00:21:42,635
+Alpha Satu, kenali sasaran lelaki.
+
+216
+00:21:42,802 --> 00:21:45,930
+Kita harus pergi sebelum polisi
+menutup bagian kota ini.
+
+217
+00:21:51,977 --> 00:21:52,978
+Pergi ke utara.
+
+218
+00:21:54,396 --> 00:21:56,148
+Temui aku di patung Athena.
+
+219
+00:21:56,649 --> 00:21:58,025
+Akan kupancing mereka.
+
+220
+00:22:05,157 --> 00:22:06,033
+Itu dia.
+
+221
+00:22:07,076 --> 00:22:08,077
+Sekarang.
+
+222
+00:22:14,250 --> 00:22:15,584
+Ikuti Bourne.
+
+223
+00:22:16,377 --> 00:22:18,462
+Diizinkan menyerang sasaran.
+
+224
+00:22:18,546 --> 00:22:19,505
+Baik.
+
+225
+00:22:19,588 --> 00:22:21,882
+Tim Alpha, ikuti sasaran lelaki.
+Diizinkan menyerang.
+
+226
+00:22:46,365 --> 00:22:47,533
+Ayo.
+
+227
+00:23:24,111 --> 00:23:26,071
+Pak, komunikasi Tim Alpha mati.
+
+228
+00:23:26,363 --> 00:23:27,948
+Dia lolos, Pak.
+Dia melumpuhkan mereka.
+
+229
+00:23:29,408 --> 00:23:32,244
+Temukan Parsons.
+Dia akan menemuinya.
+
+230
+00:23:32,411 --> 00:23:33,412
+Pak, kericuhan menyebar.
+
+231
+00:23:33,579 --> 00:23:35,789
+Pemerintah Yunani menyatakan
+keadaan darurat.
+
+232
+00:23:40,252 --> 00:23:42,338
+<i>Tim Bravo, temukan kembali Parsons.</i>
+
+233
+00:24:38,060 --> 00:24:38,894
+Kita menemukannya.
+
+234
+00:24:42,356 --> 00:24:43,732
+Bagi tim, kepung dia.
+
+235
+00:26:07,149 --> 00:26:08,776
+Tersangka dengan ciri-ciri Bourne...
+
+236
+00:26:08,901 --> 00:26:10,110
+mencuri motor polisi.
+
+237
+00:26:10,277 --> 00:26:11,570
+Dia mau jemput Parsons.
+
+238
+00:26:11,862 --> 00:26:13,781
+- Di mana aset kita?
+- Dua menit lagi, Pak.
+
+239
+00:26:47,105 --> 00:26:48,941
+Parsons ada di patung Athena.
+
+240
+00:26:49,107 --> 00:26:49,942
+Mengerti.
+
+241
+00:27:14,091 --> 00:27:15,551
+Komunikasi Tim Bravo mati.
+
+242
+00:27:15,717 --> 00:27:17,469
+Pak, aset telah tiba.
+
+243
+00:27:17,553 --> 00:27:18,846
+- Tampilkan kamera mobil.
+- Baik.
+
+244
+00:27:18,971 --> 00:27:21,014
+Beri aku transmisi
+dan komunikasi ke aset.
+
+245
+00:27:28,605 --> 00:27:30,190
+Menyerang sasaran.
+
+246
+00:27:46,790 --> 00:27:49,167
+Aku mengakses data taktis
+kepolisian Athena.
+
+247
+00:27:49,418 --> 00:27:50,669
+Aku ingin lihat situasinya.
+
+248
+00:27:50,752 --> 00:27:52,087
+Tampilkan transmisi satelit.
+
+249
+00:27:52,462 --> 00:27:55,173
+Pak, aku menampilkan
+satelit Misty dan KH-12.
+
+250
+00:27:55,382 --> 00:27:57,092
+- Aktifkan 12.
+- Baik, Pak.
+
+251
+00:28:10,147 --> 00:28:11,607
+Transmisi satelit terhubung.
+
+252
+00:28:12,900 --> 00:28:14,776
+SASARAN
+ASET
+
+253
+00:28:15,027 --> 00:28:16,904
+Polisi menutup jalan ke utara.
+
+254
+00:28:17,070 --> 00:28:19,239
+Sasaran akan dipaksa belok kiri.
+
+255
+00:28:32,961 --> 00:28:34,755
+Barikade lain dalam 200 meter.
+
+256
+00:28:34,922 --> 00:28:36,465
+Sasaran belok kiri lagi.
+
+257
+00:28:48,852 --> 00:28:50,062
+Bourne menuju gang.
+
+258
+00:28:50,354 --> 00:28:51,688
+Belok kiri di puncak bukit.
+
+259
+00:29:24,972 --> 00:29:25,806
+Tangga.
+
+260
+00:29:25,889 --> 00:29:27,432
+<i>Ke atas bukit. Menuju timur.</i>
+
+261
+00:29:27,683 --> 00:29:29,101
+<i>Beri aku lokasi untuk menyerang.</i>
+
+262
+00:29:29,184 --> 00:29:30,602
+Dia dapat jalan keluar.
+
+263
+00:29:30,852 --> 00:29:32,437
+200 meter di kirimu.
+
+264
+00:29:32,646 --> 00:29:35,107
+19 Solomou. Naik ke atap.
+
+265
+00:29:35,399 --> 00:29:37,234
+<i>Sasaran akan melewatimu.</i>
+
+266
+00:29:37,484 --> 00:29:38,902
+19 Solomou. Mengerti.
+
+267
+00:29:47,619 --> 00:29:49,413
+Pusatkan satelit pada koordinat ini.
+
+268
+00:29:49,788 --> 00:29:51,790
+Beri aku lokasi motornya begitu tiba.
+
+269
+00:29:51,873 --> 00:29:52,916
+Mengerti.
+
+270
+00:30:19,526 --> 00:30:22,029
+Aku menemukan sasaran.
+Mendekati Omonia dari Fidiou.
+
+271
+00:30:23,113 --> 00:30:24,197
+Lihat ke barat.
+
+272
+00:30:24,364 --> 00:30:25,532
+Jalan utama yang panjang.
+
+273
+00:30:26,199 --> 00:30:28,243
+Tiba dalam 55 detik.
+
+274
+00:30:28,577 --> 00:30:29,995
+Mengerti.
+
+275
+00:30:54,019 --> 00:30:55,395
+Aset terhubung.
+
+276
+00:31:08,658 --> 00:31:10,786
+Sasaran tiba dalam 15 detik.
+
+277
+00:31:18,794 --> 00:31:20,295
+Lima detik.
+
+278
+00:31:27,094 --> 00:31:28,095
+Kontak.
+
+279
+00:31:28,345 --> 00:31:29,262
+Merunduk!
+
+280
+00:31:34,101 --> 00:31:35,310
+Tembaklah.
+
+281
+00:31:38,855 --> 00:31:39,940
+Pegangan!
+
+282
+00:31:55,914 --> 00:31:57,499
+Sasaran jatuh.
+
+283
+00:32:17,811 --> 00:32:18,812
+Di mana Bourne?
+
+284
+00:32:18,895 --> 00:32:21,606
+Bu, helikopter polisi melihat
+tiga jasad di atap dekat Aset.
+
+285
+00:32:21,690 --> 00:32:23,108
+Tim taktis menuju ke sana.
+
+286
+00:32:32,492 --> 00:32:33,535
+Nicky?
+
+287
+00:32:47,257 --> 00:32:48,300
+Jangan bergerak.
+
+288
+00:32:58,059 --> 00:32:59,811
+Polisi Athena memasuki gedung.
+
+289
+00:33:00,187 --> 00:33:02,480
+Aset, pergi dari situ.
+
+290
+00:33:02,981 --> 00:33:03,982
+Tidak.
+
+291
+00:33:06,484 --> 00:33:08,236
+Kita tak tahu apakah Bourne
+masih hidup.
+
+292
+00:33:09,988 --> 00:33:11,281
+Mau biarkan dia ditangkap?
+
+293
+00:33:16,953 --> 00:33:17,996
+Ini Direktur Dewey.
+
+294
+00:33:18,121 --> 00:33:19,456
+<i>Waktumu 20 detik.</i>
+
+295
+00:33:25,128 --> 00:33:26,338
+Bertahanlah, Nicky.
+
+296
+00:33:27,631 --> 00:33:29,174
+Kubawa kau ke tempat aman.
+
+297
+00:33:30,884 --> 00:33:31,968
+Tidak.
+
+298
+00:33:37,474 --> 00:33:38,558
+Tidak.
+
+299
+00:33:40,560 --> 00:33:42,062
+Jangan.
+
+300
+00:33:45,982 --> 00:33:47,234
+Aku datang.
+
+301
+00:34:45,041 --> 00:34:47,377
+- Temukan Christian Dassault.
+- Baik, Pak.
+
+302
+00:34:47,544 --> 00:34:51,172
+Jika dia rekan Nicky Parsons,
+dia akan menuntun kita ke Jason Bourne.
+
+303
+00:34:51,590 --> 00:34:53,717
+Kabari aku jika malwarenya berhasil.
+
+304
+00:34:54,301 --> 00:34:55,885
+Pak, boleh tanya satu hal?
+
+305
+00:34:57,304 --> 00:34:58,138
+Ya.
+
+306
+00:34:58,888 --> 00:35:00,598
+Apakah aset mengenal Bourne?
+
+307
+00:35:01,308 --> 00:35:02,642
+Kenapa bertanya begitu?
+
+308
+00:35:03,476 --> 00:35:05,061
+Perilakunya di atap.
+
+309
+00:35:06,021 --> 00:35:07,522
+Sepertinya mereka saling kenal.
+
+310
+00:35:09,566 --> 00:35:13,236
+Terakhir kali Bourne kembali,
+dia mengungkap program Blackbriar.
+
+311
+00:35:13,945 --> 00:35:16,197
+Membongkar operasi yang aktif.
+
+312
+00:35:16,906 --> 00:35:19,075
+Aset sedang menyamar di Suriah.
+
+313
+00:35:20,869 --> 00:35:22,162
+Dia ditangkap, disiksa...
+
+314
+00:35:22,245 --> 00:35:25,040
+dan butuh dua tahun
+untuk mengeluarkannya.
+
+315
+00:35:27,167 --> 00:35:29,669
+Untuk itukah Bourne
+menginginkan berkasnya...
+
+316
+00:35:29,753 --> 00:35:30,920
+untuk diungkap lagi?
+
+317
+00:35:31,129 --> 00:35:32,714
+Entah kenapa dia kembali.
+
+318
+00:35:32,797 --> 00:35:34,799
+Yang jelas dia ingin hancurkan kita.
+
+319
+00:35:34,883 --> 00:35:36,009
+Kita tak bisa biarkan.
+
+320
+00:35:37,552 --> 00:35:40,722
+Hubungi aku begitu ada kabar.
+
+321
+00:35:42,599 --> 00:35:43,516
+Baik, Pak.
+
+322
+00:37:04,597 --> 00:37:06,891
+DIENKRIPSI
+
+323
+00:37:27,662 --> 00:37:29,622
+RICHARD WEBB TERLIBAT
+
+324
+00:37:31,916 --> 00:37:35,962
+JB DALAM PENGAMATAN
+
+325
+00:37:56,399 --> 00:37:57,275
+DASSANT
+
+326
+00:38:36,731 --> 00:38:39,776
+<i>Sekarang, pendiri dan kepala Deep Dream...</i>
+
+327
+00:38:40,026 --> 00:38:42,195
+<i>Aaron Kalloor.</i>
+
+328
+00:38:43,738 --> 00:38:44,614
+Hai.
+
+329
+00:38:51,120 --> 00:38:54,040
+Kalian tahu kenapa kita di sini.
+Kami akan perkenalkan platform baru.
+
+330
+00:38:54,165 --> 00:38:57,919
+Ini langkah baru yang memberi kami peluang
+untuk melayani komunitas lebih baik.
+
+331
+00:38:58,253 --> 00:39:01,548
+Saat ini kami adalah komunitas
+yang melampaui batasan nasional.
+
+332
+00:39:01,631 --> 00:39:04,509
+Kurasa sudah ada 1,5 miliar pengguna.
+
+333
+00:39:12,809 --> 00:39:15,728
+Singkatnya, seperti kalian tahu,
+kami punya ekosistem...
+
+334
+00:39:15,895 --> 00:39:18,273
+ratusan ribu aplikasi saat ini.
+
+335
+00:39:18,773 --> 00:39:20,525
+Dan platform baru ini...
+
+336
+00:39:20,608 --> 00:39:24,112
+akan memadukan data
+dan preferensi pengguna...
+
+337
+00:39:24,404 --> 00:39:25,947
+dan menggunakan informasi itu...
+
+338
+00:39:26,406 --> 00:39:30,285
+untuk memperkaya
+dan membentuk pengalaman unik...
+
+339
+00:39:30,451 --> 00:39:32,412
+yang belum pernah terjadi sebelumnya.
+
+340
+00:39:33,079 --> 00:39:35,832
+Aku bisa lihat beberapa jurnalis...
+
+341
+00:39:35,915 --> 00:39:37,333
+siap untuk bertanya.
+
+342
+00:39:38,126 --> 00:39:40,503
+Ini mencemaskan banyak orang.
+Sudah sepantasnya.
+
+343
+00:39:40,670 --> 00:39:42,130
+Ini penting bagi kami.
+
+344
+00:39:42,213 --> 00:39:44,007
+Aku ingin bilang...
+
+345
+00:39:44,257 --> 00:39:47,260
+aku paham tak ada yang suka diawasi.
+
+346
+00:39:47,427 --> 00:39:48,303
+Biar kuberi tahu...
+
+347
+00:39:48,553 --> 00:39:51,139
+saat kau datang ke Deep Dream
+dan menggunakan jasa kami...
+
+348
+00:39:51,431 --> 00:39:52,765
+tak ada yang akan mengawasimu.
+
+349
+00:40:09,866 --> 00:40:11,701
+- Tn. Kalloor.
+- Lewat sini, Pak.
+
+350
+00:40:22,462 --> 00:40:23,713
+Selamat menikmati.
+
+351
+00:40:23,880 --> 00:40:25,006
+Terima kasih.
+
+352
+00:40:27,467 --> 00:40:28,551
+Selamat.
+
+353
+00:40:28,635 --> 00:40:31,137
+Kudengar para pemegang sahammu
+senang dengan platform baru.
+
+354
+00:40:31,679 --> 00:40:32,930
+Kudengar kau diretas.
+
+355
+00:40:35,058 --> 00:40:36,184
+Kami sedang tangani.
+
+356
+00:40:36,684 --> 00:40:39,604
+Ini mengubah segalanya.
+Terlalu banyak risiko.
+
+357
+00:40:40,730 --> 00:40:41,648
+Aku mau keluar.
+
+358
+00:40:41,981 --> 00:40:42,982
+Aaron...
+
+359
+00:40:44,484 --> 00:40:47,654
+kau pemuda yang berbakat dan cerdas.
+
+360
+00:40:47,737 --> 00:40:49,072
+Kau sepakat menolong kami...
+
+361
+00:40:49,238 --> 00:40:52,825
+karena kau paham ancaman yang...
+
+362
+00:41:01,000 --> 00:41:03,169
+Kau tahu masalah yang kuhadapi...
+
+363
+00:41:03,252 --> 00:41:05,088
+jika kesepakatan ini terbongkar?
+
+364
+00:41:06,381 --> 00:41:08,841
+Aku sudah dirusak oleh Snowden.
+Dan kau mau lebih lagi.
+
+365
+00:41:09,092 --> 00:41:11,719
+Musuh kita jadi lebih canggih.
+
+366
+00:41:12,178 --> 00:41:14,389
+Mengumpulkan metadata tak lagi cukup.
+
+367
+00:41:14,472 --> 00:41:17,058
+Kami perlu pintu belakang
+untuk platform barumu...
+
+368
+00:41:17,141 --> 00:41:18,434
+dan melewati kode sandi.
+
+369
+00:41:18,518 --> 00:41:21,020
+Saat itu tak cukup,
+kau akan minta sesuatu yang baru.
+
+370
+00:41:22,438 --> 00:41:24,107
+Kau tak mengerti, ya?
+
+371
+00:41:25,066 --> 00:41:27,235
+Privasi adalah kebebasan.
+
+372
+00:41:28,111 --> 00:41:30,029
+Mungkin kau perlu pertahankan itu.
+
+373
+00:41:30,113 --> 00:41:32,573
+Kau tidak meyakini
+privasi atau kebebasan...
+
+374
+00:41:32,657 --> 00:41:35,118
+ketika kami mendanaimu
+dan mengubahmu jadi miliuner.
+
+375
+00:41:35,201 --> 00:41:37,704
+Sudah kubayar berulang-ulang kali.
+
+376
+00:41:38,246 --> 00:41:39,706
+Dan aku tak nyaman dengan semua ini.
+
+377
+00:41:40,873 --> 00:41:41,874
+Aku mau keluar.
+
+378
+00:41:43,751 --> 00:41:45,211
+Aku tak mau lagi menjual klien kami.
+
+379
+00:41:45,294 --> 00:41:47,004
+Tapi kau bersedia menjual negaramu.
+
+380
+00:41:48,214 --> 00:41:51,467
+Kita takkan membicarakan ini...
+
+381
+00:41:51,551 --> 00:41:54,137
+jika kau tak merasa ada risiko pribadi.
+
+382
+00:41:54,387 --> 00:41:57,807
+Kau bicara soal Internet bebas,
+menyelamatkan dunia...
+
+383
+00:41:57,890 --> 00:42:00,727
+padahal kau membuat dunia
+jadi lebih berbahaya.
+
+384
+00:42:00,810 --> 00:42:05,148
+Yang jelas kau membuat negara ini
+lebih sulit dilindungi.
+
+385
+00:42:05,565 --> 00:42:08,735
+Dan itu salahmu, Aaron.
+
+386
+00:42:11,571 --> 00:42:12,697
+Salahmu.
+
+387
+00:42:21,247 --> 00:42:23,332
+BERLIN, JERMAN
+
+388
+00:42:38,681 --> 00:42:40,224
+Dr. Albert Hirsch
+KEPALA BAGIAN MEDIS
+
+389
+00:42:40,308 --> 00:42:42,393
+PROGRAM TREADSTONE
+ANALISIS PERILAKU ASET
+
+390
+00:42:44,437 --> 00:42:48,566
+ASET TREADSTONE: JASON BOURNE
+Evaluasi Pola Perilaku
+
+391
+00:42:50,318 --> 00:42:53,404
+"Ketika Bourne kabur dari program, dia
+tinggalkan komponen penting identitasnya.
+
+392
+00:42:53,488 --> 00:42:55,573
+Dia meninggalkan alasan keberadaannya."
+
+393
+00:43:02,497 --> 00:43:05,666
+"Menurutku Bourne
+takkan menemukan kedamaian.
+
+394
+00:43:05,750 --> 00:43:07,794
+Pada akhirnya ia akan mencapai
+titik kritis."
+
+395
+00:43:09,712 --> 00:43:11,923
+"Dalam keadaan itu,
+jika dilakukan dengan benar
+
+396
+00:43:12,006 --> 00:43:14,342
+Bourne dapat dibawa kembali
+ke program."
+
+397
+00:44:34,130 --> 00:44:35,006
+Bourne?
+
+398
+00:44:35,756 --> 00:44:37,091
+Taruh semua di meja.
+
+399
+00:44:54,025 --> 00:44:55,192
+Bukalah.
+
+400
+00:45:00,948 --> 00:45:01,908
+Tentu.
+
+401
+00:45:25,890 --> 00:45:28,643
+MALWARE 281 AKTIF
+Sumber Ditemukan
+
+402
+00:45:36,067 --> 00:45:37,193
+<i>Bourne muncul.</i>
+
+403
+00:45:37,818 --> 00:45:38,736
+Di Berlin.
+
+404
+00:45:39,195 --> 00:45:40,446
+Aktifkan regu Berlin.
+
+405
+00:45:53,501 --> 00:45:54,502
+Di mana dia?
+
+406
+00:45:55,211 --> 00:45:56,087
+Dia tewas.
+
+407
+00:46:00,800 --> 00:46:01,801
+Dia tahu risikonya.
+
+408
+00:46:03,386 --> 00:46:04,553
+Aku sudah peringatkan dia.
+
+409
+00:46:05,846 --> 00:46:06,889
+Dia telah buat pilihan.
+
+410
+00:46:07,974 --> 00:46:09,058
+Kau memanfaatkannya.
+
+411
+00:46:17,191 --> 00:46:19,735
+MEMBUKA SANDI
+
+412
+00:46:27,535 --> 00:46:28,619
+Regu Berlin bergerak.
+
+413
+00:46:28,911 --> 00:46:29,996
+Informasi lokasinya?
+
+414
+00:46:30,538 --> 00:46:32,373
+Alamatnya berkaitan
+dengan Christian Dassault.
+
+415
+00:46:32,540 --> 00:46:33,499
+Ada kabar soal Bourne?
+
+416
+00:46:33,624 --> 00:46:36,794
+Belum. Aku mengakses CCTV.
+
+417
+00:46:38,254 --> 00:46:41,424
+Pak, kupikir mungkin kita salah paham.
+
+418
+00:46:42,883 --> 00:46:44,427
+Bagaimana jika dia tidak memburu kita?
+
+419
+00:46:45,845 --> 00:46:46,971
+Bagaimana jika ada hal lain?
+
+420
+00:46:49,390 --> 00:46:50,850
+Kau tak tahu berurusan dengan siapa.
+
+421
+00:46:58,858 --> 00:47:00,568
+SANDI TERBUKA
+
+422
+00:47:03,195 --> 00:47:04,405
+Mari kerja sama, Bourne.
+
+423
+00:47:05,740 --> 00:47:07,616
+Kau mengungkap program Blackbriar.
+
+424
+00:47:09,535 --> 00:47:11,162
+Kita menginginkan hal yang sama, kan?
+
+425
+00:47:12,371 --> 00:47:15,666
+Kita ingin menghancurkan institusi korup
+yang mengendalikan rakyat.
+
+426
+00:47:17,710 --> 00:47:19,003
+Aku bukan di pihakmu.
+
+427
+00:47:36,604 --> 00:47:38,272
+CCTV terhubung.
+
+428
+00:47:42,234 --> 00:47:43,319
+Dia memakai komputer.
+
+429
+00:47:43,402 --> 00:47:44,779
+Kita harus hentikan ini.
+
+430
+00:47:45,821 --> 00:47:47,698
+Jika dia taruh berkas-berkas itu
+di Internet...
+
+431
+00:47:47,823 --> 00:47:50,034
+banyak operasi akan terbongkar
+dan banyak korban jiwa.
+
+432
+00:47:50,367 --> 00:47:51,452
+Ya, Pak.
+
+433
+00:47:56,332 --> 00:47:58,751
+Setidaknya setelah kau selesai,
+tinggalkan berkasnya untukku.
+
+434
+00:48:00,211 --> 00:48:02,046
+Program-program ini harus dibongkar.
+
+435
+00:48:03,672 --> 00:48:05,049
+Rakyat berhak untuk tahu.
+
+436
+00:48:12,473 --> 00:48:17,061
+USULAN UNTUK MENANGKAL ANCAMAN
+LUAR BIASA TERHADAP AMERIKA
+
+437
+00:48:22,608 --> 00:48:23,943
+Kita harus dapatkan komputer itu.
+
+438
+00:48:28,030 --> 00:48:29,824
+AKSES PONSEL TERBUKA
+
+439
+00:48:29,990 --> 00:48:31,200
+Ada telepon di ruangan itu.
+
+440
+00:48:31,784 --> 00:48:33,410
+Bisa kupakai untuk hapus berkasnya.
+
+441
+00:48:38,749 --> 00:48:40,751
+TREADSTONE
+LAPORAN PROGRAM RAHASIA
+
+442
+00:48:42,253 --> 00:48:46,882
+Rekrut akan diawasi dan ditentukan
+kelayakan mereka untuk program ini.
+
+443
+00:48:51,804 --> 00:48:54,640
+Sejarah rekrut Jason Bourne
+
+444
+00:48:56,308 --> 00:48:58,310
+MENGAKSES TELEPON...
+
+445
+00:48:58,394 --> 00:48:59,478
+AKSES DITERIMA - TERHUBUNG
+
+446
+00:48:59,728 --> 00:49:01,230
+- Masuk ke telepon.
+- Di mana regunya?
+
+447
+00:49:01,564 --> 00:49:02,773
+Lima menit lagi, Pak.
+
+448
+00:49:02,940 --> 00:49:04,567
+Kita kehabisan waktu.
+Cepat ke sana.
+
+449
+00:49:08,445 --> 00:49:10,030
+SEJARAH REKRUT
+JASON BOURNE
+
+450
+00:49:10,114 --> 00:49:11,282
+Webb masuk Pasukan Khusus Delta 1.
+
+451
+00:49:11,365 --> 00:49:13,200
+Dipilih untuk pengamatan
+Program Treadstone.
+
+452
+00:49:13,284 --> 00:49:14,910
+David Webb sukarela untuk direkrut.
+
+453
+00:49:17,955 --> 00:49:19,415
+UNITED STATES OF AMERICA
+
+454
+00:49:19,498 --> 00:49:21,083
+LAPORAN PENGAMATAN TREADSTONE
+SUBJEK: DAVID WEBB
+
+455
+00:49:21,167 --> 00:49:22,793
+PETUGAS PENGAMAT:
+MALCOLM SMITH
+
+456
+00:49:30,426 --> 00:49:33,345
+7 Oktober 1999
+Richard Webb, Kepala Stasiun Beirut
+
+457
+00:49:35,723 --> 00:49:38,017
+Sasaran tiba pukul 8.27 pagi
+Cafe Besharra, Minet El Hosn, gelisah
+
+458
+00:49:48,360 --> 00:49:49,486
+Dengar, David.
+
+459
+00:49:50,029 --> 00:49:51,614
+Ayah berbuat sesuatu.
+
+460
+00:49:52,364 --> 00:49:53,532
+Sesuatu...
+
+461
+00:49:55,409 --> 00:49:56,994
+yang ada harganya.
+
+462
+00:49:57,870 --> 00:50:00,039
+Suatu hari kau akan mengerti.
+
+463
+00:50:02,082 --> 00:50:04,084
+Ayah harus kembali ke Washington.
+
+464
+00:50:05,544 --> 00:50:06,962
+Ayah menyayangimu, Nak.
+
+465
+00:50:59,265 --> 00:51:00,182
+Mereka berkelahi, Pak.
+
+466
+00:51:12,695 --> 00:51:13,821
+Satu firewall lagi.
+
+467
+00:51:19,910 --> 00:51:23,330
+pengamatan malcolm smith
+
+468
+00:51:25,833 --> 00:51:27,459
+MALCOLM SMITH
+KONSULTAN KEAMANAN
+
+469
+00:51:39,388 --> 00:51:40,723
+Berkasnya sudah dihapus, Pak.
+
+470
+00:51:43,350 --> 00:51:44,518
+Hubungi dia.
+
+471
+00:52:20,512 --> 00:52:21,847
+<i>Bourne, namaku Heather Lee.</i>
+
+472
+00:52:23,098 --> 00:52:24,600
+Bukan aku yang berwenang di sini.
+
+473
+00:52:25,517 --> 00:52:27,519
+Aku tidak di sini
+ketika kau menghilang.
+
+474
+00:52:28,854 --> 00:52:31,607
+Kulihat kau memeriksa
+berkas Treadstone lama.
+
+475
+00:52:33,359 --> 00:52:34,651
+<i>Melacak kembali sejarahmu.</i>
+
+476
+00:52:36,445 --> 00:52:37,780
+<i>Aku tahu kau mencari sesuatu.</i>
+
+477
+00:52:39,531 --> 00:52:40,783
+Biar kubantu menemukannya.
+
+478
+00:52:47,873 --> 00:52:48,957
+Berikan teleponnya.
+
+479
+00:52:54,171 --> 00:52:55,214
+Ya, Pak.
+
+480
+00:52:57,966 --> 00:53:00,552
+Jason, ini Robert Dewey.
+Ingat aku?
+
+481
+00:53:01,845 --> 00:53:03,722
+<i>Jason, ayahmu seorang patriot.</i>
+
+482
+00:53:04,598 --> 00:53:07,226
+Dia melihat ancaman
+yang dihadapi Amerika...
+
+483
+00:53:07,309 --> 00:53:10,646
+dan sepertimu, dia memilih
+untuk melayani negaranya...
+
+484
+00:53:10,729 --> 00:53:13,065
+<i>karena dia yakin itulah tugasnya.</i>
+
+485
+00:53:14,400 --> 00:53:17,069
+Dia takkan mau melihatmu
+merusak Agensi.
+
+486
+00:53:17,152 --> 00:53:18,695
+<i>Kau harus hentikan ini.</i>
+
+487
+00:53:19,738 --> 00:53:21,490
+<i>Hentikan sekarang.</i>
+
+488
+00:53:26,245 --> 00:53:27,246
+Pak, kami segera tiba...
+
+489
+00:53:37,297 --> 00:53:40,551
+REGU SEGERA TIBA
+WAKTUMU 2 MENIT
+
+490
+00:53:52,187 --> 00:53:53,772
+<i>Dia bergerak. Bersiaplah.</i>
+
+491
+00:54:08,287 --> 00:54:09,288
+Pimpin jalan!
+
+492
+00:54:09,371 --> 00:54:10,372
+Ikuti aku!
+
+493
+00:54:10,456 --> 00:54:11,457
+Lift.
+
+494
+00:55:00,005 --> 00:55:01,006
+Dia lolos, Pak.
+
+495
+00:55:18,190 --> 00:55:20,609
+Malcolm Smith, khusus kontrak,
+berbasis di London.
+
+496
+00:55:20,943 --> 00:55:22,861
+Mengelola pengamatan Treadstone
+akhir '90an...
+
+497
+00:55:22,945 --> 00:55:24,029
+ketika Bourne direkrut.
+
+498
+00:55:24,363 --> 00:55:25,614
+Dia masih aktif?
+
+499
+00:55:25,697 --> 00:55:26,949
+Kini mengelola keamanan swasta.
+
+500
+00:55:27,199 --> 00:55:28,200
+Hubungi aset...
+
+501
+00:55:28,283 --> 00:55:30,702
+aku mau dia tiba di London
+dalam enam jam.
+
+502
+00:55:30,827 --> 00:55:32,412
+Kurasa itu sebuah kesalahan, Pak.
+
+503
+00:55:36,333 --> 00:55:37,417
+Kesalahan? Kenapa?
+
+504
+00:55:37,793 --> 00:55:40,754
+Ada alasan untuk menangkap Bourne
+dan bukan membunuhnya.
+
+505
+00:55:42,464 --> 00:55:43,549
+Coba katakan.
+
+506
+00:55:44,299 --> 00:55:46,134
+Sudah lama Bourne bersembunyi.
+
+507
+00:55:47,177 --> 00:55:49,513
+Dia sembunyi dalam dunia kriminal,
+ia melihat banyak hal.
+
+508
+00:55:49,888 --> 00:55:51,723
+Dia punya informasi
+yang bisa membantu kita.
+
+509
+00:55:52,140 --> 00:55:54,768
+Membawanya kembali
+adalah langkah pintar.
+
+510
+00:55:55,018 --> 00:55:56,144
+Caranya?
+
+511
+00:55:56,728 --> 00:55:59,731
+Albert Hirsch menulis evaluasi kejiwaan
+ketika Bourne meninggalkan program.
+
+512
+00:56:00,065 --> 00:56:02,651
+Dia menyimpulkan
+Bourne masih berjiwa patriot...
+
+513
+00:56:02,734 --> 00:56:05,529
+dan meninggalkan program
+dapat membuatnya gelisah.
+
+514
+00:56:08,198 --> 00:56:09,449
+Apa saranmu?
+
+515
+00:56:10,033 --> 00:56:11,910
+Kuperhatikan Bourne
+dengan berkas-berkas itu.
+
+516
+00:56:13,745 --> 00:56:15,497
+Dia putus asa memeriksa masa lalunya.
+
+517
+00:56:15,581 --> 00:56:18,166
+Kurasa dia sudah pada titik kritis.
+
+518
+00:56:18,667 --> 00:56:20,627
+Jika aku bisa bertemu
+langsung dengannya...
+
+519
+00:56:21,503 --> 00:56:23,088
+aku bisa membawanya kembali.
+
+520
+00:56:23,797 --> 00:56:24,798
+Satu kesempatan.
+
+521
+00:56:25,173 --> 00:56:26,383
+Jika gagal...
+
+522
+00:56:27,676 --> 00:56:28,927
+lakukan yang harus kau lakukan.
+
+523
+00:56:33,265 --> 00:56:35,767
+Itu masuk akal bagiku.
+Apa pendapatmu, Bob?
+
+524
+00:56:38,020 --> 00:56:39,313
+Mari kita coba.
+
+525
+00:56:40,397 --> 00:56:41,356
+Baik, lakukanlah.
+
+526
+00:56:42,107 --> 00:56:44,568
+Bawa Bourne kembali,
+atau selesaikan ini.
+
+527
+00:56:44,943 --> 00:56:46,987
+- Tapi akhiri ini sekarang.
+- Terima kasih.
+
+528
+00:56:59,124 --> 00:57:00,125
+Pak, maaf...
+
+529
+00:57:00,208 --> 00:57:02,210
+Tidak usah dipikirkan.
+
+530
+00:57:03,795 --> 00:57:05,797
+Tidurlah, Nak.
+
+531
+00:57:07,382 --> 00:57:09,593
+24 jam berikut akan berat bagimu.
+
+532
+00:57:13,263 --> 00:57:14,264
+Ya, Pak.
+
+533
+00:57:28,654 --> 00:57:29,863
+Ini terlalu lama.
+
+534
+00:57:29,946 --> 00:57:31,573
+Mestinya sudah aman
+menjelang peluncuran.
+
+535
+00:57:31,657 --> 00:57:32,741
+Kurasa ini bukan kesalahan.
+
+536
+00:57:32,824 --> 00:57:35,702
+Kurasa kita mengubah hal-hal
+yang akan mengubah parameter.
+
+537
+00:57:35,786 --> 00:57:38,121
+- Kita harus pergi dan...
+- Kita harus ubah kembali.
+
+538
+00:57:38,205 --> 00:57:39,706
+Amanda, bisa kirim pesan ke Kyle?
+
+539
+00:57:39,831 --> 00:57:40,666
+Tentu.
+
+540
+00:57:40,791 --> 00:57:42,417
+Kurasa kau benar.
+
+541
+00:57:42,501 --> 00:57:45,212
+- Aku hanya berpikir kita tidak mau...
+- Aku lelah menunggu.
+
+542
+00:57:47,839 --> 00:57:49,132
+Tn. Kalloor.
+
+543
+00:57:49,216 --> 00:57:50,217
+Ada apa ini?
+
+544
+00:57:50,300 --> 00:57:52,052
+Tn. Kalloor, namaku John Burroughs.
+
+545
+00:57:52,260 --> 00:57:53,679
+Aku dari Departemen Kehakiman.
+
+546
+00:57:53,762 --> 00:57:55,972
+Aku menyampaikan dakwaan...
+
+547
+00:57:56,056 --> 00:57:58,433
+- Serius? Di tempat terbuka?
+- ...dari pemerintah Amerika...
+
+548
+00:57:58,558 --> 00:57:59,976
+terhadap Perusahaan Deep Dream
+
+549
+00:58:00,060 --> 00:58:01,687
+untuk pelanggaran
+Undang-undang Sherman.
+
+550
+00:58:01,770 --> 00:58:05,816
+Kau wajib untuk menyerahkan semua
+catatan keuangan pribadi dan perusahaan...
+
+551
+00:58:06,066 --> 00:58:09,236
+untuk sidang anti monopoli
+di pengadilan federal.
+
+552
+00:58:09,528 --> 00:58:10,529
+Selamat siang.
+
+553
+00:58:22,207 --> 00:58:23,542
+- Ini ulah Dewey.
+- Aaron...
+
+554
+00:58:24,292 --> 00:58:25,460
+ini sebuah pesan.
+
+555
+00:58:25,919 --> 00:58:27,671
+Pikirkanlah tindakan kita...
+
+556
+00:58:27,754 --> 00:58:28,797
+sebelum bertambah buruk.
+
+557
+00:58:28,880 --> 00:58:31,633
+Jika kita penuhi keinginannya,
+semua akan berakhir?
+
+558
+00:58:32,467 --> 00:58:34,886
+Maksudku kita perlu mendengarkan.
+
+559
+00:58:36,680 --> 00:58:37,889
+Siapkan semua catatan...
+
+560
+00:58:37,973 --> 00:58:39,683
+pertemuanku dengan Dewey.
+
+561
+00:58:40,392 --> 00:58:43,979
+Semua catatan?
+Termasuk diskusi rahasia?
+
+562
+00:58:44,396 --> 00:58:45,647
+Terutama itu.
+
+563
+00:58:49,026 --> 00:58:51,403
+Kita akan ke Vegas.
+Aku butuh jaminan.
+
+564
+00:59:08,211 --> 00:59:10,130
+LAPORAN PENGAMATAN TREADSTONE
+SUBJEK: DAVID WEBB
+
+565
+00:59:39,618 --> 00:59:41,328
+Jumpa Pers
+
+566
+00:59:42,662 --> 00:59:45,040
+Kepala Bagian Siber Ditunjuk
+
+567
+00:59:54,049 --> 00:59:59,638
+"Aku memilih CIA karena kupikir
+aku bisa buat perbedaan di sana."
+
+568
+01:00:12,609 --> 01:00:13,443
+Ya.
+
+569
+01:00:14,319 --> 01:00:15,654
+<i>Apa kau di London?</i>
+
+570
+01:00:15,946 --> 01:00:16,780
+<i>Ya.</i>
+
+571
+01:00:17,948 --> 01:00:19,074
+Kenapa kau mengirimnya?
+
+572
+01:00:20,742 --> 01:00:21,785
+<i>Dia berguna.</i>
+
+573
+01:00:23,370 --> 01:00:24,412
+<i>Aku bekerja sendirian.</i>
+
+574
+01:00:24,663 --> 01:00:26,122
+Kali ini tidak.
+
+575
+01:00:26,790 --> 01:00:28,250
+<i>Jangan buat ini jadi urusan pribadi.</i>
+
+576
+01:00:29,709 --> 01:00:32,796
+Bourne mengkhianati kita.
+Ini urusan pribadi sejak dulu.
+
+577
+01:00:33,505 --> 01:00:35,298
+<i>Kau tahu berurusan dengan siapa.</i>
+
+578
+01:00:36,091 --> 01:00:37,801
+Pastikan kau siap.
+
+579
+01:00:47,727 --> 01:00:48,562
+Ya.
+
+580
+01:00:48,728 --> 01:00:50,605
+<i>Ada yang perlu kau ketahui</i>
+<i>tentang Deep Dream.</i>
+
+581
+01:00:51,398 --> 01:00:52,816
+Tapi aku butuh jaminan...
+
+582
+01:00:54,192 --> 01:00:55,777
+bahwa kau mendukungku.
+
+583
+01:00:58,446 --> 01:01:00,073
+Baik. Informasi apa?
+
+584
+01:01:01,199 --> 01:01:02,117
+Kalloor...
+
+585
+01:01:02,534 --> 01:01:04,828
+<i>merencanakan sesuatu untuk Vegas.</i>
+
+586
+01:01:10,041 --> 01:01:13,336
+LONDON, INGGRIS
+
+587
+01:01:36,276 --> 01:01:37,903
+PENGAWASAN DAN ANALISA SIBER
+
+588
+01:01:51,041 --> 01:01:51,875
+Ya?
+
+589
+01:01:52,042 --> 01:01:53,418
+Ini Jason Bourne.
+
+590
+01:01:54,127 --> 01:01:55,170
+<i>Aku perlu bicara.</i>
+
+591
+01:01:56,713 --> 01:01:57,547
+Tentang apa?
+
+592
+01:01:57,923 --> 01:01:59,716
+Aku tak lagi bekerja di Agensi.
+
+593
+01:01:59,883 --> 01:02:01,676
+Paddington Plaza, 15 menit.
+
+594
+01:02:31,790 --> 01:02:33,124
+Bourne baru saja menelepon Smith.
+
+595
+01:02:33,917 --> 01:02:35,460
+<i>Mereka bertemu di Paddington Plaza.</i>
+
+596
+01:02:35,627 --> 01:02:36,795
+<i>Lima belas menit.</i>
+
+597
+01:02:37,295 --> 01:02:38,588
+Kami akan mengikuti Smith.
+
+598
+01:02:39,089 --> 01:02:41,925
+Begitu melihat Bourne,
+aku akan mendekatinya.
+
+599
+01:02:42,258 --> 01:02:43,551
+Jangan menarik perhatian.
+
+600
+01:02:43,635 --> 01:02:46,262
+Aku tak mau polisi Inggris terlibat.
+
+601
+01:02:46,888 --> 01:02:47,889
+Mengerti.
+
+602
+01:02:56,606 --> 01:02:57,524
+Alat pelacak.
+
+603
+01:02:58,942 --> 01:03:00,860
+Tunggu di sisi selatan jembatan.
+
+604
+01:03:02,153 --> 01:03:03,571
+Kuhubungi kau jika kubutuhkan.
+
+605
+01:03:04,322 --> 01:03:05,323
+Tentu.
+
+606
+01:03:06,700 --> 01:03:07,659
+Kau atasanku, bukan?
+
+607
+01:03:36,980 --> 01:03:39,399
+Subjek bergerak. Menuju kanal.
+
+608
+01:03:40,608 --> 01:03:42,235
+Regu Alpha, ambil arah paralel.
+
+609
+01:03:42,736 --> 01:03:44,904
+Regu Bravo, ikuti subjek dari belakang.
+
+610
+01:03:45,363 --> 01:03:46,656
+Buka matamu untuk Bourne.
+
+611
+01:03:47,282 --> 01:03:48,825
+Regu Bravo mengikuti subjek.
+
+612
+01:03:58,126 --> 01:03:59,169
+Ayo.
+
+613
+01:03:59,336 --> 01:04:01,046
+Dua ratus meter lagi belok kanan.
+
+614
+01:04:01,129 --> 01:04:02,172
+<i>Baik.</i>
+
+615
+01:04:08,511 --> 01:04:11,139
+Periksa komunikasi. Saluran kedua.
+Bisa dengar?
+
+616
+01:04:12,140 --> 01:04:13,266
+Ya. Di mana kau?
+
+617
+01:04:13,600 --> 01:04:14,559
+<i>Menuju Smith.</i>
+
+618
+01:04:16,311 --> 01:04:17,604
+Tak ada tanda-tanda dari Bourne.
+
+619
+01:04:44,422 --> 01:04:45,840
+Ruang listrik
+
+620
+01:04:59,938 --> 01:05:01,314
+Subjek belok ke timur...
+
+621
+01:05:01,606 --> 01:05:02,440
+<i>masuk gang.</i>
+
+622
+01:05:02,607 --> 01:05:03,441
+Regu Alpha...
+
+623
+01:05:03,525 --> 01:05:05,944
+gang itu tembus ke jembatan kecil
+yang mengarah kepadamu.
+
+624
+01:05:06,611 --> 01:05:07,570
+Mengerti.
+
+625
+01:05:20,041 --> 01:05:21,126
+<i>Regu Bravo dilumpuhkan.</i>
+
+626
+01:05:21,668 --> 01:05:23,002
+Kukirim rute terbaru.
+
+627
+01:05:24,838 --> 01:05:26,089
+Kau dengar, Smith?
+
+628
+01:05:28,716 --> 01:05:29,717
+Ya.
+
+629
+01:05:48,069 --> 01:05:50,572
+Regu Bravo, kenapa tidak bergerak?
+Ada apa?
+
+630
+01:05:53,158 --> 01:05:54,534
+Regu Bravo, kau dengar?
+
+631
+01:05:55,160 --> 01:05:56,703
+Ada apa, Heather?
+Di mana Bravo?
+
+632
+01:05:57,912 --> 01:05:59,289
+Komunikasi dengan Bravo mati.
+
+633
+01:05:59,747 --> 01:06:01,583
+Regu Alpha, kau melihat subjek?
+
+634
+01:06:07,005 --> 01:06:08,047
+Kami melihatnya.
+
+635
+01:06:14,721 --> 01:06:16,431
+Regu Alpha, melapor.
+
+636
+01:06:21,853 --> 01:06:23,104
+Regu Alpha, melapor.
+
+637
+01:06:23,521 --> 01:06:24,647
+Apa yang terjadi, Heather?
+
+638
+01:06:26,274 --> 01:06:27,567
+Regu Alpha tidak menjawab.
+
+639
+01:06:27,942 --> 01:06:28,943
+<i>Bravo?</i>
+
+640
+01:06:29,611 --> 01:06:30,486
+Belum ada jawaban.
+
+641
+01:06:30,820 --> 01:06:33,114
+Kedua regu hilang?
+Kendalikan operasi ini, Heather.
+
+642
+01:06:33,198 --> 01:06:34,199
+Itu Bourne.
+
+643
+01:06:34,699 --> 01:06:35,909
+<i>Beri izin kepada aset.</i>
+
+644
+01:06:36,993 --> 01:06:38,244
+Pak, aku butuh waktu.
+
+645
+01:06:38,536 --> 01:06:39,704
+<i>Tidak ada waktu.</i>
+
+646
+01:06:40,121 --> 01:06:41,873
+Kau mau perintahkan atau tidak?
+
+647
+01:06:42,332 --> 01:06:43,416
+Pak, kumohon.
+
+648
+01:06:43,750 --> 01:06:45,585
+<i>Kau terlalu naif</i>
+<i>untuk melihat kebenaran.</i>
+
+649
+01:06:45,710 --> 01:06:47,754
+Bourne tidak bisa dibawa kembali.
+
+650
+01:06:48,379 --> 01:06:49,547
+Dia harus dibunuh...
+
+651
+01:06:50,006 --> 01:06:52,300
+dan jelas kau tak bisa melakukannya.
+
+652
+01:06:52,383 --> 01:06:54,385
+<i>Kuambil alih operasi ini.</i>
+
+653
+01:06:55,887 --> 01:06:57,138
+Aset, kau dapat izin.
+
+654
+01:06:57,847 --> 01:07:00,516
+<i>Ulangi, kau dapat izin</i>
+<i>membunuh Bourne.</i>
+
+655
+01:07:00,600 --> 01:07:01,476
+Mengerti.
+
+656
+01:07:01,893 --> 01:07:03,102
+Aku dalam perjalanan.
+
+657
+01:07:11,402 --> 01:07:12,654
+Aset, kau sedang bergerak?
+
+658
+01:07:15,740 --> 01:07:18,076
+Aset, alat pelacakmu menunjukkan
+kau tidak bergerak.
+
+659
+01:07:18,910 --> 01:07:20,203
+Apa kau bergerak?
+
+660
+01:07:20,370 --> 01:07:22,789
+Heather, keluar dari saluran ini.
+Biar dia kerjakan tugasnya.
+
+661
+01:07:26,709 --> 01:07:27,710
+Belok kiri.
+
+662
+01:07:28,002 --> 01:07:29,671
+Segera ke Paddington Plaza.
+
+663
+01:07:29,754 --> 01:07:30,588
+<i>Mengerti.</i>
+
+664
+01:08:13,339 --> 01:08:14,590
+Aku di posisi.
+
+665
+01:08:24,517 --> 01:08:25,435
+Sudah kubidik.
+
+666
+01:08:44,871 --> 01:08:45,872
+Ada apa?
+
+667
+01:08:46,164 --> 01:08:47,040
+Suara apa itu?
+
+668
+01:08:48,583 --> 01:08:50,043
+Sejumlah alarm kebakaran.
+
+669
+01:08:50,501 --> 01:08:51,586
+Itu ulah Bourne.
+
+670
+01:08:55,798 --> 01:08:56,883
+Aku harus bagaimana?
+
+671
+01:08:58,301 --> 01:08:59,844
+Diam di situ. Jangan bergerak.
+
+672
+01:09:08,019 --> 01:09:10,563
+<i>Tinggalkan gedung lewat pintu terdekat.</i>
+
+673
+01:09:12,357 --> 01:09:13,358
+Aku tak bisa di sini.
+
+674
+01:09:13,816 --> 01:09:15,068
+Kau tak bisa melindungiku.
+
+675
+01:09:15,193 --> 01:09:16,903
+Kau harus diam di situ, Smith.
+
+676
+01:09:17,570 --> 01:09:18,654
+Kau masih membidiknya?
+
+677
+01:09:21,032 --> 01:09:21,908
+Ya.
+
+678
+01:09:22,492 --> 01:09:23,660
+Kau mau menembaknya...
+
+679
+01:09:23,826 --> 01:09:25,870
+di tengah keramaian
+saat dia di sampingku?
+
+680
+01:09:25,995 --> 01:09:27,497
+Diam di situ, Smith.
+
+681
+01:09:27,789 --> 01:09:29,207
+<i>Kau tahu kenapa dia di sini.</i>
+
+682
+01:09:29,499 --> 01:09:30,750
+<i>Dia mau jawaban.</i>
+
+683
+01:09:31,167 --> 01:09:32,293
+Kau kehilangan kendali.
+
+684
+01:09:33,044 --> 01:09:34,295
+Aku harus pergi.
+
+685
+01:09:41,594 --> 01:09:42,428
+Sial!
+
+686
+01:09:52,021 --> 01:09:53,147
+Apa yang terjadi?
+
+687
+01:09:53,564 --> 01:09:54,524
+Bourne dapat Smith.
+
+688
+01:10:14,001 --> 01:10:16,045
+Kejar mereka.
+Aku akan mencegat mereka.
+
+689
+01:10:22,301 --> 01:10:23,761
+Smith, kami tahu kau bersama Bourne.
+
+690
+01:10:23,928 --> 01:10:25,471
+Cari cara untuk beri tahu lokasimu.
+
+691
+01:10:28,766 --> 01:10:30,184
+Kenapa membawaku kemari?
+
+692
+01:10:30,852 --> 01:10:32,103
+Mereka pasti di dekat Plaza.
+
+693
+01:10:38,025 --> 01:10:38,985
+Astaga, Bourne!
+
+694
+01:10:39,569 --> 01:10:40,528
+Sial!
+
+695
+01:10:42,488 --> 01:10:44,282
+Kau mau apa? Tenanglah.
+
+696
+01:10:44,365 --> 01:10:45,366
+Richard Webb.
+
+697
+01:10:45,950 --> 01:10:47,535
+Kepala Stasiun, Beirut.
+
+698
+01:10:47,785 --> 01:10:50,329
+<i>Dia ayahku.</i>
+<i>Dia memulai Treadstone.</i>
+
+699
+01:10:50,538 --> 01:10:52,790
+Dia menyewamu untuk mengawasiku.
+Kenapa?
+
+700
+01:10:52,874 --> 01:10:54,542
+- Astaga!
+- Kenapa dia menyewamu?
+
+701
+01:10:54,709 --> 01:10:56,169
+Jangan bicara, Smith.
+
+702
+01:10:56,335 --> 01:10:57,920
+Tidak.
+
+703
+01:11:05,094 --> 01:11:06,012
+Mereka tidak terlihat.
+
+704
+01:11:06,637 --> 01:11:07,638
+<i>Kami harus bagaimana?</i>
+
+705
+01:11:07,805 --> 01:11:08,931
+Periksa sampai ke kanal.
+
+706
+01:11:09,599 --> 01:11:11,434
+Aku akan berputar
+dan menemuimu di sana.
+
+707
+01:11:15,646 --> 01:11:17,106
+Kau mengikutiku ke Beirut.
+
+708
+01:11:17,940 --> 01:11:19,692
+Terakhir kali aku melihat ayahku!
+
+709
+01:11:20,276 --> 01:11:21,611
+Kenapa dia minta kau mengikutiku?
+
+710
+01:11:22,111 --> 01:11:23,279
+Itu tidak masuk akal.
+
+711
+01:11:23,446 --> 01:11:24,280
+Kenapa?
+
+712
+01:11:24,405 --> 01:11:26,115
+Jangan beri tahu dia apa pun.
+
+713
+01:11:27,033 --> 01:11:28,117
+Kenapa?
+
+714
+01:11:37,001 --> 01:11:38,836
+Astaga, Bourne! Aku akan jatuh!
+
+715
+01:11:38,961 --> 01:11:40,004
+Bourne, kumohon!
+
+716
+01:11:40,755 --> 01:11:41,714
+Aku bisa dengar mereka!
+
+717
+01:11:42,673 --> 01:11:43,549
+Beirut.
+
+718
+01:11:43,841 --> 01:11:46,886
+Aku ke sana untuk beri tahu dia
+bahwa Treadstone merekrutku.
+
+719
+01:11:47,345 --> 01:11:50,056
+Tapi jika ini programnya,
+kenapa dia tidak bilang kepadaku?
+
+720
+01:11:51,557 --> 01:11:52,767
+Ayah berbuat sesuatu.
+
+721
+01:11:53,768 --> 01:11:55,144
+Sesuatu...
+
+722
+01:11:56,896 --> 01:11:58,147
+yang ada harganya.
+
+723
+01:12:02,693 --> 01:12:04,070
+Hari itulah dia dibunuh.
+
+724
+01:12:05,029 --> 01:12:06,906
+Mereka bilang dia dibunuh teroris.
+
+725
+01:12:07,615 --> 01:12:09,408
+Dia tidak dibunuh teroris, bukan?
+
+726
+01:12:10,076 --> 01:12:13,496
+Pikirkan keluargamu, Smith.
+Tutup mulutmu.
+
+727
+01:12:13,746 --> 01:12:15,206
+Peluru berikutnya untuk kepalamu!
+
+728
+01:12:16,374 --> 01:12:17,375
+Kenapa dia dibunuh?
+
+729
+01:12:18,668 --> 01:12:19,502
+Kenapa?
+
+730
+01:12:21,212 --> 01:12:22,880
+Dia dibunuh karenamu.
+
+731
+01:12:26,551 --> 01:12:29,387
+Ayahmu tidak di dalam Operasi.
+
+732
+01:12:29,554 --> 01:12:31,764
+Dia tak tahu kami memilihmu.
+Ketika dia tahu, dia...
+
+733
+01:12:32,848 --> 01:12:34,475
+dia mengancam
+akan mengungkap programnya.
+
+734
+01:12:34,976 --> 01:12:37,144
+Dia tak mau kau jadi pembunuh.
+
+735
+01:12:45,486 --> 01:12:46,445
+Siapa yang membunuhnya?
+
+736
+01:12:55,746 --> 01:12:56,747
+Siapa yang membunuhnya?
+
+737
+01:12:56,998 --> 01:12:57,915
+Jangan lakukan.
+
+738
+01:12:59,208 --> 01:13:00,042
+Di mana dia?
+
+739
+01:13:02,211 --> 01:13:03,379
+Dia hampir tiba.
+
+740
+01:13:07,675 --> 01:13:09,260
+Kita selesaikan ini sekarang.
+
+741
+01:13:11,345 --> 01:13:12,513
+Tidak, kumohon.
+
+742
+01:13:30,364 --> 01:13:32,033
+Tolong! Panggil ambulans!
+
+743
+01:13:33,367 --> 01:13:34,285
+Tolong!
+
+744
+01:13:35,161 --> 01:13:36,662
+<i>Dia jatuh dari atap. Lima lantai.</i>
+
+745
+01:13:37,538 --> 01:13:38,789
+Dia mengenaliku.
+
+746
+01:13:39,457 --> 01:13:40,583
+<i>Akan kupastikan dia mati.</i>
+
+747
+01:13:46,922 --> 01:13:48,549
+Bantuan datang.
+
+748
+01:13:48,633 --> 01:13:49,717
+Jangan bangun, Bung.
+
+749
+01:13:54,555 --> 01:13:56,015
+Minggir. Tolong minggir.
+
+750
+01:13:56,515 --> 01:13:57,975
+Semuanya mundur.
+
+751
+01:13:58,142 --> 01:13:59,685
+- Biarkan kami bekerja.
+- Mundur.
+
+752
+01:14:02,271 --> 01:14:03,397
+Ada yang lihat kejadiannya?
+
+753
+01:14:03,481 --> 01:14:04,315
+Dia hilang.
+
+754
+01:14:04,398 --> 01:14:06,025
+- Sial.
+- <i>Aku akan mengejarnya.</i>
+
+755
+01:14:06,400 --> 01:14:07,735
+Aku akan ke kanal.
+
+756
+01:14:09,820 --> 01:14:11,614
+Tidak. Tugasmu di London selesai.
+
+757
+01:14:12,114 --> 01:14:13,324
+<i>Apa maksudmu?</i>
+
+758
+01:14:13,491 --> 01:14:14,950
+Kugunakan rencana lain.
+
+759
+01:14:15,785 --> 01:14:18,329
+<i>Setelah dia tahu perbuatan kita,</i>
+<i>dia akan memburu kita berdua...</i>
+
+760
+01:14:18,496 --> 01:14:21,082
+<i>dan itu bisa jadi peluang</i>
+<i>untuk hal lain.</i>
+
+761
+01:14:21,666 --> 01:14:23,209
+<i>Ini bukan soal balas dendam.</i>
+
+762
+01:14:23,334 --> 01:14:24,293
+<i>Sebaliknya.</i>
+
+763
+01:14:24,919 --> 01:14:27,004
+Ini takkan berakhir
+sampai salah satu dari kami mati.
+
+764
+01:14:28,005 --> 01:14:29,340
+<i>Pergi ke bandara.</i>
+
+765
+01:14:30,007 --> 01:14:32,093
+<i>Ada masalah dengan Iron Hand.</i>
+
+766
+01:14:34,095 --> 01:14:35,096
+Baik.
+
+767
+01:14:43,813 --> 01:14:44,980
+Beri aku laporan.
+
+768
+01:14:45,147 --> 01:14:46,107
+<i>Tak ada informasi.</i>
+
+769
+01:14:46,857 --> 01:14:48,192
+Cari terus.
+
+770
+01:14:55,032 --> 01:14:55,950
+Jalan.
+
+771
+01:15:01,956 --> 01:15:04,291
+Mestinya tidak begini.
+Aku hanya ingin bicara.
+
+772
+01:15:04,375 --> 01:15:05,626
+Ke mana Dewey pergi?
+
+773
+01:15:09,964 --> 01:15:13,467
+Dia akan ke Vegas untuk ceramah bersama
+Aaron Kalloor di pertemuan siber.
+
+774
+01:15:14,010 --> 01:15:16,095
+Agensi merekrut di sana setiap tahun.
+
+775
+01:15:16,846 --> 01:15:18,055
+Apa itu Iron Hand?
+
+776
+01:15:20,891 --> 01:15:22,393
+Program operasi rahasia baru Dewey.
+
+777
+01:15:23,394 --> 01:15:24,979
+Pengintaian gelombang.
+
+778
+01:15:25,563 --> 01:15:27,314
+Mengawasi semua orang sepanjang waktu.
+
+779
+01:15:28,232 --> 01:15:30,818
+Dewey butuh bantuan Kalloor
+untuk menghubungkan ke Internet.
+
+780
+01:15:33,779 --> 01:15:34,613
+Aku mau keluar.
+
+781
+01:15:36,866 --> 01:15:37,950
+Aku bisa bantu kau ke sana.
+
+782
+01:15:42,705 --> 01:15:43,748
+Buat apa kau melakukannya?
+
+783
+01:15:43,873 --> 01:15:47,251
+Alasan kita berbeda, tapi kita
+sama-sama ingin menyingkirkan Dewey.
+
+784
+01:15:52,048 --> 01:15:53,340
+Bawa ini.
+
+785
+01:16:07,605 --> 01:16:08,856
+Sampai jumpa di Vegas.
+
+786
+01:16:34,340 --> 01:16:35,257
+Pak.
+
+787
+01:16:36,300 --> 01:16:39,053
+Kita akan menyalahkan penembak
+jihad fiktif untuk pembunuhan Kalloor.
+
+788
+01:16:39,220 --> 01:16:41,055
+Orang Irak berusia 20 tahun.
+
+789
+01:16:41,388 --> 01:16:44,767
+Kita ciptakan rekening bank, dokumen
+perjalanan, surel, riwayat telepon.
+
+790
+01:16:45,518 --> 01:16:47,978
+- Seolah dia bekerja sendirian.
+- Ada bukti fisik?
+
+791
+01:16:48,104 --> 01:16:50,773
+Aset meninggalkan senjatanya.
+Akan ada sidik jari orang Irak itu.
+
+792
+01:16:52,817 --> 01:16:54,527
+Russell tak perlu tahu soal ini.
+
+793
+01:16:57,571 --> 01:16:58,906
+Aku mengerti, Pak.
+
+794
+01:17:00,157 --> 01:17:01,450
+Ada kabar mengenai Bourne?
+
+795
+01:17:02,118 --> 01:17:03,077
+Tidak.
+
+796
+01:17:05,287 --> 01:17:06,831
+Dia akan terus berusaha membunuhku.
+
+797
+01:17:09,834 --> 01:17:11,252
+Jika dia muncul, kami akan tangani.
+
+798
+01:17:16,257 --> 01:17:18,092
+WARGA AMERIKA
+
+799
+01:17:18,175 --> 01:17:19,301
+BEA CUKAI
+PERBATASAN AS
+
+800
+01:17:30,020 --> 01:17:31,021
+Keamanan Udara dan
+Perlindungan Perbatasan Amerika
+
+801
+01:17:31,105 --> 01:17:32,857
+Christopher Michaels
+
+802
+01:17:32,940 --> 01:17:33,983
+Menemukan 1 hasil
+
+803
+01:17:49,248 --> 01:17:51,333
+Apa tujuan berkunjung ke London,
+Tn. Michaels?
+
+804
+01:17:53,002 --> 01:17:53,836
+Bisnis.
+
+805
+01:17:54,503 --> 01:17:56,881
+Proses Pengenalan Wajah
+Proses Status Paspor
+
+806
+01:18:16,483 --> 01:18:18,152
+IZIN: DIBERIKAN
+
+807
+01:18:19,695 --> 01:18:20,613
+Selamat kembali, Pak.
+
+808
+01:18:22,573 --> 01:18:23,407
+Terima kasih.
+
+809
+01:18:39,131 --> 01:18:40,925
+<i>Tempat parkir aman.</i>
+<i>Silakan masuk.</i>
+
+810
+01:18:45,346 --> 01:18:47,097
+Pak, ada kamar aman di atas.
+
+811
+01:19:48,242 --> 01:19:49,702
+- Selamat menikmati.
+- Terima kasih.
+
+812
+01:19:51,203 --> 01:19:52,538
+Selamat datang di Aria.
+
+813
+01:19:52,746 --> 01:19:54,707
+- Heather Lee, mau masuk.
+- Baik.
+
+814
+01:20:00,296 --> 01:20:01,255
+Lift utara, 10 menit
+
+815
+01:20:01,338 --> 01:20:04,091
+Anda di kamar Sky Suite.
+Nomor 2016.
+
+816
+01:20:04,800 --> 01:20:05,801
+Selamat menikmati.
+
+817
+01:20:06,010 --> 01:20:07,011
+Terima kasih.
+
+818
+01:20:10,973 --> 01:20:14,643
+DIREKTUR CIA ROBERT DEWEY DAN
+PENDIRI DEEP DREAM AARON KALLOOR
+
+819
+01:20:14,852 --> 01:20:16,437
+Aaron!
+
+820
+01:20:19,314 --> 01:20:21,859
+- Bagus, Aaron!
+- Deep Dream!
+
+821
+01:20:33,662 --> 01:20:34,788
+Temukan Lee.
+
+822
+01:20:35,706 --> 01:20:37,666
+Bilang aku mau bertemu
+sebelum naik panggung.
+
+823
+01:20:38,000 --> 01:20:39,168
+Baik, Pak.
+
+824
+01:20:39,376 --> 01:20:41,670
+Kirim agen di belakang panggung
+dan auditorium.
+
+825
+01:20:41,754 --> 01:20:42,755
+Baik, Pak.
+
+826
+01:20:52,890 --> 01:20:54,141
+Permisi, beri jalan.
+
+827
+01:20:54,933 --> 01:20:56,935
+Beri jalan.
+
+828
+01:20:58,062 --> 01:20:59,354
+Aku mau ke situ sebentar.
+
+829
+01:20:59,563 --> 01:21:01,648
+Hei, semuanya. Apa kabar?
+Aaron.
+
+830
+01:21:02,066 --> 01:21:03,150
+Senang bertemu denganmu.
+
+831
+01:21:03,901 --> 01:21:05,069
+Boleh minta satu?
+
+832
+01:21:05,736 --> 01:21:07,362
+PELACAK LOKASI PERSONEL
+
+833
+01:21:07,446 --> 01:21:08,906
+Terima kasih atas kerja kerasmu.
+
+834
+01:21:12,409 --> 01:21:14,161
+- Terima kasih.
+- Kau bekerja dengan baik.
+
+835
+01:21:15,454 --> 01:21:16,580
+KAMERA TERSEMBUNYI
+
+836
+01:21:16,663 --> 01:21:18,123
+MEREKAM PERCAKAPAN
+SAMPAI JARAK 50 METER
+
+837
+01:21:33,639 --> 01:21:36,558
+DIREKTUR INGIN BERTEMU
+
+838
+01:21:40,062 --> 01:21:41,980
+DENAH GORONG-GORONG
+
+839
+01:21:46,652 --> 01:21:47,486
+Ya.
+
+840
+01:21:47,903 --> 01:21:49,029
+Kau siap?
+
+841
+01:21:49,446 --> 01:21:51,156
+<i>Memeriksa rute pelarian.</i>
+
+842
+01:21:51,532 --> 01:21:52,783
+Waktumu sedikit.
+
+843
+01:21:53,867 --> 01:21:56,745
+Mereka takkan tahu asal tembakannya.
+Aku akan punya cukup waktu.
+
+844
+01:21:58,372 --> 01:22:01,458
+Setelah membunuh Kalloor,
+aku akan berdiri, tangan kiri di sisiku.
+
+845
+01:22:01,542 --> 01:22:02,459
+Tembaklah.
+
+846
+01:22:02,543 --> 01:22:04,420
+Lebih baik jika aku juga jadi sasaran.
+
+847
+01:22:05,671 --> 01:22:06,672
+Mengerti.
+
+848
+01:22:46,753 --> 01:22:47,588
+Lee.
+
+849
+01:22:50,048 --> 01:22:52,092
+Direktur mau bicara sebelum
+naik panggung.
+
+850
+01:22:53,760 --> 01:22:54,678
+Baik.
+
+851
+01:23:00,851 --> 01:23:03,937
+MELACAK
+
+852
+01:23:17,743 --> 01:23:18,744
+Identitas?
+
+853
+01:23:19,036 --> 01:23:20,037
+Terima kasih.
+
+854
+01:23:29,546 --> 01:23:33,508
+KANTONG KIRI UNTUK DEWEY
+
+855
+01:23:46,230 --> 01:23:47,064
+Heather.
+
+856
+01:23:47,981 --> 01:23:50,150
+Anak asuhku.
+Pendukung terkuatku.
+
+857
+01:23:51,193 --> 01:23:52,861
+Setelah kejadian di London...
+
+858
+01:23:52,945 --> 01:23:54,655
+aku tak tahu kau harus kuapakan.
+
+859
+01:23:54,738 --> 01:23:55,989
+Kurasa kita...
+
+860
+01:23:57,032 --> 01:23:59,576
+lupakan saja mengingat
+kau belum pengalaman.
+
+861
+01:24:00,285 --> 01:24:01,495
+Kuhargai itu.
+
+862
+01:24:02,829 --> 01:24:05,457
+<i>Setidaknya kini kau tahu</i>
+<i>bahwa kau tak punya peluang.</i>
+
+863
+01:24:06,416 --> 01:24:08,919
+<i>Jika Bourne muncul lagi,</i>
+<i>aku yang akan mengurusnya.</i>
+
+864
+01:24:09,336 --> 01:24:10,462
+<i>Kau mengerti?</i>
+
+865
+01:24:10,963 --> 01:24:11,964
+Tentu.
+
+866
+01:24:12,506 --> 01:24:13,674
+Aku setuju.
+
+867
+01:24:16,927 --> 01:24:17,970
+Saat kita naik panggung...
+
+868
+01:24:18,053 --> 01:24:21,056
+aku jawab pertanyaan kebijakan,
+kau jawab pertanyaan teknis.
+
+869
+01:24:21,723 --> 01:24:24,142
+- Aku akan siap.
+- Baik, ayo kita lakukan.
+
+870
+01:24:34,820 --> 01:24:35,696
+Tanda pengenal?
+
+871
+01:24:53,839 --> 01:24:54,673
+Aaron.
+
+872
+01:24:55,465 --> 01:24:56,300
+Robert.
+
+873
+01:24:58,135 --> 01:24:59,344
+Kau kenal Heather Lee.
+
+874
+01:25:03,765 --> 01:25:05,559
+Ya, kami kuliah di Stanford.
+
+875
+01:25:06,643 --> 01:25:08,770
+Bagaimana pekerjaan di Agensi?
+
+876
+01:25:09,479 --> 01:25:11,481
+Menantang. Tapi memuaskan.
+
+877
+01:25:12,774 --> 01:25:14,818
+Sulit memegang prinsipmu di sana?
+
+878
+01:25:16,320 --> 01:25:18,030
+Prinsipku baik-baik saja.
+
+879
+01:25:19,948 --> 01:25:21,908
+Kami sudah siap untuk kalian.
+Ikuti aku.
+
+880
+01:25:22,743 --> 01:25:23,702
+Aku akan menikmati ini.
+
+881
+01:25:24,745 --> 01:25:25,579
+Aku juga.
+
+882
+01:25:39,718 --> 01:25:40,802
+Terima kasih, Pak.
+
+883
+01:26:02,574 --> 01:26:04,451
+Bagaimana kabarnya malam ini?
+
+884
+01:26:05,869 --> 01:26:07,371
+Selamat datang.
+
+885
+01:26:09,915 --> 01:26:10,957
+Selamat datang.
+
+886
+01:26:12,668 --> 01:26:16,380
+Selamat datang dalam
+Simposium EXOCON malam ini.
+
+887
+01:26:16,713 --> 01:26:20,550
+Kita beruntung ada
+empat tamu luar biasa malam ini.
+
+888
+01:26:21,176 --> 01:26:23,929
+Direktur CIA, Robert Dewey,
+ada di sini.
+
+889
+01:26:26,765 --> 01:26:30,185
+Dan temanku,
+juga teman lama EXOCON...
+
+890
+01:26:30,268 --> 01:26:35,107
+CEO media sosial raksasa Deep Dream,
+Aaron Kalloor di sini.
+
+891
+01:27:08,223 --> 01:27:12,060
+<i>Malam ini, "Ketertiban Internet gratis...</i>
+
+892
+01:27:12,978 --> 01:27:15,605
+<i>hak pribadi versus keamanan publik."</i>
+
+893
+01:27:16,314 --> 01:27:18,108
+<i>Ini pertanyaan besar pada zaman kita.</i>
+
+894
+01:27:18,775 --> 01:27:21,361
+<i>Keputusan kita tentang hal ini</i>
+<i>akan menentukan masa depan.</i>
+
+895
+01:27:22,404 --> 01:27:24,531
+<i>Mari kita mulai saja.</i>
+
+896
+01:27:26,783 --> 01:27:28,118
+<i>Ayo kemari.</i>
+
+897
+01:27:28,577 --> 01:27:30,162
+Pak, ada pesan masuk.
+
+898
+01:27:30,996 --> 01:27:31,913
+Prioritas tinggi.
+
+899
+01:27:33,206 --> 01:27:34,833
+Aku harus terima ini.
+
+900
+01:27:35,041 --> 01:27:36,209
+Nanti aku menyusul.
+
+901
+01:27:37,085 --> 01:27:38,086
+Pergilah.
+
+902
+01:27:46,219 --> 01:27:48,054
+Terima kasih sudah mengundangku.
+
+903
+01:27:58,482 --> 01:28:00,901
+<i>Sepertinya Direktur Dewey</i>
+<i>ada urusan...</i>
+
+904
+01:28:00,984 --> 01:28:04,613
+<i>dan kudengar sebentar lagi dia bergabung.</i>
+
+905
+01:28:04,696 --> 01:28:06,364
+<i>Tapi ada banyak topik malam ini...</i>
+
+906
+01:28:06,448 --> 01:28:07,991
+<i>- jadi kita mulai saja...</i>
+- Brad?
+
+907
+01:28:08,074 --> 01:28:09,075
+Brad, boleh aku bicara?
+
+908
+01:28:09,868 --> 01:28:11,077
+<i>- Permisi?</i>
+- Boleh aku memulai?
+
+909
+01:28:11,953 --> 01:28:13,288
+Tentu, silakan.
+
+910
+01:28:13,371 --> 01:28:15,123
+<i>Para hadirin, Aaron Kalloor.</i>
+
+911
+01:28:27,010 --> 01:28:28,136
+Terima kasih.
+
+912
+01:28:29,387 --> 01:28:31,765
+<i>Terima kasih untuk Brad</i>
+<i>dan semua personel di EXOCON...</i>
+
+913
+01:28:31,848 --> 01:28:33,266
+<i>sudah mengundang kami...</i>
+
+914
+01:28:33,433 --> 01:28:35,268
+<i>dan terima kasih atas kehadirannya.</i>
+
+915
+01:28:36,353 --> 01:28:38,897
+<i>Sebelum Direktur bergabung...</i>
+
+916
+01:28:38,980 --> 01:28:41,274
+<i>aku ingin bicara dengan kalian.</i>
+
+917
+01:28:41,942 --> 01:28:44,152
+Dulu sekali, aku punya sebuah ide.
+
+918
+01:28:44,778 --> 01:28:45,612
+Mengerti.
+
+919
+01:28:47,364 --> 01:28:48,782
+Pengenalan wajah dapat kecocokan.
+
+920
+01:28:48,865 --> 01:28:50,909
+Bourne naik pesawat BA
+dari Heathrow ke Vegas.
+
+921
+01:28:50,992 --> 01:28:52,285
+Dia mendarat dua jam lalu.
+
+922
+01:28:53,578 --> 01:28:55,372
+Bagaimana dia bisa melewati imigrasi?
+
+923
+01:28:55,539 --> 01:28:58,542
+Ada yang memberinya izin Agensi
+di paspornya.
+
+924
+01:29:00,669 --> 01:29:02,462
+<i>Ternyata menjadi ide yang populer.</i>
+
+925
+01:29:04,172 --> 01:29:06,633
+<i>Orang di seluruh dunia mulai</i>
+<i>menggunakan jasa kami.</i>
+
+926
+01:29:14,391 --> 01:29:16,977
+ADA YANG TIDAK BERES
+
+927
+01:29:19,020 --> 01:29:20,021
+<i>Pertama...</i>
+
+928
+01:29:20,397 --> 01:29:23,066
+<i>ini membuatku lebih kaya</i>
+<i>ketimbang sehat.</i>
+
+929
+01:29:23,191 --> 01:29:26,945
+Saat aku naik ke panggung,
+bunuh Kalloor dan gadis itu.
+
+930
+01:29:27,904 --> 01:29:28,780
+Mengerti.
+
+931
+01:29:29,656 --> 01:29:32,826
+<i>Tapi aku ingin bilang,</i>
+<i>kesuksesan ini ada harganya.</i>
+
+932
+01:29:33,994 --> 01:29:37,831
+Ada kanker di jantung Deep Dream.
+
+933
+01:29:38,957 --> 01:29:41,209
+<i>Rahasia gelap, dan...</i>
+
+934
+01:29:42,335 --> 01:29:43,962
+<i>aku harus beri tahu kalian.</i>
+
+935
+01:29:44,087 --> 01:29:45,297
+Dia ingin merusak kita.
+
+936
+01:29:45,380 --> 01:29:46,881
+Bunuh Kalloor dan gadis itu sekarang.
+
+937
+01:29:53,054 --> 01:29:54,014
+- Diam di situ.
+- Baik.
+
+938
+01:29:55,932 --> 01:29:57,934
+<i>Ketika memulainya, aku...</i>
+
+939
+01:29:59,060 --> 01:30:01,521
+<i>Aku pinjam uang</i>
+<i>untuk memulai perusahaanku.</i>
+
+940
+01:30:03,982 --> 01:30:06,109
+Buat kesepakatan dengan orang jahat...
+
+941
+01:30:09,279 --> 01:30:11,364
+<i>kini dia kembali</i>
+<i>untuk mengambil jiwaku.</i>
+
+942
+01:30:20,540 --> 01:30:21,458
+Aku lihat penembaknya!
+
+943
+01:30:21,541 --> 01:30:22,626
+Kami melihat Jason Bourne.
+
+944
+01:30:23,710 --> 01:30:25,170
+Dia masih bernapas.
+Panggil ambulans!
+
+945
+01:30:27,631 --> 01:30:28,465
+Ayo!
+
+946
+01:30:28,548 --> 01:30:29,633
+Pak, kita harus pergi.
+
+947
+01:30:47,108 --> 01:30:48,818
+Ini Vasquez.
+Kami mengejar Bourne.
+
+948
+01:30:49,069 --> 01:30:50,278
+Siapkan mobil!
+
+949
+01:30:50,445 --> 01:30:52,364
+Siapkan mobil sekarang juga!
+
+950
+01:30:52,614 --> 01:30:53,865
+Tidak, bawa aku ke kamar.
+
+951
+01:30:53,948 --> 01:30:55,950
+Kami harus membawamu pergi.
+Bourne belum ditemukan.
+
+952
+01:30:56,326 --> 01:30:59,663
+Kau dengar aku.
+Bawa aku ke kamar.
+
+953
+01:30:59,829 --> 01:31:00,664
+Baik, Pak.
+
+954
+01:31:00,830 --> 01:31:02,624
+Bawa dia ke kamar.
+Bawa dia ke atas.
+
+955
+01:31:02,874 --> 01:31:03,750
+Bawa ke atas.
+
+956
+01:31:03,958 --> 01:31:04,959
+Sekarang juga.
+
+957
+01:31:05,293 --> 01:31:06,294
+Naik ke kamar.
+
+958
+01:31:07,128 --> 01:31:08,713
+Ayo, sekarang. Cepat!
+
+959
+01:31:16,805 --> 01:31:18,515
+Minggir! Agen federal!
+
+960
+01:31:26,856 --> 01:31:28,066
+Vasquez, melapor.
+
+961
+01:31:29,067 --> 01:31:30,318
+<i>Vasquez, jawab!</i>
+
+962
+01:31:52,882 --> 01:31:53,883
+Kita mendapatkannya.
+
+963
+01:31:53,967 --> 01:31:54,968
+Pak, ini Collier.
+
+964
+01:31:55,051 --> 01:31:56,970
+<i>- Kami dapat identitas penembak.</i>
+- Sial.
+
+965
+01:31:57,095 --> 01:31:58,596
+Kami menyebarkan fotonya.
+
+966
+01:31:58,763 --> 01:31:59,597
+Bourne bagaimana?
+
+967
+01:32:00,181 --> 01:32:01,057
+Tunggu.
+
+968
+01:32:02,350 --> 01:32:04,310
+Bourne keluar dari
+koridor servis barat...
+
+969
+01:32:04,394 --> 01:32:05,687
+menuju lobi.
+
+970
+01:32:05,937 --> 01:32:07,397
+Baik. Awasi Bourne.
+
+971
+01:32:10,442 --> 01:32:11,443
+Apa?
+
+972
+01:32:11,609 --> 01:32:12,652
+<i>Kami masih mencari Bourne.</i>
+
+973
+01:32:13,027 --> 01:32:14,612
+Mereka mengenali aset.
+
+974
+01:32:31,963 --> 01:32:34,007
+Kembali ke lantai satu
+dan tunggu perintah.
+
+975
+01:32:34,174 --> 01:32:35,383
+- Baik, Pak.
+- Baik.
+
+976
+01:32:52,859 --> 01:32:55,028
+Semuanya tiarap! Sekarang!
+
+977
+01:32:55,361 --> 01:32:56,696
+Tiarap, cepat!
+
+978
+01:32:58,323 --> 01:33:00,074
+Minggir! Agen federal!
+
+979
+01:33:23,515 --> 01:33:26,017
+Bawa satu regu ke lift timur laut.
+Kita bertemu di sana.
+
+980
+01:33:33,775 --> 01:33:35,318
+Bourne menuju ke arahmu.
+
+981
+01:34:25,785 --> 01:34:27,662
+Kau butuh waktu lama
+untuk tiba di sini, Jason.
+
+982
+01:34:29,414 --> 01:34:30,498
+Aku tahu tentang Beirut.
+
+983
+01:34:31,916 --> 01:34:32,959
+Aku tahu perbuatanmu.
+
+984
+01:34:34,878 --> 01:34:35,879
+Semua berakhir malam ini.
+
+985
+01:34:37,213 --> 01:34:39,007
+Lebih mudah jika kau lakukan sekarang.
+
+986
+01:34:46,973 --> 01:34:48,725
+Kau tak kemari untuk balas dendam.
+
+987
+01:34:48,808 --> 01:34:50,643
+Tapi karena kau tahu
+ini waktunya kembali.
+
+988
+01:34:59,444 --> 01:35:01,237
+Ayahmu menciptakan programnya.
+
+989
+01:35:02,071 --> 01:35:03,907
+Dia tidak mampu menjalaninya.
+
+990
+01:35:04,949 --> 01:35:05,909
+Dan kau mampu.
+
+991
+01:35:07,118 --> 01:35:08,161
+Kau selalu mampu.
+
+992
+01:35:11,164 --> 01:35:12,165
+Karena itu kau sukarela.
+
+993
+01:35:12,540 --> 01:35:14,751
+Aku sukarela karena kukira
+musuh kita membunuhnya.
+
+994
+01:35:17,045 --> 01:35:18,630
+Aku sukarela karena dibohongi.
+
+995
+01:35:18,713 --> 01:35:21,007
+Tidak, kau sukarela karena jati dirimu.
+
+996
+01:35:21,674 --> 01:35:23,885
+Kau sukarela karena
+kau adalah Jason Bourne...
+
+997
+01:35:23,968 --> 01:35:26,054
+dan bukan David Webb.
+
+998
+01:35:36,522 --> 01:35:38,024
+Tiga puluh dua pembunuhan, Jason.
+
+999
+01:35:38,650 --> 01:35:40,234
+Semuanya membuat perbedaan.
+
+1000
+01:35:40,360 --> 01:35:44,113
+Negara ini lebih aman
+karena perbuatanmu.
+
+1001
+01:35:56,250 --> 01:35:57,669
+Aku mencoba hidup berbeda.
+
+1002
+01:36:02,173 --> 01:36:03,716
+Bagaimana hasilnya?
+
+1003
+01:36:12,308 --> 01:36:13,935
+Kau takkan menemukan kedamaian.
+
+1004
+01:36:15,812 --> 01:36:18,690
+Sampai kau mengakui jati dirimu.
+
+1005
+01:36:21,359 --> 01:36:22,610
+Waktunya kembali, Jason.
+
+1006
+01:36:25,071 --> 01:36:26,155
+Waktunya kembali.
+
+1007
+01:36:32,996 --> 01:36:33,955
+Aku tidak bisa.
+
+1008
+01:36:39,627 --> 01:36:40,461
+Tidak untukmu.
+
+1009
+01:37:16,330 --> 01:37:17,331
+Kau tidak pernah di sini.
+
+1010
+01:37:25,757 --> 01:37:26,924
+Kau tak perlu memburunya.
+
+1011
+01:37:30,511 --> 01:37:31,596
+Ini bisa berakhir sekarang.
+
+1012
+01:37:33,097 --> 01:37:34,265
+Kau punya pilihan.
+
+1013
+01:37:57,747 --> 01:37:59,248
+- Ayo!
+- Siapkan tanda pengenalmu.
+
+1014
+01:37:59,582 --> 01:38:01,584
+Siapkan tanda pengenal kalian.
+
+1015
+01:38:03,294 --> 01:38:06,172
+Siapkan tanda pengenalmu!
+Ayo, cepat!
+
+1016
+01:38:12,970 --> 01:38:16,099
+Berbaris. Polisi Vegas!
+
+1017
+01:38:58,432 --> 01:39:01,185
+<i>Mobil SWAT dan Dodge Charger hitam</i>
+<i>tanpa pengenal...</i>
+
+1018
+01:39:01,269 --> 01:39:02,562
+<i>dicuri di depan Aria.</i>
+
+1019
+01:39:10,153 --> 01:39:11,988
+<i>Pengejaran berlangsung.</i>
+<i>Meminta bantuan udara.</i>
+
+1020
+01:39:12,071 --> 01:39:13,114
+<i>Apa identitasnya?</i>
+
+1021
+01:43:25,241 --> 01:43:26,659
+Tutup jalan itu!
+
+1022
+01:44:23,799 --> 01:44:24,633
+Minggir!
+
+1023
+01:44:28,137 --> 01:44:30,681
+<i>Dua unit berikut yang terlibat,</i>
+<i>perkenalkan diri.</i>
+
+1024
+01:44:30,764 --> 01:44:32,808
+<i>Ini Air 1. Perhatian,</i>
+<i>kendaraan tersangka...</i>
+
+1025
+01:44:32,892 --> 01:44:34,894
+menabrak pintu masuk tenggara Riviera.
+
+1026
+01:44:46,697 --> 01:44:49,825
+<i>Tersangka bersenjata masuk</i>
+<i>ke gorong-gorong di selatan Riviera.</i>
+
+1027
+01:46:39,935 --> 01:46:42,313
+Kau pengkhianat.
+Sejak dahulu kau pengkhianat.
+
+1028
+01:46:43,564 --> 01:46:44,982
+Itulah jati dirimu.
+
+1029
+01:48:06,480 --> 01:48:08,691
+Rumah Sakit Valley
+
+1030
+01:48:09,024 --> 01:48:10,359
+Tn. Kalloor!
+
+1031
+01:48:11,944 --> 01:48:14,697
+Aaron! Apa yang ingin
+kau sampaikan di pertemuan?
+
+1032
+01:48:14,822 --> 01:48:16,115
+Apa yang kau sembunyikan, Aaron?
+
+1033
+01:48:16,198 --> 01:48:17,700
+Hati-hati.
+
+1034
+01:48:17,783 --> 01:48:19,618
+- Mundur.
+- Kenapa ada yang ingin membunuhmu?
+
+1035
+01:48:20,202 --> 01:48:22,246
+Kanker apa
+di jantung Deep Dream?
+
+1036
+01:48:22,329 --> 01:48:24,957
+Kurasa tidak baik memberikan
+komentar saat ini...
+
+1037
+01:48:25,040 --> 01:48:26,875
+tapi aku ingin bekerja sama
+dengan polisi...
+
+1038
+01:48:27,042 --> 01:48:28,210
+untuk menemukan pelakunya.
+
+1039
+01:48:28,752 --> 01:48:29,920
+Dan kembali ke Deep Dream...
+
+1040
+01:48:30,003 --> 01:48:32,256
+melanjutkan pekerjaan penting kami.
+Terima kasih.
+
+1041
+01:48:33,173 --> 01:48:35,050
+Kau membohongi penggunamu?
+
+1042
+01:49:06,832 --> 01:49:07,833
+Pak.
+
+1043
+01:49:17,926 --> 01:49:19,386
+Aku ingin minta maaf, Pak.
+
+1044
+01:49:20,471 --> 01:49:21,430
+Tentang Vegas.
+
+1045
+01:49:22,389 --> 01:49:25,601
+Taktik Direktur Dewey tidaklah bijak.
+
+1046
+01:49:25,684 --> 01:49:26,685
+Tidak bijak?
+
+1047
+01:49:28,437 --> 01:49:31,148
+Kami masih menyusun cerita
+untuk menjelaskannya.
+
+1048
+01:49:31,565 --> 01:49:35,152
+Bedebah itu membuat Iron Hand
+jadi sorotan.
+
+1049
+01:49:36,403 --> 01:49:37,279
+Juga kita semua.
+
+1050
+01:49:37,988 --> 01:49:39,656
+Kalloor belum buka mulut.
+
+1051
+01:49:41,909 --> 01:49:43,118
+Aku kenal Aaron.
+
+1052
+01:49:44,244 --> 01:49:46,121
+Ada strategi yang masih bisa
+kita gunakan.
+
+1053
+01:49:49,333 --> 01:49:50,375
+Katakan.
+
+1054
+01:49:51,251 --> 01:49:53,796
+Masalah Dewey adalah
+dia hidup di masa lalu.
+
+1055
+01:49:55,798 --> 01:49:57,841
+Orang seperti Kalloor
+membentuk masa depan.
+
+1056
+01:49:58,717 --> 01:49:59,843
+Aku kenal mereka.
+
+1057
+01:50:01,553 --> 01:50:02,679
+Aku tahu cara menghadapinya.
+
+1058
+01:50:06,600 --> 01:50:07,684
+Dan apa maumu?
+
+1059
+01:50:09,478 --> 01:50:11,563
+Saat kau memilih
+Direktur Agensi baru...
+
+1060
+01:50:11,647 --> 01:50:13,816
+kau butuh orang yang bekerja
+untuk kepentinganmu.
+
+1061
+01:50:15,526 --> 01:50:16,527
+Orang yang...
+
+1062
+01:50:17,903 --> 01:50:19,822
+didukung olehmu.
+
+1063
+01:50:23,742 --> 01:50:24,743
+Bagaimana dengan Bourne?
+
+1064
+01:50:26,328 --> 01:50:27,871
+Masih berpikir bisa
+membawanya kembali?
+
+1065
+01:50:31,416 --> 01:50:32,376
+Dia percaya kepadaku.
+
+1066
+01:50:33,836 --> 01:50:34,837
+Setelah pengalaman kami.
+
+1067
+01:50:36,880 --> 01:50:37,881
+Akan kubawa dia kembali.
+
+1068
+01:50:38,632 --> 01:50:39,675
+Aku yakin.
+
+1069
+01:50:42,553 --> 01:50:43,512
+Jika tidak berhasil?
+
+1070
+01:50:46,098 --> 01:50:49,476
+Maka dia harus dibunuh.
+
+1071
+01:50:53,397 --> 01:50:55,190
+Usul yang menarik.
+
+1072
+01:51:00,529 --> 01:51:01,697
+Menepilah.
+
+1073
+01:51:07,035 --> 01:51:09,246
+Jika kau tidak butuh aku...
+
+1074
+01:51:10,455 --> 01:51:11,540
+itu tidak jadi masalah.
+
+1075
+01:51:12,124 --> 01:51:14,459
+Ada banyak agensi lain yang
+menginginkan pengetahuanku.
+
+1076
+01:51:44,990 --> 01:51:45,991
+Kubawakan sesuatu.
+
+1077
+01:51:52,122 --> 01:51:54,124
+Ini tiruan bintang ayahmu...
+
+1078
+01:51:54,249 --> 01:51:55,876
+di Tembok Peringatan, Langley.
+
+1079
+01:52:01,256 --> 01:52:03,550
+Richard Webb
+20-11-48
+
+1080
+01:52:06,470 --> 01:52:08,513
+Aku menyesal atas peristiwa
+yang menimpa dirimu.
+
+1081
+01:52:11,141 --> 01:52:12,184
+Caramu diperlakukan.
+
+1082
+01:52:12,851 --> 01:52:15,854
+Tapi para pelakunya sudah tiada...
+
+1083
+01:52:16,939 --> 01:52:18,774
+dan keadaan di Agensi berubah.
+
+1084
+01:52:19,107 --> 01:52:19,942
+Apa maumu?
+
+1085
+01:52:24,071 --> 01:52:25,697
+Aku tahu kau seorang patriot.
+
+1086
+01:52:27,616 --> 01:52:30,077
+Nasib negara ini berarti bagimu.
+
+1087
+01:52:32,079 --> 01:52:33,622
+Bantulah melindungi kami.
+
+1088
+01:52:35,624 --> 01:52:36,500
+Kembalilah.
+
+1089
+01:52:39,044 --> 01:52:40,087
+Kita akan bekerjasama.
+
+1090
+01:52:48,720 --> 01:52:49,721
+Biar kupertimbangkan.
+
+1091
+01:52:51,473 --> 01:52:52,599
+Bagaimana cara menemukanmu?
+
+1092
+01:53:39,438 --> 01:53:41,106
+<i>Masih berpikir bisa</i>
+<i>membawanya kembali?</i>
+
+1093
+01:53:41,648 --> 01:53:42,858
+<i>Dia percaya kepadaku.</i>
+
+1094
+01:53:44,151 --> 01:53:45,277
+<i>Setelah pengalaman kami.</i>
+
+1095
+01:53:46,820 --> 01:53:47,821
+<i>Akan kubawa dia kembali.</i>
+
+1096
+01:53:48,697 --> 01:53:49,740
+<i>Aku yakin.</i>
+
+1097
+01:53:51,158 --> 01:53:52,034
+<i>Jika tidak berhasil?</i>
+
+1098
+01:53:54,661 --> 01:53:57,330
+<i>Maka dia harus dibunuh.</i>
+
+1099
+01:53:57,354 --> 01:54:09,354
+v ip 2 1. e u. or g
+
