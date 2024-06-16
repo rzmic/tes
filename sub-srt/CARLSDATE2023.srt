@@ -1,0 +1,620 @@
+1
+00:00:02,503 --> 00:00:04,296
+Semangat Petualangan
+BLIMP DIJUAL
+
+2
+00:00:07,508 --> 00:00:09,092
+DIJUAL
+
+3
+00:00:13,680 --> 00:00:17,267
+RUMAH DIJUAL
+
+4
+00:00:17,351 --> 00:00:18,602
+DIJUAL
+
+5
+00:00:56,557 --> 00:00:58,892
+Jangan dimakan sebelum kubilang "Ayo."
+
+6
+00:00:59,142 --> 00:01:00,142
+Baiklah.
+
+7
+00:01:00,352 --> 00:01:01,352
+Satu.
+
+8
+00:01:02,187 --> 00:01:03,187
+<i>Enak.</i>
+
+9
+00:01:03,730 --> 00:01:05,232
+- Coba lagi.
+<i>- Ya.</i>
+
+10
+00:01:05,315 --> 00:01:06,483
+Tunggu "Ayo"...
+
+11
+00:01:08,527 --> 00:01:12,114
+Sudah jelas. Kita tidak bisa mengubah
+karakter atau mengajari hal baru.
+
+12
+00:01:12,447 --> 00:01:13,447
+<i>Aku sudah tua?</i>
+
+13
+00:01:13,615 --> 00:01:15,075
+Entahlah. Aku tidak tahu.
+
+14
+00:01:15,534 --> 00:01:16,702
+Kediaman Fredricksen.
+
+15
+00:01:17,369 --> 00:01:19,371
+Halo, Nona Meyer!
+
+16
+00:01:20,122 --> 00:01:24,293
+Panti jompo akan mengadopsi
+semua anjing Muntz?
+
+17
+00:01:25,377 --> 00:01:26,377
+Terima kasih!
+
+18
+00:01:26,670 --> 00:01:27,670
+<i>Anjing.</i>
+
+19
+00:01:27,963 --> 00:01:30,424
+Kau juga mengadopsi anjing?
+
+20
+00:01:30,632 --> 00:01:32,926
+Anjingmu ingin bicara dengan anjingku?
+
+21
+00:01:33,385 --> 00:01:34,511
+Tunggu sebentar.
+
+22
+00:01:34,595 --> 00:01:35,429
+Masuklah, Dug.
+
+23
+00:01:35,596 --> 00:01:39,099
+<i>Halo? Dug, kau di situ? Bicara, Dug.</i>
+
+24
+00:01:39,266 --> 00:01:40,142
+<i>Alpha?</i>
+
+25
+00:01:40,225 --> 00:01:42,311
+<i>Ini Beta. Kau yang Alpha!</i>
+
+26
+00:01:42,394 --> 00:01:44,688
+<i>Apa kau tidak ingat
+yang sekarang kukatakan?</i>
+
+27
+00:01:44,771 --> 00:01:47,649
+<i>Ya, benar. Aku adalah Alpha.</i>
+
+28
+00:01:48,775 --> 00:01:50,694
+<i>Kau suka tinggal di rumah sekarang?</i>
+
+29
+00:01:50,903 --> 00:01:54,198
+<i>Ya! Aku suka mainan anjingku!</i>
+
+30
+00:01:55,032 --> 00:01:57,242
+<i>Yang ini mainan sapi kecil!</i>
+
+31
+00:01:58,535 --> 00:02:00,829
+<i>Banyak kesenangan
+yang bisa didapat... Tupai!</i>
+
+32
+00:02:00,913 --> 00:02:03,081
+<i>Tupai? Di mana Tupainya?</i>
+
+33
+00:02:03,165 --> 00:02:03,999
+<i>Dah, Dug!</i>
+
+34
+00:02:04,082 --> 00:02:05,083
+Aku kembali.
+
+35
+00:02:06,376 --> 00:02:08,045
+Mereka membuatmu tetap waspada.
+
+36
+00:02:08,587 --> 00:02:09,587
+Apa?
+
+37
+00:02:11,131 --> 00:02:12,131
+Baiklah.
+
+38
+00:02:12,925 --> 00:02:13,925
+Tentu.
+
+39
+00:02:14,134 --> 00:02:15,344
+Terima kasih lagi.
+
+40
+00:02:15,719 --> 00:02:16,719
+Dadah!
+
+41
+00:02:18,639 --> 00:02:21,725
+Tidak. Ini tidak baik.
+
+42
+00:02:21,808 --> 00:02:23,185
+<i>Apa yang tidak baik?</i>
+
+43
+00:02:27,064 --> 00:02:29,316
+Ini sangat buruk.
+
+44
+00:02:29,483 --> 00:02:30,734
+<i>Apa? Ada apa?</i>
+
+45
+00:02:32,528 --> 00:02:33,529
+Sangat buruk.
+
+46
+00:02:33,612 --> 00:02:36,198
+<i>Aku prihatin padamu!</i>
+
+47
+00:02:36,281 --> 00:02:37,908
+Ini... masalah Nona Meyer.
+
+48
+00:02:37,991 --> 00:02:39,535
+<i>Nona Meyer jahat pada Ayahku.</i>
+
+49
+00:02:39,618 --> 00:02:41,912
+- Yang di telepon?
+<i>- Dia jahat saat menelepon.</i>
+
+50
+00:02:41,995 --> 00:02:42,829
+Dia menyukaiku.
+
+51
+00:02:42,913 --> 00:02:45,040
+<i>Dia menyukaimu?</i>
+
+52
+00:02:45,123 --> 00:02:46,542
+Dia ingin pergi berkencan.
+
+53
+00:02:47,584 --> 00:02:48,669
+Denganku!
+
+54
+00:02:48,752 --> 00:02:51,129
+Lalu, aku bilang, baiklah.
+
+55
+00:02:51,213 --> 00:02:52,130
+Kau percaya itu?
+
+56
+00:02:52,214 --> 00:02:53,924
+<i>Aku tidak paham kata-kata itu.</i>
+
+57
+00:02:54,007 --> 00:02:55,592
+Bagaimana aku melakukannya?
+
+58
+00:02:58,011 --> 00:02:59,096
+Maafkan aku, Ellie.
+
+59
+00:02:59,680 --> 00:03:01,723
+<i>Ayah, kencan itu apa?</i>
+
+60
+00:03:01,807 --> 00:03:05,018
+Kami keluar.
+
+61
+00:03:05,102 --> 00:03:07,521
+Pegangan tangan, bermesraan.
+
+62
+00:03:07,604 --> 00:03:08,647
+<i>Mesra?</i>
+
+63
+00:03:08,730 --> 00:03:11,233
+Seperti bermain
+di taman anjing dengan Fifi.
+
+64
+00:03:12,818 --> 00:03:14,570
+Aku tidak tahu cara berkencan.
+
+65
+00:03:15,070 --> 00:03:17,823
+<i>Karena kau ayahku,
+apa aku boleh panggil dia ibuku?</i>
+
+66
+00:03:17,906 --> 00:03:19,658
+Harap menahan diri.
+
+67
+00:03:19,741 --> 00:03:21,493
+Haruskah jabat tangan saat bertemu?
+
+68
+00:03:21,660 --> 00:03:23,203
+Apa yang harus kulakukan?
+
+69
+00:03:23,287 --> 00:03:24,663
+<i>Endus bagian belakangnya.</i>
+
+70
+00:03:24,746 --> 00:03:25,746
+Apa?
+
+71
+00:03:25,914 --> 00:03:27,040
+<i>Endus belakangnya.</i>
+
+72
+00:03:27,124 --> 00:03:30,043
+<i>Lalu dia lakukan hal yang sama.
+Itu cara menyapa seseorang.</i>
+
+73
+00:03:30,419 --> 00:03:31,628
+Menjijikkan!
+
+74
+00:03:31,712 --> 00:03:32,838
+Aku ini orang, paham?
+
+75
+00:03:34,173 --> 00:03:36,800
+<i>Aku cuma anjing.</i>
+
+76
+00:03:37,718 --> 00:03:39,511
+Baik, akan kupikirkan.
+
+77
+00:03:39,595 --> 00:03:40,929
+<i>Tidak. Tidak apa-apa.</i>
+
+78
+00:03:41,013 --> 00:03:41,847
+Dug!
+
+79
+00:03:41,930 --> 00:03:44,224
+<i>Manusia harus meniru cara anjing.</i>
+
+80
+00:03:44,308 --> 00:03:46,059
+Anjing bagaimana?
+
+81
+00:03:46,143 --> 00:03:47,561
+<i>Bawakan dia mainan.</i>
+
+82
+00:03:47,644 --> 00:03:49,396
+<i>Dia akan mengibaskan ekornya.</i>
+
+83
+00:03:51,231 --> 00:03:54,067
+Baiklah.
+
+84
+00:03:54,151 --> 00:03:55,235
+Ya, baiklah!
+
+85
+00:03:55,319 --> 00:03:56,570
+Aku harus pergi ke toko.
+
+86
+00:04:04,077 --> 00:04:05,077
+Dompet.
+
+87
+00:04:10,584 --> 00:04:11,584
+Kunci.
+
+88
+00:04:15,255 --> 00:04:16,255
+Lewat sana.
+
+89
+00:04:17,925 --> 00:04:20,385
+<i>Kurasa Ayah harus pergi
+ke dokter hewan.</i>
+
+90
+00:04:24,723 --> 00:04:25,724
+<i>Ayah sudah kembali.</i>
+
+91
+00:04:26,600 --> 00:04:27,601
+<i>Ayah?</i>
+
+92
+00:04:29,394 --> 00:04:30,394
+<i>Ayah?</i>
+
+93
+00:04:35,776 --> 00:04:37,402
+Ini seru, bukan?
+
+94
+00:04:39,863 --> 00:04:41,240
+<i>Aku adalah anjing.</i>
+
+95
+00:04:41,323 --> 00:04:43,951
+<i>Yang seru itu menggali tanah
+dan menghancurkan bunga.</i>
+
+96
+00:04:44,618 --> 00:04:45,702
+Bunga!
+
+97
+00:04:45,786 --> 00:04:47,538
+Banyak yang harus dilakukan.
+
+98
+00:04:47,621 --> 00:04:49,164
+<i>Ini tidak menyenangkan.</i>
+
+99
+00:04:51,875 --> 00:04:52,751
+<i>Terlalu bau!</i>
+
+100
+00:04:52,835 --> 00:04:54,670
+Apa? Ini minyak wangi.
+
+101
+00:04:54,753 --> 00:04:56,255
+<i>Membuat hidungku mati rasa.</i>
+
+102
+00:05:02,886 --> 00:05:06,056
+Satu, dua, tiga. Dua, dua, tiga.
+
+103
+00:05:06,139 --> 00:05:07,558
+Satu, dua, tiga. Dua, dua.
+
+104
+00:05:07,641 --> 00:05:10,269
+<i>- Aku tak tahu apa yang terjadi.</i>
+- Satu, dua, tiga.
+
+105
+00:05:10,352 --> 00:05:13,856
+Ya. Perekonomian sedang membaik.
+
+106
+00:05:13,939 --> 00:05:14,773
+Apa kau setuju?
+
+107
+00:05:14,857 --> 00:05:15,983
+<i>Aku harus bilang apa?</i>
+
+108
+00:05:16,066 --> 00:05:17,109
+Apa saja!
+
+109
+00:05:17,192 --> 00:05:20,028
+Kolam renang yang baru di kota?
+Ide yang hebat.
+
+110
+00:05:20,112 --> 00:05:21,112
+<i>Aku suka serangga.</i>
+
+111
+00:05:21,154 --> 00:05:23,824
+Ya, sepertinya
+udara dingin akan datang.
+
+112
+00:05:23,907 --> 00:05:25,242
+<i>Aku mengunyah sepatumu.</i>
+
+113
+00:05:26,869 --> 00:05:27,869
+Kau amat jenaka.
+
+114
+00:05:28,370 --> 00:05:29,830
+<i>Aku berguling di kotoran.</i>
+
+115
+00:05:41,216 --> 00:05:42,551
+<i>Pergi dari sini, Penyusup!</i>
+
+116
+00:05:42,634 --> 00:05:44,678
+Dug! Dug, ini aku!
+
+117
+00:05:47,681 --> 00:05:48,599
+Apa berlebihan?
+
+118
+00:05:48,682 --> 00:05:50,517
+<i>Kau tidak tampak seperti dirimu.</i>
+
+119
+00:05:50,601 --> 00:05:51,768
+Aku tahu.
+
+120
+00:05:51,852 --> 00:05:53,562
+<i>Baumu tidak seperti dirimu.</i>
+
+121
+00:05:53,645 --> 00:05:54,730
+Ya.
+
+122
+00:05:54,813 --> 00:05:57,191
+<i>Kenapa kau bukan dirimu?</i>
+
+123
+00:05:58,901 --> 00:06:00,736
+Ini gila. Aku tidak jadi pergi.
+
+124
+00:06:00,819 --> 00:06:03,071
+<i>- Tidak. Tidak akan kubiarkan!</i>
+- Ya. Harus.
+
+125
+00:06:03,155 --> 00:06:04,031
+Apa pedulimu?
+
+126
+00:06:04,114 --> 00:06:06,074
+<i>Aku tak mau kau bersedih!</i>
+
+127
+00:06:08,702 --> 00:06:09,702
+<i>Duduk, Ayah!</i>
+
+128
+00:06:11,747 --> 00:06:14,541
+<i>Kau akan bertingkah
+seperti anjing, bukan manusia.</i>
+
+129
+00:06:14,625 --> 00:06:16,960
+<i>Bawakan dia mainan dan melihatnya,</i>
+
+130
+00:06:17,044 --> 00:06:18,253
+<i>kibaskan ekormu,</i>
+
+131
+00:06:18,337 --> 00:06:20,881
+<i>katakan, "Kita baru bertemu
+dan aku menyayangimu!"</i>
+
+132
+00:06:21,548 --> 00:06:24,259
+<i>Kau ayahku dan aku menyayangimu,</i>
+
+133
+00:06:24,343 --> 00:06:25,761
+<i>dan dia akan mencintaimu.</i>
+
+134
+00:06:31,808 --> 00:06:32,809
+Terima kasih, Dug.
+
+135
+00:06:43,153 --> 00:06:44,196
+Sudah waktunya.
+
+136
+00:06:44,988 --> 00:06:46,406
+Kurasa semua sudah siap.
+
+137
+00:06:48,575 --> 00:06:49,576
+Sore, Dug.
+
+138
+00:06:50,827 --> 00:06:52,287
+<i>Selamat sore, Ayah.</i>
+
+139
+00:07:04,007 --> 00:07:05,133
+<i>Aku juga akan ikut.</i>
+
+140
+00:07:09,596 --> 00:07:10,596
+Satu hal lagi.
+
+141
+00:07:13,267 --> 00:07:14,977
+Semoga kau tak keberatan, Ellie.
+
+142
+00:07:15,060 --> 00:07:18,355
+Kurasa ini petualangan baru
+bagi kita berdua.
+
+143
+00:07:19,231 --> 00:07:23,986
+Aku akan kembali sebelum pukul 22.00.
+Paling terlambat pukul 23.00.
+
+144
+00:07:24,778 --> 00:07:25,988
+Dug adalah pendampingku.
+
+145
+00:07:26,071 --> 00:07:27,948
+Dia tak akan membiarkanku merayu.
+
+146
+00:07:29,992 --> 00:07:30,992
+Dan...
+
+147
+00:07:31,994 --> 00:07:33,412
+Ketahuilah...
+
+148
+00:07:33,495 --> 00:07:35,664
+Kau akan selalu jadi kekasihku.
+
+149
+00:07:53,015 --> 00:07:54,015
+<i>Lewat sana.</i>
+
+150
+00:08:34,640 --> 00:08:36,642
+VIP21.EU.ORG
+

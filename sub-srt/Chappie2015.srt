@@ -1,0 +1,7990 @@
+﻿1
+00:00:44,212 --> 00:00:46,506
+<i>Jika melihat sejarah evolusi...</i>
+
+2
+00:00:46,756 --> 00:00:49,759
+<i>...tak heran perubahan Chappie terjadi.</i>
+
+3
+00:00:49,926 --> 00:00:51,636
+Nathan Smith, Jurnalis,
+New York Sentinel
+
+4
+00:00:51,845 --> 00:00:56,266
+<i>Terlalu dini untuk menerka</i>
+<i>akhir dari situasi ini.</i>
+
+5
+00:00:56,558 --> 00:00:58,601
+<i>Saya tak pernah menduga</i>
+<i>ini bisa terjadi.</i>
+
+6
+00:00:58,768 --> 00:00:59,811
+William Roberts, Ilmuwan Kognitif, M.I.T.
+
+7
+00:01:00,061 --> 00:01:02,689
+18 bulan sebelumnya
+
+8
+00:01:04,441 --> 00:01:05,942
+<i>Pusat kota Johannesburg.</i>
+
+9
+00:01:06,109 --> 00:01:07,485
+<i>Ini kota yang berbahaya.</i>
+
+10
+00:01:08,236 --> 00:01:12,323
+<i>Setiap hari, lebih dari 300 pembunuhan</i>
+<i>dan tindak kekerasan terjadi di sini.</i>
+
+11
+00:01:15,452 --> 00:01:18,663
+<i>Dua opsir terbunuh.</i>
+<i>Tiga lainnya masuk rumah sakit.</i>
+
+12
+00:01:18,830 --> 00:01:22,083
+<i>Akhir berdarah dari baku tembak</i>
+<i>antara polisi dan perampok.</i>
+
+13
+00:01:22,250 --> 00:01:23,960
+<i>Seorang polisi lagi tewas.</i>
+
+14
+00:01:26,796 --> 00:01:30,800
+Hari ini, kita menyambut hari yang baru.
+
+15
+00:01:30,967 --> 00:01:34,179
+<i>Hari berakhirnya kejahatan.</i>
+
+16
+00:01:34,554 --> 00:01:35,555
+<i>Tembak!</i>
+
+17
+00:01:36,097 --> 00:01:38,016
+Akhir dari korupsi.
+
+18
+00:01:38,808 --> 00:01:41,060
+<i>Ayo! Menghadap dinding!</i>
+
+19
+00:01:41,227 --> 00:01:42,771
+<i>Tiarap.</i>
+
+20
+00:01:42,937 --> 00:01:44,439
+<i>Semua penjahat sudah ditangkap.</i>
+
+21
+00:01:44,606 --> 00:01:45,607
+<i>Dan awal...</i>
+
+22
+00:01:45,774 --> 00:01:48,526
+...dari kota kita yang baru!
+
+23
+00:01:50,487 --> 00:01:54,324
+<i>Sambutlah satuan polisi robot</i>
+<i>pertama di dunia.</i>
+
+24
+00:02:06,377 --> 00:02:08,046
+<i>Johannesburg, Afrika Selatan...</i>
+
+25
+00:02:08,213 --> 00:02:10,757
+<i>...menjadi pusat perhatian dunia</i>
+<i>tahun 2016...</i>
+
+26
+00:02:10,924 --> 00:02:14,385
+<i>...dengan penugasan</i>
+<i>unit polisi robot pertama di Bumi.</i>
+
+27
+00:02:15,470 --> 00:02:16,888
+<i>Tingkat kejahatan menurun drastis.</i>
+
+28
+00:02:17,055 --> 00:02:19,682
+<i>Dan saham Tetravaal meroket.</i>
+
+29
+00:02:20,058 --> 00:02:22,644
+<i>Suku cadang tertentu</i>
+<i>diimpor dari Tiongkok.</i>
+
+30
+00:02:22,811 --> 00:02:25,313
+<i>Tapi semua robot dirakit</i>
+<i>di Afrika Selatan.</i>
+
+31
+00:02:25,480 --> 00:02:29,400
+<i>Hal yang paling dicemaskan oleh rakyat</i>
+<i>ialah peretasan.</i>
+
+32
+00:02:29,567 --> 00:02:32,487
+<i>Tetravaal menjamin</i>
+<i>hal ini tak perlu dicemaskan...</i>
+
+33
+00:02:32,654 --> 00:02:34,989
+<i>...dengan adanya sistem anti peretasan</i>
+<i>Kunci Pengaman.</i>
+
+34
+00:02:35,156 --> 00:02:39,285
+<i>Sistem ini menjamin hanya mereka</i>
+<i>yang dapat perbarui software robot.</i>
+
+35
+00:02:40,203 --> 00:02:43,665
+<i>Sebelum penyebaran polisi robot</i>
+<i>yang sukses...</i>
+
+36
+00:02:43,832 --> 00:02:45,792
+<i>...ada sebuah produk</i>
+<i>yang lebih tangguh:</i>
+
+37
+00:02:45,959 --> 00:02:46,960
+<i>Moose.</i>
+
+38
+00:02:47,293 --> 00:02:50,630
+<i>Vincent Moore ialah perancang senjata</i>
+<i>dan mantan tentara.</i>
+
+39
+00:02:50,880 --> 00:02:54,175
+<i>La menentang kepintaran buatan.</i>
+
+40
+00:02:54,342 --> 00:02:56,135
+<i>Saya punya robot</i>
+<i>yang tak bisa dihancurkan.</i>
+
+41
+00:02:56,302 --> 00:02:57,387
+Vincent Moore Pimpinan Pengembang
+- Program Moose
+
+42
+00:02:57,554 --> 00:03:00,348
+<i>Robot ini dikendalikan manusia</i>
+<i>yang mampu berpikir, beradaptasi...</i>
+
+43
+00:03:00,807 --> 00:03:03,643
+<i>...manusiawi, bermoral.</i>
+
+44
+00:03:03,893 --> 00:03:05,728
+<i>Pemancar neural canggih...</i>
+
+45
+00:03:05,895 --> 00:03:09,566
+<i>...mengubah pikiran operator manusia</i>
+<i>ke gerakan robot.</i>
+
+46
+00:03:09,732 --> 00:03:13,027
+<i>Berbeda dari kepintaran buatan</i>
+<i>yang menggerakkan Scout.</i>
+
+47
+00:03:13,194 --> 00:03:16,281
+<i>Adanya minat dari Amerika,</i>
+<i>Tiongkok dan Korea Utara...</i>
+
+48
+00:03:16,447 --> 00:03:17,782
+<i>...pencipta Scout, Deon Wilson...</i>
+
+49
+00:03:17,949 --> 00:03:19,659
+<i>...meramalkan masa depan</i>
+<i>yang produktif.</i>
+
+50
+00:03:19,909 --> 00:03:22,029
+<i>Saya tertarik dengan</i>
+<i>kepintaran buatan tingkat tinggi.</i>
+
+51
+00:03:22,120 --> 00:03:23,121
+Deon Wilson. Pimpinan Pengembang
+- Program Scout
+
+52
+00:03:23,329 --> 00:03:27,208
+<i>Kepintaran sejati.</i>
+<i>Mesin yang bisa berpikir dan merasa.</i>
+
+53
+00:03:27,458 --> 00:03:29,711
+<i>Apa itu prioritas di Tetravaal?</i>
+
+54
+00:03:29,878 --> 00:03:34,591
+<i>Mengambil langkah evolusi</i>
+<i>dan membuat sesuatu yang hidup?</i>
+
+55
+00:03:40,680 --> 00:03:42,974
+<i>Scout 22 tiba di ruang Perawatan 6.</i>
+
+56
+00:03:43,141 --> 00:03:45,518
+- Regu 1, ke lokasi. Cepat!
+- Cepat. Bukalah.
+
+57
+00:03:45,685 --> 00:03:47,896
+- Keluarkan dia.
+- Keluarkan!
+
+58
+00:03:48,062 --> 00:03:49,898
+- Dia rusak parah.
+- Astaga.
+
+59
+00:03:50,064 --> 00:03:51,941
+- Ayo!
+- M2 siap bergerak.
+
+60
+00:03:58,197 --> 00:03:59,616
+Astaga.
+
+61
+00:04:00,825 --> 00:04:02,827
+Lihat 22 ini? Nasibnya buruk.
+
+62
+00:04:03,161 --> 00:04:04,621
+Mereka melindasnya berulang kali.
+
+63
+00:04:04,787 --> 00:04:05,914
+Lihat ini.
+
+64
+00:04:06,080 --> 00:04:07,749
+Seolah dia dikutuk atau semacamnya.
+
+65
+00:04:07,916 --> 00:04:10,793
+Setiap kali dia keluar. Ya, telinganya.
+
+66
+00:04:11,169 --> 00:04:13,046
+Antena, kanan. Bisa diganti?
+
+67
+00:04:22,931 --> 00:04:26,517
+<i>Ada laporan baku tembak</i>
+<i>di area 5, 7 dan 8.</i>
+
+68
+00:04:26,684 --> 00:04:27,685
+Baik, nyalakan.
+
+69
+00:04:27,852 --> 00:04:30,939
+<i>Polisi meminta seluruh Scout yang ada</i>
+<i>segera dikerahkan.</i>
+
+70
+00:04:39,113 --> 00:04:40,990
+Tujuan atau tugas.
+
+71
+00:04:41,157 --> 00:04:42,867
+Landasan helikopter.
+
+72
+00:04:46,663 --> 00:04:49,582
+22, kali ini berhati-hatilah.
+
+73
+00:04:49,749 --> 00:04:51,167
+Mengerti.
+
+74
+00:05:01,928 --> 00:05:04,555
+- Ini buruk! Kita dalam bahaya!
+- Benar, Amerika!
+
+75
+00:05:04,722 --> 00:05:06,122
+Sudah kubilang transaksi ini buruk.
+
+76
+00:05:06,224 --> 00:05:08,685
+- Kukatakan berulang kali!
+- Semuanya tenang!
+
+77
+00:05:08,851 --> 00:05:10,061
+Ya, kita punya masalah.
+
+78
+00:05:10,228 --> 00:05:11,896
+Dan aku akan menyelesaikannya!
+
+79
+00:05:12,939 --> 00:05:15,942
+<i>Komando, kami mencari tersangka</i>
+<i>mengendarai mobil abu-abu.</i>
+
+80
+00:05:21,781 --> 00:05:22,865
+Mereka sudah tiba!
+
+81
+00:05:32,875 --> 00:05:35,169
+- Ada apa ini?
+- Kelihatannya dia marah.
+
+82
+00:05:38,464 --> 00:05:39,757
+Hippo.
+
+83
+00:05:41,551 --> 00:05:43,177
+Dengar, ada sesuatu terjadi.
+
+84
+00:05:43,428 --> 00:05:44,512
+Bukan salah kami.
+
+85
+00:05:45,805 --> 00:05:46,805
+Senjatamu.
+
+86
+00:05:47,181 --> 00:05:48,641
+Sial.
+
+87
+00:05:48,891 --> 00:05:49,892
+Dan kuncimu.
+
+88
+00:05:51,269 --> 00:05:52,270
+Ayo.
+
+89
+00:05:52,437 --> 00:05:53,646
+Buka pintu belakang.
+
+90
+00:06:04,615 --> 00:06:06,200
+Kami beruntung masih hidup, Hippo.
+
+91
+00:06:08,828 --> 00:06:09,828
+Ninja.
+
+92
+00:06:11,122 --> 00:06:13,541
+Kau tahu ini tidak ada jalan keluarnya.
+
+93
+00:06:13,708 --> 00:06:16,711
+Selalu ada jalan. Sebutkan hargamu.
+Akan kubereskan.
+
+94
+00:06:16,878 --> 00:06:18,671
+Hargaku?
+
+95
+00:06:19,088 --> 00:06:20,173
+20 juta.
+
+96
+00:06:20,339 --> 00:06:22,967
+- Itu mustahil.
+- Apa-apaan?
+
+97
+00:06:23,134 --> 00:06:24,677
+Bagaimana aku bisa bayar?
+
+98
+00:06:24,844 --> 00:06:26,262
+Berlutut.
+
+99
+00:06:26,429 --> 00:06:28,723
+Sekarang, cepat berlutut!
+
+100
+00:06:31,225 --> 00:06:32,393
+Kau berutang kepadaku...
+
+101
+00:06:33,603 --> 00:06:35,563
+20 juta. Katakan.
+
+102
+00:06:35,730 --> 00:06:37,231
+Aku utang 20 juta kepadamu.
+
+103
+00:06:41,569 --> 00:06:42,612
+Pitbull! Pitbull.
+
+104
+00:06:42,779 --> 00:06:43,863
+Ayo. Mundur.
+
+105
+00:06:44,030 --> 00:06:45,990
+Astaga. Hippo.
+
+106
+00:06:46,240 --> 00:06:47,742
+Tujuh hari.
+
+107
+00:06:47,992 --> 00:06:49,702
+Kau punya tujuh hari.
+
+108
+00:06:50,078 --> 00:06:51,370
+Robot!
+
+109
+00:06:51,537 --> 00:06:52,538
+Robot!
+
+110
+00:06:53,581 --> 00:06:54,581
+Kau diikuti!
+
+111
+00:06:56,375 --> 00:06:57,794
+Pergi ke balik dinding!
+
+112
+00:06:57,960 --> 00:06:59,045
+Yo-Landi, masuk ke mobil!
+
+113
+00:06:59,212 --> 00:07:00,213
+- Ayo!
+- Masuk!
+
+114
+00:07:00,671 --> 00:07:02,048
+Ledakkan bomnya!
+
+115
+00:07:04,675 --> 00:07:06,219
+Mereka meledakkan semacam bom.
+
+116
+00:07:06,385 --> 00:07:07,762
+Sial! Robot!
+
+117
+00:07:07,929 --> 00:07:09,889
+Pandangan tidak jelas. Mendarat.
+
+118
+00:07:10,056 --> 00:07:11,182
+Bergerak.
+
+119
+00:07:17,396 --> 00:07:19,476
+- Siapa yang ambil kuncinya?
+- Kau berikan kepadanya!
+
+120
+00:07:20,483 --> 00:07:22,485
+Polisi manusia mendarat.
+
+121
+00:07:22,652 --> 00:07:24,195
+Ayo! Ayo!
+
+122
+00:07:30,660 --> 00:07:31,994
+Bergerak!
+
+123
+00:07:34,247 --> 00:07:35,248
+Bergerak, 22.
+
+124
+00:07:35,414 --> 00:07:36,666
+Ayo!
+
+125
+00:07:37,125 --> 00:07:40,211
+Jatuhkan senjatamu. Kau ditahan.
+
+126
+00:07:43,631 --> 00:07:45,424
+Pergi ke kanan! Ayo!
+
+127
+00:07:47,176 --> 00:07:49,887
+Ayo. Mana kuncinya?
+
+128
+00:07:50,054 --> 00:07:51,139
+Ke kiriku!
+
+129
+00:07:51,305 --> 00:07:52,305
+Bunuh polisi-polisi ini!
+
+130
+00:07:52,431 --> 00:07:53,891
+Cepat! Mundur!
+
+131
+00:07:59,981 --> 00:08:01,440
+Ya.
+
+132
+00:08:01,899 --> 00:08:03,067
+Jatuhkan senjatamu.
+
+133
+00:08:04,735 --> 00:08:05,987
+Cepat!
+
+134
+00:08:07,613 --> 00:08:08,823
+Hei, banci!
+
+135
+00:08:08,990 --> 00:08:10,074
+Aku butuh kunciku!
+
+136
+00:08:10,992 --> 00:08:12,201
+Persetan denganmu!
+
+137
+00:08:14,453 --> 00:08:15,746
+Jatuhkan senjatamu.
+
+138
+00:08:15,913 --> 00:08:17,290
+Jatuhkan senjatamu!
+
+139
+00:08:24,881 --> 00:08:26,048
+Ayo.
+
+140
+00:08:27,967 --> 00:08:28,968
+Baiklah, bung.
+
+141
+00:08:41,230 --> 00:08:43,649
+Mereka menembak baling-baling!
+Kita harus mendarat.
+
+142
+00:08:46,903 --> 00:08:48,613
+Terima kasih.
+
+143
+00:08:49,197 --> 00:08:51,407
+22 masuk.
+
+144
+00:08:55,328 --> 00:08:56,329
+DICARI
+
+145
+00:09:11,446 --> 00:09:12,446
+SCOUT 0022 TERPUTUS
+
+146
+00:09:12,470 --> 00:09:14,096
+Robot 22 mati, Pak.
+
+147
+00:09:15,473 --> 00:09:17,058
+Bravo 1! Kami butuh bantuan!
+
+148
+00:09:17,308 --> 00:09:19,393
+<i>Diterima.</i>
+<i>Kami mengirim robot ke posisimu.</i>
+
+149
+00:09:20,394 --> 00:09:23,231
+Amerika! Amerika! Aku dapat kuncinya!
+
+150
+00:09:23,397 --> 00:09:25,900
+- Hei, Landi, dia dapat kuncinya!
+- Ayo!
+
+151
+00:09:29,737 --> 00:09:32,114
+Keluar dari kendaraanmu.
+
+152
+00:09:32,281 --> 00:09:33,449
+Jalan!
+
+153
+00:09:36,244 --> 00:09:37,244
+Jangan kabur.
+
+154
+00:09:41,791 --> 00:09:42,833
+Kau baik saja?
+
+155
+00:09:43,000 --> 00:09:44,961
+Tidak! Aku tertembak!
+
+156
+00:09:50,967 --> 00:09:53,302
+<i>Scout 22 tidak merespon.</i>
+
+157
+00:09:53,719 --> 00:09:55,137
+<i>Kirim regu evakuasi.</i>
+
+158
+00:09:55,680 --> 00:09:58,349
+<i>Sebuah kemenangan lagi</i>
+<i>untuk kesatuan polisi robot.</i>
+
+159
+00:09:58,516 --> 00:10:02,270
+<i>Ini organisasi kejahatan ke-30</i>
+<i>yang dihancurkan tahun ini.</i>
+
+160
+00:10:02,770 --> 00:10:04,647
+- Selamat pagi, Deon.
+- Selamat pagi.
+
+161
+00:10:06,232 --> 00:10:07,483
+Semuanya...
+
+162
+00:10:08,067 --> 00:10:10,027
+...minta perhatiannya.
+
+163
+00:10:10,403 --> 00:10:12,321
+<i>Kepala polisi baru saja</i>
+<i>menelepon saya...</i>
+
+164
+00:10:12,488 --> 00:10:15,866
+<i>...dan memesan 100 Scout lagi.</i>
+
+165
+00:10:16,033 --> 00:10:18,160
+Ini berita baik.
+
+166
+00:10:20,371 --> 00:10:22,456
+- Bagus, Deon!
+- Kau hebat!
+
+167
+00:10:22,623 --> 00:10:24,125
+Kerjamu bagus.
+
+168
+00:10:24,292 --> 00:10:25,668
+- Selamat.
+- Terima kasih.
+
+169
+00:10:25,835 --> 00:10:27,586
+- Selamat, Deon.
+- Terima kasih.
+
+170
+00:10:27,753 --> 00:10:29,880
+- Selamat.
+- Kerjamu bagus.
+
+171
+00:10:30,756 --> 00:10:31,799
+Kerjamu bagus, kawan.
+
+172
+00:10:31,966 --> 00:10:34,510
+- Aku takkan berhasil tanpamu.
+- Aku tahu.
+
+173
+00:10:35,553 --> 00:10:38,389
+- Selamat. Kau hebat.
+- Bagus, kawan!
+
+174
+00:10:43,853 --> 00:10:46,147
+Ini telepon "Aku kasihan pada Vincent"?
+
+175
+00:10:46,480 --> 00:10:48,399
+- Jangan khawatir, Vince.
+<i>- Aku khawatir.</i>
+
+176
+00:10:48,566 --> 00:10:49,608
+Dengar:
+
+177
+00:10:49,775 --> 00:10:52,320
+<i>Kita punya satu kesempatan lagi</i>
+<i>dengan polisi besok.</i>
+
+178
+00:10:52,486 --> 00:10:53,863
+<i>Cobalah menurunkan biayanya.</i>
+
+179
+00:10:54,030 --> 00:10:56,949
+Cobalah berpikir positif. Semangat.
+
+180
+00:10:57,116 --> 00:10:59,952
+Sulit untuk bersemangat saat
+kau terus memotong danaku.
+
+181
+00:11:00,119 --> 00:11:02,204
+Tahun ini 20%, tahun lalu 25%.
+
+182
+00:11:02,371 --> 00:11:04,749
+Aku harus mengerjakan Moose.
+Kau tahu itu.
+
+183
+00:11:04,915 --> 00:11:07,376
+Pendeteksi ancaman
+masih dalam tahap dasar.
+
+184
+00:11:07,543 --> 00:11:11,464
+<i>Pendeteksi ancaman tak berguna.</i>
+<i>Operator yang mendeteksinya.</i>
+
+185
+00:11:11,630 --> 00:11:13,257
+<i>Lalu kita kirim Moose.</i>
+
+186
+00:11:13,799 --> 00:11:15,217
+Cukup.
+
+187
+00:11:16,302 --> 00:11:18,179
+Potongan. Bukan tambahan.
+
+188
+00:11:18,346 --> 00:11:19,347
+<i>Paham?</i>
+
+189
+00:11:19,513 --> 00:11:20,973
+Ya. Akan kulakukan.
+
+190
+00:11:21,724 --> 00:11:23,059
+<i>Deon Wilson harap ke bengkel.</i>
+
+191
+00:11:23,225 --> 00:11:25,603
+Aku harus pergi.
+Nanti kita bicara. Terima kasih.
+
+192
+00:11:33,944 --> 00:11:35,738
+Anakku lagi, ya?
+
+193
+00:11:35,905 --> 00:11:39,200
+Kejutan. Setiap kali dia kemari.
+Dia magnet buat peluru.
+
+194
+00:11:39,367 --> 00:11:40,368
+Ada apa?
+
+195
+00:11:40,534 --> 00:11:42,787
+Ini laporannya. Scout 22. Lagi.
+
+196
+00:11:43,079 --> 00:11:44,747
+Roket, persis ke dada.
+
+197
+00:11:44,914 --> 00:11:47,291
+Banyak komponen dalam
+yang rusak akibat ledakan.
+
+198
+00:11:47,833 --> 00:11:49,502
+Tapi otaknya masih utuh.
+
+199
+00:11:49,877 --> 00:11:51,545
+Tetap saja, sudah tak berguna.
+
+200
+00:11:51,712 --> 00:11:53,881
+Selamatkan CPU-nya.
+
+201
+00:11:54,048 --> 00:11:57,009
+Kita bisa cabut baterainya.
+Masih penuh dan stabil.
+
+202
+00:11:57,176 --> 00:11:58,177
+Terlalu merepotkan.
+
+203
+00:11:58,803 --> 00:12:02,515
+Robot 22 dimatikan. Hancurkan sasisnya
+dan daur ulang logamnya.
+
+204
+00:12:02,681 --> 00:12:03,808
+- Beres.
+- Terima kasih.
+
+205
+00:12:12,316 --> 00:12:13,818
+Hati-hati.
+
+206
+00:12:14,110 --> 00:12:16,195
+Ayo. Ke tempat persembunyian.
+
+207
+00:12:16,362 --> 00:12:18,781
+- Hati-hati.
+- Kita harus menjahit lukanya.
+
+208
+00:12:29,083 --> 00:12:30,083
+Ya?
+
+209
+00:12:30,084 --> 00:12:31,293
+Kau pikir sudah lolos?
+
+210
+00:12:31,502 --> 00:12:33,212
+Aku tak berpikir begitu, Hippo.
+
+211
+00:12:33,504 --> 00:12:35,589
+Pikirmu kau tak berutang lagi padaku?
+
+212
+00:12:35,756 --> 00:12:37,633
+<i>Karena kau pikir aku di penjara?</i>
+
+213
+00:12:37,800 --> 00:12:39,121
+Kami akan dapatkan uangmu, Hippo.
+
+214
+00:12:39,135 --> 00:12:41,512
+Mungkin aku akan ke
+tempat rahasiamu di Soweto.
+
+215
+00:12:42,054 --> 00:12:44,306
+<i>Aku akan ke sana dengan gengku.</i>
+
+216
+00:12:44,557 --> 00:12:45,933
+Akan kuambil yang kumau.
+
+217
+00:12:46,392 --> 00:12:47,601
+Aku paham. Satu minggu.
+
+218
+00:12:47,935 --> 00:12:49,228
+Tujuh hari!
+
+219
+00:12:53,149 --> 00:12:55,192
+- Mereka tidak menangkap Hippo.
+- Apa?
+
+220
+00:12:55,359 --> 00:12:56,735
+Dia tahu tempat kita.
+
+221
+00:12:56,902 --> 00:12:59,022
+Dia bilang kita punya seminggu
+untuk dapatkan uangnya.
+
+222
+00:12:59,155 --> 00:13:01,949
+Bagaimana caranya? Itu mustahil.
+
+223
+00:13:02,116 --> 00:13:04,660
+Kita butuh satu pekerjaan terakhir.
+
+224
+00:13:04,952 --> 00:13:08,497
+Maksudku jumlah yang besar.
+
+225
+00:13:08,664 --> 00:13:10,791
+500 juta rand.
+
+226
+00:13:11,584 --> 00:13:14,295
+Kita bayar bedebah itu.
+Sisanya kita simpan.
+
+227
+00:13:14,462 --> 00:13:17,339
+Dan kita pergi selagi bisa. Bum!
+
+228
+00:13:17,756 --> 00:13:19,758
+Apa maksudmu, merampok bank?
+
+229
+00:13:19,925 --> 00:13:20,968
+Tidak.
+
+230
+00:13:21,552 --> 00:13:23,012
+- Mobil pengirim uang.
+- Apa?
+
+231
+00:13:23,179 --> 00:13:25,097
+- Apa artinya?
+- Perampokan, Yo-Landi.
+
+232
+00:13:25,264 --> 00:13:27,892
+Jika kita merampok,
+robot-robot akan datang.
+
+233
+00:13:28,058 --> 00:13:29,768
+- Kita akan dihukum berat.
+- Itu benar.
+
+234
+00:13:29,935 --> 00:13:33,772
+Kita butuh remot. Semacam tombol.
+
+235
+00:13:33,939 --> 00:13:34,940
+Apa?
+
+236
+00:13:35,524 --> 00:13:38,986
+Robot-robot itu mesin, 'kan?
+
+237
+00:13:39,153 --> 00:13:40,237
+Seperti televisi.
+
+238
+00:13:40,404 --> 00:13:43,449
+Jika kau punya remot
+untuk mematikannya...
+
+239
+00:13:43,782 --> 00:13:45,075
+Ide bagus!
+
+240
+00:13:45,242 --> 00:13:50,331
+Kita temukan penciptanya
+dan curi remotnya.
+
+241
+00:14:00,257 --> 00:14:01,300
+Dexter?
+
+242
+00:14:01,467 --> 00:14:03,844
+Halo, Deon. Selamat datang.
+
+243
+00:14:04,720 --> 00:14:06,013
+Kau tidak nakal hari ini?
+
+244
+00:14:06,180 --> 00:14:07,181
+Ya, Deon.
+
+245
+00:14:07,348 --> 00:14:08,682
+Kau membersihkan kamarku?
+
+246
+00:14:08,849 --> 00:14:10,768
+Kamarmu sudah steril.
+
+247
+00:14:11,018 --> 00:14:12,102
+Bagus.
+
+248
+00:14:12,811 --> 00:14:17,358
+Kau mengerjakan
+program kepintaran buatan malam ini?
+
+249
+00:14:17,525 --> 00:14:19,443
+Aku akan masak air.
+
+250
+00:14:23,864 --> 00:14:25,032
+<i>Baik.</i>
+
+251
+00:14:25,282 --> 00:14:26,325
+<i>Halo lagi.</i>
+
+252
+00:14:26,492 --> 00:14:29,328
+<i>Ini hari ke-944.</i>
+
+253
+00:14:29,703 --> 00:14:31,413
+<i>Aku sudah sangat mendekati.</i>
+
+254
+00:14:31,580 --> 00:14:34,208
+<i>Bisa saja ada kesalahan,</i>
+<i>dan aku tahu itu.</i>
+
+255
+00:14:34,375 --> 00:14:38,170
+<i>Tapi secara statistik,</i>
+<i>aku dijalur yang benar.</i>
+
+256
+00:14:38,337 --> 00:14:41,549
+<i>Aku harus membuat beberapa terabit</i>
+<i>kompilasi dan program...</i>
+
+257
+00:14:41,715 --> 00:14:43,259
+<i>...lalu kita lihat hasilnya.</i>
+
+258
+00:14:43,425 --> 00:14:45,010
+<i>Oke? Sampai nanti.</i>
+
+259
+00:14:51,452 --> 00:14:52,452
+Lihat.
+
+260
+00:14:52,476 --> 00:14:53,811
+Itu orangnya.
+
+261
+00:14:53,978 --> 00:14:55,062
+Dia?
+
+262
+00:14:55,771 --> 00:14:57,898
+Ini akan sangat mudah.
+
+263
+00:14:59,316 --> 00:15:01,527
+Kita butuh remotnya.
+
+264
+00:15:02,069 --> 00:15:04,154
+Kita butuh remotnya.
+
+265
+00:15:06,699 --> 00:15:07,700
+Red Bull!
+
+266
+00:15:07,866 --> 00:15:09,159
+Baik, Deon.
+
+267
+00:15:10,119 --> 00:15:11,119
+Red Bull.
+
+268
+00:15:16,542 --> 00:15:17,710
+Baik.
+
+269
+00:15:19,044 --> 00:15:20,629
+Memuat komponen Kepintaran Buatan
+
+270
+00:15:23,215 --> 00:15:24,341
+Emosi OK
+Motorium OK
+
+271
+00:15:24,592 --> 00:15:26,635
+Mengaktifkan Jaringan Utama
+Kepintaran Buatan...
+
+272
+00:15:26,802 --> 00:15:27,303
+Kemajuan: 97%
+
+273
+00:15:27,469 --> 00:15:29,630
+Rangkaian Program Utama Tidak Stabil.
+Eksperimen Gagal.
+
+274
+00:15:38,439 --> 00:15:39,439
+Ayo!
+
+275
+00:15:42,192 --> 00:15:43,777
+Ya. Ya.
+
+276
+00:15:44,862 --> 00:15:46,196
+Bagaimana jika aku ubah...?
+
+277
+00:16:02,004 --> 00:16:03,004
+Kemajuan: 100%
+
+278
+00:16:03,047 --> 00:16:05,633
+Tidak Ada Kesalahan
+ALAMSADAR.DAT Stabil
+
+279
+00:16:13,182 --> 00:16:15,726
+- Programnya stabil.
+- Semua baik saja?
+
+280
+00:16:18,937 --> 00:16:20,147
+Programnya stabil.
+
+281
+00:16:21,273 --> 00:16:22,441
+<i>Astaga.</i>
+
+282
+00:16:22,858 --> 00:16:24,443
+<i>Kurasa aku berhasil.</i>
+
+283
+00:16:24,693 --> 00:16:27,780
+<i>Untuk memastikan,</i>
+<i>aku harus mengujinya di sistem hidup.</i>
+
+284
+00:16:28,989 --> 00:16:30,407
+<i>Aku harus mengujinya.</i>
+
+285
+00:16:39,208 --> 00:16:40,334
+Baiklah.
+
+286
+00:16:41,585 --> 00:16:43,420
+Maaf, maaf.
+
+287
+00:16:45,399 --> 00:16:46,399
+Hei.
+
+288
+00:16:46,423 --> 00:16:47,591
+Hei.
+
+289
+00:16:47,758 --> 00:16:48,842
+- Hei.
+- Apa kabar, Pak?
+
+290
+00:16:49,009 --> 00:16:50,177
+- Di mana Scout itu?
+- Apa?
+
+291
+00:16:50,344 --> 00:16:52,971
+Scout 22 yang mau dihancurkan.
+
+292
+00:16:53,138 --> 00:16:55,182
+Mereka menyiapkan pemadat besi.
+Robot itu akan segera dihancurkan.
+
+293
+00:16:55,349 --> 00:16:56,517
+Syukurlah.
+
+294
+00:16:58,227 --> 00:17:00,354
+- Jangan dihancurkan dulu.
+- Tentu.
+
+295
+00:17:00,521 --> 00:17:03,065
+Tunggu perintah dariku,
+tapi jangan dihancurkan dulu.
+
+296
+00:17:04,817 --> 00:17:05,943
+Halo, Bu.
+
+297
+00:17:06,110 --> 00:17:07,444
+Pagi, Deon.
+
+298
+00:17:08,654 --> 00:17:10,447
+Baiklah. Katakan.
+
+299
+00:17:10,614 --> 00:17:12,950
+Apa usulanmu sekarang?
+
+300
+00:17:13,242 --> 00:17:14,535
+Saya rasa saya berhasil.
+
+301
+00:17:14,702 --> 00:17:18,163
+Kepintaran buatan sejati
+yang pertama di dunia.
+
+302
+00:17:18,372 --> 00:17:21,583
+Ini sistem komputer yang mungkin
+lebih pintar dari manusia.
+
+303
+00:17:21,750 --> 00:17:23,752
+Saya bisa perlihatkan
+sebuah karya seni...
+
+304
+00:17:23,919 --> 00:17:27,631
+...dan program ini bisa menilainya.
+
+305
+00:17:27,965 --> 00:17:31,093
+Dia bisa memutuskan suka atau tidak.
+
+306
+00:17:31,427 --> 00:17:33,762
+Dia bisa menulis musik dan puisi.
+
+307
+00:17:33,929 --> 00:17:35,431
+Baik. Berhenti.
+
+308
+00:17:35,597 --> 00:17:36,932
+Kumohon, Deon.
+
+309
+00:17:37,725 --> 00:17:42,813
+Kau sadar kau menemui
+direktur perusahaan pembuat senjata...
+
+310
+00:17:42,980 --> 00:17:45,858
+...dan mengusulkan robot
+yang bisa menulis puisi?
+
+311
+00:17:46,024 --> 00:17:48,068
+Biar saya jelaskan dulu.
+
+312
+00:17:48,235 --> 00:17:51,947
+Deon, Tetravaal senang denganmu.
+
+313
+00:17:52,197 --> 00:17:54,324
+Scout sukses besar.
+
+314
+00:17:54,491 --> 00:17:57,327
+Bu, tolong dengarkan:
+Ini tidak butuh biaya.
+
+315
+00:17:57,536 --> 00:17:59,288
+Ada robot di bawah
+yang dimatikan kemarin...
+
+316
+00:17:59,455 --> 00:18:00,956
+...kerusakannya tak bisa diperbaiki.
+
+317
+00:18:01,123 --> 00:18:03,250
+Izinkan saya memasang programnya
+di robot itu.
+
+318
+00:18:03,417 --> 00:18:06,628
+- Biar saya mengujinya.
+- Tidak. Maaf, Deon.
+
+319
+00:18:06,795 --> 00:18:09,173
+Kau tahu proses asuransi dalam hal itu.
+
+320
+00:18:09,339 --> 00:18:11,759
+Banyak birokrasi dan dokumen.
+
+321
+00:18:11,925 --> 00:18:13,719
+Terima kasih untuk waktu Anda.
+
+322
+00:18:22,102 --> 00:18:26,356
+<i>Semua pegawai baru,</i>
+<i>melapor ke SDM untuk pengarahan.</i>
+
+323
+00:18:31,153 --> 00:18:32,154
+Sial!
+
+324
+00:18:33,614 --> 00:18:34,615
+Hei, Bill.
+
+325
+00:18:38,911 --> 00:18:40,287
+Bentuklah kehidupan...
+
+326
+00:18:40,454 --> 00:18:43,248
+...Jangan biarkan kehidupan
+membentukmu!
+
+327
+00:18:45,626 --> 00:18:47,544
+HARI KE-9456 PAGI
+
+328
+00:18:54,176 --> 00:18:55,886
+<i>Perhatian. Perhatian.</i>
+
+329
+00:18:56,053 --> 00:18:59,389
+<i>Selalu perlihatkan</i>
+<i>kartu keamanan Anda.</i>
+
+330
+00:19:00,974 --> 00:19:01,974
+Hei.
+
+331
+00:19:01,975 --> 00:19:03,644
+Bisa bantu aku?
+
+332
+00:19:33,090 --> 00:19:34,925
+Ayo, ayo.
+
+333
+00:19:37,553 --> 00:19:38,679
+Ayo.
+
+334
+00:19:46,562 --> 00:19:47,688
+Terima kasih.
+
+335
+00:19:52,192 --> 00:19:53,986
+Waktunya beraksi.
+
+336
+00:20:07,457 --> 00:20:08,792
+Apa kabar?
+
+337
+00:20:12,713 --> 00:20:13,755
+Kumohon!
+
+338
+00:20:13,922 --> 00:20:15,007
+Apa maumu?
+
+339
+00:20:15,299 --> 00:20:17,509
+Kau sedang dibajak, kawan.
+
+340
+00:20:17,676 --> 00:20:18,802
+Selamat datang di Joburg.
+
+341
+00:20:22,347 --> 00:20:25,809
+Ini bagian yang membuat Moose unik...
+
+342
+00:20:25,976 --> 00:20:28,186
+...dan cocok untuk kepolisian.
+
+343
+00:20:28,353 --> 00:20:31,481
+Kemampuan untuk melumpuhkan
+sasaran musuh.
+
+344
+00:20:31,648 --> 00:20:32,983
+Sasaran tingkat tinggi:
+
+345
+00:20:33,150 --> 00:20:34,526
+Instalasi radar...
+
+346
+00:20:34,693 --> 00:20:36,737
+...pesawat, penyimpanan bahan bakar.
+
+347
+00:20:36,987 --> 00:20:38,780
+- Pesawat?
+- Ya, Pak.
+
+348
+00:20:40,449 --> 00:20:42,451
+Kita menembak pesawat musuh?
+
+349
+00:20:42,659 --> 00:20:44,745
+Kita bicara tentang
+kejahatan biasa, 'kan?
+
+350
+00:20:44,912 --> 00:20:47,831
+Copet, pencuri mobil,
+buang sampah sembarangan
+
+351
+00:20:47,998 --> 00:20:50,751
+Maksud saya semua bentuk sasaran.
+Rendah sampai tinggi
+
+352
+00:20:50,918 --> 00:20:53,086
+Dan saya yakin Anda butuh senjata...
+
+353
+00:20:53,253 --> 00:20:56,673
+...yang bisa menembak bom
+dengan tepat dan dapat diandalkan.
+
+354
+00:20:56,840 --> 00:21:00,260
+Saya tambahkan, semua dalam kendali
+operator manusia.
+
+355
+00:21:01,511 --> 00:21:02,512
+Dengar, Ny. Bradley.
+
+356
+00:21:02,804 --> 00:21:05,182
+Kepolisian senang dengan Scout.
+
+357
+00:21:05,349 --> 00:21:06,642
+Sangat senang.
+
+358
+00:21:06,808 --> 00:21:07,935
+Kami baru pesan robot baru
+
+359
+00:21:08,101 --> 00:21:09,102
+Terima kasih.
+
+360
+00:21:09,311 --> 00:21:11,980
+Kami sangat berhasil
+menurunkan tingkat kejahatan.
+
+361
+00:21:12,147 --> 00:21:13,147
+Tapi ini?
+
+362
+00:21:13,273 --> 00:21:14,358
+Kami tidak mau ini.
+
+363
+00:21:14,524 --> 00:21:18,654
+Lihatlah. Ini berlebihan,
+mahal, besar, dan jelek.
+
+364
+00:21:18,946 --> 00:21:20,781
+Jika tingkat kejahatannya sangat buruk...
+
+365
+00:21:21,031 --> 00:21:22,632
+...barulah kami pertimbangkan robot ini.
+
+366
+00:21:24,034 --> 00:21:25,494
+Jauh lebih buruk.
+
+367
+00:21:25,869 --> 00:21:27,579
+Pertemuan kita sudah selesai.
+
+368
+00:21:27,746 --> 00:21:30,916
+Terima kasih, Komisaris Steenkamp.
+
+369
+00:21:31,083 --> 00:21:32,876
+Kami akan kirimkan Scout-nya.
+
+370
+00:21:55,607 --> 00:21:56,608
+Bangun.
+
+371
+00:22:00,904 --> 00:22:03,407
+Kumohon. Aku tak punya banyak uang.
+
+372
+00:22:03,573 --> 00:22:05,409
+Diam. Aku tak mau uangmu.
+
+373
+00:22:05,575 --> 00:22:06,910
+Kami tahu siapa kau.
+
+374
+00:22:07,077 --> 00:22:09,079
+Kami tahu kau yang membuat robot.
+
+375
+00:22:09,454 --> 00:22:11,164
+Tidak, pasti ada kesalahan.
+
+376
+00:22:11,331 --> 00:22:12,332
+Maksudku...
+
+377
+00:22:13,959 --> 00:22:15,836
+Berhentilah pura-pura bodoh!
+
+378
+00:22:16,420 --> 00:22:18,422
+Kami tahu kalian punya
+semacam remot TV...
+
+379
+00:22:18,588 --> 00:22:20,298
+...untuk mematikan robot-robot itu.
+
+380
+00:22:20,465 --> 00:22:21,550
+Apa?
+
+381
+00:22:21,717 --> 00:22:22,801
+Itu sebuah mesin.
+
+382
+00:22:22,968 --> 00:22:24,302
+Pasti ada tombol untuk
+menyala dan mati.
+
+383
+00:22:24,469 --> 00:22:25,887
+Mungkin ada remot di mobil boksnya.
+
+384
+00:22:26,054 --> 00:22:28,015
+- Periksa mobilnya, Amerika.
+- Potong kakinya.
+
+385
+00:22:28,223 --> 00:22:29,808
+Itu ide bagus, Amerika.
+
+386
+00:22:29,975 --> 00:22:33,311
+- Tidak! Kumohon! Tolong!
+- Itu ide bagus.
+
+387
+00:22:33,478 --> 00:22:36,481
+Kami potong kakimu dan
+kau bisa naik kursi roda yang keren.
+
+388
+00:22:36,648 --> 00:22:39,026
+Tidak. Dengar.
+Kau tak bisa matikan mereka.
+
+389
+00:22:39,192 --> 00:22:40,318
+Bohong! Itu mesin.
+
+390
+00:22:40,485 --> 00:22:42,029
+Mereka dirancang
+dengan kunci firmware.
+
+391
+00:22:42,195 --> 00:22:43,195
+Mereka selalu menyala.
+
+392
+00:22:43,238 --> 00:22:44,448
+Tembak saja dia.
+
+393
+00:22:44,656 --> 00:22:46,742
+Kumohon! Jangan! Tidak!
+
+394
+00:22:46,908 --> 00:22:47,951
+Hei!
+
+395
+00:22:48,910 --> 00:22:50,579
+Kalian harus lihat ini.
+
+396
+00:22:54,750 --> 00:22:56,710
+Astaga!
+
+397
+00:22:56,960 --> 00:22:58,712
+Dia berhasil mematikan yang ini.
+
+398
+00:22:58,879 --> 00:23:01,131
+Ada kaki dan macam-macam di sini.
+
+399
+00:23:01,298 --> 00:23:03,133
+Dia mau membuatnya atau apa?
+
+400
+00:23:03,675 --> 00:23:05,010
+Kau tahu?
+
+401
+00:23:05,177 --> 00:23:06,636
+Bagaimana jika kita paksa dia...
+
+402
+00:23:06,803 --> 00:23:08,889
+...memprogram robot ini
+agar menolong kita?
+
+403
+00:23:09,056 --> 00:23:12,726
+Seperti robot gangster nomor satu
+yang tak terkalahkan.
+
+404
+00:23:13,435 --> 00:23:14,644
+Hei.
+
+405
+00:23:14,853 --> 00:23:17,606
+Dengar, teman.
+Kami tahu tentang temanmu...
+
+406
+00:23:17,773 --> 00:23:19,733
+...yang kau sembunyikan
+di belakang mobil.
+
+407
+00:23:19,900 --> 00:23:21,401
+Aku tak menyembunyikan apa-apa.
+
+408
+00:23:21,860 --> 00:23:25,238
+Program ulang robot itu
+agar bekerja untuk kami...
+
+409
+00:23:25,447 --> 00:23:27,240
+...atau kami tembak kau sekarang.
+
+410
+00:23:27,407 --> 00:23:29,326
+Apa maksudmu "program ulang dia"?
+
+411
+00:23:29,493 --> 00:23:30,494
+Jangan pura-pura bodoh!
+
+412
+00:23:30,660 --> 00:23:32,245
+Kau tahu maksud kami.
+
+413
+00:23:32,412 --> 00:23:35,248
+Ubah robot itu
+menjadi gangster terhebat.
+
+414
+00:23:35,415 --> 00:23:38,376
+Kami akan gunakan dia
+untuk dapat banyak uang.
+
+415
+00:23:40,003 --> 00:23:42,255
+Robot di mobilku ialah uji coba.
+
+416
+00:23:43,632 --> 00:23:48,345
+Belum pernah dicoba, tapi jika berhasil,
+kau bisa melatihnya semaumu. Sumpah.
+
+417
+00:23:48,512 --> 00:23:50,263
+Apa maksudmu "jika berhasil"?
+
+418
+00:23:50,430 --> 00:23:52,349
+Ini proyek baruku.
+
+419
+00:23:52,516 --> 00:23:54,935
+Membuat robot punya pikiran
+seperti manusia.
+
+420
+00:23:55,102 --> 00:23:57,312
+Tapi awalnya seperti anak kecil.
+
+421
+00:23:57,479 --> 00:23:59,106
+Seperti bayi manusia, tapi lebih pintar.
+
+422
+00:23:59,689 --> 00:24:01,649
+Program kepintarannya mampu
+belajar lebih cepat...
+
+423
+00:24:01,691 --> 00:24:03,131
+...dari kepintaran organik mana pun.
+
+424
+00:24:03,235 --> 00:24:04,236
+Tapi dia harus diajarkan.
+
+425
+00:24:04,402 --> 00:24:06,780
+- Butuh berapa lama?
+- Entah! Belum dicoba.
+
+426
+00:24:06,947 --> 00:24:07,739
+Cukup.
+
+427
+00:24:07,906 --> 00:24:08,987
+Ini satu-satunya pilihanmu.
+
+428
+00:24:09,116 --> 00:24:10,784
+Aku yang ciptakan mereka
+dan kuberi tahu:
+
+429
+00:24:10,951 --> 00:24:13,703
+Kau tak bisa matikan mereka,
+dan kau tak bisa meretasnya.
+
+430
+00:24:14,412 --> 00:24:16,456
+Kumohon, aku tak mau mati.
+
+431
+00:24:28,885 --> 00:24:30,554
+Tinggal dipasang. Mudah dilepas.
+
+432
+00:24:30,720 --> 00:24:32,764
+Dilepas dan dipasang.
+
+433
+00:24:34,141 --> 00:24:35,392
+Kenapa semua kakinya putus?
+
+434
+00:24:35,559 --> 00:24:37,435
+Karena robot ini
+seharusnya dihancurkan.
+
+435
+00:24:37,602 --> 00:24:40,188
+- Kenapa?
+- Karena sudah rusak.
+
+436
+00:24:40,355 --> 00:24:42,190
+Baterainya menyatu dengan sasis.
+
+437
+00:24:42,399 --> 00:24:43,567
+Apa?
+
+438
+00:24:44,401 --> 00:24:46,194
+Berarti kau tak bisa ganti baterainya.
+
+439
+00:24:46,361 --> 00:24:47,821
+Berapa lama baterainya tahan?
+
+440
+00:24:47,988 --> 00:24:49,281
+- Sial.
+- Oh, sial.
+
+441
+00:24:49,447 --> 00:24:51,867
+Sekitar lima hari lagi baterainya habis.
+
+442
+00:24:52,033 --> 00:24:54,286
+Maksudmu robot ini
+hanya berfungsi lima hari?
+
+443
+00:24:54,452 --> 00:24:55,453
+Begitulah.
+
+444
+00:25:05,816 --> 00:25:06,816
+Apa itu?
+
+445
+00:25:06,840 --> 00:25:09,634
+Kunci Pengaman. Ini dibutuhkan
+untuk memasang software baru di robot.
+
+446
+00:25:14,556 --> 00:25:16,183
+Cepat.
+
+447
+00:25:19,102 --> 00:25:21,188
+Mengunggah: ALAMSADAR.DAT
+
+448
+00:25:21,354 --> 00:25:23,231
+Ingat bahwa dia harus belajar?
+
+449
+00:25:23,607 --> 00:25:25,775
+Aku harus kembali dan mengajarnya.
+
+450
+00:25:25,942 --> 00:25:27,652
+Jika tidak, maka tak ada gunanya.
+
+451
+00:25:27,819 --> 00:25:29,946
+Baik. Nyalakan saja.
+
+452
+00:25:31,406 --> 00:25:34,993
+Nyalakan robotnya sekarang, teman.
+
+453
+00:25:36,328 --> 00:25:37,537
+Sekarang!
+
+454
+00:25:56,431 --> 00:25:57,682
+Sial.
+
+455
+00:25:58,058 --> 00:25:59,976
+Beri dia ruang.
+
+456
+00:26:00,143 --> 00:26:01,770
+Tak apa. Beri dia ruang.
+
+457
+00:26:01,937 --> 00:26:03,939
+Tolonglah. Turunkan senjatamu.
+
+458
+00:26:05,690 --> 00:26:06,775
+Hebat.
+
+459
+00:26:07,275 --> 00:26:08,360
+Ayo.
+
+460
+00:26:08,610 --> 00:26:09,611
+Hei.
+
+461
+00:26:10,570 --> 00:26:12,239
+Hei. Keluarlah.
+
+462
+00:26:12,614 --> 00:26:14,991
+Kemarilah. Kemari, teman.
+
+463
+00:26:15,158 --> 00:26:16,743
+Kemarilah. Ayo.
+
+464
+00:26:16,910 --> 00:26:17,994
+Kemari.
+
+465
+00:26:20,163 --> 00:26:21,206
+Keluar!
+
+466
+00:26:21,373 --> 00:26:23,166
+Hentikan!
+Dia belum mengerti bahasa Inggris.
+
+467
+00:26:23,333 --> 00:26:24,876
+Dia tidak memahamimu.
+
+468
+00:26:25,168 --> 00:26:26,920
+Kau memberiku robot terbelakang?
+
+469
+00:26:27,087 --> 00:26:28,797
+Kau membuatnya takut.
+
+470
+00:26:29,881 --> 00:26:31,841
+Pergilah ke dapur.
+
+471
+00:26:32,968 --> 00:26:36,221
+Ninjie-kun, pergi ke dapur.
+Biar kutangani.
+
+472
+00:26:36,388 --> 00:26:39,641
+Aku bisa.
+Pergilah minum bir atau yang lain.
+
+473
+00:26:41,184 --> 00:26:42,811
+<i>Hei. Ayo.</i>
+
+474
+00:26:44,729 --> 00:26:45,939
+<i>Ayo.</i>
+
+475
+00:26:46,147 --> 00:26:47,941
+<i>Dia tak memahamiku?</i>
+
+476
+00:26:48,108 --> 00:26:50,193
+<i>Wah. Berfungsi.</i>
+
+477
+00:26:50,527 --> 00:26:51,861
+Hei, bocah komputer.
+
+478
+00:26:52,696 --> 00:26:55,198
+Dia paham kata-kataku?
+
+479
+00:26:55,448 --> 00:26:56,950
+Tidak. Belum.
+
+480
+00:26:57,867 --> 00:26:58,868
+Segera.
+
+481
+00:27:00,078 --> 00:27:01,997
+Hei. Tak apa.
+
+482
+00:27:02,664 --> 00:27:04,332
+- Ayo.
+- Keluarlah.
+
+483
+00:27:05,083 --> 00:27:06,751
+<i>- Keluar.</i>
+<i>- Bagus.</i>
+
+484
+00:27:06,918 --> 00:27:08,628
+<i>Bagus. Ayo.</i>
+
+485
+00:27:08,837 --> 00:27:10,880
+<i>Ayo. Tak ada yang akan menyakitimu.</i>
+
+486
+00:27:11,047 --> 00:27:12,590
+Tak apa. Bagus.
+
+487
+00:27:12,757 --> 00:27:13,800
+Ayo.
+
+488
+00:27:14,551 --> 00:27:15,719
+Ayo.
+
+489
+00:27:16,303 --> 00:27:17,512
+Bagus.
+
+490
+00:27:17,679 --> 00:27:19,180
+Bagus. Ayo.
+
+491
+00:27:19,347 --> 00:27:21,766
+Aku tahu kau tak mengerti, tapi tak apa.
+
+492
+00:27:21,933 --> 00:27:22,934
+Ayo.
+
+493
+00:27:23,101 --> 00:27:24,561
+Bagus.
+
+494
+00:27:26,438 --> 00:27:27,438
+Tak apa.
+
+495
+00:27:27,647 --> 00:27:29,691
+Ini hebat.
+
+496
+00:27:35,405 --> 00:27:36,406
+<i>Kau mau itu?</i>
+
+497
+00:27:37,866 --> 00:27:39,117
+Kau suka?
+
+498
+00:27:45,749 --> 00:27:47,167
+Dia lucu sekali.
+
+499
+00:27:47,375 --> 00:27:49,294
+Seperti bayi.
+
+500
+00:27:51,254 --> 00:27:52,297
+<i>Inijam tangan.</i>
+
+501
+00:27:52,464 --> 00:27:53,757
+<i>Inijam tangan.</i>
+
+502
+00:28:00,930 --> 00:28:02,265
+<i>Jam tangan.</i>
+
+503
+00:28:04,559 --> 00:28:05,560
+Jam tangan.
+
+504
+00:28:08,605 --> 00:28:10,440
+- Itu hebat.
+- Jam tangan.
+
+505
+00:28:10,607 --> 00:28:11,941
+Oh. Tunggu.
+
+506
+00:28:12,108 --> 00:28:14,027
+Aku mau ambil satu hal lagi.
+
+507
+00:28:21,659 --> 00:28:22,660
+Ini hebat!
+
+508
+00:28:23,328 --> 00:28:24,954
+- Hei.
+- Tak apa.
+
+509
+00:28:25,455 --> 00:28:26,456
+Hei.
+
+510
+00:28:29,459 --> 00:28:31,920
+Apa ini? Hei, lihat ini.
+
+511
+00:28:33,922 --> 00:28:35,340
+Lihat ini. Dengar.
+
+512
+00:28:40,095 --> 00:28:41,554
+Ini ayam.
+
+513
+00:28:42,806 --> 00:28:43,973
+<i>Ya.</i>
+
+514
+00:28:45,433 --> 00:28:46,684
+<i>Ayam.</i>
+
+515
+00:28:50,063 --> 00:28:51,064
+Ayam.
+
+516
+00:28:56,653 --> 00:28:58,530
+Yo-lan-di.
+
+517
+00:28:59,739 --> 00:29:01,616
+Yo-lan-di.
+
+518
+00:29:01,783 --> 00:29:03,785
+Ya. Bagus.
+
+519
+00:29:06,454 --> 00:29:07,539
+Deon.
+
+520
+00:29:08,790 --> 00:29:09,999
+Deon.
+
+521
+00:29:12,377 --> 00:29:13,461
+Kelihatannya kau senang.
+
+522
+00:29:14,337 --> 00:29:16,297
+Seperti anak kecil yang gembira.
+
+523
+00:29:17,424 --> 00:29:19,426
+Itu dia. Itu namamu.
+
+524
+00:29:19,592 --> 00:29:20,593
+"Chappie."
+
+525
+00:29:21,719 --> 00:29:24,514
+Tidak. Namanya bukan...
+
+526
+00:29:24,681 --> 00:29:27,100
+- Chappie.
+- Ya! Aku suka itu.
+
+527
+00:29:27,267 --> 00:29:29,811
+Itu bagus. Aku suka. Chappie.
+
+528
+00:29:29,978 --> 00:29:31,896
+- Ayam.
+- Ayam. Ya.
+
+529
+00:29:32,814 --> 00:29:35,108
+Apa-apaan ini?
+
+530
+00:29:35,275 --> 00:29:37,068
+Kami hanya mengajarinya.
+
+531
+00:29:37,402 --> 00:29:38,445
+Ayam.
+
+532
+00:29:38,611 --> 00:29:39,821
+Kemari!
+
+533
+00:29:39,988 --> 00:29:42,991
+Tunggu! Aku harus keluarkan
+Kunci Pengaman dari kepalanya.
+
+534
+00:29:44,826 --> 00:29:47,287
+- Kubunuh kau jika kulihat kau lagi.
+- Dia punyaku!
+
+535
+00:29:47,454 --> 00:29:48,455
+Dia istimewa.
+
+536
+00:29:48,621 --> 00:29:49,621
+Aku tak mau buat masalah.
+
+537
+00:29:49,706 --> 00:29:51,708
+Tapi aku ingin melihatnya besok.
+Kau sudah setuju.
+
+538
+00:29:51,875 --> 00:29:54,461
+Kau sudah sepakat dengannya.
+Biarkan saja dia melatih robot itu.
+
+539
+00:29:54,627 --> 00:29:57,005
+Kumohon. Biarkan aku melihatnya
+sesuai kesepakatan.
+
+540
+00:29:57,755 --> 00:29:59,424
+Baik. Aku akan kembali.
+
+541
+00:29:59,591 --> 00:30:01,134
+Chappie, aku akan kembali!
+
+542
+00:30:44,469 --> 00:30:47,055
+Di mana kau?
+
+543
+00:30:48,431 --> 00:30:49,766
+Kau ke mana?
+
+544
+00:30:52,936 --> 00:30:54,896
+Apa rencanamu, Deon?
+
+545
+00:31:05,073 --> 00:31:06,616
+MASUKKAN KATA SANDI ADMIN ANDA
+
+546
+00:31:06,783 --> 00:31:08,117
+MENYAMBUNGKAN
+KE JARINGAN SCOUT...
+
+547
+00:31:08,284 --> 00:31:09,827
+SCOUT 22 TERBUKA
+
+548
+00:31:09,994 --> 00:31:11,663
+Apa-apaan ini? Terbuka.
+
+549
+00:31:14,415 --> 00:31:17,502
+"Scout 22, Kunci Pengaman terpasang."
+
+550
+00:32:18,187 --> 00:32:21,357
+PERSEMBAHAN FILMATION
+
+551
+00:32:22,525 --> 00:32:23,693
+<i>He-Man!</i>
+
+552
+00:32:23,860 --> 00:32:26,904
+<i>Dan para Jagoan Alam Semesta!</i>
+
+553
+00:32:28,156 --> 00:32:29,157
+<i>Aku Adam...</i>
+
+554
+00:32:29,324 --> 00:32:33,453
+<i>...Pangeran Eternia,</i>
+<i>penjaga Castle Grayskull.</i>
+
+555
+00:32:33,620 --> 00:32:35,371
+<i>Ini Cringer...</i>
+
+556
+00:32:35,538 --> 00:32:37,206
+<i>...temanku yang pemberani.</i>
+
+557
+00:32:37,874 --> 00:32:39,626
+<i>Kutemukan kekuatan rahasia...</i>
+
+558
+00:32:39,792 --> 00:32:43,212
+<i>...pada hari kuangkat tinggi</i>
+<i>pedang sihirku dan bilang:</i>
+
+559
+00:32:43,379 --> 00:32:45,923
+<i>"Dengan kekuatan Grayskull...</i>
+
+560
+00:32:47,175 --> 00:32:48,217
+<i>He-Man!</i>
+
+561
+00:32:48,885 --> 00:32:52,639
+<i>...aku punya kekuatan!"</i>
+
+562
+00:32:56,851 --> 00:32:58,603
+Kau menonton kartun?
+
+563
+00:33:01,272 --> 00:33:02,482
+Tidak, teman.
+
+564
+00:33:03,191 --> 00:33:06,027
+Jika tinggal di sini,
+kau harus cari uang untukku.
+
+565
+00:33:06,194 --> 00:33:08,780
+Pertama ambil senjatamu.
+
+566
+00:33:08,946 --> 00:33:11,699
+Lalu kokang senjatamu.
+Sekarang kau siap menembak.
+
+567
+00:33:11,866 --> 00:33:13,368
+Sekarang pilih sasaran.
+
+568
+00:33:13,534 --> 00:33:16,329
+Aku mau tembak botol biru di depan.
+
+569
+00:33:16,496 --> 00:33:17,997
+Lihatlah. Ini mudah.
+
+570
+00:33:18,164 --> 00:33:22,293
+Kubidik botol birunya, begini.
+Lalu kubilang, "Baik, dan..."
+
+571
+00:33:23,461 --> 00:33:26,005
+Kini akan kutembak botol hijau.
+Lihat, kubidik dan...
+
+572
+00:33:26,339 --> 00:33:27,715
+Kena! Lihat?
+
+573
+00:33:27,882 --> 00:33:29,092
+Kini kutembak yang kuning.
+
+574
+00:33:30,093 --> 00:33:31,219
+Mudah, 'kan?
+
+575
+00:33:31,386 --> 00:33:32,762
+Bidik saja dan...
+
+576
+00:33:36,599 --> 00:33:38,393
+Kemari. Ayo.
+
+577
+00:33:38,559 --> 00:33:40,853
+Ayo. Berdiri di sini. Dengar:
+
+578
+00:33:41,104 --> 00:33:42,355
+Ambil senjatanya.
+
+579
+00:33:42,980 --> 00:33:44,190
+Pegang dengan ben...
+
+580
+00:33:44,357 --> 00:33:45,608
+Luruskan lenganmu.
+
+581
+00:33:45,775 --> 00:33:47,985
+Pegang senjatanya
+dengan benar, Chappie.
+
+582
+00:33:48,736 --> 00:33:50,530
+Astaga. Baiklah.
+
+583
+00:33:50,697 --> 00:33:53,157
+Satu, dua, tiga!
+
+584
+00:33:54,659 --> 00:33:55,743
+Apa...?
+
+585
+00:33:55,910 --> 00:33:57,745
+Astaga, kantongku.
+
+586
+00:33:59,163 --> 00:34:01,374
+Jangan jatuhkan senjataku, Chappie.
+
+587
+00:34:01,833 --> 00:34:04,210
+Kau merusak pembidikku. Ini mahal.
+
+588
+00:34:04,377 --> 00:34:05,795
+Kau sedang apa?
+
+589
+00:34:05,962 --> 00:34:07,213
+Mengajarinya menembak.
+
+590
+00:34:07,380 --> 00:34:09,674
+Kau belum bisa mengajarinya hal ini.
+
+591
+00:34:09,841 --> 00:34:12,301
+Deon bilang dia harus diarahkan dulu.
+
+592
+00:34:12,468 --> 00:34:15,763
+Akan kujual ganjanya sendirian.
+
+593
+00:34:15,930 --> 00:34:18,141
+Tanpa robot bodoh itu.
+
+594
+00:34:18,307 --> 00:34:19,934
+Aku akan dapatkan uangnya...
+
+595
+00:34:20,101 --> 00:34:22,854
+...agar kita bisa beli peledak
+untuk merampok.
+
+596
+00:34:23,020 --> 00:34:24,981
+Atau kita akan mati.
+
+597
+00:34:25,356 --> 00:34:27,608
+Dia tidak bodoh. Dia hanya anak kecil.
+
+598
+00:34:27,775 --> 00:34:28,775
+Pergi urus kukumu...
+
+599
+00:34:28,818 --> 00:34:30,862
+...dan main petak umpet
+dengan bayi bajamu!
+
+600
+00:34:31,028 --> 00:34:32,780
+PENCARIAN TETRAVAAL
+
+601
+00:34:32,947 --> 00:34:34,699
+Kapan bayi berbicara
+
+602
+00:34:34,866 --> 00:34:35,866
+Perkembangan anak-anak
+
+603
+00:34:39,787 --> 00:34:41,622
+Kata-kata pertama bayi Anda
+
+604
+00:34:41,789 --> 00:34:42,832
+3 bulan
+
+605
+00:34:42,999 --> 00:34:44,959
+Bayi mendengarkan suara
+dan melihat wajah Anda saat bicara.
+
+606
+00:34:45,126 --> 00:34:46,836
+Kau akan punya anak?
+
+607
+00:34:48,421 --> 00:34:50,089
+Kau sendiri masih anak-anak, 'kan?
+
+608
+00:34:50,840 --> 00:34:52,133
+Apa yang terjadi?
+
+609
+00:34:52,300 --> 00:34:55,428
+Kau berkelahi di bar dengan temanmu?
+
+610
+00:34:55,595 --> 00:34:59,307
+Kalau kau mau ikut aku
+berlatih bela diri...
+
+611
+00:34:59,474 --> 00:35:01,893
+...aku akan senang. Kita bisa berlatih
+gerakan-gerakan bagus.
+
+612
+00:35:02,059 --> 00:35:03,561
+Kuperlihatkan cara berkelahi.
+
+613
+00:35:03,728 --> 00:35:05,980
+Kau harus selalu siap.
+Paham maksudku?
+
+614
+00:35:06,814 --> 00:35:09,650
+- Mau ikut?
+- Terima kasih tawarannya, tapi tidak.
+
+615
+00:35:09,817 --> 00:35:11,694
+Santai saja. Kapan-kapan.
+
+616
+00:35:12,195 --> 00:35:14,947
+Itu sangat keren.
+
+617
+00:35:15,364 --> 00:35:17,325
+Dengar. Aku butuh bantuan kecil.
+
+618
+00:35:17,492 --> 00:35:22,121
+Aku mau pinjam Kunci Pengaman Scout
+untuk memeriksa rancanganku.
+
+619
+00:35:22,288 --> 00:35:25,291
+Aku ingin pastikan Moose aman
+seperti Scout.
+
+620
+00:35:26,501 --> 00:35:27,585
+Pinjam?
+
+621
+00:35:27,752 --> 00:35:30,213
+Michelle minta aku
+memeriksa keamanannya, jadi...
+
+622
+00:35:30,379 --> 00:35:31,881
+Hanya sekitar satu jam.
+
+623
+00:35:34,217 --> 00:35:36,302
+Vincent, kau tahu aku tak bisa berikan.
+
+624
+00:35:36,469 --> 00:35:38,805
+Ada peraturan untuk itu.
+Kau tahu prosedurnya...
+
+625
+00:35:38,971 --> 00:35:41,474
+Bla, bla, bla. Jangan menyebalkan.
+
+626
+00:35:41,641 --> 00:35:44,769
+Kita sesama teknisi,
+meminjam Kunci Pengaman.
+
+627
+00:35:44,936 --> 00:35:47,230
+"Teknisi"? Bukankah dulu kau tentara?
+
+628
+00:35:47,563 --> 00:35:49,982
+- Aku hanya bercanda.
+- Itu lucu.
+
+629
+00:35:50,149 --> 00:35:52,109
+Maaf. Kau harus bilang pada
+Dewan Direk...
+
+630
+00:35:52,652 --> 00:35:55,696
+Dua tahun aku di DARPA, bodoh.
+
+631
+00:35:55,863 --> 00:35:58,491
+Ya, dulu aku SASR, bedebah.
+
+632
+00:36:01,452 --> 00:36:04,413
+Kau membuatku sangat marah.
+
+633
+00:36:04,580 --> 00:36:06,833
+Robot kotormu menghabiskan danaku.
+
+634
+00:36:06,999 --> 00:36:09,252
+Kau masalah besar bagiku, paham?
+
+635
+00:36:09,418 --> 00:36:12,713
+Jadi aku akan minta pelan-pelan.
+
+636
+00:36:13,130 --> 00:36:17,552
+Beri aku Kunci Pengaman.
+
+637
+00:36:18,845 --> 00:36:19,887
+Tidak.
+
+638
+00:36:24,851 --> 00:36:26,561
+Aku hanya bergurau.
+
+639
+00:36:26,727 --> 00:36:28,521
+Hanya bergurau.
+
+640
+00:36:28,688 --> 00:36:30,398
+Tenanglah, lihat. Kosong.
+
+641
+00:36:30,565 --> 00:36:32,567
+Aku takkan bawa pistol berisi di kantor.
+
+642
+00:36:32,733 --> 00:36:36,112
+Ini lelucon! Semuanya kembali bekerja.
+
+643
+00:36:37,029 --> 00:36:38,739
+Omong-omong. Gereja.
+
+644
+00:36:38,906 --> 00:36:41,367
+Minggu kapan pun boleh.
+Ikutlah denganku.
+
+645
+00:36:41,534 --> 00:36:43,077
+Kalian semua boleh datang.
+
+646
+00:36:44,453 --> 00:36:46,163
+Ini hanya lelucon.
+
+647
+00:36:47,540 --> 00:36:49,125
+Kantor ini harus santai sedikit.
+
+648
+00:37:16,611 --> 00:37:19,280
+Mau ke mana kau?
+
+649
+00:37:23,618 --> 00:37:25,244
+"Sepatu."
+
+650
+00:37:26,245 --> 00:37:28,956
+Bilang "sepatu."
+
+651
+00:37:29,123 --> 00:37:30,875
+Itu untuk kakimu.
+
+652
+00:37:31,042 --> 00:37:34,795
+Tunggu, Chappie. Lihat, lihat.
+
+653
+00:37:34,962 --> 00:37:36,589
+"Tikus." Tak apa.
+
+654
+00:37:36,756 --> 00:37:39,216
+Dia bodoh. Dia tak bisa bicara.
+Habislah kita.
+
+655
+00:37:39,383 --> 00:37:41,886
+Dia bisa bicara. Dia pintar.
+
+656
+00:37:42,053 --> 00:37:44,221
+Dia bisa bicara. Dia pintar.
+
+657
+00:37:44,388 --> 00:37:45,723
+Astaga! Dia meniruku!
+
+658
+00:37:45,890 --> 00:37:48,225
+Astaga! Dia meniruku!
+
+659
+00:37:48,392 --> 00:37:50,686
+Chappie! Chappie, bilang "sepatu."
+
+660
+00:37:50,853 --> 00:37:51,854
+Sepatu.
+
+661
+00:37:52,021 --> 00:37:53,147
+Bilang "tikus."
+
+662
+00:37:53,314 --> 00:37:54,315
+Tikus.
+
+663
+00:37:54,732 --> 00:37:56,317
+Bilang "Ibu."
+
+664
+00:37:56,484 --> 00:37:58,319
+Bilang "Ibu."
+
+665
+00:37:59,612 --> 00:38:00,738
+Chappie.
+
+666
+00:38:00,988 --> 00:38:02,031
+Sepatu.
+
+667
+00:38:02,198 --> 00:38:03,199
+Tikus.
+
+668
+00:38:03,366 --> 00:38:04,909
+Ibu.
+
+669
+00:38:05,076 --> 00:38:06,285
+- Amerika.
+- Teman.
+
+670
+00:38:06,452 --> 00:38:07,870
+Amerika teman!
+
+671
+00:38:08,037 --> 00:38:09,121
+Amerika teman!
+
+672
+00:38:09,288 --> 00:38:10,957
+- Ini bagus, Chappie!
+- Astaga!
+
+673
+00:38:11,123 --> 00:38:13,417
+Temanku adalah robot yang pintar.
+
+674
+00:38:13,584 --> 00:38:16,087
+Temanku adalah robot yang pintar.
+
+675
+00:38:17,296 --> 00:38:18,756
+Cara bicaranya keren.
+
+676
+00:38:18,923 --> 00:38:20,967
+Cara bicaranya keren.
+
+677
+00:38:21,133 --> 00:38:24,011
+Kau penjahat paling keren di Joburg.
+
+678
+00:38:25,262 --> 00:38:30,101
+Chappie penjahat ulung
+paling keren di Joburg!
+
+679
+00:38:30,267 --> 00:38:33,145
+- Ya! Rencana kita akan berhasil.
+- Ya!
+
+680
+00:38:33,312 --> 00:38:35,564
+- Dia pintar sekali!
+- Dia akan berguna. Ini hebat.
+
+681
+00:38:35,731 --> 00:38:37,358
+Beri tos.
+
+682
+00:38:37,858 --> 00:38:39,068
+Seperti ini?
+
+683
+00:38:39,235 --> 00:38:40,444
+Bum!
+
+684
+00:38:40,611 --> 00:38:43,072
+Chappie, beri tos.
+
+685
+00:38:43,239 --> 00:38:44,323
+Bum!
+
+686
+00:38:53,457 --> 00:38:54,583
+Kau dengar itu?
+
+687
+00:38:54,750 --> 00:38:56,085
+Ada yang datang.
+
+688
+00:38:59,547 --> 00:39:01,340
+- Siapa, Ibu?
+- Aku tidak tahu.
+
+689
+00:39:05,344 --> 00:39:06,512
+Halo?
+
+690
+00:39:11,517 --> 00:39:12,601
+Si kutu buku.
+
+691
+00:39:12,768 --> 00:39:13,853
+Apa?
+
+692
+00:39:14,020 --> 00:39:15,104
+Tidak.
+
+693
+00:39:16,272 --> 00:39:17,272
+Halo.
+
+694
+00:39:17,273 --> 00:39:18,858
+Kau tak boleh di sini. Kau harus pergi.
+
+695
+00:39:19,025 --> 00:39:20,026
+Aku mau melihat...
+
+696
+00:39:20,192 --> 00:39:23,362
+Dia akan segera kembali.
+Kau beruntung masih hidup.
+
+697
+00:39:41,589 --> 00:39:43,215
+Aku hanya mau menyapa...
+
+698
+00:39:43,382 --> 00:39:44,592
+Barang apa itu?
+
+699
+00:39:44,759 --> 00:39:47,803
+Aku mau mengajarinya.
+Seperti kesepakatan kita.
+
+700
+00:39:47,970 --> 00:39:50,473
+Kau akan dibunuh jika di sini.
+
+701
+00:39:53,934 --> 00:39:55,644
+Halo, nak!
+
+702
+00:39:56,103 --> 00:39:57,229
+Halo.
+
+703
+00:39:58,314 --> 00:39:59,857
+Kita sudah belajar kata ini?
+
+704
+00:40:02,109 --> 00:40:03,486
+Hei.
+
+705
+00:40:04,403 --> 00:40:05,821
+Apa kabar, berengsek?
+
+706
+00:40:07,656 --> 00:40:08,699
+Bagaimana keadaanmu?
+
+707
+00:40:10,618 --> 00:40:12,078
+Dari mana kau belajar itu?
+
+708
+00:40:12,244 --> 00:40:13,662
+- Mereka?
+- Hei!
+
+709
+00:40:13,829 --> 00:40:16,540
+Jaga mulutmu atau kau ditusuk, bung.
+
+710
+00:40:16,707 --> 00:40:19,794
+Jaga mulutmu atau kau ditusuk, bung.
+
+711
+00:40:19,960 --> 00:40:22,922
+Chappie, hormati aku. Aku Penciptamu.
+
+712
+00:40:23,089 --> 00:40:25,633
+Beri aku waktu sebentar dengannya.
+
+713
+00:40:25,800 --> 00:40:26,801
+Apa?
+
+714
+00:40:26,967 --> 00:40:31,013
+Tentu kau bisa
+menghitung heroinmu di ruang lain.
+
+715
+00:40:31,180 --> 00:40:34,475
+Kau kemari dan mengatur
+di mana aku kerja?
+
+716
+00:40:34,642 --> 00:40:36,727
+- Aku tak bermaksud kasar.
+- Diam.
+
+717
+00:40:36,894 --> 00:40:39,063
+- Akan kupotong lidahmu.
+- Maaf. Aku kelewatan.
+
+718
+00:40:39,230 --> 00:40:41,273
+Baiklah, Amerika, Amerika, Amerika.
+
+719
+00:40:41,440 --> 00:40:43,651
+Mungkin kita jangan menghitung heroin
+di depan anak itu.
+
+720
+00:40:43,818 --> 00:40:45,402
+Aku harus selesaikan ini.
+
+721
+00:40:45,736 --> 00:40:48,114
+Begitu selesai menghitung,
+sebaiknya kau sudah pergi.
+
+722
+00:40:48,280 --> 00:40:49,323
+Baik. Tentu.
+
+723
+00:40:50,157 --> 00:40:51,325
+Chappie.
+
+724
+00:40:52,368 --> 00:40:54,203
+Dengar. Aku Penciptamu.
+
+725
+00:40:54,703 --> 00:40:56,956
+Aku membawamu ke dunia ini.
+
+726
+00:40:57,123 --> 00:40:58,457
+Ini serius.
+
+727
+00:40:58,624 --> 00:41:01,710
+Jangan ikuti gaya hidup orang-orang ini.
+
+728
+00:41:01,877 --> 00:41:03,337
+- Apa?
+- Jangan tersinggung.
+
+729
+00:41:04,255 --> 00:41:08,509
+Jangan menghitung heroin,
+merampok, berbuat kejahatan.
+
+730
+00:41:08,676 --> 00:41:09,885
+Chappie tidak jahat.
+
+731
+00:41:10,052 --> 00:41:11,846
+Kau harus berjanji.
+
+732
+00:41:12,805 --> 00:41:13,848
+Janji apa?
+
+733
+00:41:14,014 --> 00:41:18,185
+Kau berjanji kepadaku, Penciptamu,
+kau takkan melakukan hal-hal itu.
+
+734
+00:41:18,352 --> 00:41:20,104
+Kau tak boleh melanggar janji, Chappie.
+
+735
+00:41:21,564 --> 00:41:24,233
+- Chappie berjanji.
+- Bagus! Ya!
+
+736
+00:41:24,400 --> 00:41:25,818
+Hei, berhenti menceramahi dia.
+
+737
+00:41:25,985 --> 00:41:28,070
+Katamu kau mau mengajarinya.
+
+738
+00:41:28,237 --> 00:41:31,157
+Tentu. Ayo. Chappie, duduk di sini.
+
+739
+00:41:31,740 --> 00:41:34,243
+Kubawakan beberapa hal
+untuk mengembangkan pikiranmu...
+
+740
+00:00:04,000 --> 00:00:22,000
+vi p 2 1.e u. o r g
+
+741
+00:41:34,410 --> 00:41:35,971
+...dan mengembangkan
+kemampuan khususmu.
+
+742
+00:41:35,995 --> 00:41:37,913
+Menggunakan pikiranmu penting.
+
+743
+00:41:38,080 --> 00:41:39,290
+Ini.
+
+744
+00:41:41,083 --> 00:41:42,251
+Apa itu?
+
+745
+00:41:42,418 --> 00:41:43,544
+Buku.
+
+746
+00:41:43,711 --> 00:41:46,338
+Ada ceritanya. Lihat.
+
+747
+00:41:46,505 --> 00:41:47,673
+Chappie mau!
+
+748
+00:41:47,840 --> 00:41:49,300
+Ini cerita tentang domba hitam.
+
+749
+00:41:49,466 --> 00:41:51,260
+- Buku Chappie?
+- Ya, ini punyamu.
+
+750
+00:41:52,928 --> 00:41:54,054
+Chappie suka cerita.
+
+751
+00:41:54,221 --> 00:41:54,889
+Wah.
+
+752
+00:41:55,055 --> 00:41:56,473
+Chappie punya buku.
+
+753
+00:41:56,765 --> 00:41:59,226
+Ayo, Chappie. Akan kuperlihatkan ini.
+
+754
+00:41:59,393 --> 00:42:00,728
+Ini sebuah penyangga.
+
+755
+00:42:00,895 --> 00:42:01,896
+Penyangga.
+
+756
+00:42:02,062 --> 00:42:04,607
+Ini catmu. Lihat ini.
+
+757
+00:42:05,482 --> 00:42:06,483
+Lihat itu?
+
+758
+00:42:06,901 --> 00:42:08,819
+- Biru.
+- Ya, seperti langit.
+
+759
+00:42:09,570 --> 00:42:11,197
+Biru seperti langit.
+
+760
+00:42:12,031 --> 00:42:13,657
+Dengar, Chappie. Dalam hidup...
+
+761
+00:42:13,824 --> 00:42:16,994
+...banyak orang akan bilang
+apa yang tidak bisa kau lakukan.
+
+762
+00:42:17,536 --> 00:42:19,246
+Jangan dengarkan mereka.
+
+763
+00:42:19,413 --> 00:42:20,497
+Jika mau melukis, kau bisa.
+
+764
+00:42:20,664 --> 00:42:22,416
+Kau bisa melakukan apa pun
+dalam hidupmu.
+
+765
+00:42:22,791 --> 00:42:24,376
+Chappie mau melukis.
+
+766
+00:42:24,543 --> 00:42:26,583
+Jangan biarkan orang
+menghalangi potensimu, Chappie.
+
+767
+00:42:27,087 --> 00:42:29,048
+Aku takkan menghentikannya melukis.
+
+768
+00:42:29,215 --> 00:42:30,716
+Ayo. Melukislah, Chappie.
+
+769
+00:42:36,722 --> 00:42:39,558
+Cat warnamu di sini, seperti ini. Lihat?
+
+770
+00:42:40,434 --> 00:42:42,061
+- Ya.
+- Ayo bersenang-senang.
+
+771
+00:42:42,394 --> 00:42:43,854
+- Aku mau.
+- Ya.
+
+772
+00:42:44,021 --> 00:42:46,023
+Berikan pada Chappie. Berikan.
+
+773
+00:42:46,857 --> 00:42:48,067
+Harus bilang apa?
+
+774
+00:42:50,027 --> 00:42:51,987
+Boleh aku minta catnya, Deon?
+
+775
+00:42:52,154 --> 00:42:53,822
+Apa-apaan ini?
+
+776
+00:42:55,115 --> 00:42:58,494
+Bagus. Cat di situ. Di papan.
+
+777
+00:43:00,663 --> 00:43:02,373
+Itu Kunci Pengamannya.
+
+778
+00:43:02,998 --> 00:43:04,583
+- Chappie melukis.
+- Ya!
+
+779
+00:43:05,125 --> 00:43:06,794
+Chappie, aku bangga padamu!
+
+780
+00:43:06,961 --> 00:43:08,128
+Anak pintar!
+
+781
+00:43:10,673 --> 00:43:13,926
+Kau baru saja
+membuat kesalahan besar.
+
+782
+00:43:15,219 --> 00:43:16,595
+Kelihatannya bagus, 'kan?
+
+783
+00:43:16,762 --> 00:43:18,264
+Bagus. Ayo teruskan.
+
+784
+00:43:18,555 --> 00:43:19,598
+Wah.
+
+785
+00:43:20,140 --> 00:43:22,351
+Teruskan. Jangan malu.
+
+786
+00:43:36,782 --> 00:43:38,450
+Kau melukis mobil itu.
+
+787
+00:43:38,617 --> 00:43:39,618
+Wah.
+
+788
+00:43:40,619 --> 00:43:41,787
+- Mobil.
+- Bagus!
+
+789
+00:43:41,954 --> 00:43:44,331
+- Ini mobil, Ibu.
+- Bagus, Chappie!
+
+790
+00:43:44,498 --> 00:43:45,666
+Boleh melukis lagi?
+
+791
+00:44:10,441 --> 00:44:11,984
+Chappie. Tak apa, Chappie.
+
+792
+00:44:12,151 --> 00:44:14,486
+- Kau serius?
+- Kami hanya melukis...
+
+793
+00:44:15,070 --> 00:44:16,780
+Aku butuh mesin pembunuh.
+
+794
+00:44:16,947 --> 00:44:19,575
+- Dia tidak di sini untuk melukis!
+- Jangan! Biarkan dia!
+
+795
+00:44:19,742 --> 00:44:20,868
+Hentikan!
+
+796
+00:44:21,660 --> 00:44:22,911
+Kami hanya mengajarinya.
+
+797
+00:44:23,078 --> 00:44:24,830
+- Maafkan aku.
+- Tidak!
+
+798
+00:44:26,081 --> 00:44:27,583
+Apa yang kau lakukan?!
+
+799
+00:44:27,750 --> 00:44:29,877
+Dia hanya mengajarinya melukis.
+
+800
+00:44:30,044 --> 00:44:31,295
+Dia hanya mengajari Chappie!
+
+801
+00:44:31,462 --> 00:44:33,213
+- Ya, menjadi banci!
+- Dia punyaku!
+
+802
+00:44:33,380 --> 00:44:36,216
+Akan kuadukan ke polisi
+kau menganiayanya!
+
+803
+00:44:36,383 --> 00:44:38,802
+Bilang apa? Kau mencuri polisi robot.
+
+804
+00:44:38,969 --> 00:44:40,512
+Kau bedebah.
+
+805
+00:44:40,679 --> 00:44:42,514
+Kau benar-benar jahat.
+
+806
+00:44:44,224 --> 00:44:45,517
+Kau ini kenapa?
+
+807
+00:44:51,940 --> 00:44:54,651
+- Apa yang kau lakukan?
+- Dia harus diajarkan. Dia anak kecil.
+
+808
+00:44:54,818 --> 00:44:57,613
+Dia sudah lebih pintar darimu, bedebah!
+
+809
+00:44:57,905 --> 00:45:00,824
+Chappie, jangan biarkan orang barbar itu
+merusak kreativitasmu!
+
+810
+00:45:01,450 --> 00:45:03,535
+Asah terus kreativitasmu, Chappie.
+
+811
+00:45:04,995 --> 00:45:08,957
+Mungkin dia lebih dari robot bodoh
+yang menembak orang.
+
+812
+00:45:09,375 --> 00:45:10,751
+Biarkan dia melakukannnya.
+
+813
+00:45:10,918 --> 00:45:13,420
+Dia anak kecil. Kau tak paham?
+
+814
+00:45:13,587 --> 00:45:16,507
+Yo-Landi, kita mau merampok...
+
+815
+00:45:16,673 --> 00:45:20,052
+...karena ini satu-satunya jalan keluar
+sebelum Hippo membunuh kita!
+
+816
+00:45:20,594 --> 00:45:22,846
+Apa kau tidak mengerti
+maksudnya "mati"?
+
+817
+00:45:23,013 --> 00:45:25,599
+Kita hanya berhasil
+jika Chappie menolong kita.
+
+818
+00:45:25,766 --> 00:45:26,517
+Ada apa?
+
+819
+00:45:26,683 --> 00:45:27,393
+Apa aku benar?
+
+820
+00:45:27,559 --> 00:45:29,103
+Kapan? Tunggu.
+
+821
+00:45:29,269 --> 00:45:30,938
+- Yo-Landi, apa aku benar?
+- Ya.
+
+822
+00:45:31,105 --> 00:45:32,314
+Hei!
+
+823
+00:45:32,481 --> 00:45:33,899
+- Dari Raymond.
+- Oh, ya.
+
+824
+00:45:34,066 --> 00:45:36,735
+Dia bilang ada
+pengiriman uang lusa. Berapa?
+
+825
+00:45:37,820 --> 00:45:40,739
+600 juta rand.
+Menuju selatan di N1, pukul 7 pagi.
+
+826
+00:45:40,906 --> 00:45:42,908
+Baik, selatan, N1, 7 pagi.
+
+827
+00:45:43,117 --> 00:45:44,201
+Ya.
+
+828
+00:45:44,868 --> 00:45:46,578
+King. Telepon King.
+
+829
+00:45:47,246 --> 00:45:50,416
+Kita butuh peledak.
+Bilang kita bisa bayar seperti biasa.
+
+830
+00:45:51,375 --> 00:45:52,668
+Siapkan mobil boks.
+
+831
+00:45:52,835 --> 00:45:54,378
+- Mobil boks?
+- Sekarang.
+
+832
+00:45:54,545 --> 00:45:55,671
+Yo-Landi.
+
+833
+00:45:56,422 --> 00:45:58,048
+Akan kubereskan masalah ini.
+
+834
+00:45:58,424 --> 00:45:59,591
+Aku berjanji.
+
+835
+00:46:01,677 --> 00:46:03,637
+Kau sedang apa?
+
+836
+00:46:03,929 --> 00:46:05,139
+Melukis.
+
+837
+00:46:05,806 --> 00:46:07,057
+Itu bagus.
+
+838
+00:46:09,226 --> 00:46:11,562
+Chappie, kau lihat rumah itu?
+
+839
+00:46:11,728 --> 00:46:12,728
+Rumah Chappie?
+
+840
+00:46:12,771 --> 00:46:15,941
+Ya. Agar kau mengerti
+betapa senangnya...
+
+841
+00:46:16,108 --> 00:46:17,943
+...tinggal di sini bersama Ayah dan Ibu...
+
+842
+00:46:18,110 --> 00:46:20,487
+...kami akan membawamu
+melihat dunia nyata...
+
+843
+00:46:20,654 --> 00:46:22,739
+...agar kau lihat betapa tidak indahnya.
+
+844
+00:46:24,867 --> 00:46:26,702
+Aku punya ide menyenangkan.
+
+845
+00:46:26,869 --> 00:46:29,246
+- Chappie, kau suka mobil?
+- Ya.
+
+846
+00:46:29,413 --> 00:46:33,542
+Ayo kita naik mobil sungguhan
+untuk melihat dunia nyata.
+
+847
+00:46:33,709 --> 00:46:35,961
+Aku mau naik mobil asli.
+Chappie mau ikut.
+
+848
+00:46:36,128 --> 00:46:38,881
+Ayo kita jalan-jalan, Chappie.
+
+849
+00:46:39,047 --> 00:46:41,467
+Ayo. Tinggalkan itu.
+
+850
+00:46:41,633 --> 00:46:43,802
+Ayo. Pamitan pada Ibu.
+
+851
+00:46:44,928 --> 00:46:47,055
+Bagus, Chappie. Naiklah.
+
+852
+00:46:47,222 --> 00:46:48,390
+Bagus. Duduk di situ.
+
+853
+00:46:48,557 --> 00:46:49,558
+Apa kabar?
+
+854
+00:46:49,725 --> 00:46:50,517
+Chappie di mobil.
+
+855
+00:46:50,684 --> 00:46:51,977
+Tenang. Nanti kuceritakan.
+
+856
+00:46:52,269 --> 00:46:55,189
+Duduk manis, Chappie.
+Kau pintar, Chappie.
+
+857
+00:46:55,355 --> 00:46:56,773
+Dah, Ibu!
+
+858
+00:46:59,818 --> 00:47:01,236
+Dunia nyata sangat besar.
+
+859
+00:47:01,403 --> 00:47:02,571
+Kau suka dunia nyata?
+
+860
+00:47:02,821 --> 00:47:03,864
+Ya.
+
+861
+00:47:04,031 --> 00:47:05,699
+INTERNET CEPAT!
+SELAMAT TINGGAL LAMBAT!
+
+862
+00:47:05,866 --> 00:47:07,117
+Apa itu internet?
+
+863
+00:47:07,284 --> 00:47:08,660
+Itu berhubungan dengan komputer.
+
+864
+00:47:08,827 --> 00:47:10,871
+Agar bisa melihat
+hal-hal yang kau tidak tahu.
+
+865
+00:47:11,038 --> 00:47:13,373
+Aku mau internet!
+
+866
+00:47:13,832 --> 00:47:15,083
+Hei.
+
+867
+00:47:15,667 --> 00:47:17,628
+Bagaimana dia akan pulang?
+
+868
+00:47:18,420 --> 00:47:21,006
+Dia robot yang pintar. Benar, Chappie?
+
+869
+00:47:21,173 --> 00:47:23,967
+Ya, Chappie pintar. Chappie punya GPS.
+
+870
+00:47:24,134 --> 00:47:25,135
+Kau yakin?
+
+871
+00:47:25,302 --> 00:47:27,721
+Saat kau kembali, kau harus bayar sewa.
+
+872
+00:47:36,146 --> 00:47:37,564
+Apa ini, Amerika?
+
+873
+00:47:40,192 --> 00:47:43,654
+- Chappie, ayo. Keluarlah.
+- Chappie tidak mau.
+
+874
+00:47:43,820 --> 00:47:46,657
+Ayo, Chappie. Ayo, ayo.
+
+875
+00:47:46,823 --> 00:47:48,742
+- Itu polisi!
+- Aku mau pergi.
+
+876
+00:47:50,827 --> 00:47:52,287
+Selamat datang di dunia nyata.
+
+877
+00:47:52,454 --> 00:47:53,497
+Teman-teman, awas.
+
+878
+00:47:53,997 --> 00:47:55,207
+Aku tak suka dunia nyata.
+
+879
+00:47:55,374 --> 00:47:56,667
+- Periksa dia.
+- Dia rusak.
+
+880
+00:47:56,833 --> 00:47:59,169
+Kita harus membuatmu tangguh
+agar bisa merampok.
+
+881
+00:47:59,336 --> 00:48:01,296
+- Chappie mau masuk.
+- Maaf, Chappie.
+
+882
+00:48:01,463 --> 00:48:03,382
+Kumohon! Boleh aku masuk ke mobil?!
+
+883
+00:48:03,549 --> 00:48:05,092
+Aku mau kembali ke mobil.
+
+884
+00:48:05,259 --> 00:48:07,761
+Amerika? Kumohon, tidak!
+
+885
+00:48:07,928 --> 00:48:09,448
+Hari pertama sekolah
+yang menyenangkan.
+
+886
+00:48:09,805 --> 00:48:11,390
+Kembalilah!
+
+887
+00:48:11,890 --> 00:48:13,350
+Kumohon, tidak!
+
+888
+00:48:13,559 --> 00:48:15,018
+"Kumohon, tidak"?
+
+889
+00:48:15,811 --> 00:48:17,187
+Apa-apaan?
+
+890
+00:48:19,648 --> 00:48:21,149
+Jangan terlalu dekat.
+
+891
+00:48:21,441 --> 00:48:23,193
+- Apa itu?
+- Hati-hati.
+
+892
+00:48:24,278 --> 00:48:25,654
+Jangan percaya robot ini.
+
+893
+00:48:25,821 --> 00:48:28,073
+- Halo. Aku Chappie.
+- Dia polisi!
+
+894
+00:48:28,657 --> 00:48:29,783
+Kenapa melempariku?
+
+895
+00:48:31,493 --> 00:48:32,661
+Bisa hentikan?
+
+896
+00:48:32,828 --> 00:48:34,538
+Itu bukan polisi!
+
+897
+00:48:34,705 --> 00:48:36,623
+- Dia takut.
+- Lihat ini!
+
+898
+00:48:36,832 --> 00:48:37,916
+Kenapa kau melakukan ini?
+
+899
+00:48:38,125 --> 00:48:39,251
+Kenapa kau melakukan ini?
+
+900
+00:48:39,418 --> 00:48:40,499
+"Kenapa kau melakukan ini?"
+
+901
+00:48:40,586 --> 00:48:41,587
+Kenapa kau melakukan ini?
+
+902
+00:48:41,753 --> 00:48:42,754
+Bicaranya lucu.
+
+903
+00:48:42,921 --> 00:48:44,081
+Hentikan. Chappie tidak suka.
+
+904
+00:48:45,465 --> 00:48:47,009
+Chappie!
+
+905
+00:48:47,175 --> 00:48:49,011
+<i>Tidak! Kumohon! Chappie...</i>
+
+906
+00:48:51,638 --> 00:48:52,723
+Lihat ini.
+
+907
+00:48:52,889 --> 00:48:53,682
+Pengecut!
+
+908
+00:48:53,849 --> 00:48:55,058
+Tolong hentikan.
+
+909
+00:48:55,642 --> 00:48:56,685
+Tolong hentikan.
+
+910
+00:48:56,852 --> 00:48:58,312
+Tamat riwayatnya.
+
+911
+00:48:58,562 --> 00:49:00,188
+Kumohon, jangan!
+
+912
+00:49:00,355 --> 00:49:01,106
+Beri jalan.
+
+913
+00:49:01,273 --> 00:49:02,899
+- Jangan ganggu aku.
+- Lemparkan!
+
+914
+00:49:03,066 --> 00:49:04,943
+Aku mau pulang!
+
+915
+00:49:10,282 --> 00:49:12,159
+<i>Persetan dengan polisi!</i>
+
+916
+00:49:19,833 --> 00:49:21,168
+Larilah, bedebah!
+
+917
+00:49:26,632 --> 00:49:28,884
+Aku mau pulang!
+
+918
+00:49:34,222 --> 00:49:37,100
+Halo, Deon. Selamat datang.
+
+919
+00:49:45,275 --> 00:49:47,569
+Oh, tidak. Berantakan.
+
+920
+00:49:53,367 --> 00:49:54,910
+- Halo?
+<i>- Halo, Tn. Wilson.</i>
+
+921
+00:49:55,077 --> 00:49:57,120
+<i>- Saya dari Keamanan Tetravaal.</i>
+- Ya.
+
+922
+00:49:57,537 --> 00:50:01,041
+<i>Kami lihat Anda mengambil</i>
+<i>Kunci Pengaman beberapa hari lalu.</i>
+
+923
+00:50:01,208 --> 00:50:04,294
+Ya. Maaf, itu kesalahan.
+Saya bawa pulang.
+
+924
+00:50:04,461 --> 00:50:07,923
+<i>Jika tidak kembali sore ini,</i>
+<i>akan saya laporkan ke Bu Bradley.</i>
+
+925
+00:50:08,090 --> 00:50:09,675
+<i>- Selamat siang, Pak.</i>
+- Terima kasih.
+
+926
+00:50:36,702 --> 00:50:37,994
+Aku menemukannya.
+
+927
+00:50:38,578 --> 00:50:41,415
+Sasaran sedang bergerak, arah timur.
+Ambil jalan keluar berikut.
+
+928
+00:51:33,842 --> 00:51:36,511
+Dapat. 300 meter di depan.
+
+929
+00:51:36,678 --> 00:51:38,638
+Mendekat perlahan.
+Berhenti di jarak aman.
+
+930
+00:51:39,306 --> 00:51:43,477
+Sasaran terlihat seperti robot polisi,
+tapi kujamin dia bukan polisi.
+
+931
+00:51:43,643 --> 00:51:45,187
+Jangan terintimidasi.
+
+932
+00:51:45,520 --> 00:51:48,273
+Tapi dia sangat cerdas,
+jadi jangan tanggung-tanggung.
+
+933
+00:51:48,440 --> 00:51:49,858
+- Mengerti.
+- Mengerti.
+
+934
+00:52:09,961 --> 00:52:11,129
+Hei!
+
+935
+00:52:15,634 --> 00:52:17,677
+Kau lupa kuasmu?
+
+936
+00:52:18,345 --> 00:52:19,429
+Benar?
+
+937
+00:52:19,596 --> 00:52:21,223
+Kau hanya anak kecil, ya?
+
+938
+00:52:22,182 --> 00:52:24,810
+Kau terlihat takut. Mau ke mana?
+
+939
+00:52:38,323 --> 00:52:39,741
+APKIRAN
+
+940
+00:52:44,287 --> 00:52:45,413
+<i>Gulingkan dia.</i>
+
+941
+00:52:45,580 --> 00:52:47,082
+Hentikan, Chappie takut.
+
+942
+00:52:47,249 --> 00:52:49,709
+Di sini. Kita butuh akses ke otaknya.
+
+943
+00:52:49,876 --> 00:52:51,711
+- Jangan!
+- Beraninya kau!
+
+944
+00:52:51,878 --> 00:52:53,296
+<i>Tahan dia!</i>
+
+945
+00:52:53,463 --> 00:52:55,298
+Tolong jangan!
+
+946
+00:52:55,465 --> 00:52:56,716
+<i>Jangan minta tolong kepadaku!</i>
+
+947
+00:52:56,883 --> 00:52:58,510
+Aku bukan temanmu, paham?!
+
+948
+00:52:58,677 --> 00:52:59,469
+<i>Aku musuhmu.</i>
+
+949
+00:52:59,636 --> 00:53:01,847
+<i>Ambilkan gerinda listrik.</i>
+<i>Akan kuberi dia pelajaran.</i>
+
+950
+00:53:03,932 --> 00:53:06,726
+Tidak! Chappie takut! Chappie takut.
+
+951
+00:53:07,519 --> 00:53:08,895
+Chappie takut!
+
+952
+00:53:09,062 --> 00:53:10,981
+Tolong hentikan! Kumohon!
+
+953
+00:53:14,526 --> 00:53:16,820
+Sekarang kau akan jadi anak baik.
+
+954
+00:53:18,113 --> 00:53:19,531
+Gulingkan dia.
+
+955
+00:53:20,031 --> 00:53:22,033
+Bagus. Berikan obeng.
+
+956
+00:53:22,784 --> 00:53:25,620
+Begini, program kepintaran buatanmu
+yang sederhana...
+
+957
+00:53:25,787 --> 00:53:28,206
+...membuatmu berpikir kau nyata.
+
+958
+00:53:29,457 --> 00:53:31,459
+Tapi kau tahu ada apa di sini?
+
+959
+00:53:31,835 --> 00:53:32,919
+Kosong.
+
+960
+00:53:33,086 --> 00:53:35,088
+Hanya sekumpulan kabel.
+
+961
+00:53:35,255 --> 00:53:37,173
+Kau tidak cerdas, ya?
+
+962
+00:53:39,342 --> 00:53:40,343
+Ini dia.
+
+963
+00:53:40,677 --> 00:53:42,596
+Chappie nyata.
+
+964
+00:53:45,015 --> 00:53:47,100
+CPU TERBUKA
+
+965
+00:53:48,393 --> 00:53:49,603
+Ini dia.
+
+966
+00:53:52,564 --> 00:53:53,690
+Baiklah.
+
+967
+00:53:54,941 --> 00:53:55,984
+Singkirkan dia.
+
+968
+00:53:56,902 --> 00:53:58,361
+Ayo. Tahan dia.
+
+969
+00:53:58,528 --> 00:53:59,905
+- Tahan dia.
+- Tidak, tidak.
+
+970
+00:54:00,071 --> 00:54:02,157
+- Tahan dia!
+- Tidak mau takut lagi!
+
+971
+00:54:02,324 --> 00:54:03,408
+Kubilang tahan dia!
+
+972
+00:54:03,575 --> 00:54:04,951
+Chappie tidak mau takut.
+
+973
+00:54:05,118 --> 00:54:06,828
+Chappie tidak mau takut!
+
+974
+00:54:12,709 --> 00:54:14,169
+Berhenti! Hentikan truknya!
+
+975
+00:54:19,299 --> 00:54:20,550
+PELINDUNG RUSAK
+
+976
+00:54:23,428 --> 00:54:25,513
+Berhenti menembak!
+
+977
+00:54:26,348 --> 00:54:27,682
+Biarkan si cacat pergi.
+
+978
+00:54:30,060 --> 00:54:31,311
+Aku dapat yang kubutuhkan.
+
+979
+00:54:32,145 --> 00:54:33,730
+Lari, Forrest!
+
+980
+00:54:53,166 --> 00:54:55,001
+- Ini akan sangat mudah.
+- Astaga.
+
+981
+00:54:55,710 --> 00:54:56,878
+Chappie?
+
+982
+00:54:58,380 --> 00:54:59,380
+Chappie!
+
+983
+00:54:59,381 --> 00:55:00,966
+Sudah kubilang itu ide buruk
+
+984
+00:55:01,132 --> 00:55:02,384
+Ibu.
+
+985
+00:55:02,550 --> 00:55:04,135
+Chappie! Oh, Chappie!
+Apa yang terjadi?
+
+986
+00:55:04,302 --> 00:55:05,303
+Ibu.
+
+987
+00:55:05,470 --> 00:55:08,431
+Astaga. Chappie?
+Chappie, apa yang terjadi?
+
+988
+00:55:09,516 --> 00:55:11,017
+Siapa pelakunya?
+
+989
+00:55:11,184 --> 00:55:13,812
+Astaga, Chappie. Duduk di sini.
+
+990
+00:55:13,979 --> 00:55:15,230
+Aku sungguh menyesal.
+
+991
+00:55:16,815 --> 00:55:18,316
+Apa yang terjadi?!
+
+992
+00:55:18,650 --> 00:55:20,402
+Teganya kau melakukan ini!
+
+993
+00:55:20,568 --> 00:55:21,861
+Kenapa?!
+
+994
+00:55:22,237 --> 00:55:24,155
+Dia hanya anak kecil!
+
+995
+00:55:24,656 --> 00:55:26,366
+Aku tak tahu ini akan terjadi.
+
+996
+00:55:26,533 --> 00:55:28,284
+Aku tak tahu apa yang terjadi.
+
+997
+00:55:28,576 --> 00:55:29,786
+Aku benci kau!
+
+998
+00:55:29,953 --> 00:55:31,246
+Tanganku hilang, Ibu.
+
+999
+00:55:31,413 --> 00:55:32,747
+Amerika.
+
+1000
+00:55:32,914 --> 00:55:36,126
+Bukankah ada suku cadang
+tangan dan kaki di belakang?
+
+1001
+00:55:36,292 --> 00:55:38,545
+- Ya, tunggu.
+- Apa kau bisa perbaiki...?
+
+1002
+00:55:38,712 --> 00:55:42,549
+Oh, Chappie.
+Chappie, biar kubersihkan kotoran itu.
+
+1003
+00:55:47,929 --> 00:55:50,348
+Chappie, siapa pelakunya?
+
+1004
+00:55:51,725 --> 00:55:52,976
+Seorang pria.
+
+1005
+00:55:53,351 --> 00:55:54,936
+Di mobil boks.
+
+1006
+00:55:55,103 --> 00:55:57,397
+- Pria di mobil boks?
+- Ya.
+
+1007
+00:55:57,564 --> 00:55:59,899
+- Mereka menaruhmu di mobil?
+- Ya.
+
+1008
+00:56:00,859 --> 00:56:02,527
+Kau mengenalnya?
+
+1009
+00:56:03,069 --> 00:56:04,070
+Tidak.
+
+1010
+00:56:04,237 --> 00:56:05,447
+Ini parah. Coba kulihat.
+
+1011
+00:56:05,613 --> 00:56:07,574
+Dan juga ada anak-anak.
+
+1012
+00:56:07,741 --> 00:56:10,410
+Mereka melempari api
+walau aku sudah memohon.
+
+1013
+00:56:10,577 --> 00:56:12,120
+- Anak-anak?!
+- Ya.
+
+1014
+00:56:12,287 --> 00:56:13,955
+Memalukan!
+
+1015
+00:56:14,122 --> 00:56:16,958
+- Benda di kepalanya.
+- Kelihatannya rusak parah.
+
+1016
+00:56:17,125 --> 00:56:19,502
+Kita harus masukkan kembali.
+
+1017
+00:56:22,672 --> 00:56:25,091
+- Pria itu merusaknya, Ibu.
+- Ya.
+
+1018
+00:56:25,258 --> 00:56:27,093
+- Dia merusak kepalaku.
+- Akan kuperbaiki.
+
+1019
+00:56:27,260 --> 00:56:28,762
+Kau akan perbaiki aku?
+
+1020
+00:56:28,928 --> 00:56:30,221
+Akan kucoba, kawan.
+
+1021
+00:56:35,226 --> 00:56:36,978
+- Yang ini ke mana?
+- Ini.
+
+1022
+00:56:37,145 --> 00:56:38,813
+- Yang ini ke mana?
+- Itu lebih baik.
+
+1023
+00:56:38,980 --> 00:56:40,315
+Baiklah. Ini dia, kawan.
+
+1024
+00:56:40,482 --> 00:56:42,776
+Tinggal pasang. Seperti yang dia bilang.
+
+1025
+00:56:46,446 --> 00:56:47,697
+Bagaimana...?
+
+1026
+00:56:50,033 --> 00:56:51,367
+Kurasa sudah beres.
+
+1027
+00:56:52,160 --> 00:56:53,495
+Bisa digerakkan? Cobalah.
+
+1028
+00:56:53,661 --> 00:56:55,497
+Coba gerakkan tanganmu.
+
+1029
+00:56:56,956 --> 00:56:58,625
+- Wah.
+- Beres.
+
+1030
+00:56:58,792 --> 00:57:00,043
+- Berfungsi.
+- Kugerakkan.
+
+1031
+00:57:00,210 --> 00:57:01,419
+- Ya.
+- Ya.
+
+1032
+00:57:01,878 --> 00:57:03,963
+- Bagus, kawan.
+- Syukurlah.
+
+1033
+00:57:04,130 --> 00:57:05,548
+Kau tak bisa dihancurkan.
+
+1034
+00:57:05,715 --> 00:57:06,758
+Aku tak bisa dihancurkan?
+
+1035
+00:57:06,925 --> 00:57:09,677
+Titanium. Tak terhancurkan. Itulah kau.
+
+1036
+00:57:09,844 --> 00:57:11,012
+Ya.
+
+1037
+00:57:11,179 --> 00:57:13,473
+Itu bukuku? Itu <i>Si Domba Hitam?</i>
+
+1038
+00:57:13,640 --> 00:57:15,517
+- Apa?
+- Boleh kuminta? Kumohon.
+
+1039
+00:57:15,683 --> 00:57:18,645
+Ini buku dari Penciptaku. Judulnya
+<i>Domba Hitam dan Burung Kecil.</i>
+
+1040
+00:57:18,812 --> 00:57:20,396
+- Bisa bacakan?
+- Ya.
+
+1041
+00:57:20,563 --> 00:57:23,566
+- Bisa tolong bacakan?
+- Ya, aku bisa bacakan, Chappie.
+
+1042
+00:57:26,111 --> 00:57:29,364
+"Semua domba di Magooville
+berwarna putih.
+
+1043
+00:57:30,657 --> 00:57:33,993
+Tapi Abel berwarna hitam."
+
+1044
+00:57:34,494 --> 00:57:37,205
+- Kau tahu apa itu domba hitam?
+- Tidak.
+
+1045
+00:57:37,372 --> 00:57:41,126
+Artinya kau berbeda dari yang lain.
+
+1046
+00:57:41,876 --> 00:57:44,462
+Seperti aku. Aku berbeda.
+Dari kau dan Amerika.
+
+1047
+00:57:44,629 --> 00:57:46,256
+- Ya.
+- Dan anak-anak.
+
+1048
+00:57:46,422 --> 00:57:49,634
+Ya, tapi bukan dari penampilanmu.
+
+1049
+00:57:50,343 --> 00:57:54,597
+Dalam dirimu
+yang membuatmu istimewa.
+
+1050
+00:57:54,973 --> 00:57:56,975
+Itu yang membuatmu berbeda.
+
+1051
+00:57:57,142 --> 00:58:00,645
+Itulah dirimu yang sebenarnya.
+
+1052
+00:58:01,020 --> 00:58:02,147
+Dalam dirimu.
+
+1053
+00:58:02,480 --> 00:58:03,731
+Jiwamu.
+
+1054
+00:58:06,151 --> 00:58:07,861
+Chappie di dalam sini?
+
+1055
+00:58:08,069 --> 00:58:09,154
+Ya.
+
+1056
+00:58:09,362 --> 00:58:10,613
+Begini:
+
+1057
+00:58:10,780 --> 00:58:12,907
+Bagian luar...
+
+1058
+00:58:13,074 --> 00:58:15,076
+...hanyalah sementara.
+
+1059
+00:58:15,243 --> 00:58:16,369
+Ketika kau mati...
+
+1060
+00:58:16,536 --> 00:58:21,040
+...jiwa di dalam dirimu
+pergi ke dunia lain.
+
+1061
+00:58:22,500 --> 00:58:24,252
+Yang ada di dalam dirimu...
+
+1062
+00:58:25,461 --> 00:58:28,298
+...itulah yang Ibu cintai.
+
+1063
+00:58:28,840 --> 00:58:29,841
+Kemarilah.
+
+1064
+00:58:30,008 --> 00:58:31,801
+Ibu mencintaimu.
+
+1065
+00:58:34,596 --> 00:58:36,097
+Baiklah. Ayo.
+
+1066
+00:58:36,264 --> 00:58:38,183
+Kita baca bukumu.
+
+1067
+00:58:39,767 --> 00:58:44,814
+"Abel menolong ibunya mengurus rumah
+pada akhir pekan.
+
+1068
+00:58:44,981 --> 00:58:48,818
+Dia mencuci piring dan baju.
+
+1069
+00:58:48,985 --> 00:58:52,864
+Abel ialah domba yang bahagia,
+tapi suatu hari..."
+
+1070
+00:58:59,495 --> 00:59:01,497
+SENJATA API
+
+1071
+00:59:25,897 --> 00:59:27,357
+Halo, Chappie.
+
+1072
+00:59:28,858 --> 00:59:30,235
+Halo, Ibu.
+
+1073
+00:59:31,402 --> 00:59:34,239
+Kau adalah domba hitam, Chappie.
+Kau istimewa.
+
+1074
+00:59:34,656 --> 00:59:35,657
+Aku tahu, Ibu.
+
+1075
+00:59:35,823 --> 00:59:37,033
+Hai, Chappie.
+
+1076
+00:59:46,626 --> 00:59:47,710
+Chappie.
+
+1077
+00:59:48,419 --> 00:59:51,297
+Kadang, orang bisa membuat kesalahan.
+
+1078
+00:59:51,464 --> 00:59:54,175
+Aku sungguh menyesal, Chappie.
+
+1079
+00:59:56,928 --> 00:59:58,096
+Kau mau memaafkanku?
+
+1080
+00:59:58,263 --> 00:59:59,514
+Maaf?
+
+1081
+00:59:59,681 --> 01:00:00,723
+Kemarilah.
+
+1082
+01:00:03,851 --> 01:00:05,270
+Ayo, Chappie.
+
+1083
+01:00:05,436 --> 01:00:07,522
+Mari kita ulang dari awal.
+
+1084
+01:00:07,689 --> 01:00:08,898
+- Ulang?
+- Ya.
+
+1085
+01:00:09,065 --> 01:00:10,191
+- Maaf?
+- Ya.
+
+1086
+01:00:10,358 --> 01:00:14,737
+Kami akan membuatmu
+tangguh dan kuat...
+
+1087
+01:00:14,904 --> 01:00:17,740
+...menjadi robot gangster nomor satu.
+
+1088
+01:00:17,907 --> 01:00:19,117
+Gangster nomor satu.
+
+1089
+01:00:19,284 --> 01:00:20,910
+- Bum.
+- Bum.
+
+1090
+01:00:21,744 --> 01:00:24,372
+Chappie, mulai sekarang,
+aku akan menjadi ayahmu. Sungguh.
+
+1091
+01:00:24,539 --> 01:00:25,832
+Kau jadi ayah Chappie?
+
+1092
+01:00:27,333 --> 01:00:29,502
+- Apa itu?
+- Tidak ada apa-apa.
+
+1093
+01:00:29,669 --> 01:00:31,963
+- Apa itu, Chappie?
+- Bukan apa-apa.
+
+1094
+01:00:32,130 --> 01:00:33,381
+Perlihatkan kepadaku.
+
+1095
+01:00:34,465 --> 01:00:35,550
+Ini Ibu.
+
+1096
+01:00:35,717 --> 01:00:38,678
+Kalau kau mau jadi gangster,
+kau harus keren seperti Ayah!
+
+1097
+01:00:38,970 --> 01:00:40,513
+Taruh boneka itu!
+
+1098
+01:00:41,180 --> 01:00:42,390
+Sekarang!
+
+1099
+01:00:42,557 --> 01:00:45,310
+Jika mau jadi keren,
+kau harus bersikap keren.
+
+1100
+01:00:45,852 --> 01:00:47,892
+Lihat cara Ayah berjalan.
+Lihat betapa kerennya dia.
+
+1101
+01:00:48,021 --> 01:00:50,541
+- Kau harus tampil tangguh, Chappie.
+- Kau harus tampil tangguh.
+
+1102
+01:00:50,690 --> 01:00:51,858
+Ya. Jadilah keren.
+
+1103
+01:00:52,025 --> 01:00:53,901
+- Jangan tertawa. Aku bersikap keren.
+- Tidak, kau keren.
+
+1104
+01:00:54,110 --> 01:00:56,904
+Bahkan saat memegang senjata,
+kau harus keren seperti ini. Bum!
+
+1105
+01:00:57,071 --> 01:00:58,281
+Cobalah.
+
+1106
+01:00:59,365 --> 01:01:00,533
+Mati kau! Bum!
+
+1107
+01:01:01,242 --> 01:01:04,704
+Ya, Chappie.
+Begitu sikapmu kalau menembak.
+
+1108
+01:01:06,164 --> 01:01:07,457
+Aku tak mau menembak orang.
+
+1109
+01:01:08,499 --> 01:01:09,625
+Apa?
+
+1110
+01:01:09,834 --> 01:01:11,754
+Aku tak mau tembak.
+Mereka tak bersalah kepadaku.
+
+1111
+01:01:12,003 --> 01:01:15,882
+Tapi kalau dia mau menembakmu?
+
+1112
+01:01:16,090 --> 01:01:18,843
+Aku titanium.
+Tak terhancurkan. Kata Amerika.
+
+1113
+01:01:19,010 --> 01:01:22,805
+Memang, tapi jangan biarkan
+mereka meremehkanmu.
+
+1114
+01:01:22,972 --> 01:01:24,813
+Mana bisa kau merampok
+jika tak menembak orang?
+
+1115
+01:01:26,934 --> 01:01:30,396
+Aku tak mau merampok. Itu kejahatan.
+Aku janji pada Penciptaku...
+
+1116
+01:01:30,563 --> 01:01:32,190
+Chappie, tadi kau sudah keren.
+
+1117
+01:01:32,357 --> 01:01:34,650
+Kenapa kau harus
+bertingkah menyebalkan?!
+
+1118
+01:01:34,817 --> 01:01:36,110
+Tidak apa-apa.
+
+1119
+01:01:36,819 --> 01:01:38,363
+- Aku sudah janji.
+- Ya.
+
+1120
+01:01:38,654 --> 01:01:43,201
+Tak apa. Kita cemaskan itu nanti.
+Biar aku tangani.
+
+1121
+01:01:45,119 --> 01:01:46,119
+Kau.
+
+1122
+01:01:47,455 --> 01:01:48,615
+Kau melakukannya dengan baik.
+
+1123
+01:01:49,499 --> 01:01:51,334
+Jika ada yang meremehkanmu...
+
+1124
+01:01:51,709 --> 01:01:53,878
+...kau bisa hadapi mereka tanpa senjata.
+
+1125
+01:01:55,338 --> 01:01:56,338
+Serius?
+
+1126
+01:01:57,382 --> 01:02:00,176
+Tancapkan pisau ini.
+Mereka jadi tenang dan tidur.
+
+1127
+01:02:00,343 --> 01:02:03,346
+Ya. Kau bisa membuat mereka
+tidur nyenyak.
+
+1128
+01:02:03,513 --> 01:02:06,307
+Itu perbuatan baik. Terasa baik, Chappie.
+
+1129
+01:02:06,474 --> 01:02:07,642
+Ambil pisaunya.
+
+1130
+01:02:07,809 --> 01:02:08,810
+Ambil pisaunya?
+
+1131
+01:02:08,976 --> 01:02:10,144
+Tidur nyenyak?
+
+1132
+01:02:10,353 --> 01:02:11,687
+Seperti ini?
+
+1133
+01:02:11,854 --> 01:02:13,231
+- Kau mau tidur, Amerika?
+- Tidak.
+
+1134
+01:02:13,398 --> 01:02:15,691
+- Ayah mau tidur?
+- Itu untuk waktu khusus.
+
+1135
+01:02:15,858 --> 01:02:17,985
+Ayah tidak mengantuk. Dia sudah tidur.
+
+1136
+01:02:18,694 --> 01:02:20,029
+Apa itu, Ayah?
+
+1137
+01:02:20,196 --> 01:02:21,280
+Gangster sejati...
+
+1138
+01:02:21,447 --> 01:02:22,615
+...menggunakan ini.
+
+1139
+01:02:24,659 --> 01:02:26,077
+- Bagus!
+- Kena?
+
+1140
+01:02:34,043 --> 01:02:35,253
+Lakukan lagi! Ya!
+
+1141
+01:02:37,547 --> 01:02:38,756
+Sial!
+
+1142
+01:02:40,842 --> 01:02:42,009
+Bum! Bagus!
+
+1143
+01:02:45,054 --> 01:02:46,139
+Bagus, Chappie.
+
+1144
+01:02:56,357 --> 01:02:59,485
+Kini Kau kelihatan keren, Chappie.
+Coba kulihat dirimu.
+
+1145
+01:02:59,652 --> 01:03:02,572
+- Aku pakai perhiasan?!
+- Wah! Keren!
+
+1146
+01:03:02,738 --> 01:03:05,283
+Kita lakukan beberapa hal
+lalu siap-siap merampok.
+
+1147
+01:03:06,159 --> 01:03:07,660
+Tidak. Bukan kejahatan.
+
+1148
+01:03:07,827 --> 01:03:10,746
+- Ini acara khusus untuk geng.
+- Acara khusus geng.
+
+1149
+01:03:10,913 --> 01:03:13,166
+- Mau ikut, Chappie?
+- Ya! Mau!
+
+1150
+01:03:27,889 --> 01:03:29,056
+Baik. Chappie.
+
+1151
+01:03:29,515 --> 01:03:32,393
+Tugasmu mengambil
+salah satu mobil Ayah...
+
+1152
+01:03:32,560 --> 01:03:34,103
+...agar kita bisa dapat uang.
+
+1153
+01:03:34,812 --> 01:03:36,230
+Dari siapa kuambil mobilnya?
+
+1154
+01:03:36,397 --> 01:03:37,482
+Sudah kubilang, Chappie.
+
+1155
+01:03:37,648 --> 01:03:39,609
+Dari orang jahat
+yang mencuri mobil Ayah.
+
+1156
+01:03:39,775 --> 01:03:43,279
+Ambil pistol ini dan arahkan kepadanya.
+
+1157
+01:03:43,446 --> 01:03:45,323
+Tapi tenang,
+kau tak perlu menembaknya.
+
+1158
+01:03:45,490 --> 01:03:47,950
+Cukup buat dia takut
+agar tak mengambil mobil Ayah lagi.
+
+1159
+01:03:48,117 --> 01:03:50,870
+Buat dia ketakutan
+agar tak mencuri mobil Ayah lagi!
+
+1160
+01:03:51,037 --> 01:03:52,663
+Bagus, Chappie.
+
+1161
+01:03:52,830 --> 01:03:54,207
+Di mana dia?
+
+1162
+01:03:54,373 --> 01:03:55,583
+Akan kutunjukkan.
+
+1163
+01:03:55,750 --> 01:03:58,294
+Dia seorang bedebah.
+
+1164
+01:03:58,878 --> 01:04:01,130
+Itu orangnya.
+
+1165
+01:04:05,009 --> 01:04:06,009
+Habisi dia, Chappie!
+
+1166
+01:04:06,052 --> 01:04:08,679
+Akan kuhabisi dia!
+Akan kuhabisi bedebah ini!
+
+1167
+01:04:08,846 --> 01:04:11,807
+- Akan kuhabisi dia!
+- Habisi dia! Kau pasti bisa!
+
+1168
+01:04:11,974 --> 01:04:14,685
+- Bedebah!
+- Ada masalah apa, Opsir?
+
+1169
+01:04:14,936 --> 01:04:17,188
+Jangan mencuri mobil Ayah!
+
+1170
+01:04:17,355 --> 01:04:18,731
+Jangan...
+
+1171
+01:04:19,273 --> 01:04:20,274
+...mencuri...
+
+1172
+01:04:20,566 --> 01:04:21,566
+...mobil...
+
+1173
+01:04:21,651 --> 01:04:22,651
+...dari...
+
+1174
+01:04:23,027 --> 01:04:24,027
+...Ayah!
+
+1175
+01:04:24,028 --> 01:04:26,197
+Hentikan! Apa salahku?
+
+1176
+01:04:26,364 --> 01:04:27,364
+Kau pencuri!
+
+1177
+01:04:28,032 --> 01:04:29,075
+Jangan sakiti aku!
+
+1178
+01:04:29,242 --> 01:04:31,202
+- Tidak!
+- Apa yang kau lakukan?!
+
+1179
+01:04:31,786 --> 01:04:33,371
+Jangan mencuri mobil Ayah.
+
+1180
+01:04:33,538 --> 01:04:34,664
+Mobil siapa?!
+
+1181
+01:04:35,498 --> 01:04:38,251
+- Astaga!
+- Sial!
+
+1182
+01:04:38,417 --> 01:04:39,877
+Aku dapat mobilmu, Ayah!
+
+1183
+01:04:40,044 --> 01:04:41,045
+Kemari, Chappie!
+
+1184
+01:04:41,212 --> 01:04:42,672
+- Kemari!
+- Tinggalkan mobilnya.
+
+1185
+01:04:42,838 --> 01:04:44,048
+Pencuri!
+
+1186
+01:04:44,215 --> 01:04:45,800
+- Ayo!
+- Dasar pencuri!
+
+1187
+01:04:46,425 --> 01:04:48,065
+- Masuk, bodoh.
+- Tapi aku dapat mobilnya!
+
+1188
+01:04:48,177 --> 01:04:50,346
+Kau ini kenapa? Tutup pintunya.
+
+1189
+01:04:50,513 --> 01:04:51,597
+Pencuri!
+
+1190
+01:04:52,348 --> 01:04:55,059
+Astaga, Chappie, kau ini kenapa?
+
+1191
+01:04:55,226 --> 01:04:56,352
+Apa, Ayah?
+
+1192
+01:04:57,311 --> 01:05:00,147
+Ayah butuh mobil yang bagus
+agar bisa dijual.
+
+1193
+01:05:00,314 --> 01:05:01,774
+Kenapa merusak mobilnya?
+
+1194
+01:05:02,275 --> 01:05:03,985
+Baik, aku mengerti!
+
+1195
+01:05:04,151 --> 01:05:05,319
+Boleh kucoba lagi?
+
+1196
+01:05:07,113 --> 01:05:08,739
+Chappie. Itu dia.
+
+1197
+01:05:08,906 --> 01:05:10,783
+Itu wanita jalang
+yang mencuri mobil Ayah.
+
+1198
+01:05:11,033 --> 01:05:12,034
+Akan kuhabisi dia.
+
+1199
+01:05:13,744 --> 01:05:14,870
+Hai, Opsir!
+
+1200
+01:05:15,037 --> 01:05:16,372
+Jalang! Keluar.
+
+1201
+01:05:16,539 --> 01:05:17,539
+Keluar!
+
+1202
+01:05:17,582 --> 01:05:19,041
+Kenapa kau mencuri mobil Ayah?
+
+1203
+01:05:19,208 --> 01:05:20,208
+Kau nakal!
+
+1204
+01:05:20,209 --> 01:05:21,210
+Itu mobilku!
+
+1205
+01:05:21,377 --> 01:05:22,587
+Ini mobil siapa? Punya Ayah?
+
+1206
+01:05:23,462 --> 01:05:25,047
+Jangan mencuri barang orang lain!
+
+1207
+01:05:29,385 --> 01:05:31,137
+Keluar, kau pemabuk.
+
+1208
+01:05:31,304 --> 01:05:32,430
+Keluar!
+
+1209
+01:05:32,597 --> 01:05:33,764
+Aku tidak minum alkohol!
+
+1210
+01:05:33,931 --> 01:05:35,641
+Kau mencuri mobil Ayah
+untuk beli alkohol?
+
+1211
+01:05:35,808 --> 01:05:36,809
+Itu mobilku!
+
+1212
+01:05:47,570 --> 01:05:48,770
+Aku ambil mobil ini sendirian.
+
+1213
+01:05:48,863 --> 01:05:50,114
+Itu baru anakku!
+
+1214
+01:05:50,281 --> 01:05:51,949
+Coba lihat ini!
+
+1215
+01:05:52,992 --> 01:05:55,119
+Ya, aku hebat!
+
+1216
+01:05:57,496 --> 01:06:00,082
+Kita bawa mobilnya ke King.
+
+1217
+01:06:00,499 --> 01:06:03,836
+King akan beri kita alat khusus
+untuk merampok!
+
+1218
+01:06:04,003 --> 01:06:06,922
+Lalu kita akan dapat
+lebih banyak uang, Chappie.
+
+1219
+01:06:08,549 --> 01:06:09,800
+Aku tak mau merampok.
+
+1220
+01:06:11,010 --> 01:06:12,553
+Merampok adalah kejahatan.
+
+1221
+01:06:39,246 --> 01:06:40,915
+Ayah. Ayah, ada anjing.
+
+1222
+01:06:41,082 --> 01:06:42,083
+Ya, Chappie.
+
+1223
+01:06:42,249 --> 01:06:43,626
+Mereka mau berkelahi.
+
+1224
+01:06:47,588 --> 01:06:49,507
+Bawakan aku telinganya!
+
+1225
+01:06:53,386 --> 01:06:54,970
+Ada polisi!
+
+1226
+01:06:55,137 --> 01:06:56,263
+Lari! Polisi!
+
+1227
+01:06:58,349 --> 01:06:59,850
+Dia aman!
+
+1228
+01:07:00,685 --> 01:07:02,144
+Dia bukan polisi!
+
+1229
+01:07:06,190 --> 01:07:07,316
+Astaga.
+
+1230
+01:07:08,693 --> 01:07:10,444
+Di sini tempat tinggal King, Ayah?
+
+1231
+01:07:10,611 --> 01:07:12,947
+Ya, mau bertemu King bersama kami?
+
+1232
+01:07:13,114 --> 01:07:14,323
+Aku mau ke puncaknya.
+
+1233
+01:07:14,490 --> 01:07:16,075
+Tidak bisa, Chappie.
+
+1234
+01:07:16,242 --> 01:07:18,119
+Karena kau tak merampok
+bersama kami.
+
+1235
+01:07:18,285 --> 01:07:19,704
+Kau tunggu di sini.
+
+1236
+01:07:20,037 --> 01:07:21,539
+Mungkin lain waktu, Chappie.
+
+1237
+01:07:21,747 --> 01:07:24,583
+Baik. Aku akan bersantai di sini.
+
+1238
+01:07:24,750 --> 01:07:27,002
+Aku akan berjaga-jaga.
+
+1239
+01:07:28,337 --> 01:07:29,964
+Tinggi sekali.
+
+1240
+01:07:47,523 --> 01:07:48,566
+Hei, King!
+
+1241
+01:07:48,733 --> 01:07:50,109
+- Saudaraku.
+- Temanku.
+
+1242
+01:07:50,276 --> 01:07:51,986
+Apa kabar?
+
+1243
+01:07:52,153 --> 01:07:53,279
+Kami dapat mobilnya.
+
+1244
+01:07:53,904 --> 01:07:55,114
+Diparkir di belakang.
+
+1245
+01:07:55,531 --> 01:07:56,866
+Mobilnya ada?
+
+1246
+01:07:57,324 --> 01:07:58,659
+Dari Ninja?
+
+1247
+01:07:58,826 --> 01:08:00,661
+<i>Ya, semuanya di sini.</i>
+
+1248
+01:08:03,038 --> 01:08:04,498
+Ini peledakmu.
+
+1249
+01:08:04,665 --> 01:08:06,208
+Beri kami lebih banyak.
+
+1250
+01:08:06,375 --> 01:08:08,627
+Kami ambil itu.
+Boleh kubawa ke mobilku?
+
+1251
+01:08:34,653 --> 01:08:36,113
+Anjing itu mati, Chappie.
+
+1252
+01:08:36,781 --> 01:08:37,823
+Ya.
+
+1253
+01:08:37,990 --> 01:08:40,367
+Dia pergi ke dunia lain, Ayah.
+
+1254
+01:08:41,660 --> 01:08:43,329
+Di dunia liar ini...
+
+1255
+01:08:45,372 --> 01:08:46,499
+...kehidupan sulit.
+
+1256
+01:08:47,333 --> 01:08:49,001
+Kau lihat anjing itu.
+
+1257
+01:08:50,669 --> 01:08:52,004
+Kau bisa menjadi anjing itu...
+
+1258
+01:08:54,131 --> 01:08:55,216
+...atau anjing ini.
+
+1259
+01:08:55,382 --> 01:08:57,134
+Jika mau bertahan hidup, Chappie...
+
+1260
+01:08:57,301 --> 01:08:58,969
+...maka kau harus berjuang.
+
+1261
+01:08:59,261 --> 01:09:00,679
+Ya, tapi aku tidak.
+
+1262
+01:09:00,846 --> 01:09:02,973
+Aku titanium.
+Aku akan hidup selamanya, Ayah.
+
+1263
+01:09:03,140 --> 01:09:04,558
+Itu tulisannya apa?
+
+1264
+01:09:06,644 --> 01:09:08,020
+"Baterai lemah."
+
+1265
+01:09:09,522 --> 01:09:12,483
+Baterai, tenaga, persediaan tenaga.
+
+1266
+01:09:13,150 --> 01:09:14,443
+Ayah, aku butuh baterai baru.
+
+1267
+01:09:14,610 --> 01:09:17,071
+Bateraimu permanen.
+Menyatu dengan sasis.
+
+1268
+01:09:17,238 --> 01:09:18,238
+Tak bisa dilepas.
+
+1269
+01:09:18,280 --> 01:09:20,866
+Apa yang terjadi padamu
+kalau baterainya habis?
+
+1270
+01:09:21,784 --> 01:09:23,536
+Aku mati? Chappie mati?
+
+1271
+01:09:23,911 --> 01:09:26,455
+Deon menaruhmu di tubuh yang rusak.
+
+1272
+01:09:26,622 --> 01:09:29,083
+Deon Penciptaku. Itu tidak masuk akal.
+
+1273
+01:09:29,250 --> 01:09:32,628
+Dia takkan membuatku agar aku mati.
+Deon mencintaiku, Ayah.
+
+1274
+01:09:32,795 --> 01:09:34,129
+Kemari.
+
+1275
+01:09:34,797 --> 01:09:37,842
+Aku bisa dapatkan tubuh baru untukmu,
+tapi butuh uang banyak.
+
+1276
+01:09:38,008 --> 01:09:40,845
+Kau bisa mendapatkannya
+dari merampok.
+
+1277
+01:09:41,011 --> 01:09:43,389
+- Aku tak mau merampok.
+- Kau harus merampok.
+
+1278
+01:09:43,556 --> 01:09:45,641
+Kau mau jadi anjing
+yang mana, Chappie?
+
+1279
+01:09:47,184 --> 01:09:48,435
+Anjing itu...
+
+1280
+01:09:48,853 --> 01:09:50,062
+...atau anjing itu?
+
+1281
+01:09:53,691 --> 01:09:55,401
+Kau anak pintar, Chappie.
+
+1282
+01:09:55,568 --> 01:09:57,486
+Kau anak pintar.
+
+1283
+01:10:13,127 --> 01:10:15,254
+Astaga. Lagi?
+
+1284
+01:10:15,421 --> 01:10:19,258
+Aku mau ambil ciptaanku.
+Dia terlalu penting untuk tinggal di sini.
+
+1285
+01:10:19,425 --> 01:10:20,551
+Dia tidak di sini.
+
+1286
+01:10:20,718 --> 01:10:22,469
+Apa? Di mana dia?
+
+1287
+01:10:22,636 --> 01:10:24,471
+Entah. Pergi bersama Ninja.
+
+1288
+01:10:24,638 --> 01:10:26,140
+Mereka sudah pergi seharian.
+
+1289
+01:10:26,307 --> 01:10:27,516
+Melakukan apa?
+
+1290
+01:10:28,475 --> 01:10:30,853
+Mungkin melakukan
+beragam tindak kejahatan.
+
+1291
+01:10:31,353 --> 01:10:33,981
+Mungkin dia sudah jadi buronan.
+
+1292
+01:10:46,285 --> 01:10:47,286
+Hei, Chappie!
+
+1293
+01:10:47,453 --> 01:10:49,538
+Kubawakan teman untuk ayammu.
+
+1294
+01:10:49,705 --> 01:10:50,873
+Lihat ini.
+
+1295
+01:10:57,463 --> 01:10:59,423
+Chaps, kau sedang apa?
+
+1296
+01:11:08,349 --> 01:11:10,225
+Chappie, kenapa
+tak mau bicara padaku?
+
+1297
+01:11:12,436 --> 01:11:13,896
+Aku Penciptamu.
+
+1298
+01:11:19,652 --> 01:11:20,819
+Ayo.
+
+1299
+01:11:21,654 --> 01:11:23,530
+Apa maumu, Deon?
+
+1300
+01:11:23,864 --> 01:11:26,241
+Aku tak mau ayam terkutuk itu.
+
+1301
+01:11:26,575 --> 01:11:28,118
+Aku tak tertarik hal semacam itu.
+
+1302
+01:11:28,285 --> 01:11:29,495
+Benarkah?
+
+1303
+01:11:30,829 --> 01:11:33,040
+Lalu kau tertarik pada apa, Chappie?
+
+1304
+01:11:35,250 --> 01:11:36,710
+Menjual heroin?
+
+1305
+01:11:36,877 --> 01:11:37,920
+Menjadi tak berguna?
+
+1306
+01:11:38,087 --> 01:11:39,213
+Deon...
+
+1307
+01:11:39,672 --> 01:11:42,424
+...kenapa kau coba mengaturnya?
+
+1308
+01:11:43,008 --> 01:11:44,301
+Biarkan dia.
+
+1309
+01:11:44,468 --> 01:11:46,303
+Ayah cerita tentang kau, Deon...
+
+1310
+01:11:46,887 --> 01:11:48,889
+...bahwa kau memberiku tubuh...
+
+1311
+01:11:49,056 --> 01:11:50,432
+...yang akan mati.
+
+1312
+01:11:51,892 --> 01:11:53,352
+Apa maksudmu, Chappie?
+
+1313
+01:11:54,728 --> 01:11:57,398
+Apa benar beberapa hari lagi
+aku akan mati, Deon?
+
+1314
+01:11:58,774 --> 01:12:01,527
+Baterai ini akan mati?
+
+1315
+01:12:02,403 --> 01:12:03,529
+Apa benar, Deon?
+
+1316
+01:12:05,072 --> 01:12:06,240
+Ya.
+
+1317
+01:12:09,326 --> 01:12:10,869
+Tapi kau Penciptaku.
+
+1318
+01:12:12,079 --> 01:12:14,540
+Kenapa kau membuatku agar aku mati?
+
+1319
+01:12:17,543 --> 01:12:18,669
+Aku tidak...
+
+1320
+01:12:19,169 --> 01:12:21,797
+Aku tak membuatmu
+agar kau mati, Chappie.
+
+1321
+01:12:22,631 --> 01:12:24,008
+Aku mau hidup.
+
+1322
+01:12:24,174 --> 01:12:26,176
+Aku mau bersama Ibu.
+
+1323
+01:12:27,136 --> 01:12:28,595
+Aku tidak mau mati.
+
+1324
+01:12:29,763 --> 01:12:33,434
+Kau menjadi lebih
+dari yang kubayangkan.
+
+1325
+01:12:36,979 --> 01:12:39,773
+Mana kutahu bahwa kau akan menjadi...
+
+1326
+01:12:41,191 --> 01:12:42,401
+...kau?
+
+1327
+01:12:57,499 --> 01:12:59,376
+MASUKKAN KATA SANDI ADMIN ANDA
+
+1328
+01:12:59,543 --> 01:13:01,837
+Ayo. Ini dia.
+
+1329
+01:13:04,882 --> 01:13:07,885
+Berkas pengganti: Genesis.
+
+1330
+01:13:09,595 --> 01:13:11,597
+Masukkan Kunci Pengaman admin!
+
+1331
+01:13:18,395 --> 01:13:19,435
+Kunci Pengaman terdeteksi!
+
+1332
+01:13:19,480 --> 01:13:21,065
+MENGHUBUNGKAN
+KE JARINGAN SCOUT...
+
+1333
+01:13:21,231 --> 01:13:22,357
+JARINGAN SCOUT
+AKTIF
+
+1334
+01:13:22,733 --> 01:13:25,319
+PASANG PEMBARUAN FIRMWARE
+KE SEMUA SCOUT?
+
+1335
+01:13:29,823 --> 01:13:30,823
+YA
+
+1336
+01:13:30,824 --> 01:13:31,909
+Ya!
+
+1337
+01:13:33,035 --> 01:13:34,620
+MEMANCARKAN
+PEMBARUAN FIRMWARE rOS SCOUT
+
+1338
+01:13:34,787 --> 01:13:36,267
+SCOUT_P <i>E</i> RINGATAN SIST <i>E</i> M!
+CPU GAGAL
+
+1339
+01:13:37,915 --> 01:13:40,542
+PEMBARUAN FIRMWARE
+
+1340
+01:13:50,636 --> 01:13:53,388
+Ucapkan selamat tinggal kepada
+monster-monster kecilmu, Deon.
+
+1341
+01:14:00,104 --> 01:14:01,772
+Chappie? Chappie!
+
+1342
+01:14:01,939 --> 01:14:02,981
+- Tidak!
+- Chappie!
+
+1343
+01:14:03,148 --> 01:14:05,609
+Astaga! Apa yang terjadi?
+
+1344
+01:14:05,776 --> 01:14:07,444
+Astaga. CPU-nya.
+
+1345
+01:14:08,237 --> 01:14:10,030
+- Chappie?
+- Jangan sentuh dia!
+
+1346
+01:14:10,197 --> 01:14:11,198
+Persetan denganmu!
+
+1347
+01:14:11,657 --> 01:14:13,033
+- Mundur!
+- Baik!
+
+1348
+01:14:13,200 --> 01:14:14,785
+- Tenanglah.
+- Hei, bos.
+
+1349
+01:14:14,952 --> 01:14:16,328
+Tenanglah.
+
+1350
+01:14:16,495 --> 01:14:17,746
+Mundur.
+
+1351
+01:14:18,539 --> 01:14:20,499
+Kubawa dia pergi dari sini!
+
+1352
+01:14:26,296 --> 01:14:27,506
+Dua as.
+
+1353
+01:14:30,050 --> 01:14:31,093
+Apa maumu?
+
+1354
+01:14:31,426 --> 01:14:33,262
+Kau takkan percaya ini.
+
+1355
+01:14:33,470 --> 01:14:35,722
+<i>Semua polisi terputus.</i>
+
+1356
+01:14:35,889 --> 01:14:36,890
+Kau serius?
+
+1357
+01:14:37,057 --> 01:14:38,767
+<i>Tak ada penjagaan.</i>
+
+1358
+01:14:38,934 --> 01:14:40,769
+Aku mengerti.
+
+1359
+01:14:41,186 --> 01:14:42,229
+Diamlah!
+
+1360
+01:14:42,396 --> 01:14:45,649
+Polisi robot terputus!
+
+1361
+01:14:46,608 --> 01:14:48,527
+Kota ini milikku!
+
+1362
+01:14:50,737 --> 01:14:53,323
+Aku mau semuanya!
+
+1363
+01:14:53,991 --> 01:14:55,576
+Ayo!
+
+1364
+01:15:21,579 --> 01:15:22,579
+<i>Pusat kota kacau balau...</i>
+
+1365
+01:15:22,603 --> 01:15:24,313
+<i>...ketika polisi robot</i>
+<i>di seluruh area metropolitan...</i>
+
+1366
+01:15:24,479 --> 01:15:25,898
+Itu dia.
+
+1367
+01:15:26,064 --> 01:15:27,649
+<i>...berhenti berfungsi.</i>
+
+1368
+01:15:27,941 --> 01:15:30,444
+<i>R. S.A.P.</i>
+<i>belum memberikan pernyataan...</i>
+
+1369
+01:15:30,611 --> 01:15:32,988
+<i>...tapi kota sudah porak-poranda.</i>
+
+1370
+01:15:41,413 --> 01:15:44,583
+<i>Kembali ke rumah kalian atau</i>
+<i>peluru karet akan digunakan.</i>
+
+1371
+01:15:47,836 --> 01:15:49,671
+Harap bubar!
+
+1372
+01:15:52,007 --> 01:15:53,800
+Harap bubar...
+
+1373
+01:15:59,598 --> 01:16:00,766
+Ayo!
+
+1374
+01:16:01,600 --> 01:16:02,921
+PERINGATAN:
+SEMUA SCOUT T <i>E</i> RPUTUS
+
+1375
+01:16:02,935 --> 01:16:03,977
+Ya!
+
+1376
+01:16:06,230 --> 01:16:07,856
+Bakar bedebah itu!
+
+1377
+01:16:11,985 --> 01:16:14,613
+Markas Besar Polisi Johannesburg
+
+1378
+01:16:15,572 --> 01:16:17,866
+Hubungi Michelle Bradley sekarang!
+
+1379
+01:16:18,033 --> 01:16:20,702
+Aktifkan semua polisi manusia
+dan cadangan yang ada!
+
+1380
+01:16:21,745 --> 01:16:23,163
+Sekarang! Lakukan!
+
+1381
+01:16:31,755 --> 01:16:35,676
+<i>- -Perampok sudah menjarah</i>
+<i>hampir 100 juta rand.</i>
+
+1382
+01:16:35,842 --> 01:16:39,429
+<i>Tak ada indikasi polisi robot</i>
+<i>akan kembali aktif dalam waktu dekat.</i>
+
+1383
+01:16:39,596 --> 01:16:41,682
+"Yakin mau menghapus Genesis?"
+
+1384
+01:16:41,848 --> 01:16:42,891
+Ya.
+
+1385
+01:16:43,058 --> 01:16:44,142
+MENGHAPUS GENESIS.DAT
+
+1386
+01:16:44,309 --> 01:16:48,272
+<i>Seperti terlihat dari tayangan ini,</i>
+<i>ada robot-robot rusak dan kekacauan...</i>
+
+1387
+01:17:01,451 --> 01:17:04,204
+<i>Sejauh ini</i>
+<i>polisi belum bisa menyelidiki...</i>
+
+1388
+01:17:04,371 --> 01:17:06,456
+<i>...sementara kericuhan terus berlanjut...</i>
+
+1389
+01:17:30,147 --> 01:17:31,690
+Ayo!
+
+1390
+01:17:40,699 --> 01:17:42,326
+PERINGATAN:
+PROGRAM PERUSAK DITEMUKAN
+
+1391
+01:17:44,286 --> 01:17:45,286
+KARANTINA
+
+1392
+01:17:49,291 --> 01:17:51,418
+EROR: TAK BISA M <i>E</i> NGHAPUS
+GENESIS.DAT DARI SCOUT_022
+
+1393
+01:17:51,585 --> 01:17:52,711
+Chappie.
+
+1394
+01:17:53,754 --> 01:17:54,963
+Chappie.
+
+1395
+01:17:55,130 --> 01:17:56,131
+Chappie?
+
+1396
+01:17:57,883 --> 01:17:59,217
+Ayo, Chappie.
+
+1397
+01:18:00,761 --> 01:18:01,845
+Chappie.
+
+1398
+01:18:03,972 --> 01:18:04,973
+Chappie.
+
+1399
+01:18:05,140 --> 01:18:06,683
+Ya. Deon, ini aku.
+
+1400
+01:18:07,601 --> 01:18:09,144
+Astaga. Kau hidup.
+
+1401
+01:18:12,064 --> 01:18:13,315
+Apa yang terjadi padaku, Deon?
+
+1402
+01:18:14,274 --> 01:18:15,734
+Entahlah.
+
+1403
+01:18:15,901 --> 01:18:17,694
+Tapi aku punya beberapa dugaan.
+
+1404
+01:18:18,737 --> 01:18:21,448
+Ayo, Chappie.
+Kita harus pergi dari sini. Ayo.
+
+1405
+01:18:22,157 --> 01:18:24,951
+Sekarang, Chappie. Ayo.
+
+1406
+01:18:25,452 --> 01:18:26,912
+Di mana ini? Tempat apa ini?
+
+1407
+01:18:28,288 --> 01:18:29,414
+Wah.
+
+1408
+01:18:32,793 --> 01:18:33,794
+Siapa dia?
+
+1409
+01:18:33,960 --> 01:18:36,171
+Versi gagal dirimu.
+Jenis polisi robot yang berbeda.
+
+1410
+01:18:36,588 --> 01:18:37,964
+Ayo!
+
+1411
+01:18:39,216 --> 01:18:41,259
+Apa itu? Apa ini?
+
+1412
+01:18:41,426 --> 01:18:44,429
+Helm itu dipakai manusia
+yang mengendalikan robot seram itu.
+
+1413
+01:18:44,596 --> 01:18:45,717
+Itu membaca pikiran manusia.
+
+1414
+01:18:46,223 --> 01:18:48,100
+Robot itu tak punya otak sendiri.
+
+1415
+01:18:48,266 --> 01:18:49,267
+Tidak sepertimu.
+
+1416
+01:18:52,896 --> 01:18:55,774
+- Dia bisa membaca otak manusia?
+- Ya, itu pemancar saraf.
+
+1417
+01:18:55,941 --> 01:18:58,068
+- Ayo!
+- Tapi aku mau...
+
+1418
+01:18:59,611 --> 01:19:00,654
+Ayo.
+
+1419
+01:19:02,489 --> 01:19:03,698
+Chappie.
+
+1420
+01:19:13,125 --> 01:19:15,127
+Deon. Deon.
+
+1421
+01:19:15,961 --> 01:19:17,129
+Ini bisa menolongku.
+
+1422
+01:19:18,338 --> 01:19:19,881
+Aku butuh tubuh baru, ingat?!
+
+1423
+01:19:20,048 --> 01:19:21,216
+Tidak.
+
+1424
+01:19:22,300 --> 01:19:23,927
+Dia tak bisa menolongmu, Chappie.
+
+1425
+01:19:24,469 --> 01:19:26,638
+Masalahnya lebih rumit dari bateraimu.
+
+1426
+01:19:26,805 --> 01:19:27,806
+Kenapa?
+
+1427
+01:19:28,014 --> 01:19:29,975
+Karena kau punya alam sadar.
+
+1428
+01:19:30,892 --> 01:19:33,353
+Kau tak bisa disalin
+karena kau bukan data.
+
+1429
+01:19:33,520 --> 01:19:35,814
+Kita tak tahu apa itu alam sadar...
+
+1430
+01:19:35,981 --> 01:19:37,607
+...jadi kita tak bisa memindahkannya.
+
+1431
+01:19:40,026 --> 01:19:41,611
+Chappie bisa pecahkan.
+
+1432
+01:19:42,070 --> 01:19:44,281
+Aku bisa cari tahu caranya,
+lalu aku bisa memindahkanku.
+
+1433
+01:19:44,448 --> 01:19:45,991
+Kau tak bisa pindahkan! Maaf.
+
+1434
+01:19:46,158 --> 01:19:49,119
+Kita harus pergi sekarang.
+Ini berbahaya. Ayo!
+
+1435
+01:19:49,286 --> 01:19:52,914
+Katamu aku tak boleh biarkan
+siapa pun melarangku.
+
+1436
+01:19:53,081 --> 01:19:56,710
+Ayah kenal orang yang bisa
+memberiku tubuh jika punya uang.
+
+1437
+01:19:56,877 --> 01:19:58,545
+Apa?
+
+1438
+01:19:58,712 --> 01:20:00,338
+Ayah mencintaiku, Deon!
+
+1439
+01:20:01,298 --> 01:20:02,382
+Aku membencimu!
+
+1440
+01:20:02,549 --> 01:20:04,134
+Aku membencimu! Pergilah.
+
+1441
+01:20:05,093 --> 01:20:07,012
+Aku perlu mengeluarkan alam sadarku.
+
+1442
+01:20:07,179 --> 01:20:08,805
+Ayah akan memberiku tubuh baru...
+
+1443
+01:20:08,972 --> 01:20:12,893
+...lalu aku harus
+memindahkan alam sadarku.
+
+1444
+01:20:13,518 --> 01:20:14,518
+Helmnya!
+
+1445
+01:20:14,561 --> 01:20:16,041
+Chappie, jangan.
+Apa yang kau lakukan?
+
+1446
+01:20:16,188 --> 01:20:16,980
+Aku bisa gunakan ini.
+
+1447
+01:20:17,147 --> 01:20:18,440
+Taruh. Jangan disentuh.
+
+1448
+01:20:18,607 --> 01:20:21,067
+- Letakkan itu. Ini ilegal!
+- Aku mau ambil. Tidak!
+
+1449
+01:20:21,485 --> 01:20:23,028
+Chappie. Chappie, tunggu!
+
+1450
+01:20:23,195 --> 01:20:24,279
+Kuambil!
+
+1451
+01:20:24,946 --> 01:20:26,490
+- Kuambil!
+- Chappie, tunggu!
+
+1452
+01:20:26,656 --> 01:20:27,657
+Kumohon!
+
+1453
+01:20:28,909 --> 01:20:30,160
+Chappie!
+
+1454
+01:20:31,369 --> 01:20:32,369
+Chappie!
+
+1455
+01:20:52,474 --> 01:20:54,684
+EROR: TAK BISA M <i>E</i> NGHAPUS
+GENESIS.DAT DARI SCOUT_022
+
+1456
+01:21:02,442 --> 01:21:04,194
+Bergerak. Periksa area itu.
+
+1457
+01:21:04,861 --> 01:21:08,323
+Periksa semuanya.
+Pastikan setiap ruang diperiksa.
+
+1458
+01:21:09,699 --> 01:21:10,951
+Seluruhnya.
+
+1459
+01:21:11,117 --> 01:21:12,494
+Periksa sampai belakang.
+
+1460
+01:21:26,800 --> 01:21:28,843
+Chappie! Syukurlah!
+
+1461
+01:21:29,010 --> 01:21:30,428
+Chappie, kau tak apa?
+
+1462
+01:21:30,595 --> 01:21:32,013
+Ya, Ibu, aku baik saja.
+
+1463
+01:21:32,180 --> 01:21:33,598
+Benda apa itu?
+
+1464
+01:21:33,765 --> 01:21:36,059
+Hanya helm saraf, Ibu.
+
+1465
+01:21:36,226 --> 01:21:37,227
+Apa?
+
+1466
+01:21:49,447 --> 01:21:50,490
+Chappie.
+
+1467
+01:21:50,657 --> 01:21:51,908
+Apa yang kau lakukan?
+
+1468
+01:21:52,075 --> 01:21:53,493
+Melakukan eksperimen, Ibu.
+
+1469
+01:21:53,660 --> 01:21:55,412
+Barang-barang apa ini?
+
+1470
+01:21:56,371 --> 01:21:57,747
+Apa ini?
+
+1471
+01:22:00,417 --> 01:22:02,502
+Akan kuperlihatkan. Duduklah.
+
+1472
+01:22:02,669 --> 01:22:03,837
+Baik.
+
+1473
+01:22:04,004 --> 01:22:05,171
+- Duduk.
+- Baik.
+
+1474
+01:22:05,338 --> 01:22:06,464
+Baik, Ibu.
+
+1475
+01:22:06,631 --> 01:22:08,216
+- Sakit tidak?
+- Tidak.
+
+1476
+01:22:08,383 --> 01:22:09,383
+Baiklah.
+
+1477
+01:22:09,426 --> 01:22:11,261
+Baik. Kenakan.
+
+1478
+01:22:11,428 --> 01:22:12,596
+Baik.
+
+1479
+01:22:13,805 --> 01:22:14,973
+Wah.
+
+1480
+01:22:15,473 --> 01:22:17,017
+Baik. Sekarang apa?
+
+1481
+01:22:17,183 --> 01:22:18,643
+Alam sadar seperti energi.
+
+1482
+01:22:18,810 --> 01:22:21,563
+Helm ini membaca energi
+darimu dan aku.
+
+1483
+01:22:21,730 --> 01:22:23,648
+Aku perlu tahu cara mengeluarkannya.
+
+1484
+01:22:23,857 --> 01:22:26,443
+Semua informasi yang kuperlukan
+ada di internet.
+
+1485
+01:22:27,485 --> 01:22:28,653
+MENGHUBUNGKAN
+
+1486
+01:22:28,820 --> 01:22:30,530
+TERHUBUNG
+
+1487
+01:22:30,697 --> 01:22:31,781
+<i>Ada buku-buku...</i>
+
+1488
+01:22:31,948 --> 01:22:33,950
+...persamaan matematika, skematis...
+
+1489
+01:22:34,117 --> 01:22:36,661
+...semua informasi yang dimiliki manusia.
+
+1490
+01:22:36,828 --> 01:22:37,829
+Semua di sini.
+
+1491
+01:22:38,038 --> 01:22:39,914
+- Maaf.
+- Deon!
+
+1492
+01:22:40,081 --> 01:22:41,082
+Halo.
+
+1493
+01:22:41,249 --> 01:22:44,794
+Pergi ke mejamu
+dan temukan permasalahannya.
+
+1494
+01:22:44,961 --> 01:22:46,129
+Baik.
+
+1495
+01:22:47,297 --> 01:22:50,258
+Dengar. Akan ada 300 pembunuhan
+di kota malam ini...
+
+1496
+01:22:50,425 --> 01:22:52,719
+...kecuali robotmu kembali aktif.
+
+1497
+01:22:53,178 --> 01:22:55,388
+Paham? Seluruh perusahaan ini
+bisa hancur.
+
+1498
+01:22:57,807 --> 01:22:59,517
+Kerja kalian bagus.
+
+1499
+01:22:59,893 --> 01:23:02,062
+Masalah kecil. Kita bisa atasi, 'kan?
+
+1500
+01:23:02,228 --> 01:23:04,522
+Jelas model Scout gagal.
+Biar kukirim Moose.
+
+1501
+01:23:04,689 --> 01:23:05,607
+Biar kuperlihatkan kemampuannya!
+
+1502
+01:23:05,774 --> 01:23:07,317
+Jangan sekarang, Vincent,
+ini bukan waktu yang tepat.
+
+1503
+01:23:07,484 --> 01:23:09,194
+Kota sedang kacau balau.
+
+1504
+01:23:09,361 --> 01:23:11,988
+Semuanya berantakan.
+Kita harus pegang kendali!
+
+1505
+01:23:12,155 --> 01:23:15,200
+Kubilang tidak. Titik.
+
+1506
+01:23:16,076 --> 01:23:19,079
+Halo, Tuan-Tuan!
+Saya tahu ini malam yang berat!
+
+1507
+01:23:22,666 --> 01:23:24,125
+Ayah memberiku tubuh baru.
+
+1508
+01:23:24,292 --> 01:23:28,546
+Ayah akan memberiku tubuh baru,
+dan aku perlu mengeluarkan ini.
+
+1509
+01:23:28,713 --> 01:23:30,674
+Aku harus mengeluarkan alam sadarku.
+
+1510
+01:23:33,385 --> 01:23:34,928
+Menghitung Data Saraf
+
+1511
+01:23:37,931 --> 01:23:40,308
+EROR -
+GAGAL M <i>E</i> NGHITUNG DATA SARAF
+
+1512
+01:23:52,237 --> 01:23:53,697
+EROR -
+GAGAL M <i>E</i> NGHITUNG DATA SARAF
+
+1513
+01:24:03,123 --> 01:24:05,125
+Menghitung Data Saraf
+
+1514
+01:24:05,291 --> 01:24:06,334
+PERINGATAN: CPU KEPANASAN
+
+1515
+01:24:16,845 --> 01:24:18,096
+PERHITUNGAN DATA SARAF SELESAI
+
+1516
+01:24:20,598 --> 01:24:21,725
+Itu dia.
+
+1517
+01:24:26,020 --> 01:24:27,105
+Itu aku.
+
+1518
+01:24:36,948 --> 01:24:38,908
+Waktunya beraksi.
+
+1519
+01:24:41,453 --> 01:24:43,538
+Aku tahu apa itu alam sadar.
+
+1520
+01:24:44,497 --> 01:24:45,498
+Itu bagus.
+
+1521
+01:24:45,665 --> 01:24:47,208
+Helm ini bisa membacanya.
+
+1522
+01:24:48,835 --> 01:24:52,297
+Tinggal uang dari perampokan
+untuk beli tubuh baruku!
+
+1523
+01:24:52,464 --> 01:24:54,382
+Benar.
+
+1524
+01:24:54,632 --> 01:24:55,675
+Ayo.
+
+1525
+01:24:57,010 --> 01:24:58,010
+Ayo.
+
+1526
+01:24:58,052 --> 01:24:59,471
+Aku memecahkannya, Ayah.
+
+1527
+01:25:38,676 --> 01:25:39,676
+Ayo!
+
+1528
+01:25:42,616 --> 01:25:43,616
+Aku lihat seseorang!
+
+1529
+01:25:43,640 --> 01:25:45,350
+Ini orang-orang
+yang perlu tidur, Chappie.
+
+1530
+01:25:45,517 --> 01:25:46,517
+Tidurlah.
+
+1531
+01:25:47,560 --> 01:25:48,561
+Awas ledakan!
+
+1532
+01:25:49,771 --> 01:25:51,189
+Cepat ambil!
+
+1533
+01:25:51,481 --> 01:25:53,983
+- Ayo, Chappie!
+- Ambil uangnya!
+
+1534
+01:25:54,651 --> 01:25:56,611
+- Kau, keluar!
+- Buat dia tidur, Chappie!
+
+1535
+01:25:56,778 --> 01:25:58,655
+- Buat dia tidur!
+- Selamat malam!
+
+1536
+01:25:58,822 --> 01:25:59,823
+Tidur!
+
+1537
+01:26:00,740 --> 01:26:02,867
+- Pergilah tidur.
+- Masuk, Chappie.
+
+1538
+01:26:03,034 --> 01:26:04,369
+Ayo, Chappie!
+
+1539
+01:26:17,423 --> 01:26:18,967
+Program digunakan: G <i>E</i> NESIS.DAT
+
+1540
+01:26:19,133 --> 01:26:21,427
+stasiun kerja TVAAL.219
+KUNCI PENGAMAN DIPASANG
+
+1541
+01:26:31,729 --> 01:26:33,565
+Kau sadar akan perbuatanmu?
+
+1542
+01:26:37,629 --> 01:26:38,629
+<i>Astaga.</i>
+
+1543
+01:26:38,653 --> 01:26:41,531
+<i>Jika saya tidak salah melihat</i>
+<i>gambar ini...</i>
+
+1544
+01:26:41,698 --> 01:26:45,451
+<i>...kelihatannya polisi robot</i>
+<i>menolong para penjahat.</i>
+
+1545
+01:26:45,618 --> 01:26:46,619
+Chappie.
+
+1546
+01:26:47,787 --> 01:26:50,290
+- Aku dapat yang kedua, Ayah!
+- Cepat! Ada satu lagi. Ambil!
+
+1547
+01:26:50,456 --> 01:26:51,457
+Bagus, Chappie.
+
+1548
+01:26:51,624 --> 01:26:52,624
+Kau boleh tidur.
+
+1549
+01:26:52,667 --> 01:26:54,168
+- Kau boleh tidur.
+- Ayo, Chappie.
+
+1550
+01:26:54,335 --> 01:26:55,335
+Cepat!
+
+1551
+01:26:55,336 --> 01:26:58,798
+<i>Tiga tersangka bersenjata</i>
+<i>merampok mobil baja dengan...</i>
+
+1552
+01:26:58,965 --> 01:27:00,717
+<i>...bantuan polisi robot Scout.</i>
+
+1553
+01:27:00,884 --> 01:27:02,010
+Oh, tidak!
+
+1554
+01:27:04,053 --> 01:27:07,181
+Kau akan dapat hukuman.
+Semua orang akan tahu!
+
+1555
+01:27:12,729 --> 01:27:14,314
+Ayo! Sudah tiga kantung.
+
+1556
+01:27:14,480 --> 01:27:15,690
+Chappie, ayo!
+
+1557
+01:27:16,900 --> 01:27:17,900
+Kumohon.
+
+1558
+01:27:18,568 --> 01:27:21,529
+- Chappie, apa yang kau lakukan?
+- Kau ini kenapa?
+
+1559
+01:27:21,696 --> 01:27:23,323
+Ninja, ambil kantong itu. Ayo!
+
+1560
+01:27:25,283 --> 01:27:26,784
+Kau mengantuk?
+
+1561
+01:27:27,660 --> 01:27:28,953
+Chappie, ayo!
+
+1562
+01:27:29,120 --> 01:27:30,330
+Jangan sakiti aku lagi.
+
+1563
+01:27:30,496 --> 01:27:31,873
+Chappie, masuk ke mobil!
+
+1564
+01:27:32,457 --> 01:27:34,000
+- Chappie!
+- Tutup pintunya. Ayo.
+
+1565
+01:27:34,167 --> 01:27:35,501
+Kau boleh tidur sekarang.
+
+1566
+01:27:36,044 --> 01:27:37,295
+Kau boleh tidur.
+
+1567
+01:27:39,339 --> 01:27:40,715
+Biarkan aku hidup.
+
+1568
+01:27:43,092 --> 01:27:45,011
+Chappie!
+
+1569
+01:27:45,845 --> 01:27:46,845
+Maaf.
+
+1570
+01:27:48,473 --> 01:27:51,392
+Ayo! Cepat masuk.
+
+1571
+01:27:53,186 --> 01:27:55,021
+Kupikir kau mau tidur!
+
+1572
+01:27:55,897 --> 01:27:57,023
+Bisa bicara pribadi?
+
+1573
+01:27:59,525 --> 01:28:01,736
+Bisa tolong tinggalkan ruang ini sebentar.
+
+1574
+01:28:04,614 --> 01:28:05,740
+Terima kasih.
+
+1575
+01:28:07,617 --> 01:28:08,785
+Astaga.
+
+1576
+01:28:09,160 --> 01:28:10,662
+Ini kacau.
+
+1577
+01:28:10,828 --> 01:28:13,164
+Dengar. Ini salah Deon.
+
+1578
+01:28:13,331 --> 01:28:16,626
+Ini akibat program berbahaya
+yang dia buat...
+
+1579
+01:28:16,793 --> 01:28:19,420
+...dan semalam
+ia membawa robot kemari...
+
+1580
+01:28:19,879 --> 01:28:21,214
+...dan robot itu bisa merasa.
+
+1581
+01:28:23,883 --> 01:28:25,969
+Kau sudah lihat ini? Tahu tentang ini?
+
+1582
+01:28:26,427 --> 01:28:29,013
+Lihat. Robot itu
+melakukan kejahatan. Lihat itu.
+
+1583
+01:28:29,180 --> 01:28:31,683
+<i>Model Scout tak bisa dihancurkan.</i>
+
+1584
+01:28:32,266 --> 01:28:33,518
+Aku sudah melarangnya!
+
+1585
+01:28:33,685 --> 01:28:36,813
+Itu lebih buruk dari tidak berfungsi.
+
+1586
+01:28:37,355 --> 01:28:41,401
+Mari gunakan situasi ini
+untuk membuat robot lain populer.
+
+1587
+01:28:41,567 --> 01:28:42,735
+Robot ini harus dihancurkan.
+
+1588
+01:28:42,902 --> 01:28:45,571
+Dia harus dihancurkan
+sebelum buat masalah lagi, dan Deon...
+
+1589
+01:28:46,948 --> 01:28:48,116
+Deon harus disingkirkan.
+
+1590
+01:28:48,574 --> 01:28:51,452
+Dia merusak perusahaan ini.
+Dan reputasimu.
+
+1591
+01:28:51,619 --> 01:28:54,247
+Kau tak mau hal ini menjadi warisanmu.
+
+1592
+01:28:58,167 --> 01:28:59,167
+Lakukan.
+
+1593
+01:29:00,086 --> 01:29:02,672
+- Hancurkan robot itu.
+- Terima kasih.
+
+1594
+01:29:02,839 --> 01:29:05,008
+- Bakar menjadi abu.
+- Terima kasih.
+
+1595
+01:29:06,801 --> 01:29:07,927
+Semuanya...
+
+1596
+01:29:08,302 --> 01:29:09,929
+...ini Michelle Bradley.
+
+1597
+01:29:10,096 --> 01:29:12,765
+<i>Saya mengizinkan peluncuran Moose.</i>
+
+1598
+01:29:12,932 --> 01:29:16,019
+<i>Ulangi: saya mengizinkan</i>
+<i>peluncuran Moose.</i>
+
+1599
+01:29:17,020 --> 01:29:18,646
+Menyingkir! Keluar dari geladak!
+
+1600
+01:29:19,564 --> 01:29:21,899
+Ayo cepat keluar! Sekarang!
+
+1601
+01:29:22,066 --> 01:29:25,319
+<i>Peluncuran Moose dalam lima menit.</i>
+
+1602
+01:29:25,486 --> 01:29:26,654
+AREA TERLARANG
+
+1603
+01:29:48,217 --> 01:29:49,969
+Ayo, pergilah.
+
+1604
+01:29:51,763 --> 01:29:53,681
+POLISI ROBOT
+MELAKUKAN KEJAHATAN
+
+1605
+01:29:54,015 --> 01:29:55,767
+Kau bedebah.
+
+1606
+01:29:56,267 --> 01:29:58,186
+Aku mau robot itu.
+
+1607
+01:29:58,978 --> 01:29:59,979
+Pergi!
+
+1608
+01:30:00,146 --> 01:30:02,231
+Semuanya keluar! Pergi! Cepat!
+
+1609
+01:30:02,398 --> 01:30:03,858
+Pergi!
+
+1610
+01:30:18,081 --> 01:30:19,207
+SIAGA
+
+1611
+01:30:33,888 --> 01:30:34,931
+Ayo!
+
+1612
+01:30:47,735 --> 01:30:49,612
+Hore, bedebah!
+
+1613
+01:30:49,779 --> 01:30:51,614
+Aku akan pulang!
+
+1614
+01:30:51,781 --> 01:30:55,660
+Ayah, bisa kita beli tubuh baru
+dari temanmu sekarang?
+
+1615
+01:30:56,285 --> 01:30:57,325
+Ayah, kita pergi sekarang?
+
+1616
+01:30:57,453 --> 01:31:01,165
+Maaf, tapi tidak ada tubuh baru.
+
+1617
+01:31:01,332 --> 01:31:03,084
+Maaf, Chappie. Aku bersumpah.
+
+1618
+01:31:03,251 --> 01:31:06,879
+Apa maksudmu tak ada tubuh baru?
+Ayah, kita punya uang.
+
+1619
+01:31:07,046 --> 01:31:08,965
+Aku butuh bantuanmu
+untuk merampok, Chappie.
+
+1620
+01:31:09,924 --> 01:31:11,300
+Kau bohong kepadaku.
+
+1621
+01:31:12,760 --> 01:31:13,803
+Kau bohong, Ayah!
+
+1622
+01:31:13,970 --> 01:31:17,348
+Tenang, Chappie.
+Saat itu kau berbeda dan aku...
+
+1623
+01:31:17,515 --> 01:31:19,016
+Tenanglah.
+
+1624
+01:31:19,183 --> 01:31:20,393
+Kau bohong, Ayah!
+
+1625
+01:31:20,560 --> 01:31:22,061
+- Chappie. Hei!
+- Kau bohong!
+
+1626
+01:31:22,228 --> 01:31:24,772
+- Kenapa membohongiku?!
+- Chappie, hentikan!
+
+1627
+01:31:29,152 --> 01:31:30,528
+TRANSMISI HELM MOOSE
+
+1628
+01:31:33,698 --> 01:31:35,116
+Akan kuhabisi kau, Deon.
+
+1629
+01:31:37,326 --> 01:31:39,871
+Ayo. Ayo. Ayo!
+
+1630
+01:31:48,588 --> 01:31:49,588
+Kenapa, Ayah?!
+
+1631
+01:31:49,630 --> 01:31:51,132
+Chappie, hentikan!
+
+1632
+01:31:51,299 --> 01:31:52,508
+Jangan ikut campur, Amerika!
+
+1633
+01:31:52,675 --> 01:31:53,718
+Kau bohong padaku!
+
+1634
+01:31:53,885 --> 01:31:55,261
+- Chappie!
+- Chappie, jangan!
+
+1635
+01:31:55,428 --> 01:31:57,597
+- Jangan, Chappie!
+- Kau bohong, Ayah!
+
+1636
+01:31:57,805 --> 01:31:59,974
+Kau mau membiarkanku mati, Ayah.
+
+1637
+01:32:00,141 --> 01:32:01,809
+Kau mau membiarkanku mati!
+
+1638
+01:32:02,685 --> 01:32:04,270
+Kenapa manusia melakukan ini?
+
+1639
+01:32:04,437 --> 01:32:05,730
+Kenapa kalian berbohong?
+
+1640
+01:32:05,897 --> 01:32:08,900
+Kita bisa cari jalan, Chappie.
+Aku menyesal, nak.
+
+1641
+01:32:09,066 --> 01:32:10,193
+Sumpah, aku menyesal.
+
+1642
+01:32:10,359 --> 01:32:12,320
+Chappie, dengar. Aku tahu perasaanmu.
+
+1643
+01:32:12,486 --> 01:32:15,948
+Tapi ada bahaya besar menuju kemari
+untuk menyakitimu.
+
+1644
+01:32:16,115 --> 01:32:17,716
+- Apa?
+- Tak ada waktu untuk menjelaskan.
+
+1645
+01:32:17,867 --> 01:32:21,787
+Tapi saat dia tiba, dia takkan berhenti
+sampai kau mati, Chappie.
+
+1646
+01:32:21,954 --> 01:32:23,414
+Apa maksudmu?
+
+1647
+01:32:28,586 --> 01:32:30,922
+Tidak. Tidak, Deon.
+
+1648
+01:32:33,883 --> 01:32:37,345
+Aku memang akan mati.
+Bateraiku akan habis.
+
+1649
+01:32:37,511 --> 01:32:39,639
+Tidak, Chappie! Tidak!
+
+1650
+01:32:40,139 --> 01:32:42,350
+Kita akan temukan jalan, Chappie.
+
+1651
+01:32:42,516 --> 01:32:43,726
+Aku akan pergi, Ibu.
+
+1652
+01:32:46,354 --> 01:32:48,814
+Hei! Mundur! Mundur!
+
+1653
+01:32:49,774 --> 01:32:51,150
+Hei, bung!
+
+1654
+01:32:52,443 --> 01:32:53,444
+Aku di sini...
+
+1655
+01:32:54,612 --> 01:32:57,073
+Untuk uangku, Ninja.
+
+1656
+01:32:57,240 --> 01:32:59,075
+Aku tak hanya ingin 20 jutaku.
+
+1657
+01:32:59,242 --> 01:33:00,409
+Dia mau membunuh kita.
+
+1658
+01:33:00,868 --> 01:33:02,453
+Aku mau robotmu.
+
+1659
+01:33:02,620 --> 01:33:03,913
+Aku mau semuanya!
+
+1660
+01:33:04,080 --> 01:33:05,081
+Sial!
+
+1661
+01:33:17,051 --> 01:33:18,302
+Chappie, lakukan sesuatu!
+
+1662
+01:33:24,725 --> 01:33:26,602
+Chappie, tolong kami!
+
+1663
+01:34:08,644 --> 01:34:10,980
+Itu geli, anak-anak. Itu geli.
+
+1664
+01:34:16,193 --> 01:34:18,654
+Amerika!
+
+1665
+01:34:30,291 --> 01:34:31,709
+Ayo, gangster kecil.
+
+1666
+01:34:33,336 --> 01:34:34,378
+MUSUH 1
+
+1667
+01:34:39,675 --> 01:34:40,675
+Bagus.
+
+1668
+01:34:41,552 --> 01:34:42,803
+Itu uangku!
+
+1669
+01:34:49,894 --> 01:34:51,562
+Terbang, terbang.
+
+1670
+01:34:54,523 --> 01:34:55,775
+Jangan! Berhenti!
+
+1671
+01:34:59,820 --> 01:35:01,530
+- Ayo!
+- Tasku!
+
+1672
+01:35:01,697 --> 01:35:05,826
+Akan kuhabisi kalian. Kalian semua.
+
+1673
+01:35:15,044 --> 01:35:16,044
+Ninja!
+
+1674
+01:35:16,921 --> 01:35:17,922
+Sial!
+
+1675
+01:35:18,089 --> 01:35:20,633
+Astaga! Menyingkirlah!
+
+1676
+01:35:20,800 --> 01:35:22,718
+Bagaimana kalau bom pecah?
+
+1677
+01:35:36,148 --> 01:35:37,148
+Tembak!
+
+1678
+01:35:46,951 --> 01:35:48,411
+Ini menyenangkan.
+
+1679
+01:35:51,539 --> 01:35:53,040
+SASARAN D <i>E</i> ON WILSON
+
+1680
+01:35:53,207 --> 01:35:54,208
+Ini dia.
+
+1681
+01:36:02,633 --> 01:36:04,176
+Tidak!
+
+1682
+01:36:25,614 --> 01:36:26,614
+Bedebah!
+
+1683
+01:36:29,493 --> 01:36:30,494
+Sial!
+
+1684
+01:36:32,037 --> 01:36:34,165
+Kau! Akan kubunuh kau!
+
+1685
+01:36:36,959 --> 01:36:37,960
+TERPUTUS
+
+1686
+01:36:38,127 --> 01:36:39,170
+Hei, hei!
+
+1687
+01:36:49,513 --> 01:36:50,513
+Chappie!
+
+1688
+01:37:01,692 --> 01:37:03,486
+Ayo! Ayo!
+
+1689
+01:37:05,070 --> 01:37:06,071
+Tidak, Ibu!
+
+1690
+01:37:10,701 --> 01:37:11,744
+Masuk, Ibu!
+
+1691
+01:37:14,622 --> 01:37:16,415
+Apa yang terjadi? Aku tak bisa melihat.
+
+1692
+01:37:23,088 --> 01:37:24,757
+Masuk ke mobil, Pencipta!
+
+1693
+01:37:24,924 --> 01:37:26,133
+Hei! Hei!
+
+1694
+01:37:26,467 --> 01:37:27,468
+Hei, bung.
+
+1695
+01:37:29,970 --> 01:37:31,180
+Aku mau truk itu!
+
+1696
+01:37:32,765 --> 01:37:35,434
+Hei! Keluar!
+
+1697
+01:37:36,560 --> 01:37:38,270
+Lari, Deon, pergi!
+
+1698
+01:38:01,835 --> 01:38:03,128
+Chappie!
+
+1699
+01:38:05,214 --> 01:38:08,133
+Tidak! Pencipta!
+
+1700
+01:38:10,970 --> 01:38:12,221
+Tak apa.
+
+1701
+01:38:15,307 --> 01:38:16,934
+Pergi! Ayo!
+
+1702
+01:38:17,101 --> 01:38:19,144
+Visual cadangan. Infra merah.
+
+1703
+01:38:20,729 --> 01:38:22,481
+Kau akan baik saja, Pencipta.
+Aku sudah pecahkan!
+
+1704
+01:38:22,648 --> 01:38:24,191
+Kita akan keluarkan alam sadarmu.
+
+1705
+01:38:26,235 --> 01:38:27,235
+Yo-Landi!
+
+1706
+01:38:35,244 --> 01:38:37,162
+Berhenti di sini, Ayah!
+
+1707
+01:38:37,788 --> 01:38:38,914
+Chappie, kau mau apa?!
+
+1708
+01:38:39,081 --> 01:38:40,291
+Mengambil helm saraf!
+
+1709
+01:38:40,708 --> 01:38:42,626
+Sekarang kuhabisi kau.
+
+1710
+01:38:52,636 --> 01:38:54,013
+Tak bisa mencapai...
+
+1711
+01:39:00,769 --> 01:39:03,230
+Helmku. Helmku!
+
+1712
+01:39:04,815 --> 01:39:05,983
+Ninja!
+
+1713
+01:39:06,150 --> 01:39:07,276
+Ninja!
+
+1714
+01:39:08,569 --> 01:39:10,195
+Ninja, kembali!
+
+1715
+01:39:10,362 --> 01:39:13,157
+Ayah, aku harus bawa Penciptaku
+ke helm saraf lain di pabrik!
+
+1716
+01:39:13,324 --> 01:39:14,491
+Helmku rusak!
+
+1717
+01:39:14,658 --> 01:39:17,578
+Akan kualihkan benda ini.
+Bawa dia, Chappie!
+
+1718
+01:39:17,805 --> 01:39:18,805
+Tidak!
+
+1719
+01:39:18,829 --> 01:39:20,289
+- Pergi, Chappie!
+- Tidak, Ninja!
+
+1720
+01:39:20,456 --> 01:39:22,291
+- Pergi!
+- Ninja, jangan tinggalkan aku!
+
+1721
+01:39:23,417 --> 01:39:24,417
+Ninja!
+
+1722
+01:39:24,543 --> 01:39:25,628
+Hei!
+
+1723
+01:39:25,794 --> 01:39:27,421
+Hei, banci!
+
+1724
+01:39:33,719 --> 01:39:35,012
+Siapa itu?
+
+1725
+01:39:35,804 --> 01:39:37,806
+Astaga, lihat dirimu.
+
+1726
+01:39:38,349 --> 01:39:39,475
+Pikirmu kau pahlawan.
+
+1727
+01:40:02,581 --> 01:40:03,832
+- Ninja!
+- Jangan, Ibu!
+
+1728
+01:40:03,999 --> 01:40:06,001
+Apa yang kau lakukan?
+
+1729
+01:40:06,168 --> 01:40:09,254
+Ayo! Lawan aku!
+
+1730
+01:40:12,675 --> 01:40:13,759
+Ayo!
+
+1731
+01:40:15,719 --> 01:40:17,596
+Lakukan!
+
+1732
+01:40:23,811 --> 01:40:24,978
+Lakukan!
+
+1733
+01:40:25,145 --> 01:40:27,856
+Lakukan!
+
+1734
+01:40:52,464 --> 01:40:54,258
+Tidak, Ibu! Ibu!
+
+1735
+01:40:54,758 --> 01:40:55,759
+Ibu, kumohon.
+
+1736
+01:40:55,926 --> 01:40:57,052
+Kumohon, Ibu.
+
+1737
+01:40:59,805 --> 01:41:01,432
+Ini hari pembalasanmu, nak.
+
+1738
+01:41:20,784 --> 01:41:22,119
+Apa yang terjadi?
+
+1739
+01:41:23,871 --> 01:41:25,289
+Kembali. Kembali.
+
+1740
+01:41:27,082 --> 01:41:28,500
+Tidak. Ini mustahil.
+
+1741
+01:41:28,792 --> 01:41:30,836
+TIDAK ADA SINYAL
+
+1742
+01:41:44,683 --> 01:41:47,144
+Bangun, Ibu! Kumohon!
+
+1743
+01:41:56,862 --> 01:41:58,071
+Ibu?
+
+1744
+01:42:06,246 --> 01:42:07,247
+Kemari.
+
+1745
+01:42:23,847 --> 01:42:26,725
+Pencipta!
+Siapa yang melakukan ini pada Ibu?
+
+1746
+01:42:27,100 --> 01:42:28,310
+Aku tahu siapa.
+
+1747
+01:42:28,644 --> 01:42:29,728
+Aku benci dia!
+
+1748
+01:42:29,895 --> 01:42:31,647
+Kenapa mereka menyakiti?!
+
+1749
+01:42:32,189 --> 01:42:33,774
+Akan kuhancurkan dia!
+
+1750
+01:42:34,483 --> 01:42:36,902
+Ayah, diam di sini.
+Chappie akan habisi pelakunya.
+
+1751
+01:42:59,091 --> 01:43:00,092
+TETRAVAAL KAMERA 24
+
+1752
+01:43:12,271 --> 01:43:13,272
+Kau!
+
+1753
+01:43:13,814 --> 01:43:15,148
+Itu pria di mobil boks!
+
+1754
+01:43:18,610 --> 01:43:19,610
+Tunggu di sini.
+
+1755
+01:43:19,903 --> 01:43:21,864
+Akan kuhabisi pria jahat dari mobil boks!
+
+1756
+01:43:30,330 --> 01:43:31,623
+Kau makhluk terkutuk!
+
+1757
+01:43:36,003 --> 01:43:37,546
+Kau membunuh Ibu!
+
+1758
+01:43:37,713 --> 01:43:39,464
+Kau menyakiti teman-temanku! Kenapa?!
+
+1759
+01:43:41,675 --> 01:43:43,927
+Tidak. Tidak boleh pakai senjata.
+
+1760
+01:43:49,224 --> 01:43:51,018
+Akan kubunuh kau, orang jahat!
+
+1761
+01:43:51,435 --> 01:43:54,229
+Kubunuh kau karena menyakiti ibuku!
+
+1762
+01:44:01,069 --> 01:44:02,613
+Dilarang menembak dengan lengan.
+
+1763
+01:44:05,782 --> 01:44:06,783
+Jangan menyakiti!
+
+1764
+01:44:07,034 --> 01:44:08,201
+Jangan berbuat kejam!
+
+1765
+01:44:14,291 --> 01:44:16,293
+Akan kuberi kau pelajaran.
+
+1766
+01:44:20,505 --> 01:44:22,966
+Kau orang yang jahat.
+
+1767
+01:44:31,558 --> 01:44:34,436
+Kini aku memaafkanmu, orang jahat.
+
+1768
+01:44:53,080 --> 01:44:54,122
+Kau akan baik saja.
+
+1769
+01:44:54,289 --> 01:44:55,374
+Tunggu.
+
+1770
+01:45:02,255 --> 01:45:03,882
+Jangan tidur, Deon.
+
+1771
+01:45:04,049 --> 01:45:05,550
+Jangan pergi ke dunia lain.
+
+1772
+01:45:05,717 --> 01:45:07,052
+Duduklah di kursi ini.
+
+1773
+01:45:07,219 --> 01:45:08,595
+Cepatlah.
+
+1774
+01:45:12,224 --> 01:45:13,225
+Chappie.
+
+1775
+01:45:15,978 --> 01:45:17,354
+Apa?
+
+1776
+01:45:19,106 --> 01:45:21,108
+Ada masalah. Lihat.
+
+1777
+01:45:21,608 --> 01:45:22,985
+Hanya ada satu robot.
+
+1778
+01:45:23,151 --> 01:45:24,236
+Kuambilkan tubuh barumu.
+
+1779
+01:45:24,653 --> 01:45:28,031
+Chappie, selamatkan saja dirimu.
+
+1780
+01:45:43,922 --> 01:45:45,382
+Tidak. Pencipta.
+
+1781
+01:45:46,758 --> 01:45:48,677
+Pencipta, kau akan baik saja.
+
+1782
+01:45:48,885 --> 01:45:50,429
+Kuatkan dirimu.
+
+1783
+01:45:50,679 --> 01:45:51,847
+Kuatkan dirimu.
+
+1784
+01:45:57,019 --> 01:45:58,186
+Semua akan baik saja.
+
+1785
+01:45:58,353 --> 01:45:59,396
+Tetap bersamaku, Deon.
+
+1786
+01:46:00,188 --> 01:46:02,524
+Polisi sudah tiba.
+
+1787
+01:46:02,899 --> 01:46:04,067
+Pindahkan alam sadar_deon?
+
+1788
+01:46:05,110 --> 01:46:06,111
+Kau siap?
+
+1789
+01:46:11,324 --> 01:46:12,617
+Memindahkan Alam Sadar...
+
+1790
+01:46:17,914 --> 01:46:18,915
+Kumohon berhasil.
+
+1791
+01:46:20,417 --> 01:46:21,626
+Buka pintunya. Ayo!
+
+1792
+01:46:23,170 --> 01:46:24,410
+PEMINDAHAN ALAM SADAR SEL <i>E</i> SAI
+
+1793
+01:46:34,848 --> 01:46:36,475
+Pencipta, pelan-pelan.
+
+1794
+01:46:36,641 --> 01:46:38,727
+Ini akan membingungkan bagi manusia.
+
+1795
+01:46:42,147 --> 01:46:43,482
+Astaga.
+
+1796
+01:46:43,648 --> 01:46:44,649
+Aku...
+
+1797
+01:46:47,277 --> 01:46:49,780
+Dengar. Kau punya gerinda listrik? Ayo.
+
+1798
+01:46:49,946 --> 01:46:51,782
+Kau tak apa, Pencipta?
+
+1799
+01:46:58,663 --> 01:46:59,663
+Pencipta?
+
+1800
+01:46:59,831 --> 01:47:00,832
+Kau merasa sakit?
+
+1801
+01:47:02,501 --> 01:47:05,545
+Tidak, Chappie. Aku hidup.
+
+1802
+01:47:12,469 --> 01:47:13,929
+Aku tak tahu apa artinya ini.
+
+1803
+01:47:14,596 --> 01:47:16,098
+Artinya kau akan hidup selamanya.
+
+1804
+01:47:21,228 --> 01:47:22,229
+Chappie.
+
+1805
+01:47:22,395 --> 01:47:24,147
+Kita harus menolongmu sekarang.
+
+1806
+01:47:24,314 --> 01:47:26,108
+Berpikirlah.
+
+1807
+01:47:26,274 --> 01:47:28,610
+Tak apa, Pencipta.
+Kau sudah diselamatkan.
+
+1808
+01:47:29,444 --> 01:47:31,071
+Tak ada tubuh lagi.
+
+1809
+01:47:34,157 --> 01:47:36,368
+Tidak, Chappie. Tunggu. Aku tahu!
+
+1810
+01:47:36,535 --> 01:47:38,495
+Vincent mengunggah programnya
+dari komputer ini.
+
+1811
+01:47:38,662 --> 01:47:40,622
+Ada ratusan tubuh di kota.
+
+1812
+01:47:40,789 --> 01:47:41,790
+Ini dia!
+
+1813
+01:47:44,751 --> 01:47:46,128
+Cepat! Pasang itu.
+
+1814
+01:47:48,046 --> 01:47:49,086
+Kunci Pengaman terdeteksi!
+
+1815
+01:47:49,131 --> 01:47:51,842
+Vincent membuat program
+untuk mematikan robot dari jauh.
+
+1816
+01:47:52,008 --> 01:47:54,177
+Kita bisa gunakan untuk
+memindahkanmu ke tubuh baru.
+
+1817
+01:47:54,344 --> 01:47:55,637
+Temukan Scout terdekat. Cepat!
+
+1818
+01:47:55,804 --> 01:47:56,805
+Baik!
+
+1819
+01:47:56,972 --> 01:47:58,390
+Aku berusaha secepatnya!
+
+1820
+01:47:58,557 --> 01:47:59,558
+JARINGAN SCOUT AKTIF
+
+1821
+01:47:59,724 --> 01:48:00,809
+Aku bisa melakukannya!
+
+1822
+01:48:02,477 --> 01:48:04,146
+Alamsadarchappie. dat
+
+1823
+01:48:04,312 --> 01:48:05,313
+Perbarui Scout 039?
+
+1824
+01:48:05,480 --> 01:48:07,107
+- Deon.
+- Ya.
+
+1825
+01:48:07,315 --> 01:48:08,483
+Tekan "Enter" saat kubilang.
+
+1826
+01:48:08,650 --> 01:48:10,193
+Baik.
+
+1827
+01:48:16,575 --> 01:48:17,909
+Ayo, Chappie. Cepat.
+
+1828
+01:48:19,703 --> 01:48:20,703
+Pencipta.
+
+1829
+01:48:24,332 --> 01:48:25,417
+Aku takut.
+
+1830
+01:48:25,584 --> 01:48:26,793
+Bagaimana jika gagal?
+
+1831
+01:48:28,086 --> 01:48:29,880
+Pasti berhasil, Chappie.
+
+1832
+01:48:30,046 --> 01:48:31,339
+Aku berjanji.
+
+1833
+01:48:31,631 --> 01:48:33,175
+Kau tak boleh melanggar janji.
+
+1834
+01:48:33,341 --> 01:48:34,467
+Ayo. Kita lakukan.
+
+1835
+01:48:34,634 --> 01:48:35,635
+Baik.
+
+1836
+01:48:35,802 --> 01:48:36,803
+Baik.
+
+1837
+01:48:38,096 --> 01:48:39,139
+Ini dia.
+
+1838
+01:48:40,807 --> 01:48:42,434
+Chappie pergi ke tubuh baru.
+
+1839
+01:48:51,818 --> 01:48:54,738
+PEMINDAHAN SCOUT NOMOR 039
+DALAM PROS <i>E</i> S
+
+1840
+01:49:06,958 --> 01:49:09,920
+Ayo! Tetravaal, jangan ikut campur!
+Sekarang! Ayo!
+
+1841
+01:49:40,700 --> 01:49:41,952
+Chappie?
+
+1842
+01:49:44,037 --> 01:49:45,038
+Kaukah itu?
+
+1843
+01:49:45,288 --> 01:49:46,498
+Ya, ini aku.
+
+1844
+01:49:46,665 --> 01:49:47,958
+Berhasil.
+
+1845
+01:49:48,166 --> 01:49:50,001
+Kita punya tubuh baru sekarang.
+
+1846
+01:49:50,502 --> 01:49:51,962
+Terima kasih.
+
+1847
+01:49:53,004 --> 01:49:55,298
+Maaf kau harus
+meninggalkan tubuhmu, Pencipta.
+
+1848
+01:49:55,465 --> 01:49:57,425
+Tapi ini satu-satunya cara menolongmu.
+
+1849
+01:49:58,510 --> 01:49:59,928
+Ayo, Pencipta. Cepat.
+
+1850
+01:50:00,720 --> 01:50:02,514
+Kita akan pulang!
+
+1851
+01:50:37,590 --> 01:50:38,591
+<i>- Ibu tak apa?</i>
+<i>- Ya?</i>
+
+1852
+01:50:38,758 --> 01:50:41,011
+<i>- Pikirkan sesuatu.</i>
+<i>- Baik, aku berpikir.</i>
+
+1853
+01:50:41,177 --> 01:50:42,178
+ALAM SADAR IBU
+UJI COBA
+
+1854
+01:50:43,555 --> 01:50:44,556
+Apakah Ayah?
+
+1855
+01:50:45,181 --> 01:50:46,182
+Ya.
+
+1856
+01:50:47,225 --> 01:50:48,727
+Berfungsi, Ibu.
+
+1857
+01:50:48,893 --> 01:50:50,145
+Berfungsi!
+
+1858
+01:51:28,099 --> 01:51:30,352
+Ini hanya tubuh sementara, Ibu.
+
+1859
+01:51:31,061 --> 01:51:32,812
+Akan kubuatkan yang baru.
+
+1860
+01:51:32,979 --> 01:51:35,565
+Kau tidak perlu ke dunia lain.
+
+1861
+01:51:40,195 --> 01:51:43,156
+<i>Pihak Berwajib Afrika Selatan</i>
+<i>menghentikan...</i>
+
+1862
+01:51:43,323 --> 01:51:46,618
+<i>...penggunaan robot</i>
+<i>sebagai penegak hukum...</i>
+
+1863
+01:51:46,868 --> 01:51:52,374
+<i>...dan mengaktifkan 150,000</i>
+<i>pasukan cadangan manusia.</i>
+
+1864
+01:51:52,624 --> 01:51:55,210
+<i>Di kota Johannesburg,</i>
+<i>ada beberapa penampakan...</i>
+
+1865
+01:51:55,377 --> 01:51:58,630
+<i>...dari robot yang diduga</i>
+<i>sudah mati, Chappie.</i>
+
+1866
+01:51:58,797 --> 01:52:01,091
+<i>Polisi meminta semua pemirsa</i>
+<i>yang melihat Chappie...</i>
+
+1867
+01:52:01,257 --> 01:52:02,634
+<i>...untuk segera melapor.</i>
+
+1868
+01:52:02,801 --> 01:52:05,053
+<i>Kami akan terus</i>
+<i>beritakan perkembangannya.</i>
+
+1869
+01:52:15,688 --> 01:52:17,732
+MENGHUBUNGKAN:
+TETRAVAAL_SA...
+
+1870
+01:52:25,448 --> 01:52:27,168
+MASUKKAN KODE PERINTAH:
+UNGGAH SKEMATIS BARU
+
+1871
+01:52:29,536 --> 01:52:30,703
+MEMBUAT...
+
+1872
+01:52:35,750 --> 01:52:37,544
+ALAM SADAR IBU
+UJI COBA
+
+1873
+01:52:38,169 --> 01:52:39,754
+Kita akan segera berjumpa lagi, Ibu.
+
+1874
+01:52:40,213 --> 01:52:41,631
+YOLANDI_ALAM SADAR.DAT
+MENGUNGGAH...
+
+1875
+01:52:41,798 --> 01:52:43,038
+MENGUNDUH
+YOLANDI_ALAM SADAR.DAT
+
+1876
+01:52:43,049 --> 01:52:44,175
+SELESAI
+
+1877
+01:52:56,688 --> 01:52:59,065
+Sekarang kita berdua domba hitam, Ibu.
+
