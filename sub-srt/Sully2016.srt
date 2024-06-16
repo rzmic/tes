@@ -1,0 +1,6640 @@
+1
+00:00:05,440 --> 00:00:08,527
+Kaktus 1549. Landasan empat.
+Siap untuk lepas landas.
+
+2
+00:00:09,069 --> 00:00:10,487
+Kaktus 1549. Siap untuk lepas landas.
+
+3
+00:00:28,089 --> 00:00:30,300
+Mayday, mayday. Kaktus 1549.
+
+4
+00:00:30,383 --> 00:00:32,552
+Kami telah kehilangan kedua mesin.
+Kedua mesin.
+
+5
+00:00:37,349 --> 00:00:38,934
+Tak ada lampu merah pada kedua mesin.
+
+6
+00:00:39,017 --> 00:00:42,020
+Kaktus 1549, jika bisa didapatkan,
+apa kau ingin mendarat di landasan 1-3?
+
+7
+00:00:42,104 --> 00:00:45,482
+Menara kontrol, kami bisa mendaratkannya.
+Kami berbalik kembali ke LaGuardia.
+
+8
+00:01:01,374 --> 00:01:04,877
+Menara LaGuardia, Kaktus 1549,
+mencoba untuk mendarat di 1-3.
+
+9
+00:01:04,961 --> 00:01:06,546
+Sully, kita terlalu rendah.
+
+10
+00:01:06,629 --> 00:01:08,214
+Sully, kita terlalu rendah!
+
+11
+00:01:08,297 --> 00:01:09,507
+Ayolah.
+
+12
+00:01:20,143 --> 00:01:21,186
+Hanya sedikit lagi.
+
+13
+00:01:22,729 --> 00:01:23,855
+Ayolah.
+
+14
+00:01:30,779 --> 00:01:31,864
+Sully!
+
+15
+00:01:31,947 --> 00:01:33,032
+Lorrie, aku mencintaimu.
+
+16
+00:02:30,383 --> 00:02:32,218
+Apa yang salah denganmu?
+
+17
+00:03:17,182 --> 00:03:19,267
+Jumlah penumpang di pesawat,
+150 penumpang...
+
+18
+00:03:19,351 --> 00:03:20,352
+SELAMAT DARI PENERBANGAN 1549
+
+19
+00:03:20,435 --> 00:03:22,270
+tiga pramugari dan dua pilot,
+salah satunya...
+
+20
+00:03:22,354 --> 00:03:25,315
+pilot senior, mengerahkan seluruh
+pengalaman dan kemampuannya...
+
+21
+00:03:25,398 --> 00:03:27,734
+bersama dengan keberuntungan
+yang nyaris ajaib...
+
+22
+00:03:27,818 --> 00:03:29,778
+dan hasil yang sungguh menakjubkan.
+
+23
+00:03:29,861 --> 00:03:31,738
+Ada beberapa luka ringan...
+
+24
+00:03:32,489 --> 00:03:34,074
+tapi semua orang selamat.
+
+25
+00:03:34,158 --> 00:03:37,411
+Gambaran pertama dari US Airways
+Penerbangan 1549 mengungkapkan...
+
+26
+00:03:37,494 --> 00:03:39,121
+Kau berpikir bahwa kau akan mati.
+
+27
+00:03:39,205 --> 00:03:40,748
+Itu yang kau pikirkan.
+
+28
+00:03:40,831 --> 00:03:43,125
+Dan kemudian, secara mengejutkan,
+kau tidak tewas.
+
+29
+00:03:44,001 --> 00:03:45,503
+Terima kasih, Kapten.
+
+30
+00:03:46,087 --> 00:03:48,464
+Terima kasih, terima kasih.
+
+31
+00:03:52,885 --> 00:03:56,764
+MARRIOTT
+PUSAT KOTA
+
+32
+00:03:59,642 --> 00:04:01,561
+Oke, terima kasih, semuanya, terima kasih.
+
+33
+00:04:01,645 --> 00:04:03,772
+Terima kasih, Kapten Sullenberger,
+telah hadir.
+
+34
+00:04:03,855 --> 00:04:06,066
+Kami juga ingin menyambut
+Ko-pilot Skiles.
+
+35
+00:04:06,149 --> 00:04:07,442
+Aku senang kau bisa hadir.
+
+36
+00:04:08,360 --> 00:04:09,444
+Kami lebih senang lagi.
+
+37
+00:04:11,405 --> 00:04:13,866
+Sebagai catatan, ada tim Sistem
+Pesawat pada penyelidikan ini.
+
+38
+00:04:13,949 --> 00:04:15,701
+Juga ahli Struktur Pesawat, MRT...
+
+39
+00:04:15,784 --> 00:04:17,745
+Ahli Kinerja Pesawat, ATC...
+
+40
+00:04:17,828 --> 00:04:20,956
+Faktor Hewan, Faktor Keselamatan,
+dan Tanggap Darurat.
+
+41
+00:04:21,040 --> 00:04:24,668
+Hari ini, kita mulai dengan penyelidikan
+operasional dan kinerja manusia...
+
+42
+00:04:24,752 --> 00:04:26,754
+pada kecelakaan US Airways
+Penerbangan 1549.
+
+43
+00:04:27,338 --> 00:04:29,340
+- Pendaratan di air.
+- Apa?
+
+44
+00:04:29,423 --> 00:04:31,426
+Ini bukan kecelakaan.
+Itu pendaratan di atas air.
+
+45
+00:04:32,385 --> 00:04:35,305
+Kami tahu apa yang kami coba
+lakukan di sini.
+
+46
+00:04:36,097 --> 00:04:38,224
+Itu bukan kecelakaan.
+Pendaratan air yang disengaja.
+
+47
+00:04:38,892 --> 00:04:41,186
+Mengapa kau tidak mencoba
+untuk kembali ke LaGuardia?
+
+48
+00:04:42,062 --> 00:04:44,773
+Secara sederhana
+ketinggiannya tidak cukup.
+
+49
+00:04:45,565 --> 00:04:48,193
+Hudson satu-satunya tempat
+yang cukup panjang dan cukup halus...
+
+50
+00:04:48,276 --> 00:04:50,487
+Cukup lebar untuk coba
+mendaratkan pesawat dengan aman.
+
+51
+00:04:50,570 --> 00:04:51,655
+Menurut Air Traffic...
+
+52
+00:04:51,738 --> 00:04:54,741
+kau menyatakan akan kembali
+ke LaGuardia, tapi tidak.
+
+53
+00:04:56,452 --> 00:04:59,371
+Ketika aku mulai belok kiri...
+
+54
+00:04:59,455 --> 00:05:01,957
+aku menyadari bahwa aku tidak
+bisa kembali...
+
+55
+00:05:02,041 --> 00:05:03,834
+dan itu akan menghapus
+semua pilihan lain.
+
+56
+00:05:03,918 --> 00:05:06,003
+Kembali ke LaGuardia akan
+menjadi sebuah kesalahan.
+
+57
+00:05:06,671 --> 00:05:08,464
+Mari kita bahas caramu
+menghitung parameter.
+
+58
+00:05:08,547 --> 00:05:09,674
+Tak ada waktu menghitung.
+
+59
+00:05:10,341 --> 00:05:13,428
+Aku harus bergantung pada pengalamanku
+mengatur ketinggian dan kecepatan...
+
+60
+00:05:13,511 --> 00:05:15,680
+ribuan penerbangan
+selama empat puluh tahun lebih.
+
+61
+00:05:16,139 --> 00:05:17,348
+Maksudmu kau tidak...
+
+62
+00:05:17,432 --> 00:05:18,892
+Aku memperkirakan itu.
+
+63
+00:05:19,392 --> 00:05:21,227
+Kau memperkirakan itu?
+
+64
+00:05:21,895 --> 00:05:23,355
+Ya.
+
+65
+00:05:23,438 --> 00:05:26,399
+Peluang terbaik untuk keselamatan
+penumpang adalah di sungai itu.
+
+66
+00:05:27,150 --> 00:05:28,401
+Dan aku sangat yakin akan itu.
+
+67
+00:05:28,485 --> 00:05:29,861
+Bahkan, aku melakukannya.
+
+68
+00:05:30,445 --> 00:05:31,947
+Dan aku akan melakukannya lagi.
+
+69
+00:05:32,030 --> 00:05:33,824
+Insinyur penerbangan berteori...
+
+70
+00:05:33,907 --> 00:05:35,868
+bahan bakarmu cukup
+untuk kembali ke landasan.
+
+71
+00:05:37,828 --> 00:05:39,621
+Insinyur bukan pilot.
+
+72
+00:05:39,705 --> 00:05:41,332
+Mereka salah.
+
+73
+00:05:41,916 --> 00:05:43,751
+Dan mereka tak ada di sana.
+
+74
+00:05:43,834 --> 00:05:45,795
+Tapi kami harus memeriksa
+semua kemungkinan...
+
+75
+00:05:45,878 --> 00:05:47,630
+Sebagai bagian dari penyelidikan kami.
+
+76
+00:05:47,713 --> 00:05:50,216
+Komputer kami akan memproses
+algoritma skenario kembali.
+
+77
+00:05:50,299 --> 00:05:53,010
+Ini akan menghasilkan simulasi
+dengan koordinat yang tepat.
+
+78
+00:05:53,094 --> 00:05:55,054
+Hilangnya mesin ganda, ketinggian.
+
+79
+00:05:55,138 --> 00:05:57,390
+Semua yang kau hadapi
+ketika membuat keputusan.
+
+80
+00:05:57,473 --> 00:05:59,851
+Aku ingin mengawasi
+simulasi komputer mereka.
+
+81
+00:05:59,934 --> 00:06:01,352
+Itu dilarang selama penyelidikan.
+
+82
+00:06:02,062 --> 00:06:04,439
+Kau menyatakan bahwa
+ada kegagalan mesin ganda...
+
+83
+00:06:04,522 --> 00:06:07,150
+akibat tabrakan dengan beberapa burung?
+
+84
+00:06:07,234 --> 00:06:08,652
+Ini belum pernah terjadi.
+
+85
+00:06:09,528 --> 00:06:11,071
+Semua belum pernah terjadi...
+
+86
+00:06:11,154 --> 00:06:13,282
+sampai terjadi untuk pertama kalinya.
+
+87
+00:06:16,410 --> 00:06:18,328
+Berapa jam kau tidur
+di malam sebelumnya?
+
+88
+00:06:18,412 --> 00:06:19,913
+Delapan jam. Cukup.
+
+89
+00:06:19,997 --> 00:06:21,707
+Apakah mungkin gula darahmu rendah?
+
+90
+00:06:21,790 --> 00:06:24,627
+Aku cukup beristirahat, waspada
+dan sangat sadar akan sekelilingku.
+
+91
+00:06:25,252 --> 00:06:27,088
+Kapan terakhir kau minum,
+Kapten Sullenberger?
+
+92
+00:06:27,171 --> 00:06:28,089
+Sembilan hari lalu.
+
+93
+00:06:28,172 --> 00:06:29,006
+Obat-obatan?
+
+94
+00:06:29,090 --> 00:06:30,424
+Tidak pernah.
+
+95
+00:06:30,508 --> 00:06:31,801
+Ko-pilot Skiles?
+
+96
+00:06:33,177 --> 00:06:34,971
+Tidak minum. Tidak pernah.
+
+97
+00:06:37,348 --> 00:06:41,311
+Kapten, kau memiliki masalah
+di rumah baru- baru ini?
+
+98
+00:06:42,979 --> 00:06:44,648
+Tidak lebih dari orang lain.
+
+99
+00:06:44,731 --> 00:06:46,650
+Dan tidak ada yang mempengaruhi
+pekerjaanku.
+
+100
+00:06:51,738 --> 00:06:53,615
+Ini omong kosong.
+
+101
+00:06:53,699 --> 00:06:56,785
+Mengapa mereka mencari kesalahan kami
+ketika semua hasilnya benar?
+
+102
+00:06:57,369 --> 00:06:59,997
+Hasilnya tak bagus bagi maskapai
+dan perusahaan asuransi mereka.
+
+103
+00:07:00,080 --> 00:07:01,874
+Kita harus mengharapkan
+beberapa konsekuensi.
+
+104
+00:07:01,957 --> 00:07:03,292
+Ayo, Mike. Apa kata mereka?
+
+105
+00:07:03,375 --> 00:07:04,919
+Dia tak seharusnya selamatkan mereka?
+
+106
+00:07:05,002 --> 00:07:06,086
+Ini bukan masalah pribadi.
+
+107
+00:07:06,170 --> 00:07:07,630
+NTSB hanya melakukan tugasnya.
+
+108
+00:07:07,713 --> 00:07:10,883
+Begitu mereka memiliki semua fakta,
+ini semua akan mereda.
+
+109
+00:07:10,967 --> 00:07:12,093
+Sully...
+
+110
+00:07:12,176 --> 00:07:15,388
+mereka harus memberimu penghargaan
+dan mengirimmu kembali bekerja.
+
+111
+00:07:15,471 --> 00:07:16,848
+Maaf. Kotak surat penuh.
+
+112
+00:07:16,973 --> 00:07:20,018
+Aku tidak menelepon Lorrie sejak pagi.
+Ternyata yang lain meneleponnya.
+
+113
+00:07:22,103 --> 00:07:23,772
+Aku tak ingin mengganggu...
+
+114
+00:07:23,855 --> 00:07:25,690
+Tapi suatu kehormatan
+mengantarmu hari ini.
+
+115
+00:07:26,191 --> 00:07:27,609
+Terima kasih.
+
+116
+00:07:27,692 --> 00:07:29,611
+Apa yang telah dilalui tahun ini
+sejauh ini?
+
+117
+00:07:29,694 --> 00:07:31,488
+Bernie Madoff, dua perang tanpa akhir.
+
+118
+00:07:31,571 --> 00:07:33,365
+Jutaan pengangguran baru.
+
+119
+00:07:33,448 --> 00:07:35,367
+Dan itu hanya
+dua minggu pertama Januari.
+
+120
+00:07:36,243 --> 00:07:37,452
+Pokok berita hari Jumat?
+
+121
+00:07:37,536 --> 00:07:38,370
+PAHLAWAN HUDSON
+
+122
+00:07:38,453 --> 00:07:39,580
+Mengesankan.
+
+123
+00:07:42,291 --> 00:07:45,002
+Hei, Mike. Bagaimana jika kita tambahkan
+supir sebagai saksi kunci?
+
+124
+00:07:57,348 --> 00:07:58,391
+Akhirnya!
+
+125
+00:07:58,474 --> 00:07:59,934
+Ya, akhirnya.
+
+126
+00:08:00,310 --> 00:08:02,478
+NTSB telah membuat kami sibuk
+sepanjang hari.
+
+127
+00:08:03,188 --> 00:08:04,355
+Aku tahu.
+
+128
+00:08:05,065 --> 00:08:06,608
+Aku perlu mendengar suaramu.
+
+129
+00:08:06,691 --> 00:08:08,360
+Aku sudah mendengar dari semuanya.
+
+130
+00:08:08,443 --> 00:08:10,779
+Kau akan kagum
+berapa banyak sepupu yang kau miliki.
+
+131
+00:08:10,862 --> 00:08:14,074
+Tak terasa seperti keluarga di sini.
+
+132
+00:08:18,704 --> 00:08:20,456
+Cukup tenang juga di sini.
+
+133
+00:08:21,665 --> 00:08:25,669
+Para wartawan ingin aku memberikan update
+tentang cara berpikir Sully.
+
+134
+00:08:25,753 --> 00:08:27,087
+Aku harus katakan apa
+pada mereka?
+
+135
+00:08:27,171 --> 00:08:28,380
+Katakan kau tak boleh bicara.
+
+136
+00:08:28,464 --> 00:08:29,673
+Aku tidak bisa mendengarmu.
+
+137
+00:08:29,757 --> 00:08:31,634
+- Aku...
+- Aku tak bisa dengar. Telepon lagi.
+
+138
+00:08:31,717 --> 00:08:34,095
+Aku mencoba katakan kau tak
+harus bicara dengan siapa pun.
+
+139
+00:08:34,178 --> 00:08:35,847
+Aku tidak bisa dengar.
+Telepon lagi nanti.
+
+140
+00:08:35,930 --> 00:08:37,807
+Lorrie, aku mencoba memberitahu...
+
+141
+00:08:43,480 --> 00:08:46,066
+Hei, Kapten Sully!
+Kapten Sully! Sully!
+
+142
+00:08:50,487 --> 00:08:53,031
+- Bagaimana rasanya buat keajaiban?
+- Sully, satu pertanyaan!
+
+143
+00:08:53,615 --> 00:08:55,325
+- Bagaimana lakukan hal mustahil?
+- Sully!
+
+144
+00:08:55,409 --> 00:08:56,952
+Kapten Sully! Sully!
+
+145
+00:08:58,996 --> 00:09:00,080
+Maaf.
+
+146
+00:09:09,799 --> 00:09:12,009
+Aku ingin melindas wartawan dengan mobil.
+
+147
+00:09:12,426 --> 00:09:14,595
+Melindungi diri.
+Apa kau berpikir juri akan menghukum?
+
+148
+00:09:14,679 --> 00:09:15,972
+Lakukan yang harus kau lakukan.
+
+149
+00:09:16,055 --> 00:09:19,100
+Aku anggap itu sebagai izin.
+Polisi akan menangkapmu.
+
+150
+00:09:19,183 --> 00:09:20,935
+Sullenberger tidak bisa hadir.
+
+151
+00:09:21,019 --> 00:09:24,522
+Dia tidak boleh berbicara kepada media
+selagi NTSB...
+
+152
+00:09:24,606 --> 00:09:26,900
+sedang melakukan penyelidikan.
+
+153
+00:09:27,609 --> 00:09:29,444
+Sully, kau mendengarkanku?
+
+154
+00:09:30,111 --> 00:09:31,988
+Mungkin kita harus bicara nanti.
+
+155
+00:09:32,656 --> 00:09:34,282
+Sayang, cukup sudah.
+
+156
+00:09:34,366 --> 00:09:35,909
+Aku sudah menunggu sepanjang hari.
+
+157
+00:09:35,992 --> 00:09:37,244
+Apa kau baik-baik saja?
+
+158
+00:09:37,327 --> 00:09:39,705
+Ya, hanya lelah, itu saja.
+
+159
+00:09:39,788 --> 00:09:41,331
+Bagaimana anak-anak?
+
+160
+00:09:43,959 --> 00:09:47,254
+Mereka sedikit kewalahan.
+Kedengarannya kau juga begitu.
+
+161
+00:09:50,132 --> 00:09:51,801
+Ya, mereka akan baik-baik saja.
+
+162
+00:09:51,884 --> 00:09:53,094
+Ini memang sulit dicerna.
+
+163
+00:09:53,177 --> 00:09:54,387
+Ya, memang.
+
+164
+00:09:54,470 --> 00:09:55,555
+KEPAHLAWANAN DI HUDSON
+
+165
+00:09:55,638 --> 00:09:57,849
+Mesin yang rusak sudah tentu
+bukan hal yang ingin...
+
+166
+00:09:57,932 --> 00:10:00,268
+Seluruh dunia berbicara tentangmu.
+
+167
+00:10:00,351 --> 00:10:01,644
+Sully-ku.
+
+168
+00:10:02,145 --> 00:10:04,814
+Aku sulit percaya ini.
+
+169
+00:10:04,898 --> 00:10:07,859
+Lorrie, aku harus tinggal
+di sini lebih lama...
+
+170
+00:10:07,942 --> 00:10:09,819
+untuk penyelidikan NTSB.
+
+171
+00:10:09,903 --> 00:10:11,780
+Apa aku sudah beritahukan itu?
+
+172
+00:10:11,863 --> 00:10:13,657
+Aku minta maaf
+jika aku tidak memberitahumu.
+
+173
+00:10:14,407 --> 00:10:16,368
+Kau tidak perlu meminta maaf.
+
+174
+00:10:16,451 --> 00:10:18,203
+Kau memang seharusnya di sana.
+
+175
+00:10:20,914 --> 00:10:23,625
+Aku ingin kau tahu,
+aku sudah berusaha yang terbaik.
+
+176
+00:10:25,252 --> 00:10:26,712
+Tentu saja.
+
+177
+00:10:27,504 --> 00:10:29,632
+Kau menyelamatkan semua orang.
+
+178
+00:10:31,759 --> 00:10:33,928
+Mungkin kita harus bicara besok pagi saja.
+
+179
+00:10:34,011 --> 00:10:35,513
+Aku lelah.
+
+180
+00:10:35,596 --> 00:10:37,932
+Aku kewalahan oleh semua perhatian ini.
+
+181
+00:10:41,144 --> 00:10:42,687
+Aku akan tampil di TV besok pagi.
+
+182
+00:10:42,770 --> 00:10:44,647
+Apa pertanyaan mereka?
+Apa yang akan kukatakan?
+
+183
+00:10:44,731 --> 00:10:46,774
+Sully, kau ingin aku datang menemanimu?
+
+184
+00:10:47,358 --> 00:10:49,069
+Tidak, Lorrie.
+
+185
+00:10:49,611 --> 00:10:51,696
+Terima kasih,
+tapi anak-anak memerlukanmu.
+
+186
+00:10:52,530 --> 00:10:53,990
+Katakan aku mencintai mereka.
+
+187
+00:10:55,033 --> 00:10:57,369
+Aku mencintaimu. Istirahatlah.
+
+188
+00:10:58,078 --> 00:10:59,246
+Ya.
+
+189
+00:10:59,329 --> 00:11:01,748
+Mungkin saat aku bangun tidur,
+sudah tanggal 14 Januari.
+
+190
+00:11:01,832 --> 00:11:02,875
+Bukankah itu bagus?
+
+191
+00:11:05,169 --> 00:11:06,462
+Aku mencintaimu.
+
+192
+00:11:12,301 --> 00:11:15,846
+Mengapa Kapten Sullenberger
+membuat keputusan yang menentukan...
+
+193
+00:11:15,930 --> 00:11:18,516
+untuk menjadikan Hudson
+sebagai landasan?
+
+194
+00:11:18,599 --> 00:11:20,101
+Hanya dia yang bisa menjawab.
+
+195
+00:11:20,184 --> 00:11:24,397
+Tapi kita sekarang tahu
+itu adalah pilihan yang salah.
+
+196
+00:11:24,480 --> 00:11:28,276
+Sebuah pilihan yang membahayakan nyawa
+semua orang di pesawat.
+
+197
+00:11:28,359 --> 00:11:32,113
+Jadi, saat hampir seluruh negeri
+memujanya sebagai pahlawan...
+
+198
+00:11:32,197 --> 00:11:36,243
+informasi baru ini tentunya akan
+mengubah pemahaman setiap orang...
+
+199
+00:11:36,326 --> 00:11:39,871
+dari apa yang disebut
+"Keajaiban di Hudson."
+
+200
+00:11:39,955 --> 00:11:44,793
+Sully Sullenberger,
+kau seorang pahlawan atau penipu?
+
+201
+00:12:04,272 --> 00:12:05,898
+- Halo?
+- Jeff?
+
+202
+00:12:05,982 --> 00:12:07,609
+Maaf menelepon selarut ini.
+
+203
+00:12:07,692 --> 00:12:10,111
+Tidak masalah. Aku juga tak bisa tidur.
+
+204
+00:12:11,404 --> 00:12:14,240
+Kau percaya mereka menagih
+lima dolar untuk cokelat?
+
+205
+00:12:15,408 --> 00:12:17,786
+Aku bisa membuat maskapai bangkrut
+dalam empat gigitan.
+
+206
+00:12:19,871 --> 00:12:21,873
+Aku hanya berpikir mungkin kau ingin...
+
+207
+00:12:21,957 --> 00:12:22,874
+Berbicara?
+
+208
+00:12:22,958 --> 00:12:24,251
+Tentu.
+
+209
+00:12:25,794 --> 00:12:27,463
+Mari kita cari udara segar.
+
+210
+00:12:28,213 --> 00:12:29,131
+Bagus.
+
+211
+00:12:30,174 --> 00:12:32,134
+Aku akan turun dalam lima menit.
+
+212
+00:12:37,848 --> 00:12:39,559
+Apakah kau menikmati getarannya?
+
+213
+00:12:40,518 --> 00:12:42,145
+Mimpi buruk, denyut jantung yang cepat.
+
+214
+00:12:42,228 --> 00:12:45,106
+Sedikit. Serikat menawari kita penyuluhan.
+
+215
+00:12:45,773 --> 00:12:47,775
+Ya. Apa yang mereka akan katakan?
+
+216
+00:12:47,859 --> 00:12:49,652
+"Kau melalui kecelakaan pesawat
+dan selamat."
+
+217
+00:12:49,736 --> 00:12:52,113
+"Ini mungkin berdampak kecil
+pada kegiatan sehari-harimu."
+
+218
+00:12:52,655 --> 00:12:55,575
+Aku tak suka
+tidak bisa mengendalikan situasi.
+
+219
+00:12:55,659 --> 00:12:57,619
+- Aku ingin diriku kembali.
+- Ya.
+
+220
+00:12:58,411 --> 00:13:00,330
+Aku ingin enam bulan lagi,
+kita hanya tertawa...
+
+221
+00:13:00,414 --> 00:13:02,499
+Tentang bagaimana kita bisa bertemu
+David Letterman.
+
+222
+00:13:05,210 --> 00:13:07,129
+Kita akan tampil di David Letterman?
+
+223
+00:13:07,212 --> 00:13:09,506
+Ya. Tepat setelah
+wawancara NTSB berikutnya.
+
+224
+00:13:09,590 --> 00:13:10,674
+Letterman.
+
+225
+00:13:10,758 --> 00:13:12,885
+Aku menduga Dave akan sedikit lebih lucu.
+
+226
+00:13:13,260 --> 00:13:14,428
+Ini bagaikan mimpi.
+
+227
+00:13:15,221 --> 00:13:16,764
+Kurasa aku agak kesulitan...
+
+228
+00:13:16,847 --> 00:13:19,642
+memisahkan realitas
+dari apa pun ini.
+
+229
+00:13:19,725 --> 00:13:21,060
+Ya.
+
+230
+00:13:21,143 --> 00:13:23,312
+Ini dua orang pria
+di suhu yang sangat dingin.
+
+231
+00:13:25,898 --> 00:13:27,025
+Sully.
+
+232
+00:13:28,526 --> 00:13:30,820
+Jangan khawatir.
+Kau melakukan hal yang hebat.
+
+233
+00:13:30,904 --> 00:13:32,906
+Ini akan diingat
+untuk waktu yang sangat lama.
+
+234
+00:13:32,989 --> 00:13:34,699
+Ini lucunya.
+
+235
+00:13:34,783 --> 00:13:37,953
+Aku sudah mengantarkan jutaan
+penumpang selama 40 tahun di udara...
+
+236
+00:13:39,037 --> 00:13:42,541
+tapi pada akhirnya,
+aku akan dihakimi untuk 208 detik.
+
+237
+00:13:45,836 --> 00:13:48,464
+Ayolah. Besok akan menjadi hari yang baik.
+
+238
+00:13:48,547 --> 00:13:52,009
+Komputer SIMS akan membuktikan
+kau benar. Kita bisa terbang lagi.
+
+239
+00:13:52,092 --> 00:13:53,427
+Kau mau lari?
+
+240
+00:13:53,510 --> 00:13:54,845
+Ya, ayo lari.
+
+241
+00:13:58,933 --> 00:14:00,434
+Dingin sekali di luar sini.
+
+242
+00:14:01,102 --> 00:14:03,855
+Sudah jelas.
+Ini situasi yang sangat kritis...
+
+243
+00:14:04,689 --> 00:14:08,985
+kehilangan gaya pendorong di kedua mesin
+pada ketinggian rendah...
+
+244
+00:14:09,068 --> 00:14:12,822
+di atas salah satu daerah yang paling
+padat penduduk di planet ini.
+
+245
+00:14:13,573 --> 00:14:16,034
+Tapi memilih untuk mendarat di Hudson...
+
+246
+00:14:16,117 --> 00:14:18,328
+itu masih penuh ketidakpastian.
+
+247
+00:14:19,538 --> 00:14:21,456
+Aku yakin bisa melakukannya.
+
+248
+00:14:21,540 --> 00:14:22,708
+Benarkah?
+
+249
+00:14:23,125 --> 00:14:24,334
+Ya.
+
+250
+00:14:25,002 --> 00:14:28,005
+Bagaimana perasaanmu
+ketika orang menyebutmu pahlawan?
+
+251
+00:14:29,047 --> 00:14:31,300
+Aku tidak merasa seperti pahlawan.
+
+252
+00:14:31,383 --> 00:14:35,012
+Aku hanya seorang pria yang sedang
+melakukan pekerjaannya.
+
+253
+00:14:35,095 --> 00:14:37,681
+Orang yang tepat untuk pekerjaan itu
+di waktu yang tepat.
+
+254
+00:14:39,225 --> 00:14:42,603
+Kau sudah terbang berapa lama,
+hampir 40 tahun?
+
+255
+00:14:43,187 --> 00:14:45,523
+Sudah 42 tahun.
+Sudah menjadi bagian hidupku.
+
+256
+00:14:46,858 --> 00:14:48,318
+Seluruh hidupku.
+
+257
+00:14:58,245 --> 00:14:59,788
+Pesawatmu.
+
+258
+00:15:00,914 --> 00:15:02,374
+Pesawatku.
+
+259
+00:15:14,845 --> 00:15:18,265
+Aku akan sibuk menyemprot pupuk
+di Super Cub sepanjang musim panas.
+
+260
+00:15:18,349 --> 00:15:21,227
+Jadi, kau bisa menerbangkannya,
+kapan pun kau mau.
+
+261
+00:15:21,310 --> 00:15:23,229
+Masih 6 dolar per jam.
+Kuanggap jam belajar.
+
+262
+00:15:24,730 --> 00:15:27,233
+Seorang pilot tidak pernah berhenti
+memperoleh pengetahuan.
+
+263
+00:15:27,650 --> 00:15:30,236
+Kau akan berbuat salah,
+semua orang begitu. Belajar dari itu.
+
+264
+00:15:30,320 --> 00:15:31,613
+Ya, Pak.
+
+265
+00:15:32,197 --> 00:15:34,699
+Dan jangan pernah lupa,
+apa pun yang terjadi...
+
+266
+00:15:34,783 --> 00:15:36,326
+untuk menerbangkan pesawat.
+
+267
+00:15:36,409 --> 00:15:37,494
+Tentu, Pak.
+
+268
+00:15:39,704 --> 00:15:42,082
+Satu hal lagi, dan ini penting.
+
+269
+00:15:42,165 --> 00:15:43,166
+Pak?
+
+270
+00:15:43,250 --> 00:15:44,418
+Kau boleh tersenyum.
+
+271
+00:15:46,211 --> 00:15:47,337
+Baiklah.
+
+272
+00:15:55,721 --> 00:15:57,890
+Aku minta maaf karena keringatnya.
+
+273
+00:15:57,973 --> 00:15:59,517
+Tidak. Setelah apa yang kau lakukan...
+
+274
+00:15:59,600 --> 00:16:01,602
+Kupikir Katie tidak akan
+terlalu menakutkan.
+
+275
+00:16:01,686 --> 00:16:03,104
+Bukan Katie.
+
+276
+00:16:03,187 --> 00:16:06,107
+Tapi lampu dan kamera
+yang dia bawa bersamanya.
+
+277
+00:16:06,941 --> 00:16:08,276
+Baik. Semua selesai.
+
+278
+00:16:10,153 --> 00:16:12,030
+Itu dari ibuku.
+
+279
+00:16:12,572 --> 00:16:16,326
+Namanya Brenda, katanya "terima kasih"
+dan bahwa dia lajang.
+
+280
+00:16:16,409 --> 00:16:20,205
+Kau beritahu Brenda terima kasih,
+tapi aku punya seorang gadis di rumah.
+
+281
+00:16:20,288 --> 00:16:21,581
+Wanita beruntung.
+
+282
+00:16:22,082 --> 00:16:23,375
+Terima kasih.
+
+283
+00:16:59,496 --> 00:17:00,914
+Sully.
+
+284
+00:17:00,997 --> 00:17:02,916
+Sully! Sully!
+
+285
+00:17:04,835 --> 00:17:06,586
+Sully, di mana kau?
+
+286
+00:17:07,212 --> 00:17:09,131
+Aku berdiri di sini menyebut namamu.
+
+287
+00:17:10,299 --> 00:17:11,800
+Ada apa denganmu?
+
+288
+00:17:15,095 --> 00:17:16,847
+Kau perlu konsentrasi.
+
+289
+00:17:17,556 --> 00:17:20,226
+Karena permintaan wawancara
+terus berdatangan.
+
+290
+00:17:20,309 --> 00:17:21,519
+Ya.
+
+291
+00:17:23,479 --> 00:17:27,275
+Larry Rooney mengajukan diri untuk
+mendampingimu menghadapi semua ini.
+
+292
+00:17:27,942 --> 00:17:29,569
+Dia pikir kau mungkin perlu teman.
+
+293
+00:17:29,652 --> 00:17:31,821
+Dia akan membawamu
+ke pertemuan NTSB hari ini.
+
+294
+00:17:32,613 --> 00:17:35,241
+Airbus juga sudah selesai
+dengan simulasi komputer mereka.
+
+295
+00:17:35,325 --> 00:17:37,327
+Bagus, itu akan membantu.
+
+296
+00:17:37,410 --> 00:17:40,246
+Ada hal lain. Arnie Gentile menelepon.
+
+297
+00:17:40,956 --> 00:17:42,457
+Dia memiliki data ACARS.
+
+298
+00:17:42,874 --> 00:17:44,960
+Mesin sebelah kiri masih beroperasi
+saat diam.
+
+299
+00:17:45,544 --> 00:17:48,338
+Tidak mungkin. Aku merasakannya berhenti.
+
+300
+00:17:48,422 --> 00:17:50,215
+Rasanya seolah kami berhenti di udara.
+
+301
+00:17:50,299 --> 00:17:51,383
+Kata Arnie mungkin...
+
+302
+00:17:51,466 --> 00:17:54,595
+Itu separuh diam,
+dan masih bisa melakukan dorongan.
+
+303
+00:17:55,471 --> 00:17:58,557
+Aku hanya memberitahumu
+karena NTSB sudah tahu.
+
+304
+00:18:09,152 --> 00:18:10,653
+Apa selanjutnya akan pensiun?
+
+305
+00:18:12,113 --> 00:18:13,531
+Apa rencanamu berikutnya?
+
+306
+00:18:14,198 --> 00:18:15,366
+Beri jalan, tolong.
+
+307
+00:18:15,617 --> 00:18:16,868
+Sully! Lihat kemari!
+
+308
+00:18:18,453 --> 00:18:20,747
+Hei, Larry. Senang melihat teman lama.
+
+309
+00:18:22,290 --> 00:18:24,000
+Mungkin yang terakhir kau lihat hari ini.
+
+310
+00:18:26,878 --> 00:18:29,214
+Kau bercanda.
+Kita sudah melalui semua ini sebelumnya.
+
+311
+00:18:29,297 --> 00:18:30,882
+Maaf jika kau frustrasi...
+
+312
+00:18:30,966 --> 00:18:34,052
+tapi tugas kami menyelidiki bagaimana
+pesawat itu berakhir di Sungai Hudson.
+
+313
+00:18:34,136 --> 00:18:35,679
+Di Sungai Hudson.
+
+314
+00:18:40,017 --> 00:18:42,728
+Bukankah ini masih terlalu awal
+untuk memancing?
+
+315
+00:18:42,978 --> 00:18:45,481
+Mencari fakta tak bisa
+disebut "memancing," Tn. Skiles.
+
+316
+00:18:45,564 --> 00:18:47,733
+Berikut fakta yang paling penting.
+
+317
+00:18:47,817 --> 00:18:50,611
+Dua orang tahu yang terjadi
+di kokpit hari itu, aku salah satunya.
+
+318
+00:18:50,695 --> 00:18:51,821
+Kami menghargai pendapatmu.
+
+319
+00:18:53,114 --> 00:18:55,116
+Mengapa kau berpikir
+kita di sini hari ini?
+
+320
+00:18:56,659 --> 00:18:59,829
+Itu karena Kapten Sullenberger
+tidak kembali ke LaGuardia.
+
+321
+00:19:01,498 --> 00:19:03,291
+Aku baru saja selesai pelatihan A320...
+
+322
+00:19:03,416 --> 00:19:06,586
+dan bisa kukatakan, satu-satunya alasan
+pesawat itu dioperasikan dengan baik...
+
+323
+00:19:06,711 --> 00:19:08,463
+dan bisa mendarat di mana saja...
+
+324
+00:19:08,547 --> 00:19:11,216
+adalah karena Kapten Sullenberger
+menyalakan Unit Daya Tambahan.
+
+325
+00:19:11,300 --> 00:19:13,427
+Dia hanya mematuhi QRH.
+
+326
+00:19:13,510 --> 00:19:15,262
+Tidak.
+
+327
+00:19:15,345 --> 00:19:17,014
+Dia tidak mengikuti prosedur yang benar.
+
+328
+00:19:17,097 --> 00:19:19,308
+Dan aku tahu,
+karena aku memegang QRH.
+
+329
+00:19:19,934 --> 00:19:22,394
+Dia langsung beralih ke UDT
+begitu mesin berhenti berfungsi.
+
+330
+00:19:23,270 --> 00:19:26,524
+Menurut Airbus, itu tindakan ke-15
+di daftar hal yang harus dilakukan.
+
+331
+00:19:26,607 --> 00:19:28,067
+Kelima belas.
+
+332
+00:19:28,150 --> 00:19:30,695
+Jika dia mengikuti aturan itu,
+kita semua akan mati.
+
+333
+00:19:32,947 --> 00:19:34,699
+Mungkin itu bagian yang tidak kau sukai.
+
+334
+00:19:34,782 --> 00:19:36,826
+Kau tidak terbiasa mendapat jawaban
+atas dugaanmu.
+
+335
+00:19:38,077 --> 00:19:39,787
+Apa yang Jeff katakan...
+
+336
+00:19:39,871 --> 00:19:44,167
+adalah aku kenal A320,
+apa yang boleh dan tidak boleh dilakukan.
+
+337
+00:19:44,250 --> 00:19:48,004
+Aku telah membaca banyak transkrip CVR
+dari pilot-pilot yang meninggal...
+
+338
+00:19:48,088 --> 00:19:50,632
+dan aku punya pengalaman investigasi
+kecelakaan yang signifikan.
+
+339
+00:19:51,258 --> 00:19:53,260
+Tidak ada keraguan...
+
+340
+00:19:53,343 --> 00:19:57,681
+bahwa kau pilot profesional yang berbakat,
+berdedikasi dan berpengalaman.
+
+341
+00:19:57,765 --> 00:20:00,392
+Tapi semua penerbanganmu
+sebelum 15 Januari...
+
+342
+00:20:00,476 --> 00:20:03,813
+dan semua kecelakaan yang kau selidiki
+tidak masuk dalam penyelidikan ini.
+
+343
+00:20:04,396 --> 00:20:06,982
+Hanya US Airways 1549
+yang penting hari ini.
+
+344
+00:20:07,817 --> 00:20:09,360
+Serikatmu telah diberitahu.
+
+345
+00:20:10,152 --> 00:20:13,197
+Data ACARS mengungkapkan
+bahwa mesin kiri...
+
+346
+00:20:13,281 --> 00:20:15,283
+beroperasi sepanjang penerbangan.
+
+347
+00:20:15,366 --> 00:20:17,035
+Kalau begitu data ACARS salah.
+
+348
+00:20:17,118 --> 00:20:18,870
+Bukti menunjukkan bahwa mesin kiri...
+
+349
+00:20:18,953 --> 00:20:22,290
+dalam kondisi diam atau separuh siaga
+setelah tabrakan dengan burung.
+
+350
+00:20:22,373 --> 00:20:23,792
+Tunjukkan mesin kiri itu...
+
+351
+00:20:23,875 --> 00:20:25,835
+akan kutunjukkan burung mati
+dan tanpa tenaga.
+
+352
+00:20:25,919 --> 00:20:28,088
+Mesin kiri itu rusak dalam kecelakaan...
+
+353
+00:20:28,171 --> 00:20:30,215
+akibat kerusakan berlebih saat pendaratan.
+
+354
+00:20:30,298 --> 00:20:32,592
+Tapi kita bisa kembali membahas itu nanti.
+
+355
+00:20:32,676 --> 00:20:35,095
+Mari kita berasumsi bahwa itu,
+seperti yang kau katakan...
+
+356
+00:20:35,846 --> 00:20:38,348
+dua mesin yang mati
+karena tabrakan burung.
+
+357
+00:20:38,432 --> 00:20:41,685
+Berat pesawat 68.723 kilogram,
+
+358
+00:20:41,769 --> 00:20:44,563
+angin dan temperatur
+utara, barat laut, 21 derajat.
+
+359
+00:20:44,688 --> 00:20:47,900
+Kecepatan dan ketinggian
+200 knot di 858 meter.
+
+360
+00:20:48,734 --> 00:20:50,236
+- Setuju?
+- Benar.
+
+361
+00:20:50,319 --> 00:20:52,446
+Kami berhasil menjalankan
+semua algoritma bersamaan.
+
+362
+00:20:52,530 --> 00:20:57,035
+Dan hasil simulasi komputer untuk
+US Airways Penerbangan 1549...
+
+363
+00:20:57,118 --> 00:20:59,829
+menunjukkan bahwa insinyur penerbangan
+memang benar.
+
+364
+00:21:00,371 --> 00:21:02,207
+Ada cukup ketinggian dan kecepatan...
+
+365
+00:21:02,290 --> 00:21:05,710
+setelah tabrakan burung
+untuk berhasil kembali ke LaGuardia.
+
+366
+00:21:06,711 --> 00:21:07,837
+Berhasil?
+
+367
+00:21:07,921 --> 00:21:10,257
+Pesawat itu mendarat di LaGuardia.
+
+368
+00:21:10,715 --> 00:21:11,758
+Dalam keadaan utuh.
+
+369
+00:21:12,676 --> 00:21:13,885
+Tidak rusak.
+
+370
+00:21:13,969 --> 00:21:16,096
+Kau mendapat itu
+dari satu simulasi komputer?
+
+371
+00:21:16,179 --> 00:21:17,264
+Tidak.
+
+372
+00:21:17,681 --> 00:21:18,640
+Dari 20.
+
+373
+00:21:18,724 --> 00:21:22,144
+Termasuk upaya yang dilakukan
+untuk landasan Teterboro 1- 9...
+
+374
+00:21:22,227 --> 00:21:25,606
+dan landasan LaGuardia 2-2 dan 1-3.
+
+375
+00:21:25,689 --> 00:21:29,193
+Setiap simulasi komputer dengan
+koordinat penerbangan yang tepat...
+
+376
+00:21:29,276 --> 00:21:33,072
+menunjukkan bahwa kembali ke LaGuardia
+adalah mungkin.
+
+377
+00:21:33,155 --> 00:21:34,657
+Tak cuma mungkin, kemungkinan besar.
+
+378
+00:21:39,412 --> 00:21:41,915
+Apakah ada yang perlu mendengar
+bukti komputer tambahan?
+
+379
+00:21:44,501 --> 00:21:46,211
+Kapten Sullenberger?
+
+380
+00:21:47,420 --> 00:21:48,672
+Ko-pilot Skiles?
+
+381
+00:21:49,005 --> 00:21:50,590
+Tidak saat ini.
+
+382
+00:21:51,508 --> 00:21:55,595
+Aku ingin meninjau
+parameter yang digunakan.
+
+383
+00:21:56,513 --> 00:21:58,390
+Kami akan buat mereka tersedia
+untuk serikat.
+
+384
+00:21:58,473 --> 00:21:59,308
+Terima kasih.
+
+385
+00:21:59,391 --> 00:22:01,435
+Setelah penyelidikan selesai...
+
+386
+00:22:01,518 --> 00:22:04,271
+kami akan bisa membagi
+simulasi komputer yang sebenarnya.
+
+387
+00:22:04,355 --> 00:22:06,190
+Untuk saat ini, mereka tetap rahasia.
+
+388
+00:22:06,273 --> 00:22:08,192
+Kita tidak bisa membocorkan pada media.
+
+389
+00:22:09,777 --> 00:22:12,154
+Sudah terlalu banyak
+yang dilaporkan media.
+
+390
+00:22:16,659 --> 00:22:19,495
+Setelah rekaman suara kokpit lengkap
+sudah dikumpulkan...
+
+391
+00:22:19,579 --> 00:22:22,790
+bersama dengan semua transkrip
+ATC dan di atas pesawat...
+
+392
+00:22:23,416 --> 00:22:24,959
+kami akan menghubungimu kembali.
+
+393
+00:22:26,419 --> 00:22:28,254
+Terima kasih, Tuan-tuan. Selamat siang.
+
+394
+00:22:30,757 --> 00:22:31,925
+Terima kasih.
+
+395
+00:22:39,391 --> 00:22:40,642
+Mereka bermain Pacman.
+
+396
+00:22:40,726 --> 00:22:43,312
+Kau menerbangkan pesawat
+penuh manusia.
+
+397
+00:22:44,229 --> 00:22:45,606
+Entah bagaimana...
+
+398
+00:22:45,689 --> 00:22:47,483
+bukan itu yang aku ingat.
+
+399
+00:22:48,234 --> 00:22:49,568
+Ini tidak tampak benar.
+
+400
+00:22:49,652 --> 00:22:51,654
+Karena memang tidak benar.
+
+401
+00:22:51,737 --> 00:22:54,282
+Sully, kau lakukan semua yang kau bisa
+dan itu lebih dari cukup.
+
+402
+00:22:55,157 --> 00:22:56,617
+Tanya para penumpang.
+
+403
+00:22:56,701 --> 00:22:58,995
+Tanya istri dan anak-anakmu.
+Tanya keluargaku.
+
+404
+00:23:23,353 --> 00:23:26,523
+Jadi apa hal pertama yang kau dengar
+dari kokpit?
+
+405
+00:23:26,649 --> 00:23:28,818
+- "Bersiap untuk benturan."
+- "Bersiap untuk benturan."
+
+406
+00:23:29,443 --> 00:23:31,570
+Kau pernah dengar hal itu
+sebelumnya dari kokpit?
+
+407
+00:23:31,654 --> 00:23:32,947
+Tidak, tidak pernah.
+
+408
+00:23:36,409 --> 00:23:39,495
+Pernah dengar itu
+dalam aspek lain kehidupanmu?
+
+409
+00:23:42,832 --> 00:23:44,083
+Entahlah.
+
+410
+00:23:44,542 --> 00:23:46,044
+Entahlah.
+
+411
+00:23:49,965 --> 00:23:52,551
+Mereka bisa gantikan aku.
+
+412
+00:23:54,302 --> 00:23:56,847
+Jeff santai dan lucu.
+
+413
+00:23:56,930 --> 00:23:58,849
+Dia harus dapat
+semua permintaan wawancara kami.
+
+414
+00:23:58,932 --> 00:23:59,975
+Apa mereka membayarmu...
+
+415
+00:24:00,517 --> 00:24:02,269
+setidaknya untuk semua program media ini?
+
+416
+00:24:02,352 --> 00:24:03,771
+Ini berita, Lorr.
+
+417
+00:24:03,854 --> 00:24:05,439
+Tidak ada pembayaran.
+
+418
+00:24:05,939 --> 00:24:07,441
+Andai bank juga merasa begitu.
+
+419
+00:24:07,524 --> 00:24:09,068
+Kenapa? Apa maksudmu?
+
+420
+00:24:09,151 --> 00:24:10,402
+Hanya...
+
+421
+00:24:11,320 --> 00:24:13,280
+Kita mendapat surat lagi...
+
+422
+00:24:13,364 --> 00:24:15,116
+tentang properti di Butte County.
+
+423
+00:24:18,244 --> 00:24:19,495
+Kita akan menemukan penghuni.
+
+424
+00:24:19,579 --> 00:24:20,747
+Ini hanya membutuhkan waktu.
+
+425
+00:24:20,830 --> 00:24:23,791
+Ya, kau katakan itu selama
+sembilan bulan, Sully. Itu masih kosong.
+
+426
+00:24:23,875 --> 00:24:25,460
+Perekonomian berubah.
+
+427
+00:24:26,169 --> 00:24:29,547
+Rasanya seperti jika kita kehilangan
+properti itu, efek jatuh berikutnya...
+
+428
+00:24:29,631 --> 00:24:30,840
+adalah rumah.
+
+429
+00:24:31,508 --> 00:24:33,927
+Lorr, kita tidak akan kehilangan rumah.
+
+430
+00:24:34,010 --> 00:24:35,303
+Maafkan aku.
+
+431
+00:24:36,096 --> 00:24:37,139
+Maafkan aku.
+
+432
+00:24:37,222 --> 00:24:38,765
+Aku hanya gelisah...
+
+433
+00:24:39,391 --> 00:24:42,144
+dan aku sendirian dan kurang tidur.
+
+434
+00:24:42,227 --> 00:24:43,103
+Ya, aku tahu.
+
+435
+00:24:43,187 --> 00:24:45,606
+Aku di sini juga tak bisa tidur.
+
+436
+00:24:45,689 --> 00:24:47,524
+Maaf jika aku menambah bebanmu.
+
+437
+00:24:47,608 --> 00:24:49,860
+Tapi katakan saja kau akan
+segera terbang lagi.
+
+438
+00:24:50,569 --> 00:24:53,489
+Tidak sampai NTSB selesai
+dengan penyelidikan mereka.
+
+439
+00:24:54,198 --> 00:24:55,616
+Kami membutuhkanmu terbang.
+
+440
+00:24:55,700 --> 00:24:58,744
+Lorr, jika ini berjalan buruk...
+
+441
+00:24:58,828 --> 00:25:00,705
+karierku sebagai pakar keamanan...
+
+442
+00:25:00,788 --> 00:25:03,875
+akan berakhir sebagai sebuah situs web
+dan kartu nama.
+
+443
+00:25:03,958 --> 00:25:06,336
+Aku lebih khawatir
+tentang kariermu sebagai pilot.
+
+444
+00:25:10,548 --> 00:25:12,884
+Bagaimana jika aku memang
+mengacaukan ini?
+
+445
+00:25:12,968 --> 00:25:14,386
+Apa maksudmu?
+
+446
+00:25:15,345 --> 00:25:18,598
+Bagaimana jika aku memang salah,
+begitu dekat dengan akhir karierku?
+
+447
+00:25:19,766 --> 00:25:23,020
+Jika aku membahayakan nyawa
+seluruh penumpang tersebut?
+
+448
+00:25:23,729 --> 00:25:26,648
+Sully, tonton berita.
+
+449
+00:25:26,732 --> 00:25:28,442
+Kau pahlawan.
+
+450
+00:25:28,525 --> 00:25:30,945
+Semua orang harus bisa menerimanya,
+termasuk NTSB.
+
+451
+00:25:32,613 --> 00:25:34,281
+Skenario terburuk...
+
+452
+00:25:34,365 --> 00:25:37,076
+NTSB menganggapku bertanggung jawab.
+
+453
+00:25:37,159 --> 00:25:39,787
+Itu langsung diberhentikan. Tanpa pensiun.
+
+454
+00:25:40,413 --> 00:25:41,497
+Jerih payahku hilang.
+
+455
+00:25:41,581 --> 00:25:44,626
+Baik, kau membuatku takut sekarang, Sully.
+Apa yang terjadi?
+
+456
+00:25:46,127 --> 00:25:48,838
+Mesin kiri mungkin masih terus siaga.
+
+457
+00:25:50,131 --> 00:25:51,800
+Dan simulasi Airbus mengatakan...
+
+458
+00:25:51,883 --> 00:25:54,553
+aku bisa kembali
+ke LaGuardia dengan aman.
+
+459
+00:25:55,387 --> 00:25:57,013
+Tapi itu tidak masuk akal.
+
+460
+00:25:57,514 --> 00:26:01,476
+Tidak sesuai dengan semua
+yang aku rasakan di kokpit.
+
+461
+00:26:02,185 --> 00:26:04,354
+Lalu kenapa kau melakukannya, Sully?
+
+462
+00:26:05,647 --> 00:26:07,357
+Apa, mendarat di air?
+
+463
+00:26:08,484 --> 00:26:10,653
+Bukankah itu kemungkinan
+yang paling berbahaya?
+
+464
+00:26:13,864 --> 00:26:15,991
+SELAMAT DATANG DI LAGUARDIA
+
+465
+00:26:18,286 --> 00:26:20,496
+Selamat siang, Gursimran.
+
+466
+00:26:22,915 --> 00:26:25,043
+Tuna kemangi atau ham dan cheddar?
+
+467
+00:26:25,126 --> 00:26:27,587
+Tuna kemangi, Tn. Sully. Sangat segar.
+
+468
+00:26:31,257 --> 00:26:33,176
+- Terima kasih.
+- Hati-hati dalam penerbangan.
+
+469
+00:26:33,259 --> 00:26:35,303
+Terlalu dingin hari ini. Terlalu dingin.
+
+470
+00:26:35,387 --> 00:26:37,305
+Kapan kau akan terbang denganku?
+
+471
+00:26:38,056 --> 00:26:40,976
+Ketika US Air mulai terbang ke Hyderabad.
+
+472
+00:26:41,059 --> 00:26:44,062
+Aku akan berbicara dengan ketua,
+lihat apa yang bisa kita atur.
+
+473
+00:26:46,648 --> 00:26:48,734
+- Ya ampun, Diane!
+- Tidak!
+
+474
+00:26:48,817 --> 00:26:50,486
+- Ini ulang tahunnya!
+- Ayolah! Tidak, Bu!
+
+475
+00:26:50,611 --> 00:26:52,029
+Hanya sedikit hadiah.
+
+476
+00:26:52,112 --> 00:26:54,949
+Koper sudah penuh
+dengan hadiah untuk Will.
+
+477
+00:26:55,032 --> 00:26:56,867
+Selalu menyenangkan membeli di bandara.
+
+478
+00:26:56,951 --> 00:26:58,577
+Rasanya seperti kau juga bepergian.
+
+479
+00:26:58,661 --> 00:27:00,454
+Bu, dia baru akan berumur satu tahun.
+
+480
+00:27:00,538 --> 00:27:03,291
+Kurasa dia tak bisa paham
+hadiah apa datang dari mana.
+
+481
+00:27:03,374 --> 00:27:05,001
+Tapi aku bisa.
+
+482
+00:27:05,084 --> 00:27:07,045
+Mungkin bola salju.
+
+483
+00:27:07,128 --> 00:27:09,797
+Sesuatu yang akan dia ingat.
+Berkesan "New York."
+
+484
+00:27:09,881 --> 00:27:12,008
+Apakah kau murah hati
+sewaktu kami masih anak-anak?
+
+485
+00:27:12,092 --> 00:27:15,720
+Baik, sayang.
+Aku akan membelikanmu bola salju juga.
+
+486
+00:27:17,138 --> 00:27:18,974
+Baik. Ayolah.
+
+487
+00:27:30,778 --> 00:27:32,613
+- Selamat sore, Sheila.
+- Kapten.
+
+488
+00:27:34,990 --> 00:27:36,534
+- Halo, Donna.
+- Kapten.
+
+489
+00:27:36,617 --> 00:27:38,452
+- Jeff.
+- Hei, Sully. Apa kabar?
+
+490
+00:27:43,166 --> 00:27:44,584
+Hei, semua! Jeff!
+
+491
+00:27:44,667 --> 00:27:45,793
+Kita akan terlambat!
+
+492
+00:27:45,877 --> 00:27:47,086
+Aku sudah menunggu satu tahun.
+
+493
+00:27:47,170 --> 00:27:49,464
+Aku tak mau ketinggalan.
+Temui kami di pintu gerbang, oke?
+
+494
+00:27:49,547 --> 00:27:51,216
+Sampai jumpa di sana, Paman Robbie.
+
+495
+00:27:53,593 --> 00:27:55,929
+Altimeter sudah diverifikasi. 3-0-2-3.
+
+496
+00:27:56,012 --> 00:27:58,098
+3-0-2-3.
+
+497
+00:28:01,393 --> 00:28:03,270
+Daftar periksa awal lengkap.
+
+498
+00:28:06,773 --> 00:28:08,734
+Kau pikir mereka akan
+membiarkan kita terbang?
+
+499
+00:28:09,735 --> 00:28:12,488
+Aku periksa laporan terbaru.
+Jalur kita aman sampai ke Charlotte.
+
+500
+00:28:14,198 --> 00:28:15,407
+Kemudian steak.
+
+501
+00:28:15,491 --> 00:28:16,909
+Del Frisco. Aku yang traktir.
+
+502
+00:28:17,576 --> 00:28:18,828
+Aku belum pernah ke sana.
+
+503
+00:28:18,911 --> 00:28:20,079
+Kudengar itu restoran bagus.
+
+504
+00:28:22,456 --> 00:28:24,083
+Daging steaknya enak sekali.
+
+505
+00:28:25,293 --> 00:28:26,669
+Aku lebih suka porterhouse.
+
+506
+00:28:27,587 --> 00:28:29,255
+Porterhouse akan menghentikan jantungmu.
+
+507
+00:28:30,298 --> 00:28:31,299
+Charlotte
+1549 14:45 DITUTUP
+
+508
+00:28:31,382 --> 00:28:33,676
+Pintu keberangkatan US Airways
+penerbangan 1549 ditutup...
+
+509
+00:28:33,760 --> 00:28:34,677
+Tunggu, tunggu!
+
+510
+00:28:34,761 --> 00:28:36,012
+- Cepat.
+- Tunggu, tunggu!
+
+511
+00:28:36,721 --> 00:28:37,889
+Hai. Maafkan aku.
+
+512
+00:28:37,973 --> 00:28:39,766
+Spirit mengutus kami.
+
+513
+00:28:39,850 --> 00:28:41,852
+Penerbangan kami dibatalkan
+dan kami dialihkan.
+
+514
+00:28:41,935 --> 00:28:43,228
+Kalian punya kursi kosong?
+
+515
+00:28:43,311 --> 00:28:44,521
+Penerbangan sudah ditutup.
+
+516
+00:28:44,604 --> 00:28:47,190
+Tunggu, lihat pria tua pincang itu?
+
+517
+00:28:47,274 --> 00:28:49,568
+Itu ayahku. Ini darurat.
+Dia harus ada di penerbangan ini.
+
+518
+00:28:49,651 --> 00:28:51,403
+Keadaan darurat apa?
+
+519
+00:28:51,487 --> 00:28:54,073
+- Darurat golf.
+- Penerbangan ini dibatalkan?
+
+520
+00:28:54,156 --> 00:28:55,658
+Seharusnya.
+
+521
+00:28:56,617 --> 00:28:58,285
+- Tanda pengenal.
+- Astaga!
+
+522
+00:28:58,369 --> 00:29:00,579
+- Berapa orang yang terbang?
+- Tiga. Terima kasih.
+
+523
+00:29:00,663 --> 00:29:02,331
+Tak ada yang bersebelahan.
+
+524
+00:29:02,415 --> 00:29:04,041
+Tidak apa-apa.
+Aku akan duduk di sayap.
+
+525
+00:29:05,626 --> 00:29:06,961
+Ini dia.
+
+526
+00:29:07,044 --> 00:29:08,296
+22A...
+
+527
+00:29:08,379 --> 00:29:09,672
+6A...
+
+528
+00:29:09,756 --> 00:29:10,965
+dan 6C.
+
+529
+00:29:11,090 --> 00:29:12,675
+- Terima kasih.
+- Terima kasih.
+
+530
+00:29:12,759 --> 00:29:13,676
+Terima kasih.
+
+531
+00:29:13,760 --> 00:29:15,929
+- Asyik!
+- Akhir yang bahagia.
+
+532
+00:29:16,304 --> 00:29:19,015
+- Dia melirikku.
+- Kau memang menawan!
+
+533
+00:29:19,099 --> 00:29:20,225
+- Halo.
+- Selamat datang.
+
+534
+00:29:20,308 --> 00:29:21,393
+- Apa kabar?
+- Untung bisa.
+
+535
+00:29:21,518 --> 00:29:22,853
+- Ya, benar.
+- Baiklah.
+
+536
+00:29:22,936 --> 00:29:24,104
+- Maaf.
+- Terima kasih.
+
+537
+00:29:24,187 --> 00:29:26,481
+- Kita di nomor enam, Jeff.
+- Tidak. Itu kursi Jimmy.
+
+538
+00:29:26,565 --> 00:29:28,483
+Aku terjaga sampai jam tiga.
+Aku harus tidur.
+
+539
+00:29:28,567 --> 00:29:29,860
+Kau bisa tidur di sini.
+
+540
+00:29:29,943 --> 00:29:31,653
+Tak bisa jika kau terus membicarakan golf.
+
+541
+00:29:31,737 --> 00:29:33,572
+Aku akan bermain 7 iron
+di lubang kesembilan.
+
+542
+00:29:33,656 --> 00:29:34,990
+Tidak. Selamat malam.
+
+543
+00:29:38,077 --> 00:29:39,745
+Maaf. Permisi.
+
+544
+00:29:43,040 --> 00:29:44,625
+Sini. Ini dia.
+
+545
+00:29:44,709 --> 00:29:46,335
+- Terima kasih.
+- Ya, tentu saja.
+
+546
+00:29:48,921 --> 00:29:50,465
+Hei, aku duduk di sini.
+
+547
+00:29:50,548 --> 00:29:51,716
+Aku minta maaf.
+
+548
+00:29:51,799 --> 00:29:53,134
+Dia suka membuang barang.
+
+549
+00:29:53,218 --> 00:29:55,220
+Itu sempurna.
+Aku suka menangkap semuanya.
+
+550
+00:29:56,221 --> 00:29:57,555
+Hei, pria kecil.
+
+551
+00:29:57,639 --> 00:29:59,349
+Aku memeriksa namamu di Google semalam.
+
+552
+00:29:59,975 --> 00:30:03,145
+Baca semua tentang perusahaanmu
+di situs web.
+
+553
+00:30:04,479 --> 00:30:05,564
+Itu mengesankan.
+
+554
+00:30:06,273 --> 00:30:07,232
+Terima kasih.
+
+555
+00:30:08,942 --> 00:30:12,070
+Kupikir aku pembohong yang baik,
+tapi kau?
+
+556
+00:30:12,863 --> 00:30:14,156
+Kau bisa menjadi profesional.
+
+557
+00:30:14,239 --> 00:30:15,074
+Hei.
+
+558
+00:30:15,157 --> 00:30:16,784
+Aku hanya menggoda.
+
+559
+00:30:16,867 --> 00:30:17,993
+Di situs itu seolah...
+
+560
+00:30:18,077 --> 00:30:20,830
+bisnis konsultasi keselamatan udaramu
+punya sekitar 100 karyawan...
+
+561
+00:30:20,913 --> 00:30:24,041
+dan kantor pusat di tiga negara bagian.
+
+562
+00:30:24,125 --> 00:30:25,501
+Lalu saat kugali lebih dalam...
+
+563
+00:30:25,585 --> 00:30:28,087
+aku menyadari hanya ada kau.
+
+564
+00:30:29,046 --> 00:30:30,381
+Pelan-pelan.
+
+565
+00:30:30,465 --> 00:30:32,383
+Aku baru mau memulainya.
+
+566
+00:30:33,051 --> 00:30:34,802
+Aku tak biasanya dituduh
+sebagai pembohong.
+
+567
+00:30:35,678 --> 00:30:37,680
+Jangan salah paham.
+Sebenarnya, itu pujian.
+
+568
+00:30:37,764 --> 00:30:40,558
+Dari situs web itu? Aku akan
+mempekerjakanmu.
+
+569
+00:30:40,642 --> 00:30:42,853
+Selamat siang, para penumpang.
+
+570
+00:30:42,936 --> 00:30:46,815
+Selamat datang di US Airways
+Penerbangan 1549 tujuan Charlotte.
+
+571
+00:30:46,898 --> 00:30:50,068
+Harap baca kartu instruksi keselamatan
+di saku kursi belakang di hadapan anda.
+
+572
+00:30:50,152 --> 00:30:52,529
+Itu menjelaskan fitur keselamatan
+pesawat ini...
+
+573
+00:30:52,613 --> 00:30:54,281
+serta lokasi dan cara pengoperasian...
+
+574
+00:30:54,365 --> 00:30:56,075
+pintu keluar dan alat pelampung.
+
+575
+00:30:56,158 --> 00:30:58,744
+Bantalan kursi Anda berfungsi
+sebagai alat pelampung.
+
+576
+00:30:58,827 --> 00:31:02,164
+LaGuardia, Kaktus 1549.
+Siap bergerak dari gerbang 21.
+
+577
+00:31:02,248 --> 00:31:05,626
+Kaktus 1549, gerbang 21 sudah siap.
+Silakan meluncur di posisi 28.
+
+578
+00:31:13,343 --> 00:31:15,094
+Jangan lupa matikan itu.
+
+579
+00:31:16,429 --> 00:31:17,889
+Meja diangkat.
+
+580
+00:31:34,823 --> 00:31:38,118
+Sekali saja aku ingin keluar
+dari LaGuardia tepat waktu.
+
+581
+00:31:38,661 --> 00:31:41,122
+Kau tahu satu-satunya cara
+keluar dari LaGuardia tepat waktu.
+
+582
+00:31:41,205 --> 00:31:42,581
+Ya, apa itu?
+
+583
+00:31:42,665 --> 00:31:44,083
+Terbang keluar dari JFK.
+
+584
+00:31:44,917 --> 00:31:45,960
+Lucu.
+
+585
+00:31:55,428 --> 00:31:57,388
+Verifikasi bahan bakar minimum
+untuk lepas landas.
+
+586
+00:31:57,472 --> 00:31:58,515
+Dibutuhkan 8.618 liter.
+
+587
+00:31:58,598 --> 00:32:00,016
+Kita punya 9.888 liter.
+
+588
+00:32:00,100 --> 00:32:02,852
+Dibutuhkan 8.618 liter.
+Kita punya 9.888 liter.
+
+589
+00:32:02,936 --> 00:32:05,981
+Kaktus 1549. Landasan 4.
+Siap untuk lepas landas.
+
+590
+00:32:06,815 --> 00:32:08,900
+Kaktus 1549. Siap untuk lepas landas.
+
+591
+00:32:15,240 --> 00:32:16,825
+TO/GA.
+
+592
+00:32:16,909 --> 00:32:18,118
+TO/GA siap.
+
+593
+00:32:41,935 --> 00:32:43,061
+Tingkat positif.
+
+594
+00:32:43,728 --> 00:32:44,980
+Tolong naikkan roda.
+
+595
+00:32:46,565 --> 00:32:47,566
+Roda naik.
+
+596
+00:32:58,077 --> 00:32:59,745
+Pemandangan Hudson yang indah.
+
+597
+00:33:00,537 --> 00:33:03,290
+Aku tidak akan pernah melupakan
+betapa indah di atas sini.
+
+598
+00:33:04,125 --> 00:33:06,001
+Hidup lebih mudah di udara.
+
+599
+00:33:06,085 --> 00:33:07,753
+Kurasa ya.
+
+600
+00:33:10,715 --> 00:33:11,632
+Burung!
+
+601
+00:33:19,974 --> 00:33:21,601
+Sialan.
+
+602
+00:33:22,185 --> 00:33:23,186
+Ya.
+
+603
+00:33:29,693 --> 00:33:31,361
+Mungkin hanya turbulensi saja.
+
+604
+00:33:31,445 --> 00:33:32,738
+Aku akan periksa kabin tengah.
+
+605
+00:33:33,196 --> 00:33:34,364
+Menurutmu apa yang terjadi?
+
+606
+00:33:36,492 --> 00:33:37,493
+Tidak masalah.
+
+607
+00:33:37,951 --> 00:33:41,121
+Semuanya, mungkin lebih baik untuk
+tetap menggunakan sabuk pengaman.
+
+608
+00:33:43,791 --> 00:33:45,459
+Kita punya satu kerusakan.
+
+609
+00:33:47,920 --> 00:33:50,131
+Kita punya dua kerusakan.
+
+610
+00:33:54,635 --> 00:33:55,595
+Menyalakan kontak.
+
+611
+00:34:03,103 --> 00:34:04,396
+Ya Tuhan.
+
+612
+00:34:05,855 --> 00:34:07,023
+Aku akan memulai UDT.
+
+613
+00:34:11,653 --> 00:34:13,488
+Harap periksa lagi
+sabuk pengaman Anda.
+
+614
+00:34:13,572 --> 00:34:15,407
+- Sabuk pengaman. Tenang.
+- Bisa saya periksa?
+
+615
+00:34:15,490 --> 00:34:17,326
+Pastikan sabuk pengaman Anda terpasang.
+
+616
+00:34:19,745 --> 00:34:21,080
+Sabuk pengaman.
+
+617
+00:34:24,959 --> 00:34:27,545
+- Menurutmu itu apa?
+- Aku pikir itu tabrakan dengan burung.
+
+618
+00:34:28,462 --> 00:34:30,464
+- Berarti kita akan kembali ke LaGuardia.
+- Ya.
+
+619
+00:34:31,632 --> 00:34:34,719
+Keluarkan QRH.
+Kehilangan dorongan pada kedua mesin.
+
+620
+00:34:35,386 --> 00:34:37,513
+Mayday, mayday, mayday.
+Ini Kaktus 1549.
+
+621
+00:34:37,597 --> 00:34:38,598
+Kami menabrak burung.
+
+622
+00:34:38,723 --> 00:34:40,642
+Pertahankan ketinggian 457 meter,
+Delta 3-3-1.
+
+623
+00:34:40,725 --> 00:34:44,354
+Kami kehilangan dorongan di kedua mesin.
+Kami akan kembali ke LaGuardia.
+
+624
+00:34:44,437 --> 00:34:46,106
+Baik, kau perlu kembali ke LaGuardia?
+
+625
+00:34:46,564 --> 00:34:47,566
+Belok kiri menuju 2-2-0.
+
+626
+00:34:47,649 --> 00:34:48,525
+2-2-0.
+
+627
+00:34:48,608 --> 00:34:50,360
+Kau kehilangan mesin yang mana?
+
+628
+00:34:50,444 --> 00:34:51,695
+Keduanya. Kedua mesin.
+
+629
+00:34:51,778 --> 00:34:52,779
+- Pengawas?
+- Ya?
+
+630
+00:34:52,863 --> 00:34:54,239
+Ada keadaan darurat.
+
+631
+00:34:56,783 --> 00:34:57,701
+Apa laporannya?
+
+632
+00:34:57,784 --> 00:34:58,827
+Kedua mesin.
+
+633
+00:34:58,911 --> 00:35:00,871
+- Apa?
+- Kedua mesin mati. Tak ada dorongan.
+
+634
+00:35:03,666 --> 00:35:04,667
+Baiklah.
+
+635
+00:35:04,750 --> 00:35:07,628
+LaGuardia mengatakan
+pergi ke landasan 1-3.
+
+636
+00:35:07,711 --> 00:35:10,006
+Menara, hentikan keberangkatan.
+Ada darurat kembali.
+
+637
+00:35:10,089 --> 00:35:11,882
+1549, tabrakan burung.
+
+638
+00:35:12,008 --> 00:35:13,885
+Dia kehilangan kedua mesin.
+Segera kembali.
+
+639
+00:35:13,968 --> 00:35:14,969
+Mesin yang mana?
+
+640
+00:35:15,052 --> 00:35:17,305
+Dia kehilangan dorongan
+di kedua mesin, katanya.
+
+641
+00:35:18,097 --> 00:35:19,891
+Kaktus 1549,
+jika kami bisa dapat untukmu...
+
+642
+00:35:19,974 --> 00:35:21,518
+kau mau coba mendarat
+di landasan 1-3?
+
+643
+00:35:23,144 --> 00:35:25,271
+Kami tidak bisa.
+Kami mungkin berakhir di Hudson.
+
+644
+00:35:27,357 --> 00:35:29,609
+Ada A320 yang akan mendarat di sungai.
+
+645
+00:35:29,693 --> 00:35:31,528
+Al, cegat semua pesawat
+yang masuk LaGuardia.
+
+646
+00:35:31,611 --> 00:35:33,196
+Tolong hentikan kegiatan menara dulu.
+
+647
+00:35:33,280 --> 00:35:34,614
+Ayo, semua, tetap fokus.
+
+648
+00:35:34,698 --> 00:35:35,824
+Bagaimana jika di kanan?
+
+649
+00:35:35,908 --> 00:35:38,327
+Apa ada di New Jersey?
+Mungkin Teterboro?
+
+650
+00:35:38,410 --> 00:35:41,372
+Menara Teterboro, aku butuh landasan.
+Kaktus 1549 perlu mendarat sekarang.
+
+651
+00:35:41,455 --> 00:35:42,831
+Menara Newark, apa yang tersedia?
+
+652
+00:35:42,915 --> 00:35:44,583
+Landasan 2-9 kosong dan siap.
+
+653
+00:35:44,667 --> 00:35:46,168
+- Kau perlu pendaratan darurat?
+- Ya.
+
+654
+00:35:46,252 --> 00:35:47,169
+Baik.
+
+655
+00:35:47,253 --> 00:35:49,171
+Di sisi kananmu ada bandara Teterboro.
+
+656
+00:35:53,467 --> 00:35:54,719
+Sial.
+
+657
+00:35:55,428 --> 00:35:57,138
+Ini Kapten.
+
+658
+00:35:57,221 --> 00:35:58,973
+Bersiap untuk benturan.
+
+659
+00:35:59,057 --> 00:36:00,183
+Ya Tuhan.
+
+660
+00:36:00,266 --> 00:36:01,351
+Apa?
+
+661
+00:36:01,434 --> 00:36:03,478
+Bersiap, bersiap, bersiap!
+
+662
+00:36:03,561 --> 00:36:05,980
+Tundukkan kepala, tetap merunduk!
+
+663
+00:36:06,564 --> 00:36:08,817
+Bersiap, bersiap, bersiap!
+
+664
+00:36:08,900 --> 00:36:11,361
+Tundukkan kepala, tetap merunduk!
+
+665
+00:36:11,444 --> 00:36:15,198
+Kaktus 1549, belok kanan 2-8-0. Kau bisa
+mendarat di landasan satu Teterboro.
+
+666
+00:36:15,282 --> 00:36:16,450
+Tak akan bisa.
+
+667
+00:36:16,533 --> 00:36:18,410
+Kami akan berakhir di Hudson.
+
+668
+00:36:18,493 --> 00:36:20,245
+Maaf. Katakan lagi, Kaktus?
+
+669
+00:36:25,417 --> 00:36:27,837
+Kaktus 1549, hilang kontak radar.
+
+670
+00:36:28,420 --> 00:36:29,839
+KC, ayo ke sini.
+
+671
+00:36:29,922 --> 00:36:32,967
+Kau juga punya Newark arah jam 2
+di jarak 11,2 km.
+
+672
+00:36:34,677 --> 00:36:36,220
+Jangan mendarat di sungai.
+
+673
+00:36:36,304 --> 00:36:37,889
+- Pak?
+- Sambungkan.
+
+674
+00:36:41,517 --> 00:36:43,019
+Kaktus 1549, kalau bisa...
+
+675
+00:36:43,102 --> 00:36:45,605
+ada landasan pacu 2-9 tersedia di Newark.
+
+676
+00:36:45,688 --> 00:36:47,524
+Arah jam 2, jarak 11,2 km.
+
+677
+00:36:48,400 --> 00:36:49,317
+Ayolah.
+
+678
+00:36:50,068 --> 00:36:51,444
+Tolonglah, Tuhan.
+
+679
+00:36:55,490 --> 00:36:56,742
+Maafkan aku, Patrick.
+
+680
+00:36:56,825 --> 00:36:59,369
+Dia menuju Newark, aku tahu itu.
+Dia matikan untuk konsentrasi.
+
+681
+00:36:59,453 --> 00:37:00,370
+Patty.
+
+682
+00:37:00,454 --> 00:37:01,538
+Nanti akan tersambung lagi.
+
+683
+00:37:02,122 --> 00:37:03,832
+Dia menuju ke Teterboro.
+
+684
+00:37:03,916 --> 00:37:05,542
+Kita perlu mata dan telinga lainnya.
+
+685
+00:37:06,293 --> 00:37:08,754
+Perhatian, semua pesawat di sekitar GW.
+
+686
+00:37:10,798 --> 00:37:14,552
+Saat kita berbelok di sini,
+kita akan melihat USS Intrepid.
+
+687
+00:37:14,635 --> 00:37:16,637
+Ada pesawat A320 akan mendarat darurat.
+
+688
+00:37:16,721 --> 00:37:20,641
+Kaktus 1549 berada di ketinggian rendah
+di atas Hudson.
+
+689
+00:37:20,725 --> 00:37:24,354
+Ini helikopter 1-6-7, Mike Tango.
+Aku melihatnya.
+
+690
+00:37:24,437 --> 00:37:25,897
+Baik. Ada helikopter melihatnya.
+
+691
+00:37:25,980 --> 00:37:27,524
+Aku tetap di sini.
+
+692
+00:37:28,274 --> 00:37:29,776
+Dia ada di luar sana.
+
+693
+00:37:30,652 --> 00:37:32,821
+Dia menuju ke Newark, 11,2 km.
+
+694
+00:37:32,904 --> 00:37:34,489
+Hanya 11,2 km.
+
+695
+00:37:35,532 --> 00:37:38,702
+Kaktus 1549, ini menara kendali
+keberangkatan.
+
+696
+00:37:38,785 --> 00:37:40,704
+Bersiap, kau dengar?
+
+697
+00:37:41,622 --> 00:37:43,290
+Dia akan mendarat.
+
+698
+00:37:44,166 --> 00:37:46,168
+Kaktus 1549, kau dengar aku?
+
+699
+00:37:46,251 --> 00:37:48,462
+Sial! Dia akan mendarat.
+
+700
+00:37:48,546 --> 00:37:50,131
+Dia akan mendarat di air.
+
+701
+00:37:51,507 --> 00:37:53,884
+- KC, ambil tempat duduknya.
+- Baik.
+
+702
+00:37:59,182 --> 00:38:00,725
+Tester akan turun.
+
+703
+00:38:00,808 --> 00:38:03,853
+Alat ukur napas, sampel urine, standar.
+
+704
+00:38:04,729 --> 00:38:06,231
+Suaranya begitu tenang.
+
+705
+00:38:07,565 --> 00:38:10,026
+Ketika dia mengatakan Hudson,
+aku tidak percaya itu.
+
+706
+00:38:11,194 --> 00:38:13,113
+Ini tidak terjadi.
+
+707
+00:38:14,239 --> 00:38:16,825
+Orang tidak selamat
+dalam pendaratan di air, Henry.
+
+708
+00:38:21,663 --> 00:38:25,626
+Tarik ke atas. Tarik ke atas.
+
+709
+00:38:25,709 --> 00:38:27,044
+Kita akan bersiap.
+
+710
+00:38:38,097 --> 00:38:39,515
+Aku lebih baik pergi.
+
+711
+00:38:41,059 --> 00:38:42,643
+Aku sangat menyesal.
+
+712
+00:38:42,727 --> 00:38:43,728
+Aku mencintaimu.
+
+713
+00:38:45,396 --> 00:38:47,106
+Ya. Aku harus pergi.
+
+714
+00:38:57,784 --> 00:39:00,662
+Baru saja lepas landas dari
+Bandara LaGuardia di New York...
+
+715
+00:39:00,746 --> 00:39:02,748
+menuju Charlotte, Carolina Utara...
+
+716
+00:39:02,831 --> 00:39:04,666
+dan kemudian bencana di udara...
+
+717
+00:39:04,750 --> 00:39:08,087
+melanda US Airways Penerbangan 1549.
+
+718
+00:39:08,170 --> 00:39:12,007
+Ada kemungkinan burung terbang
+ke kedua mesin pesawat.
+
+719
+00:39:12,091 --> 00:39:13,676
+Pilot cepat menyadari...
+
+720
+00:39:13,759 --> 00:39:15,845
+dia tidak bisa kembali ke bandara
+dan mendarat.
+
+721
+00:39:15,928 --> 00:39:17,889
+Pilihannya sangat terbatas...
+
+722
+00:39:17,972 --> 00:39:20,933
+Satu-satunya tempat dia bisa mendarat
+adalah Sungai Hudson.
+
+723
+00:39:32,862 --> 00:39:34,948
+Memilih untuk mendarat di Hudson...
+
+724
+00:39:35,031 --> 00:39:36,992
+sangat penuh ketidakpastian.
+
+725
+00:39:37,075 --> 00:39:39,036
+Apakah kau ada masalah
+di rumah baru-baru ini?
+
+726
+00:39:39,119 --> 00:39:41,705
+Kenapa kau melakukannya, Sully?
+Mendarat di air?
+
+727
+00:39:41,788 --> 00:39:43,957
+Sully, kau berusaha sebisamu.
+Itu lebih dari cukup.
+
+728
+00:39:44,041 --> 00:39:47,836
+Setiap simulasi komputer menunjukkan
+bahwa mungkin untuk kembali.
+
+729
+00:39:47,920 --> 00:39:49,880
+Mesin sebelah kiri masih beroperasi
+saat diam.
+
+730
+00:39:49,964 --> 00:39:53,801
+Ada cukup ketinggian dan kecepatan
+untuk berhasil kembali ke LaGuardia.
+
+731
+00:39:53,884 --> 00:39:55,803
+Bukankah itu kemungkinan paling berbahaya?
+
+732
+00:40:20,120 --> 00:40:22,289
+Ini adalah Tasty 1-1.
+Batalkan uji coba pengeboman.
+
+733
+00:40:22,372 --> 00:40:24,208
+Ada kerusakan kendali penerbangan darurat.
+
+734
+00:40:24,291 --> 00:40:25,626
+Dua, ikut denganku.
+
+735
+00:40:25,709 --> 00:40:27,753
+Diterima. Dua bergabung denganmu.
+
+736
+00:40:27,836 --> 00:40:28,712
+KAPT CHESLEY SULLENBERGER
+
+737
+00:40:28,796 --> 00:40:29,797
+Sistem hidrolik rusak.
+
+738
+00:40:29,880 --> 00:40:31,423
+Kita perlu keluar
+dengan kursi lontar?
+
+739
+00:40:31,507 --> 00:40:33,801
+Tidak, aku masih bisa terbang.
+Aku lakukan tes kendali.
+
+740
+00:40:34,844 --> 00:40:36,137
+Dapatkan daftarnya.
+
+741
+00:40:36,220 --> 00:40:37,471
+Kami memiliki daftarnya, Pak.
+
+742
+00:40:37,555 --> 00:40:39,098
+Tambah dorongan. Butuh ketinggian.
+
+743
+00:40:39,181 --> 00:40:40,349
+Tahan, kita akan naik.
+
+744
+00:40:44,645 --> 00:40:47,440
+Menara Nellis, Tasty 1-1 dengan
+kerusakan kendali penerbangan darurat.
+
+745
+00:40:47,523 --> 00:40:48,858
+Butuh pendaratan lurus
+30 derajat.
+
+746
+00:40:49,734 --> 00:40:50,819
+Dimengerti, Tasty 1-1.
+
+747
+00:40:50,902 --> 00:40:53,363
+Belok kiri 2-0-0 ke landasan 3.
+
+748
+00:40:53,446 --> 00:40:55,532
+Tidak bisa.
+Butuh pendaratan lurus dalam 30 derajat.
+
+749
+00:40:56,116 --> 00:40:58,660
+Baik. Lurus ke depan ke landasan 2-1.
+
+750
+00:40:58,743 --> 00:41:00,162
+2-1, Tasty 1-1.
+
+751
+00:41:03,248 --> 00:41:04,958
+Dua, aku mengurangi kecepatan.
+
+752
+00:41:05,042 --> 00:41:06,877
+Periksa pesawat untuk kerusakan.
+
+753
+00:41:13,884 --> 00:41:15,427
+Satu, kau seperti
+tak ada kerusakan,
+
+754
+00:41:15,511 --> 00:41:16,762
+tapi masih mengeluarkan asap.
+
+755
+00:41:16,846 --> 00:41:18,931
+Dimengerti, Dua.
+Mendekati landasan 2-1.
+
+756
+00:41:19,932 --> 00:41:22,226
+Satu, aku akan mengikutimu
+sampai mendarat.
+
+757
+00:41:30,568 --> 00:41:32,904
+Aku telah melihat landasan.
+Ke mana arah kita?
+
+758
+00:41:32,987 --> 00:41:35,323
+Arah 0-2-0.
+Jarak delapan kilometer, Pak.
+
+759
+00:41:35,407 --> 00:41:37,492
+Baiklah. Turunkan roda.
+
+760
+00:41:42,205 --> 00:41:43,999
+Tasty 1-1, periksa kecepatan.
+
+761
+00:41:44,082 --> 00:41:46,001
+Sepertinya kau datang dengan
+kecepatan tinggi.
+
+762
+00:41:46,084 --> 00:41:47,878
+Menara Nellis, butuh kecepatan
+untuk kendali.
+
+763
+00:41:47,961 --> 00:41:49,379
+Menghindari jatuh.
+
+764
+00:41:53,175 --> 00:41:55,678
+Satu, periksa arahmu.
+Kau tidak akan berhasil mendarat.
+
+765
+00:41:55,761 --> 00:41:56,720
+Aku bisa.
+
+766
+00:41:57,471 --> 00:41:58,973
+Aku akan membawanya kembali.
+
+767
+00:42:16,783 --> 00:42:19,035
+Itu tadi pendaratan luar biasa, Pak.
+
+768
+00:42:19,119 --> 00:42:21,246
+Aku tidak berpikir kita berhasil mendarat.
+
+769
+00:42:50,485 --> 00:42:52,153
+Aku akan meminta pembayaran
+untuk ini.
+
+770
+00:42:52,237 --> 00:42:53,071
+Pergi dari sini.
+
+771
+00:42:53,154 --> 00:42:53,988
+Apakah kau mengerti?
+
+772
+00:42:54,072 --> 00:42:55,699
+Terima Kasih, Pete. Kau punya kacang?
+
+773
+00:42:57,492 --> 00:42:58,827
+- Hei.
+- Hei.
+
+774
+00:42:58,910 --> 00:43:00,370
+Beritahu aku jika kau butuh sesuatu.
+
+775
+00:43:01,121 --> 00:43:03,373
+Tapi yang masih tampak
+begitu mengejutkan...
+
+776
+00:43:03,457 --> 00:43:06,168
+adalah setiap orang di dalam pesawat
+selamat...
+
+777
+00:43:06,251 --> 00:43:08,378
+termasuk dua bayi menggigil
+di perahu karet...
+
+778
+00:43:08,462 --> 00:43:09,463
+SEMUA 155 ORANG DALAM PESAWAT
+SELAMAT
+
+779
+00:43:09,546 --> 00:43:10,547
+Hei...
+
+780
+00:43:12,591 --> 00:43:13,592
+Apa itu kau?
+
+781
+00:43:13,676 --> 00:43:16,136
+- Kau pilot itu? Sully?
+- Ya.
+
+782
+00:43:16,220 --> 00:43:17,972
+- Itu kau, kan?
+- Ya.
+
+783
+00:43:18,431 --> 00:43:20,224
+Hei, senang bertemu denganmu.
+
+784
+00:43:21,809 --> 00:43:23,728
+Tindakanmu kemarin itu
+sungguh luar biasa.
+
+785
+00:43:23,811 --> 00:43:24,937
+Benar-benar menakjubkan.
+
+786
+00:43:25,021 --> 00:43:26,147
+Ya, dia pahlawan.
+
+787
+00:43:26,230 --> 00:43:28,441
+Sungguh senang bertemu denganmu.
+
+788
+00:43:28,524 --> 00:43:30,068
+Kami membuat minuman setelah kau...
+
+789
+00:43:30,151 --> 00:43:31,819
+setelah pendaratan itu.
+Benar, Johnny?
+
+790
+00:43:31,903 --> 00:43:33,655
+Ya, benar. Bahkan, aku mau minta satu.
+
+791
+00:43:34,906 --> 00:43:35,865
+The Sully!
+
+792
+00:43:37,242 --> 00:43:38,827
+Ini adalah jumlah kecil Grey Goose...
+
+793
+00:43:40,453 --> 00:43:42,080
+dengan sedikit air.
+
+794
+00:43:42,164 --> 00:43:43,165
+Sedikit air.
+
+795
+00:43:47,336 --> 00:43:48,503
+Dengar.
+
+796
+00:43:49,254 --> 00:43:50,881
+Untuk 15 Januari.
+
+797
+00:43:52,049 --> 00:43:53,258
+Hari terbaik tahun ini.
+
+798
+00:43:53,342 --> 00:43:54,510
+- Sully.
+- Sully.
+
+799
+00:43:59,473 --> 00:44:00,433
+Hei, Pete.
+
+800
+00:44:00,933 --> 00:44:02,852
+Sully di sini, dan dia ada di sana!
+
+801
+00:44:02,935 --> 00:44:05,313
+Sial, Pete. Dia di mana-mana!
+
+802
+00:44:06,272 --> 00:44:07,273
+Ya!
+
+803
+00:44:07,356 --> 00:44:08,483
+Sully!
+
+804
+00:44:10,735 --> 00:44:12,695
+Kau seperti pahlawan sejati, bung.
+Kau tahu itu?
+
+805
+00:44:21,788 --> 00:44:23,957
+Teruskan, Paulie.
+Aku melihatmu di Satu.
+
+806
+00:44:24,040 --> 00:44:25,041
+Setuju.
+
+807
+00:44:31,340 --> 00:44:34,510
+Ada 21 penumpang, Kapten.
+Laporan terakhir ada es dekat GW.
+
+808
+00:44:34,593 --> 00:44:36,345
+- Baik, terima kasih. Dimengerti.
+- Baiklah.
+
+809
+00:44:36,428 --> 00:44:38,848
+Ada 21 penumpang di TJ,
+dari Midtown, peluncur Tujuh.
+
+810
+00:44:50,401 --> 00:44:51,611
+NYPD
+UNIT PENERBANGAN
+
+811
+00:44:51,694 --> 00:44:52,946
+Luar biasa.
+
+812
+00:44:53,029 --> 00:44:54,739
+Aku tak percaya
+kau berani mengatakan itu.
+
+813
+00:44:54,822 --> 00:44:57,075
+Itu seperti bilang persetan
+pada seisi kota.
+
+814
+00:44:57,158 --> 00:44:59,202
+Kukatakan lagi.
+Dennis Eckersley tanpa diragukan...
+
+815
+00:44:59,285 --> 00:45:01,580
+adalah pemain pengganti terhebat
+dalam sejarah bisbol.
+
+816
+00:45:01,663 --> 00:45:03,123
+Kau dibutakan tendangan kakinya?
+
+817
+00:45:03,206 --> 00:45:05,167
+Itu sebabnya? Atau oleh kumis?
+
+818
+00:45:05,250 --> 00:45:07,210
+Kau hanya cemburu
+dia tidak pernah masuk Yankee.
+
+819
+00:45:07,294 --> 00:45:08,295
+Cemburu?
+
+820
+00:45:08,879 --> 00:45:09,755
+Ya.
+
+821
+00:45:31,736 --> 00:45:33,071
+Beralih ke halaman tujuh...
+
+822
+00:45:46,376 --> 00:45:48,337
+Bersiap, bersiap, bersiap!
+
+823
+00:45:48,420 --> 00:45:49,463
+Kepala tunduk, merunduk!
+
+824
+00:45:49,546 --> 00:45:51,214
+Biar kugendong dia.
+
+825
+00:45:51,298 --> 00:45:52,549
+- Bersiap!
+- Biar kugendong dia.
+
+826
+00:45:52,633 --> 00:45:53,884
+Baik.
+
+827
+00:45:53,967 --> 00:45:55,928
+Tundukkan kepala, tetap merunduk!
+
+828
+00:45:56,011 --> 00:45:58,097
+Bersiap, bersiap, bersiap!
+
+829
+00:45:58,180 --> 00:46:00,474
+- Tundukkan kepala!
+- Kita tidak akan selamat.
+
+830
+00:46:00,558 --> 00:46:01,475
+Tak apa-apa.
+
+831
+00:46:01,559 --> 00:46:02,726
+Bersiap, bersiap, bersiap!
+
+832
+00:46:02,810 --> 00:46:04,186
+Aku menyayangimu, Bu.
+
+833
+00:46:04,270 --> 00:46:06,772
+- Tundukkan kepala!
+- Sampai ke bulan dan bintang...
+
+834
+00:46:06,856 --> 00:46:08,649
+Dan seterusnya ke belakang.
+
+835
+00:46:08,733 --> 00:46:11,402
+Tundukkan kepala, tetap merunduk!
+
+836
+00:46:36,845 --> 00:46:38,222
+Apa yang kita lakukan, Sayang?
+
+837
+00:46:52,904 --> 00:46:54,072
+Astaga.
+
+838
+00:46:58,409 --> 00:46:59,494
+Evakuasi.
+
+839
+00:47:01,871 --> 00:47:02,872
+Evakuasi.
+
+840
+00:47:04,124 --> 00:47:05,542
+Ambil pelampung kalian.
+
+841
+00:47:05,625 --> 00:47:07,335
+Membuka pintu depan.
+
+842
+00:47:16,136 --> 00:47:17,596
+Bagian belakang masuk air!
+
+843
+00:47:17,679 --> 00:47:19,223
+Rob Kolodjay!
+
+844
+00:47:19,306 --> 00:47:21,308
+- Ayah!
+- Cepat, cepat, cepat!
+
+845
+00:47:23,310 --> 00:47:26,313
+Semuanya! Pintu keluar belakang
+tidak dapat digunakan.
+
+846
+00:47:26,397 --> 00:47:28,774
+Maju ke depan untuk pintu keluar
+dekat sayap!
+
+847
+00:47:28,858 --> 00:47:31,194
+Dan pakai pelampung sekarang!
+
+848
+00:47:41,121 --> 00:47:43,123
+Jalan! Keluar! Jalan, jalan!
+
+849
+00:47:45,000 --> 00:47:46,293
+Bergerak maju.
+
+850
+00:47:46,376 --> 00:47:48,086
+- Ke pintu keluar kanan atau kiri.
+- Jeff!
+
+851
+00:47:48,170 --> 00:47:49,629
+Dia di belakang, kau bisa lihat?
+
+852
+00:47:50,046 --> 00:47:51,340
+Ayah!
+
+853
+00:48:00,641 --> 00:48:02,059
+- Semuanya, maju ke depan.
+- Lompat!
+
+854
+00:48:04,478 --> 00:48:07,022
+Pak, keluar dari pesawat sekarang! Cepat!
+
+855
+00:48:12,278 --> 00:48:13,738
+Sheila, rakit tidak terbuka.
+
+856
+00:48:18,701 --> 00:48:20,245
+Pak! Kembali, Pak!
+
+857
+00:48:21,496 --> 00:48:22,747
+Tenang. Kau baik-baik saja.
+
+858
+00:48:22,831 --> 00:48:24,165
+Rakit menunggumu.
+
+859
+00:48:29,087 --> 00:48:30,505
+Ayo, ayo, ayo.
+
+860
+00:48:30,589 --> 00:48:31,840
+Cepat!
+
+861
+00:48:31,923 --> 00:48:33,592
+Di luar akan sangat dingin.
+Ini dia.
+
+862
+00:48:33,675 --> 00:48:34,676
+Ini.
+
+863
+00:48:34,760 --> 00:48:36,512
+Akan sangat dingin di luar sana.
+
+864
+00:48:38,972 --> 00:48:41,016
+- Pelan-pelan.
+- Kau harus turun dari pesawat.
+
+865
+00:48:41,100 --> 00:48:43,102
+Kaki dahulu.
+Meluncur perlahan dan Hati-hati.
+
+866
+00:48:43,185 --> 00:48:44,937
+- Masih cukup.
+- Ayo, semuanya.
+
+867
+00:48:49,483 --> 00:48:51,777
+Oke. Itu lebih baik. Lompat!
+
+868
+00:49:08,253 --> 00:49:10,005
+Astaga. Apakah itu bahan bakar?
+
+869
+00:49:11,173 --> 00:49:12,299
+Kita harus melompat.
+
+870
+00:49:12,841 --> 00:49:14,092
+Tidak, tidak, tidak, tunggu!
+
+871
+00:49:24,770 --> 00:49:25,980
+Apakah kau melihatnya?
+
+872
+00:49:26,063 --> 00:49:28,315
+Ya. Astaga, itu pesawat.
+
+873
+00:49:28,399 --> 00:49:30,818
+Segera lemparkan tangga pada pria itu.
+
+874
+00:49:30,901 --> 00:49:32,028
+Baik, segera.
+
+875
+00:49:32,361 --> 00:49:33,446
+Sial.
+
+876
+00:49:34,280 --> 00:49:35,615
+Mayday, mayday, mayday.
+
+877
+00:49:35,698 --> 00:49:38,326
+Penjaga pantai sektor New York,
+terusan 1-6, Thomas Jefferson.
+
+878
+00:49:38,409 --> 00:49:41,621
+Kami melihat pesawat penumpang
+di sungai utara.
+
+879
+00:49:41,704 --> 00:49:43,998
+Kami menuju ke sana.
+Akan kami beri kabar.
+
+880
+00:49:45,083 --> 00:49:46,501
+Cepat, cepat!
+
+881
+00:50:01,975 --> 00:50:04,478
+Jimmy, Jeff masih di pesawat itu!
+
+882
+00:50:05,646 --> 00:50:06,647
+Jangan tinggalkan dia!
+
+883
+00:50:06,730 --> 00:50:08,399
+Robbie, Robbie, Robbie!
+
+884
+00:50:08,482 --> 00:50:10,693
+Robbie! Kru pesawat
+akan menyelamatkannya, oke?
+
+885
+00:50:10,776 --> 00:50:12,111
+- Kru akan keluarkan.
+- Di sana!
+
+886
+00:50:12,194 --> 00:50:13,654
+Dia akan baik-baik saja.
+
+887
+00:50:13,738 --> 00:50:14,906
+Dia akan baik-baik saja.
+
+888
+00:50:15,114 --> 00:50:17,825
+Aku baik-baik saja, Ibu.
+Aku baik-baik saja.
+
+889
+00:50:21,204 --> 00:50:22,497
+- Bu!
+- Tinggalkan aku.
+
+890
+00:50:22,580 --> 00:50:24,541
+Terus maju ke depan!
+
+891
+00:50:24,624 --> 00:50:26,334
+Ikuti instruksinya.
+
+892
+00:50:26,418 --> 00:50:28,420
+- Tidak apa-apa.
+- Ada air di belakang.
+
+893
+00:50:28,503 --> 00:50:29,921
+- Kita tak apa-apa.
+- Ayo. Keluar!
+
+894
+00:50:30,005 --> 00:50:32,382
+Satu demi satu. Terus berjalan.
+Terus berjalan.
+
+895
+00:50:32,466 --> 00:50:34,134
+Lewat sini. Aku akan membantumu keluar.
+
+896
+00:50:34,217 --> 00:50:35,677
+- Kau dulu, Sayang.
+- Lewat sini.
+
+897
+00:50:35,761 --> 00:50:36,678
+Dia tak bisa bergerak.
+
+898
+00:50:36,762 --> 00:50:37,638
+- Pak!
+- Ya, Bu?
+
+899
+00:50:37,721 --> 00:50:38,847
+- Bisa bantu?
+- Di sana.
+
+900
+00:50:39,097 --> 00:50:41,558
+Ini pelampung. Ambillah.
+
+901
+00:50:42,518 --> 00:50:44,645
+Semuanya, terus maju ke depan.
+
+902
+00:50:44,728 --> 00:50:46,522
+Tetap di atas sayap.
+
+903
+00:50:47,857 --> 00:50:50,192
+Jika kau memiliki pelampung, kenakan!
+
+904
+00:50:50,860 --> 00:50:53,112
+Semua pesawat dekat Intrepid,
+ada pesawat jatuh.
+
+905
+00:50:53,195 --> 00:50:56,282
+Ada para penumpang di atas sayap.
+Mendekat dengan hati-hati.
+
+906
+00:51:00,995 --> 00:51:02,497
+Tenang dan kalian semua akan keluar.
+
+907
+00:51:07,502 --> 00:51:08,503
+Terus maju.
+
+908
+00:51:15,677 --> 00:51:16,678
+Ayo!
+
+909
+00:51:17,721 --> 00:51:18,555
+Ayo!
+
+910
+00:51:26,230 --> 00:51:27,898
+Taruh selimut di kakinya.
+
+911
+00:51:27,982 --> 00:51:29,650
+Dia membutuhkan perban.
+
+912
+00:51:29,733 --> 00:51:31,694
+Kau akan baik-baik saja, Sayang.
+Jalan perlahan.
+
+913
+00:51:32,361 --> 00:51:33,654
+Jalan perlahan. Selimut.
+
+914
+00:51:33,738 --> 00:51:36,157
+Balut ini di sekitar kakinya.
+Balut yang erat.
+
+915
+00:51:38,451 --> 00:51:39,702
+Di sini sangat dingin.
+
+916
+00:51:43,331 --> 00:51:45,250
+Bawa kotak pertolongan pertama
+ke haluan...
+
+917
+00:51:45,333 --> 00:51:47,252
+dan keluarkan pelampung tambahan.
+
+918
+00:51:47,335 --> 00:51:49,212
+Di sini! Di sini!
+
+919
+00:51:52,215 --> 00:51:53,884
+Tenang. Kami di sini.
+
+920
+00:51:59,765 --> 00:52:01,058
+Berikan hitungan mundur, Victor.
+
+921
+00:52:01,141 --> 00:52:02,518
+Baiklah.
+
+922
+00:52:04,019 --> 00:52:04,978
+Tiga...
+
+923
+00:52:05,646 --> 00:52:06,689
+dua...
+
+924
+00:52:08,148 --> 00:52:09,817
+Sudah cukup.
+
+925
+00:52:11,444 --> 00:52:12,945
+Ayo, sobat.
+
+926
+00:52:15,156 --> 00:52:17,408
+Bertahanlah, sayang. Ayolah.
+
+927
+00:52:17,491 --> 00:52:18,701
+Hati-hati.
+
+928
+00:52:21,454 --> 00:52:23,414
+Ayo. Satu per satu.
+
+929
+00:52:25,416 --> 00:52:27,210
+Kami akan menyelamatkan kalian semua.
+
+930
+00:52:59,702 --> 00:53:02,747
+Ini Yogi Berra.
+Jarak kami 30 detik.
+
+931
+00:53:02,830 --> 00:53:06,668
+Dengan suhu air 2,22 derajat
+dan suhu embusan angin minus 20 derajat...
+
+932
+00:53:06,751 --> 00:53:09,796
+para penumpang yang selamat
+dari Penerbangan 1549...
+
+933
+00:53:09,879 --> 00:53:12,215
+hanya bisa bertahan dalam hitungan menit.
+
+934
+00:53:12,299 --> 00:53:14,968
+Jarak kami lima menit.
+Kami sudah melihat pesawat.
+
+935
+00:53:20,390 --> 00:53:21,350
+Baik, ulurkan tanganmu.
+
+936
+00:53:21,433 --> 00:53:23,560
+Jika ada yang memiliki masalah,
+tunggu saja di sana.
+
+937
+00:53:23,644 --> 00:53:26,313
+Ada beberapa orang yang ahli
+sedang menuju kemari, ya?
+
+938
+00:53:40,244 --> 00:53:41,788
+Bersiap.
+
+939
+00:53:48,002 --> 00:53:49,838
+45 meter, jalan!
+
+940
+00:54:04,770 --> 00:54:05,854
+Apa kau baik-baik saja?
+
+941
+00:54:05,938 --> 00:54:07,898
+Aku memegangmu.
+Kau akan baik-baik saja. Ya?
+
+942
+00:54:07,981 --> 00:54:08,899
+Aku memegangmu.
+
+943
+00:54:11,735 --> 00:54:13,279
+Apa ada yang masih di sini? Bersuara.
+
+944
+00:54:13,362 --> 00:54:14,947
+Kapten! Kembali!
+
+945
+00:54:15,030 --> 00:54:16,407
+Bersuara!
+
+946
+00:54:21,329 --> 00:54:22,914
+Kita perlu turun dari pesawat sekarang.
+
+947
+00:54:32,465 --> 00:54:33,383
+Kapten!
+
+948
+00:54:34,592 --> 00:54:37,012
+Kapten! Kita harus pergi!
+
+949
+00:54:37,095 --> 00:54:39,097
+Sudah waktunya meninggalkan pesawat,
+sekarang!
+
+950
+00:54:49,942 --> 00:54:53,112
+Baiklah, kalian pergi. Pergi.
+Aku akan tepat di belakangmu.
+
+951
+00:55:06,584 --> 00:55:08,378
+Sully, kita harus pergi.
+
+952
+00:55:27,773 --> 00:55:30,609
+Semuanya baik-baik saja.
+Bantuan sedang menuju ke sini.
+
+953
+00:55:32,486 --> 00:55:35,322
+Dua puluh enam penumpang
+menuju Pelabuhan Imperial.
+
+954
+00:55:35,406 --> 00:55:37,199
+Ada 19 penumpang, menuju Dermaga 81.
+
+955
+00:55:37,283 --> 00:55:41,037
+Kami punya 24 penumpang
+menuju Pelabuhan Imperial.
+
+956
+00:55:41,120 --> 00:55:43,080
+Siapa pun yang secara
+ajaib telah selamat...
+
+957
+00:55:43,206 --> 00:55:45,416
+jatuh dari langit
+ke sungai Hudson yang dingin...
+
+958
+00:55:45,500 --> 00:55:48,670
+telah siap diselamatkan
+oleh 300 polisi terbaik New York.
+
+959
+00:55:48,753 --> 00:55:52,048
+Satu-satunya pertanyaan yang tersisa
+adalah akankah itu terlambat?
+
+960
+00:55:52,132 --> 00:55:54,843
+Di Manhattan, Bobby Cuza, New York One.
+
+961
+00:55:54,926 --> 00:55:56,553
+- Ayo. Ulurkan tanganmu.
+- Pegang ini.
+
+962
+00:55:56,636 --> 00:55:58,847
+Berikan tanganmu, Pak.
+Tidak masalah.
+
+963
+00:55:58,930 --> 00:56:00,307
+Kami memegangmu.
+
+964
+00:56:02,017 --> 00:56:03,685
+- Tanganku.
+- Hangatkan dia.
+
+965
+00:56:04,144 --> 00:56:05,729
+Cepat beri dia selimut.
+
+966
+00:56:13,487 --> 00:56:15,155
+Aku yakin aku akan mati.
+
+967
+00:56:15,781 --> 00:56:17,825
+Hei, tidak ada yang meninggal hari ini.
+
+968
+00:56:22,830 --> 00:56:23,998
+Ulurkan tanganmu.
+
+969
+00:56:30,046 --> 00:56:32,382
+Ini dia, Kapten. Sebelah sini.
+
+970
+00:56:33,800 --> 00:56:36,553
+- Ulurkan tanganmu, Pak.
+- Sully, lingkarkan lenganmu.
+
+971
+00:56:37,929 --> 00:56:39,472
+- Keluar sekarang.
+- Ulurkan tanganmu.
+
+972
+00:56:45,312 --> 00:56:47,189
+Bisa beri kami
+beberapa tambahan selimut?
+
+973
+00:56:47,272 --> 00:56:48,190
+Terima kasih.
+
+974
+00:56:48,273 --> 00:56:50,526
+- Terima kasih banyak.
+- Sama-sama.
+
+975
+00:56:50,984 --> 00:56:52,027
+Beri dia ruang tambahan.
+
+976
+00:56:52,111 --> 00:56:53,112
+Sama-sama.
+
+977
+00:57:15,176 --> 00:57:16,219
+Halo?
+
+978
+00:57:16,302 --> 00:57:18,096
+Aku ingin mengatakan
+aku baik-baik saja.
+
+979
+00:57:18,179 --> 00:57:20,181
+Bagus. Kau akan tetap
+terbang pulang pukul 17.50?
+
+980
+00:57:20,265 --> 00:57:21,433
+Ada kecelakaan.
+
+981
+00:57:22,517 --> 00:57:25,020
+Aku baik-baik saja,
+tidak ada luka sama sekali.
+
+982
+00:57:25,103 --> 00:57:26,271
+Nyalakan televisi.
+
+983
+00:57:26,647 --> 00:57:28,815
+Apa maksudmu "nyalakan televisi"?
+
+984
+00:57:29,274 --> 00:57:30,609
+Aku tidak bisa bicara sekarang.
+
+985
+00:57:30,692 --> 00:57:32,820
+Aku akan hubungi dari dermaga
+setelah semua mereda.
+
+986
+00:57:34,363 --> 00:57:36,824
+Aku harus mendarat di sungai Hudson.
+
+987
+00:57:38,200 --> 00:57:40,369
+Sully, aku tidak mengerti.
+
+988
+00:57:40,453 --> 00:57:42,079
+Aku mencintaimu, dan aku baik-baik saja.
+
+989
+00:57:42,163 --> 00:57:44,165
+Katakan pada anak-anak aku baik-baik saja.
+
+990
+00:57:46,250 --> 00:57:47,877
+Tapi aku harus pergi.
+
+991
+00:57:49,921 --> 00:57:51,506
+Nak, nyalakan TV.
+
+992
+00:57:52,632 --> 00:57:54,259
+BERITA
+TERBARU
+
+993
+00:57:54,342 --> 00:57:56,177
+Upaya penyelamatan besar
+sedang berlangsung...
+
+994
+00:57:56,261 --> 00:57:59,764
+setelah sebuah pesawat US Airways
+jatuh ke Sungai Hudson...
+
+995
+00:57:59,848 --> 00:58:02,392
+dan membuat para penumpang
+panik menyelamatkan diri.
+
+996
+00:58:24,040 --> 00:58:27,585
+Jika pakaianmu basah, lepas
+dan pakai selimut dari Palang Merah.
+
+997
+00:58:35,176 --> 00:58:38,221
+Palang Merah
+Amerika
+
+998
+00:58:38,304 --> 00:58:40,348
+Kau akan baik-baik saja. Lucille?
+
+999
+00:58:40,432 --> 00:58:42,851
+Aku akan langsung membawamu
+ke ambulans, ya?
+
+1000
+00:58:45,812 --> 00:58:48,065
+Mungkin dia ada di sini.
+Mungkin dia tiba lebih dulu.
+
+1001
+00:58:48,899 --> 00:58:51,318
+Ada banyak perahu! Jeff!
+
+1002
+00:58:54,154 --> 00:58:55,072
+Sully!
+
+1003
+00:58:55,155 --> 00:58:56,198
+Dan!
+
+1004
+00:59:00,119 --> 00:59:03,789
+Dan, aku perlu tahu siapa yang sakit dan
+seberapa parah, dan aku butuh jumlahnya.
+
+1005
+00:59:03,873 --> 00:59:06,751
+155, itu jumlahnya.
+Itu termasuk penumpang dan awak.
+
+1006
+00:59:06,834 --> 00:59:08,336
+Baik. Bagaimana denganmu?
+
+1007
+00:59:08,419 --> 00:59:11,047
+Aku akan menjawab pertanyaan itu
+ketika sudah terhitung 155.
+
+1008
+00:59:11,130 --> 00:59:12,298
+Baiklah.
+
+1009
+00:59:12,382 --> 00:59:14,092
+Sayang, ini aku.
+
+1010
+00:59:15,176 --> 00:59:17,345
+Begitulah.
+Aku tidak akan pulang malam ini.
+
+1011
+00:59:19,139 --> 00:59:21,808
+Sherri, aku tidak percaya
+aku berbicara denganmu.
+
+1012
+00:59:28,315 --> 00:59:30,984
+Kapten. Aku datang untuk mengantarmu
+menemui Walikota Bloomberg...
+
+1013
+00:59:31,068 --> 00:59:32,778
+dan Komisaris Polisi Raymond Kelly.
+
+1014
+00:59:32,861 --> 00:59:34,613
+Jika Walikota mau menyapa,
+dia harus kemari.
+
+1015
+00:59:34,696 --> 00:59:35,823
+Kami masih bekerja.
+
+1016
+00:59:35,906 --> 00:59:38,117
+Sul, aku bisa tetap
+mengumpulkan perhitungan.
+
+1017
+00:59:38,784 --> 00:59:39,827
+Jeff.
+
+1018
+00:59:39,910 --> 00:59:41,996
+Aku butuh jumlahnya.
+Sudah harus ada jumlah.
+
+1019
+00:59:42,079 --> 00:59:43,414
+Sulit mendapat jumlah akurat.
+
+1020
+00:59:44,081 --> 00:59:45,124
+Sully, Jeff benar.
+
+1021
+00:59:45,207 --> 00:59:47,001
+Ganti pakaian kering
+sebelum kau kedinginan.
+
+1022
+00:59:47,084 --> 00:59:49,921
+Bagaimana jika Walikota dan Kepala
+Kelly datang untuk menemuimu?
+
+1023
+00:59:50,004 --> 00:59:51,964
+Dan, karena itu penerbangan domestik...
+
+1024
+00:59:52,048 --> 00:59:53,383
+Kita tidak punya daftar muatan.
+
+1025
+00:59:53,466 --> 00:59:56,427
+Kita harus melacak
+informasi penumpang satu per satu.
+
+1026
+00:59:56,511 --> 00:59:57,804
+- Kau bisa membantu?
+- Ya.
+
+1027
+00:59:57,887 --> 00:59:59,556
+Kutelepon John Carey.
+Kami beri jumlahnya.
+
+1028
+01:00:00,056 --> 01:00:02,642
+Tapi, Sully, dengar. Upayamu cukup.
+Biar kuambil alih dari sini.
+
+1029
+01:00:14,279 --> 01:00:15,364
+Jeff?
+
+1030
+01:00:15,447 --> 01:00:16,448
+Ayah!
+
+1031
+01:00:16,532 --> 01:00:17,616
+Aku baik-baik saja.
+
+1032
+01:00:17,700 --> 01:00:19,785
+Aku di sayap lain.
+Mereka membawa kami ke New Jersey.
+
+1033
+01:00:20,369 --> 01:00:21,787
+Aku tidak bisa melihatmu.
+
+1034
+01:00:21,871 --> 01:00:23,289
+Aku tidak bisa menemukanmu.
+
+1035
+01:00:23,372 --> 01:00:25,124
+Aku bisa terus dengar
+kau memanggil namaku.
+
+1036
+01:00:26,417 --> 01:00:28,169
+Aku balas memanggil. Kurasa sungainya...
+
+1037
+01:00:28,836 --> 01:00:29,837
+Apa kau baik-baik saja?
+
+1038
+01:00:29,921 --> 01:00:31,339
+Aku sayang kau, Nak.
+
+1039
+01:00:32,924 --> 01:00:34,509
+Aku juga sayang Ayah.
+
+1040
+01:00:36,177 --> 01:00:37,846
+Kau percaya kita selamat?
+
+1041
+01:00:39,931 --> 01:00:41,641
+Pesawat itu jatuh...
+
+1042
+01:00:41,725 --> 01:00:43,310
+di sungai!
+
+1043
+01:00:43,935 --> 01:00:45,395
+Apa kau bercanda?
+
+1044
+01:00:49,191 --> 01:00:50,609
+Sangat luar biasa.
+
+1045
+01:01:08,127 --> 01:01:10,838
+Aku belum pernah begitu bahagia
+ada di New York sepanjang hidupku.
+
+1046
+01:01:23,018 --> 01:01:23,935
+Hei, Patty.
+
+1047
+01:01:24,019 --> 01:01:25,395
+Pengawas meminta aku mencarimu.
+
+1048
+01:01:25,478 --> 01:01:27,022
+Semua orang sangat girang di atas.
+
+1049
+01:01:27,105 --> 01:01:29,483
+- Kau tak mau ikut?
+- Aku rasa kau tidak mendengarnya.
+
+1050
+01:01:29,566 --> 01:01:32,027
+Aku kehilangan Kaktus 1549
+di sungai Hudson.
+
+1051
+01:01:32,861 --> 01:01:34,196
+Aku rasa kau belum mendengarnya.
+
+1052
+01:01:34,279 --> 01:01:35,948
+Dia mendaratkan pesawatnya!
+
+1053
+01:01:36,490 --> 01:01:37,491
+Apa?
+
+1054
+01:01:37,574 --> 01:01:40,077
+Semua orang sudah diselamatkan.
+Ini keajaiban!
+
+1055
+01:01:40,160 --> 01:01:42,121
+Aku pikir aku kehilangan semuanya.
+
+1056
+01:01:42,204 --> 01:01:44,373
+- Mereka harus menaruh TV di sini.
+- Ya. Benar.
+
+1057
+01:01:46,876 --> 01:01:49,045
+Berapa denyut nadiku?
+
+1058
+01:01:49,629 --> 01:01:51,088
+110.
+
+1059
+01:01:52,048 --> 01:01:53,925
+Denyut nadi normalku 55.
+
+1060
+01:01:54,008 --> 01:01:55,218
+110...
+
+1061
+01:01:56,219 --> 01:01:57,512
+itu tidak baik.
+
+1062
+01:01:57,595 --> 01:02:00,139
+Kau benar. 110 tidak baik.
+
+1063
+01:02:00,223 --> 01:02:03,685
+Setelah apa yang baru saja kau alami,
+110 luar biasa.
+
+1064
+01:02:03,768 --> 01:02:05,562
+Bagaimana keadaan Doreen?
+
+1065
+01:02:05,645 --> 01:02:07,147
+Luka gores yang cukup parah.
+
+1066
+01:02:07,230 --> 01:02:08,857
+Tapi tetap dirawat agar tidak infeksi.
+
+1067
+01:02:08,940 --> 01:02:10,233
+Tapi dia akan baik-baik saja?
+
+1068
+01:02:10,317 --> 01:02:12,694
+Dia akan memiliki bekas luka
+dan cerita yang luar biasa.
+
+1069
+01:02:12,778 --> 01:02:13,946
+Meski tak ada yang percaya.
+
+1070
+01:02:14,029 --> 01:02:16,448
+Aku di sini denganmu sekarang
+dan aku tidak percaya itu.
+
+1071
+01:02:16,532 --> 01:02:18,200
+Mendaratkan pesawat di Hudson.
+Tanpa luka.
+
+1072
+01:02:18,283 --> 01:02:19,368
+Arnie.
+
+1073
+01:02:20,744 --> 01:02:23,038
+Serikat menugaskan
+semua orang penting hari ini.
+
+1074
+01:02:25,040 --> 01:02:26,375
+Aku berbicara dengan Dan Britt.
+
+1075
+01:02:27,460 --> 01:02:28,586
+Aku punya jumlahnya.
+
+1076
+01:02:29,754 --> 01:02:31,047
+155.
+
+1077
+01:02:33,800 --> 01:02:35,051
+155.
+
+1078
+01:02:35,134 --> 01:02:36,469
+Sudah resmi.
+
+1079
+01:02:36,552 --> 01:02:38,554
+- 155.
+- 155.
+
+1080
+01:02:42,725 --> 01:02:44,018
+155.
+
+1081
+01:02:44,728 --> 01:02:46,354
+Terima kasih, Arnie.
+
+1082
+01:03:18,388 --> 01:03:19,973
+- Hei, Carl.
+- Jeff.
+
+1083
+01:03:21,307 --> 01:03:22,684
+- Sully.
+- Carl.
+
+1084
+01:03:22,767 --> 01:03:24,477
+Prestasimu tadi sungguh luar biasa.
+
+1085
+01:03:24,561 --> 01:03:25,645
+Kami hidup.
+
+1086
+01:03:26,313 --> 01:03:28,148
+Hanya itu yang kupikirkan saat ini.
+
+1087
+01:03:28,231 --> 01:03:31,526
+Ini Nn. May, pegawai hotel.
+Dia ingin berbicara sebentar denganmu.
+
+1088
+01:03:31,610 --> 01:03:32,736
+Aku tidak akan lama.
+
+1089
+01:03:32,819 --> 01:03:35,530
+Hanya katakan aku dan stafku
+berkomitmen melindungi privasi kalian.
+
+1090
+01:03:35,614 --> 01:03:38,283
+Jadi, jika ada
+yang bisa kulakukan, apa pun...
+
+1091
+01:03:38,367 --> 01:03:41,620
+Kalau boleh, aku ingin seragamku
+selesai dicuci kering dalam semalam.
+
+1092
+01:03:41,704 --> 01:03:43,330
+Ini satu-satunya pakaian yang kumiliki.
+
+1093
+01:03:43,414 --> 01:03:44,373
+Cuci kering?
+
+1094
+01:03:44,456 --> 01:03:45,875
+Jika sudah terlambat...
+
+1095
+01:03:45,958 --> 01:03:47,376
+Apa kau bercanda?
+
+1096
+01:03:47,460 --> 01:03:50,129
+Kapten Sullenberger, aku akan beri
+seluruh hotel ini jika aku bisa.
+
+1097
+01:03:53,216 --> 01:03:54,175
+Baik.
+
+1098
+01:03:55,426 --> 01:03:57,553
+Terima kasih, Evelyn. Terima kasih banyak.
+
+1099
+01:03:57,637 --> 01:03:59,430
+- Apa pun untuk Sully.
+- Baik.
+
+1100
+01:03:59,514 --> 01:04:00,974
+Semoga harimu diberkati.
+
+1101
+01:04:03,393 --> 01:04:04,769
+Apa yang baru saja terjadi?
+
+1102
+01:04:04,853 --> 01:04:07,063
+Kau baru saja dipeluk oleh orang asing.
+
+1103
+01:04:08,523 --> 01:04:10,233
+Ayo, Sully.
+
+1104
+01:04:10,317 --> 01:04:12,277
+Kapan terakhir kali
+kau mendengar seseorang...
+
+1105
+01:04:12,360 --> 01:04:14,404
+mendaratkan pesawat jet di atas air...
+
+1106
+01:04:14,905 --> 01:04:16,239
+dan semua orang selamat?
+
+1107
+01:04:18,742 --> 01:04:19,743
+Persis.
+
+1108
+01:04:20,202 --> 01:04:22,663
+Aku beli krim cukur, pisau cukur...
+
+1109
+01:04:22,746 --> 01:04:23,872
+pasta gigi.
+
+1110
+01:04:25,374 --> 01:04:27,042
+Dan baju baru.
+
+1111
+01:04:29,003 --> 01:04:30,838
+Apa kau pikir kami ninja?
+
+1112
+01:04:30,921 --> 01:04:32,590
+Kmart satu-satunya toko yang buka.
+
+1113
+01:04:32,673 --> 01:04:35,176
+Ini Queens. Pukul 22.00.
+Coba saja cari Brooks Brothers.
+
+1114
+01:04:35,259 --> 01:04:36,469
+Ya.
+
+1115
+01:04:37,929 --> 01:04:38,930
+Sully.
+
+1116
+01:04:39,722 --> 01:04:41,474
+Kenapa kau masih mengenakan seragam?
+
+1117
+01:04:42,392 --> 01:04:43,393
+Entahlah.
+
+1118
+01:04:43,476 --> 01:04:45,145
+Dengar. Ini hari yang melelahkan.
+
+1119
+01:04:45,228 --> 01:04:47,147
+Kalian istirahat saja, ya?
+
+1120
+01:04:47,230 --> 01:04:51,067
+Mike Cleary akan tiba pagi hari
+dan pastikan kalian berdua baik-baik saja.
+
+1121
+01:04:51,902 --> 01:04:53,945
+- Terima kasih, Carl.
+- Ya, terima kasih, Kapten.
+
+1122
+01:04:54,821 --> 01:04:57,115
+Sudah lama sejak New York
+memiliki kabar sebaik ini.
+
+1123
+01:04:58,784 --> 01:05:00,285
+Terutama tentang pesawat terbang.
+
+1124
+01:05:10,296 --> 01:05:11,756
+Sampai jumpa nanti, Sully.
+
+1125
+01:05:24,269 --> 01:05:29,274
+Penundaan lebih baik daripada bencana
+
+1126
+01:05:34,029 --> 01:05:37,366
+Para pejabat kota terus mengulang
+kata "waktu".
+
+1127
+01:05:37,449 --> 01:05:40,744
+Waktu yang sempurna
+dari unit selam NYPD...
+
+1128
+01:05:40,827 --> 01:05:42,913
+dan para kapten kapal feri...
+
+1129
+01:05:42,996 --> 01:05:47,167
+dan tentu saja, waktu
+yang luar biasa tepat oleh sang pilot.
+
+1130
+01:05:47,251 --> 01:05:50,713
+Kapten "Sully" Sullenberger,
+yang dalam waktu singkat...
+
+1131
+01:05:50,796 --> 01:05:53,257
+menjadi seorang pria
+yang akan dikenang selamanya.
+
+1132
+01:05:53,341 --> 01:05:54,467
+Saya Kristine Johnson...
+
+1133
+01:05:54,550 --> 01:05:55,593
+Waktu.
+
+1134
+01:05:55,676 --> 01:05:57,512
+Melaporkan langsung
+dari Sungai Hudson.
+
+1135
+01:05:57,595 --> 01:05:59,847
+Satu Menit New York.
+Penjaga pantai merilis video baru...
+
+1136
+01:05:59,931 --> 01:06:02,892
+penerbangan 1549 melakukan
+pendaratan darurat di Hudson.
+
+1137
+01:06:02,976 --> 01:06:05,812
+Sementara itu, pencarian dimulai
+untuk mesin pesawat.
+
+1138
+01:06:08,732 --> 01:06:10,275
+Hei, Sully. Biarkan aku...
+
+1139
+01:06:17,449 --> 01:06:18,867
+Ayolah. Jawab.
+
+1140
+01:06:19,576 --> 01:06:20,702
+Jawab!
+
+1141
+01:06:21,537 --> 01:06:23,497
+Larry, CVR akan didengar dalam dua hari.
+
+1142
+01:06:23,580 --> 01:06:25,374
+Seberapa cepat kau bisa minta bantuan?
+
+1143
+01:06:25,833 --> 01:06:26,709
+Sully?
+
+1144
+01:06:26,792 --> 01:06:30,379
+Aku tahu Airbus memiliki jadwal
+simulasi untuk sim S22 di pabrik.
+
+1145
+01:06:30,462 --> 01:06:32,506
+Tapi itu minggu depan di Toulouse.
+
+1146
+01:06:32,590 --> 01:06:34,175
+Bisa buat mereka menjadwal ulang?
+
+1147
+01:06:34,258 --> 01:06:36,802
+- Ini pukul 01:30 pagi.
+- Aku perlu kau melakukannya...
+
+1148
+01:06:36,886 --> 01:06:40,473
+sebelum kita mendengarkan CVR tersebut.
+Sebelum kesaksian kita lengkap.
+
+1149
+01:06:40,556 --> 01:06:41,766
+Kenapa?
+
+1150
+01:06:42,642 --> 01:06:45,520
+Aku punya hak untuk melihat simulasi
+dan aku punya firasat...
+
+1151
+01:06:45,603 --> 01:06:49,149
+dengan pilot manusia dan bukan komputer,
+hasilnya akan berbeda.
+
+1152
+01:06:49,232 --> 01:06:51,484
+Bagaimana jika mereka menunjukkan
+hasil yang sama persis?
+
+1153
+01:06:52,944 --> 01:06:55,113
+Jika benar, aku sendiri yang akan
+menyerahkan sematku.
+
+1154
+01:06:55,197 --> 01:06:56,782
+Ini semua soal waktu, Larry.
+
+1155
+01:06:56,865 --> 01:06:58,658
+Kau bisa mencapai apa pun
+tanpa terburu-buru.
+
+1156
+01:06:58,742 --> 01:07:00,827
+Aku setuju sekali dengan itu.
+
+1157
+01:07:00,911 --> 01:07:03,372
+CVR di hari Rabu. Itu 36 jam.
+
+1158
+01:07:03,455 --> 01:07:04,790
+Kau bisa mewujudkannya?
+
+1159
+01:07:04,873 --> 01:07:07,459
+Aku akan mencoba.
+Banyak yang harus dihubungi.
+
+1160
+01:07:07,543 --> 01:07:10,504
+Ini sudah pukul 7:30 pagi di Perancis,
+jadi lebih baik kau mulai.
+
+1161
+01:07:10,588 --> 01:07:12,506
+Terima kasih, Larry. Terima kasih.
+
+1162
+01:07:14,925 --> 01:07:21,432
+DEPARTEMEN TRANSPORTASI
+ADMINISTRASI PENERBANGAN FEDERAL
+
+1163
+01:07:31,401 --> 01:07:32,402
+Hei, Lorrie.
+
+1164
+01:07:32,485 --> 01:07:35,572
+Hai. Maaf mengganggumu
+sebelum sidang.
+
+1165
+01:07:35,655 --> 01:07:38,075
+Sayang, apa yang terjadi?
+
+1166
+01:07:39,451 --> 01:07:42,162
+Aku baru sadar sekarang...
+
+1167
+01:07:43,163 --> 01:07:45,165
+untuk pertama kalinya, bahwa ada...
+
+1168
+01:07:46,083 --> 01:07:50,087
+155 orang di pesawat itu
+dan kau salah satu dari mereka.
+
+1169
+01:07:51,380 --> 01:07:53,257
+Kami hampir kehilanganmu.
+
+1170
+01:07:53,883 --> 01:07:56,886
+Ya, tapi kau tidak kehilanganku.
+Aku di sini.
+
+1171
+01:07:58,596 --> 01:08:00,389
+Bagaimana kau bertahan?
+
+1172
+01:08:00,473 --> 01:08:02,100
+Aku bertahan.
+
+1173
+01:08:02,183 --> 01:08:04,060
+Tolong beritahu aku ini hampir berakhir.
+
+1174
+01:08:04,560 --> 01:08:06,145
+Ini hampir berakhir.
+
+1175
+01:08:06,229 --> 01:08:07,397
+Baik.
+
+1176
+01:08:07,480 --> 01:08:08,606
+Aku mencintaimu.
+
+1177
+01:08:08,690 --> 01:08:10,275
+Aku juga mencintaimu.
+
+1178
+01:08:10,358 --> 01:08:12,485
+Aku akan meneleponmu
+setelah sidang selesai.
+
+1179
+01:08:16,198 --> 01:08:19,284
+DEWAN KESELAMATAN
+TRANSPORTASI NASIONAL
+
+1180
+01:08:19,367 --> 01:08:23,372
+RUANG
+SIDANG
+
+1181
+01:08:41,182 --> 01:08:43,059
+- Sully.
+- Ayo, Larry.
+
+1182
+01:08:53,820 --> 01:08:56,156
+- Selamat pagi, Sully.
+- Jeff.
+
+1183
+01:08:56,781 --> 01:08:58,450
+Selamat pagi, hadirin,
+dan selamat datang.
+
+1184
+01:08:58,533 --> 01:08:59,701
+Namaku Charles Porter.
+
+1185
+01:08:59,785 --> 01:09:01,370
+Aku ditugaskan Dewan Keselamatan...
+
+1186
+01:09:01,453 --> 01:09:02,371
+KAPTEN Chesley Sullenberger
+KO-PILOT Jeff Skiles
+
+1187
+01:09:02,454 --> 01:09:04,915
+Transportasi Nasional
+memimpin sidang publik ini hari ini.
+
+1188
+01:09:04,998 --> 01:09:06,875
+Kita punya banyak topik
+untuk didiskusikan.
+
+1189
+01:09:07,543 --> 01:09:10,212
+Tapi sebelum kita mendengarkan
+rekaman suara kokpit...
+
+1190
+01:09:10,295 --> 01:09:12,172
+Kita akan mendengarkan
+untuk pertama kalinya...
+
+1191
+01:09:12,256 --> 01:09:13,841
+bersama dengan kalian, Tuan-tuan.
+
+1192
+01:09:13,924 --> 01:09:17,344
+Sesuai permintaan Kapten Sullenberger
+dan serikat...
+
+1193
+01:09:17,428 --> 01:09:19,805
+Airbus setuju untuk
+menghubungkan kita melalui satelit...
+
+1194
+01:09:19,889 --> 01:09:21,933
+ke simulasi pilot hari ini.
+
+1195
+01:09:22,016 --> 01:09:23,684
+Harap mengunggah tautan.
+
+1196
+01:09:24,602 --> 01:09:26,270
+Mereka hanya simulasi, Sully.
+
+1197
+01:09:26,354 --> 01:09:28,731
+Tidak mengubah pikiranku
+tentang apa yang terjadi di sana.
+
+1198
+01:09:29,399 --> 01:09:30,900
+Mungkin mengubah pikiran mereka.
+
+1199
+01:09:40,744 --> 01:09:41,745
+Burung.
+
+1200
+01:09:43,705 --> 01:09:45,332
+Nomor satu rusak.
+Dan nomor dua.
+
+1201
+01:09:45,415 --> 01:09:46,667
+Pilot otomatis mati.
+
+1202
+01:09:47,292 --> 01:09:48,210
+Pilot mati.
+
+1203
+01:09:48,293 --> 01:09:50,546
+- Jalur penerbangan mati.
+- Jalur penerbangan mati.
+
+1204
+01:09:50,629 --> 01:09:53,465
+Baik. LaGuardia, Kaktus 1549,
+kegagalan mesin ganda.
+
+1205
+01:09:53,549 --> 01:09:55,092
+Kami harus kembali ke bandara.
+
+1206
+01:09:55,176 --> 01:09:57,928
+Baik. Aku akan berbelok ke kiri
+kembali ke LaGuardia 1-3.
+
+1207
+01:09:58,012 --> 01:09:59,972
+Aku akan mengaktifkan jalur untukmu.
+
+1208
+01:10:00,681 --> 01:10:02,225
+Sudah diaktifkan.
+
+1209
+01:10:02,308 --> 01:10:03,684
+Landasan 1-3.
+
+1210
+01:10:05,978 --> 01:10:07,855
+Sinyal panduan muncul dengan baik.
+
+1211
+01:10:08,731 --> 01:10:10,692
+- Flap Dua.
+- Flap Dua.
+
+1212
+01:10:11,901 --> 01:10:13,570
+Laju turun 900.
+
+1213
+01:10:16,698 --> 01:10:18,408
+Flap terlalu rendah.
+
+1214
+01:10:18,992 --> 01:10:20,410
+Penerbangan lambat.
+
+1215
+01:10:20,494 --> 01:10:21,995
+Flap terlalu rendah.
+
+1216
+01:10:22,079 --> 01:10:25,290
+40, 30, 20...
+
+1217
+01:10:32,756 --> 01:10:35,926
+Pendaratan berhasil di LaGuardia,
+landasan 1-3.
+
+1218
+01:10:37,219 --> 01:10:38,512
+Untuk catatan...
+
+1219
+01:10:38,596 --> 01:10:41,599
+pilot dan simulasi komputer
+menunjukkan hasil yang sama.
+
+1220
+01:10:42,850 --> 01:10:44,894
+Mari kita coba untuk mendarat
+di Teterboro sekarang.
+
+1221
+01:10:46,104 --> 01:10:47,772
+Mengunggah simulasi kedua.
+
+1222
+01:10:52,402 --> 01:10:53,486
+Burung.
+
+1223
+01:10:58,116 --> 01:10:59,743
+Beri aku jalur 3- 1- 0.
+
+1224
+01:10:59,826 --> 01:11:01,369
+Jalur 3- 1- 0.
+
+1225
+01:11:03,663 --> 01:11:05,207
+Aku beri jalur langsung ke Teterboro.
+
+1226
+01:11:05,290 --> 01:11:06,541
+Jalur Teterboro.
+
+1227
+01:11:14,008 --> 01:11:15,009
+1000.
+
+1228
+01:11:15,676 --> 01:11:16,886
+Flap dua.
+
+1229
+01:11:16,969 --> 01:11:18,179
+Flap dua.
+
+1230
+01:11:23,601 --> 01:11:25,353
+Medan terlalu rendah.
+
+1231
+01:11:30,024 --> 01:11:34,070
+50, 40, 30, 20...
+
+1232
+01:11:37,782 --> 01:11:40,243
+Pendaratan berhasil di Teterboro,
+landasan 1- 9.
+
+1233
+01:11:44,372 --> 01:11:48,252
+Beberapa bandara, landasan pacu,
+dua pendaratan berhasil.
+
+1234
+01:11:49,711 --> 01:11:52,798
+Kami hanya meniru
+apa yang komputer beritahu kepada kami.
+
+1235
+01:11:53,549 --> 01:11:56,927
+Banyak orang terlibat
+untuk mengatur simulasi hari ini.
+
+1236
+01:12:00,097 --> 01:12:02,725
+Jujur, aku tidak tahu
+apa yang ingin kalian capai dengan ini.
+
+1237
+01:12:03,351 --> 01:12:04,769
+Bisa kita serius sekarang?
+
+1238
+01:12:07,271 --> 01:12:08,314
+Kapten?
+
+1239
+01:12:08,397 --> 01:12:09,982
+Kita semua tahu simulasi komputer...
+
+1240
+01:12:10,066 --> 01:12:12,694
+dan sekarang kita melihat
+simulasi yang sebenarnya.
+
+1241
+01:12:12,777 --> 01:12:14,946
+Tapi aku tidak bisa percaya...
+
+1242
+01:12:15,905 --> 01:12:20,160
+kalian masih belum mempertimbangkan
+faktor manusia.
+
+1243
+01:12:20,577 --> 01:12:23,872
+Simulasi pilot manusia menunjukkan
+bahwa kau bisa kembali ke bandara.
+
+1244
+01:12:24,289 --> 01:12:25,582
+Tidak.
+
+1245
+01:12:26,333 --> 01:12:29,002
+Para pilot ini tidak berperilaku
+seperti manusia...
+
+1246
+01:12:29,086 --> 01:12:31,672
+seperti orang yang mengalami ini
+untuk pertama kalinya.
+
+1247
+01:12:31,755 --> 01:12:33,382
+Mereka mungkin tidak bereaksi sepertimu.
+
+1248
+01:12:33,465 --> 01:12:35,259
+Segera setelah tabrakan burung...
+
+1249
+01:12:35,342 --> 01:12:36,885
+mereka kembali ke bandara.
+
+1250
+01:12:36,969 --> 01:12:39,180
+Sama seperti di simulasi komputer, betul?
+
+1251
+01:12:39,263 --> 01:12:40,347
+Betul.
+
+1252
+01:12:40,431 --> 01:12:43,726
+Mereka jelas tahu harus berbelok
+dan terbang ke arah mana.
+
+1253
+01:12:43,809 --> 01:12:46,729
+Mereka tidak memeriksa.
+Mereka tidak beralih ke UDT.
+
+1254
+01:12:46,812 --> 01:12:49,065
+Mereka memiliki semua parameter
+yang kau hadapi.
+
+1255
+01:12:49,148 --> 01:12:50,775
+Tidak ada yang memperingati kami.
+
+1256
+01:12:52,193 --> 01:12:53,152
+Tak ada yang bilang...
+
+1257
+01:12:53,236 --> 01:12:57,741
+"Kedua mesinmu akan mati di ketinggian
+lebih rendah dari pesawat mana pun."
+
+1258
+01:12:58,408 --> 01:12:59,534
+"Tapi tenang saja.
+
+1259
+01:12:59,617 --> 01:13:02,162
+"Belok kiri saja ke LaGuardia...
+
+1260
+01:13:02,245 --> 01:13:04,414
+"seperti kau akan kembali
+untuk mengambil susu."
+
+1261
+01:13:05,165 --> 01:13:08,043
+Ini kehilangan mesin ganda
+di ketinggian 850 meter...
+
+1262
+01:13:08,126 --> 01:13:10,295
+langsung diikuti
+dengan pendaratan di air...
+
+1263
+01:13:10,379 --> 01:13:13,215
+dengan 155 orang di pesawat.
+
+1264
+01:13:13,298 --> 01:13:17,052
+Tidak ada seorang pun pernah dilatih
+untuk insiden seperti itu.
+
+1265
+01:13:17,136 --> 01:13:18,220
+Tak seorang pun.
+
+1266
+01:13:19,179 --> 01:13:22,558
+Pendaratan Teterboro,
+dengan sudut tidak realistis...
+
+1267
+01:13:22,641 --> 01:13:24,935
+kami bukan pesawat Thunderbird
+di atas sana.
+
+1268
+01:13:25,686 --> 01:13:27,980
+Aku ingin tahu berapa kali
+pilot berlatih manuver itu...
+
+1269
+01:13:28,064 --> 01:13:30,149
+sebelum dia benar-benar berhasil.
+
+1270
+01:13:31,484 --> 01:13:34,654
+Aku tidak meragukan keahlian pilot.
+Mereka pilot yang baik.
+
+1271
+01:13:35,738 --> 01:13:37,615
+Tapi mereka jelas sudah diinstruksikan...
+
+1272
+01:13:37,699 --> 01:13:40,618
+untuk kembali ke bandara
+langsung setelah tabrakan burung.
+
+1273
+01:13:41,161 --> 01:13:44,206
+Kau tak memberi waktu untuk
+analisis dan pengambilan keputusan.
+
+1274
+01:13:44,289 --> 01:13:48,377
+Dalam simulasi ini, kau menghilangkan
+semua faktor pertimbangan manusia.
+
+1275
+01:13:49,252 --> 01:13:53,590
+Berapa lama pilot menyiapkan diri
+untuk acara ini?
+
+1276
+01:13:53,674 --> 01:13:55,300
+Untuk simulasi ini?
+
+1277
+01:13:58,554 --> 01:14:00,890
+Kau mencari kesalahan manusia.
+
+1278
+01:14:02,308 --> 01:14:04,101
+Kalau begitu buat yang akurat.
+
+1279
+01:14:09,065 --> 01:14:10,858
+Ini bukan permainan.
+
+1280
+01:14:11,609 --> 01:14:13,027
+Itu hidup dan mati.
+
+1281
+01:14:13,778 --> 01:14:15,863
+Sully benar.
+Beberapa detik itu berharga.
+
+1282
+01:14:15,947 --> 01:14:18,366
+Tolong tanyakan berapa kali
+mereka lakukan latihan ini.
+
+1283
+01:14:19,701 --> 01:14:20,785
+Tujuh belas kali.
+
+1284
+01:14:26,958 --> 01:14:28,668
+Tujuh belas?
+
+1285
+01:14:29,961 --> 01:14:32,339
+Pilot yang mendarat di Teterboro...
+
+1286
+01:14:32,422 --> 01:14:35,384
+menjalani 17 kali latihan praktek...
+
+1287
+01:14:35,467 --> 01:14:38,137
+sebelum simulasi yang kita saksikan.
+
+1288
+01:14:42,892 --> 01:14:45,686
+Keputusan waktu reaksimu
+akan ditetapkan dalam 35 detik.
+
+1289
+01:14:47,355 --> 01:14:49,607
+35 detik. Itu tidak cukup.
+
+1290
+01:14:50,149 --> 01:14:52,819
+Total waktu keputusan kita
+hanya 208 detik...
+
+1291
+01:14:53,736 --> 01:14:55,071
+jadi aku akan mengambilnya.
+
+1292
+01:14:55,613 --> 01:14:56,864
+Mengunggah tautan.
+
+1293
+01:14:56,948 --> 01:14:58,324
+Kembali ke LaGuardia.
+
+1294
+01:14:58,408 --> 01:15:01,035
+Sekarang dengan tambahan 35 detik
+penundaan dalam waktu reaksi.
+
+1295
+01:15:06,124 --> 01:15:07,167
+Burung.
+
+1296
+01:15:07,250 --> 01:15:08,210
+Aku melihat mereka.
+
+1297
+01:15:08,293 --> 01:15:10,170
+- Beri aku 35 detik.
+- 35 detik.
+
+1298
+01:15:17,761 --> 01:15:18,887
+Waktunya habis.
+
+1299
+01:15:18,971 --> 01:15:20,222
+Kita mulai.
+
+1300
+01:15:21,640 --> 01:15:22,892
+Vektor jalur pesawat.
+
+1301
+01:15:28,522 --> 01:15:29,774
+Menuju 1-3.
+
+1302
+01:15:29,857 --> 01:15:30,691
+Baik.
+
+1303
+01:15:31,442 --> 01:15:32,652
+Mengaktifkan konfirmasi.
+
+1304
+01:15:32,735 --> 01:15:34,862
+Baik. Sudah dikonfirmasi.
+
+1305
+01:15:36,864 --> 01:15:38,616
+Kami sedang menuju ke bandara.
+
+1306
+01:15:47,292 --> 01:15:48,585
+Hati-hati, kendala.
+
+1307
+01:15:49,461 --> 01:15:51,004
+Hati-hati, kendala.
+
+1308
+01:15:51,421 --> 01:15:53,840
+Kami sekitar 11 km dari landasan pacu.
+
+1309
+01:15:55,634 --> 01:15:57,386
+Hati-hati, kendala.
+
+1310
+01:15:57,803 --> 01:15:59,430
+Medan, medan.
+
+1311
+01:16:00,472 --> 01:16:01,682
+Tarik ke atas.
+
+1312
+01:16:09,732 --> 01:16:11,359
+Medan terlalu rendah.
+
+1313
+01:16:11,984 --> 01:16:14,821
+Kecepatan kita agak tinggi.
+Mau buka flap?
+
+1314
+01:16:15,446 --> 01:16:16,823
+Medan terlalu rendah.
+
+1315
+01:16:16,906 --> 01:16:18,074
+Tidak, biarkan flapnya.
+
+1316
+01:16:19,909 --> 01:16:21,619
+Medan terlalu rendah.
+
+1317
+01:16:26,082 --> 01:16:30,086
+50, 40, 30, 20...
+
+1318
+01:16:43,851 --> 01:16:45,311
+Mari kita coba bandara Teterboro.
+
+1319
+01:16:47,396 --> 01:16:48,647
+Harap unggah tautan.
+
+1320
+01:16:52,693 --> 01:16:53,694
+Burung.
+
+1321
+01:16:53,778 --> 01:16:55,571
+Pilot otomatis mati.
+Jalur penerbangan mati.
+
+1322
+01:16:55,655 --> 01:16:56,572
+Menghitung waktu.
+
+1323
+01:16:56,656 --> 01:16:58,116
+- 35 detik.
+- 35 detik.
+
+1324
+01:17:00,201 --> 01:17:01,870
+Mesin satu dan dua rusak.
+
+1325
+01:17:06,374 --> 01:17:07,208
+Belok.
+
+1326
+01:17:07,626 --> 01:17:08,627
+Baik.
+
+1327
+01:17:10,754 --> 01:17:12,547
+Mari kita lihat apa kita berhasil.
+
+1328
+01:17:16,969 --> 01:17:18,178
+Menuju sub 2- 9- 8.
+
+1329
+01:17:18,262 --> 01:17:19,888
+Kau melihat Teterboro di luar sana?
+
+1330
+01:17:19,972 --> 01:17:21,140
+Ya.
+
+1331
+01:17:25,436 --> 01:17:26,937
+Kita terbang terlalu rendah.
+
+1332
+01:17:29,815 --> 01:17:31,609
+Kendala, kendala.
+
+1333
+01:17:32,401 --> 01:17:33,778
+Tarik ke atas.
+
+1334
+01:17:43,705 --> 01:17:45,832
+Tidak akan berhasil.
+
+1335
+01:18:06,520 --> 01:18:08,773
+Apa ada yang perlu melihat
+simulasi lebih?
+
+1336
+01:18:13,069 --> 01:18:15,822
+Sekarang kita telah melihat
+apa yang bisa terjadi...
+
+1337
+01:18:15,905 --> 01:18:17,990
+bisa kita mendengarkan
+apa yang benar-benar terjadi?
+
+1338
+01:18:18,908 --> 01:18:21,869
+Kami akan melihat semua hasil
+di kemudian hari.
+
+1339
+01:18:22,996 --> 01:18:24,205
+Elizabeth.
+
+1340
+01:18:24,706 --> 01:18:25,957
+Untuk catatan...
+
+1341
+01:18:26,040 --> 01:18:29,628
+ini CVR dari US Airways
+Penerbangan 1549...
+
+1342
+01:18:29,711 --> 01:18:32,297
+15 Januari 2009.
+
+1343
+01:18:32,380 --> 01:18:34,800
+Tuan-tuan, gunakan headset.
+
+1344
+01:19:02,161 --> 01:19:03,162
+Burung!
+
+1345
+01:19:12,172 --> 01:19:13,089
+Oh, ya.
+
+1346
+01:19:14,841 --> 01:19:15,842
+Ada satu kerusakan.
+
+1347
+01:19:19,680 --> 01:19:21,974
+Kita punya dua kerusakan.
+
+1348
+01:19:26,478 --> 01:19:27,438
+Menyalakan kontak.
+
+1349
+01:19:33,736 --> 01:19:34,779
+Aku akan memulai UDT.
+
+1350
+01:19:41,786 --> 01:19:43,037
+- Pesawatku.
+- Pesawatmu.
+
+1351
+01:19:43,997 --> 01:19:45,248
+Keluarkan QRH.
+
+1352
+01:19:45,331 --> 01:19:46,833
+Prioritas ke kiri.
+
+1353
+01:19:46,916 --> 01:19:48,001
+Pendorong dua mesin hilang.
+
+1354
+01:19:48,585 --> 01:19:50,712
+Mayday, mayday, mayday.
+Ini Kaktus 1549.
+
+1355
+01:19:50,795 --> 01:19:52,756
+Tabrakan burung.
+Hilang pendorong di kedua mesin.
+
+1356
+01:19:52,839 --> 01:19:54,466
+Kami akan kembali ke LaGuardia.
+
+1357
+01:19:55,050 --> 01:19:56,218
+Kau kembali ke LaGuardia?
+
+1358
+01:19:56,301 --> 01:19:58,095
+- Belok kiri menuju 2-2- 0.
+- 2-2- 0.
+
+1359
+01:19:58,178 --> 01:20:00,305
+- Kehilangan mesin yang mana?
+- Keduanya. Kedua mesin.
+
+1360
+01:20:10,024 --> 01:20:11,984
+"Jika bahan bakar tersisa,
+nyalakan kontak."
+
+1361
+01:20:12,067 --> 01:20:13,652
+- Kontak.
+- Kontak.
+
+1362
+01:20:13,736 --> 01:20:15,112
+Tuas pendorong tak berfungsi.
+
+1363
+01:20:15,196 --> 01:20:16,197
+Tak berfungsi.
+
+1364
+01:20:16,280 --> 01:20:18,366
+Kecepatan terbang.
+Optimalkan pembakaran, 300 knot.
+
+1365
+01:20:19,158 --> 01:20:21,536
+- Kita tidak punya itu.
+- Tidak, tidak.
+
+1366
+01:20:23,162 --> 01:20:26,499
+Kaktus 1549, jika kami bisa dapatkan,
+kau ingin mendarat di landasan 1-3?
+
+1367
+01:20:28,543 --> 01:20:30,837
+Kami tidak bisa.
+Kami mungkin berakhir di Hudson.
+
+1368
+01:20:32,297 --> 01:20:35,050
+Daya listrik darurat,
+generator darurat tidak tersambung.
+
+1369
+01:20:35,133 --> 01:20:36,885
+Tersambung.
+
+1370
+01:20:36,968 --> 01:20:39,805
+Beritahu ATC. Keadaan darurat.
+
+1371
+01:20:39,888 --> 01:20:41,557
+Mengirim pesan darurat.
+Sudah dilakukan.
+
+1372
+01:20:41,640 --> 01:20:44,309
+Kaktus 1549, ambil jalur kiri,
+landasan 3-1.
+
+1373
+01:20:45,227 --> 01:20:46,270
+Tidak bisa.
+
+1374
+01:20:46,353 --> 01:20:47,896
+Apa yang kau butuhkan
+untuk mendarat?
+
+1375
+01:20:47,980 --> 01:20:48,939
+Perubahan angin.
+
+1376
+01:20:49,023 --> 01:20:50,941
+FAC 1 mati, kemudian nyalakan.
+
+1377
+01:20:53,110 --> 01:20:54,278
+KEGAGALAN DUAL MESIN
+SEGERA MENDARAT
+
+1378
+01:21:04,539 --> 01:21:06,833
+Sudah 10 detik berlalu, Kapten. Ayolah.
+
+1379
+01:21:06,916 --> 01:21:08,126
+Bicara padaku.
+
+1380
+01:21:08,209 --> 01:21:09,252
+Kaktus 1549...
+
+1381
+01:21:09,335 --> 01:21:12,255
+landasan 4 tersedia jika kau ingin
+belok kiri ke landasan 4.
+
+1382
+01:21:12,339 --> 01:21:13,882
+Kami tak bisa mencapai landasan.
+
+1383
+01:21:13,965 --> 01:21:16,051
+Bagaimana dengan sebelah kanan kami?
+
+1384
+01:21:16,134 --> 01:21:17,719
+Ada di New Jersey?
+Mungkin Teterboro?
+
+1385
+01:21:17,803 --> 01:21:19,846
+Baik, ya. Sisi kananmu
+adalah bandara Teterboro.
+
+1386
+01:21:20,555 --> 01:21:23,350
+Keberangkatan LaGuardia,
+ada yang masuk darurat.
+
+1387
+01:21:23,433 --> 01:21:24,977
+Ini menara Teterboro. Silakan.
+
+1388
+01:21:25,060 --> 01:21:28,522
+Kaktus 1549 di atas jembatan GW.
+Butuh kembali ke bandara sekarang.
+
+1389
+01:21:28,605 --> 01:21:29,982
+Diterima. Apa dia butuh bantuan?
+
+1390
+01:21:30,065 --> 01:21:32,151
+Ya. Tertabrak burung.
+Bisa kuarahkan ke landasan 1?
+
+1391
+01:21:39,367 --> 01:21:41,702
+Kaktus 1549,
+kau ingin coba pergi ke Teterboro?
+
+1392
+01:21:42,870 --> 01:21:43,871
+Kendala.
+
+1393
+01:21:51,004 --> 01:21:52,130
+Tarik ke atas.
+
+1394
+01:21:52,213 --> 01:21:53,590
+Bebas kendala.
+
+1395
+01:21:53,673 --> 01:21:56,343
+"Tak ada pembakaran setelah 30 detik,
+mesin satu dan dua mati."
+
+1396
+01:21:56,426 --> 01:21:57,552
+Mati.
+
+1397
+01:21:58,470 --> 01:21:59,930
+"Tunggu 30 detik."
+
+1398
+01:22:00,013 --> 01:22:01,473
+Terlalu rendah.
+
+1399
+01:22:15,071 --> 01:22:16,572
+Ini kapten pesawat.
+
+1400
+01:22:17,156 --> 01:22:18,532
+Bersiap untuk benturan.
+
+1401
+01:22:21,869 --> 01:22:23,079
+500...
+
+1402
+01:22:30,420 --> 01:22:34,049
+Kaktus 1549, belok kanan 2-8-0. Kau bisa
+mendarat di landasan satu Teterboro.
+
+1403
+01:22:34,132 --> 01:22:35,467
+Kami tidak bisa.
+
+1404
+01:22:35,550 --> 01:22:37,343
+Landasan mana
+yang kau inginkan di Teterboro?
+
+1405
+01:22:37,427 --> 01:22:38,678
+Silakan. Coba nomor satu.
+
+1406
+01:22:38,762 --> 01:22:40,347
+Nomor satu.
+
+1407
+01:22:40,430 --> 01:22:42,015
+Tidak menyala.
+
+1408
+01:22:43,100 --> 01:22:44,434
+Kami akan mendarat di Hudson.
+
+1409
+01:22:44,518 --> 01:22:45,477
+Terlalu rendah.
+
+1410
+01:22:45,561 --> 01:22:47,729
+Maaf. Katakan lagi, Kaktus?
+
+1411
+01:23:00,785 --> 01:23:02,620
+Baik, mari kita aktifkan flap.
+Aktifkan flap.
+
+1412
+01:23:03,079 --> 01:23:04,205
+Flap aktif.
+
+1413
+01:23:04,288 --> 01:23:05,957
+Kaktus 1549, hilang kontak
+dengan radar.
+
+1414
+01:23:06,040 --> 01:23:08,876
+Juga ada Newark arah jam dua,
+jarak 11 km.
+
+1415
+01:23:08,960 --> 01:23:10,128
+Flap sudah aktif.
+
+1416
+01:23:10,211 --> 01:23:11,880
+Ketinggian 76 meter.
+
+1417
+01:23:17,552 --> 01:23:19,888
+170 knot. Tidak ada daya pada salah satu.
+Coba yang lain.
+
+1418
+01:23:19,971 --> 01:23:20,889
+Coba yang lain.
+
+1419
+01:23:20,972 --> 01:23:22,849
+1549? Masih terhubung?
+
+1420
+01:23:22,933 --> 01:23:24,268
+150 knot.
+
+1421
+01:23:24,726 --> 01:23:27,187
+- Flap 2 aktif. Kau ingin lebih?
+- Tidak. Tetap di dua.
+
+1422
+01:23:27,271 --> 01:23:30,024
+Ada landasan 2-9 di Newark.
+Arah jam dua, jarak 11 km.
+
+1423
+01:23:30,107 --> 01:23:31,984
+Kau punya ide?
+
+1424
+01:23:32,484 --> 01:23:33,569
+Sebenarnya tidak.
+
+1425
+01:23:33,652 --> 01:23:35,154
+Daratan, daratan.
+
+1426
+01:23:35,237 --> 01:23:36,489
+Tarik ke atas.
+
+1427
+01:23:49,919 --> 01:23:51,212
+Kita akan bersiap.
+
+1428
+01:23:52,755 --> 01:23:53,757
+30...
+
+1429
+01:23:57,886 --> 01:23:59,012
+20...
+
+1430
+01:24:38,428 --> 01:24:41,014
+Aku perlu istirahat sejenak.
+
+1431
+01:24:55,779 --> 01:24:57,364
+Apa yang kau pikirkan?
+
+1432
+01:24:58,491 --> 01:25:01,243
+Mendengar CVR sekarang?
+
+1433
+01:25:03,746 --> 01:25:05,540
+Kuberitahu yang kupikirkan.
+
+1434
+01:25:07,750 --> 01:25:09,168
+Aku sangat bangga.
+
+1435
+01:25:11,004 --> 01:25:13,840
+Dan kau, kau berada di sana,
+melalui semua gangguan itu.
+
+1436
+01:25:13,923 --> 01:25:15,717
+Dengan begitu banyak risiko.
+
+1437
+01:25:18,428 --> 01:25:20,764
+Kita melakukan ini bersama-sama.
+Kita adalah tim.
+
+1438
+01:25:22,766 --> 01:25:23,975
+Terima kasih, Sully.
+
+1439
+01:25:24,476 --> 01:25:26,603
+Kita melakukan tugas kita.
+
+1440
+01:25:45,540 --> 01:25:47,542
+Hei, kau melakukannya dengan baik.
+
+1441
+01:25:48,209 --> 01:25:50,670
+Baik, semuanya,
+aku ingin melanjutkan sidang ini.
+
+1442
+01:25:50,753 --> 01:25:52,505
+Semua harap tenang.
+
+1443
+01:25:54,424 --> 01:25:55,967
+Silakan duduk.
+
+1444
+01:26:02,682 --> 01:26:04,768
+Jujur saja ini pertama kalinya...
+
+1445
+01:26:04,851 --> 01:26:08,897
+aku mendengarkan rekaman kecelakaan
+sambil duduk...
+
+1446
+01:26:08,981 --> 01:26:11,233
+bersama kapten dan ko-pilot.
+
+1447
+01:26:13,610 --> 01:26:15,112
+Ini luar biasa.
+
+1448
+01:26:16,655 --> 01:26:19,158
+Itu bukan simulasi.
+
+1449
+01:26:20,409 --> 01:26:21,827
+Memang bukan.
+
+1450
+01:26:23,496 --> 01:26:24,747
+Hadirin...
+
+1451
+01:26:25,289 --> 01:26:29,043
+aku ingin memberitahukan
+bahwa mesin kiri telah ditemukan.
+
+1452
+01:26:29,961 --> 01:26:32,338
+Kami baru menerima
+laporan yang komprehensif.
+
+1453
+01:26:35,049 --> 01:26:36,676
+Ada kerusakan parah...
+
+1454
+01:26:36,759 --> 01:26:39,512
+pada sudut pengarah
+dan baling-baling mesin.
+
+1455
+01:26:39,596 --> 01:26:42,515
+Lima pisau kompresor patah...
+
+1456
+01:26:42,599 --> 01:26:46,311
+dan delapan variabel sudut
+pengarah hilang.
+
+1457
+01:26:47,229 --> 01:26:49,022
+Jadi, tidak ada dorongan?
+
+1458
+01:26:49,106 --> 01:26:50,357
+Sesuai kesaksianmu...
+
+1459
+01:26:50,941 --> 01:26:53,152
+itu benar-benar hancur.
+
+1460
+01:26:53,235 --> 01:26:55,446
+Data ACARS salah.
+
+1461
+01:27:00,242 --> 01:27:02,995
+Aku ingin menambahkan sesuatu
+pada catatan pribadi.
+
+1462
+01:27:03,621 --> 01:27:05,498
+Aku dapat mengatakan
+dengan penuh keyakinan...
+
+1463
+01:27:05,581 --> 01:27:08,835
+bahwa setelah berbicara
+dengan para awak pesawat lainnya...
+
+1464
+01:27:09,502 --> 01:27:12,088
+dengan para ahli burung,
+insinyur penerbangan...
+
+1465
+01:27:12,505 --> 01:27:15,091
+setelah meninjau setiap skenario...
+
+1466
+01:27:15,174 --> 01:27:17,552
+setelah mewawancarai semua orang...
+
+1467
+01:27:17,927 --> 01:27:20,347
+masih ada faktor tak dikenal
+dalam hasil ini...
+
+1468
+01:27:21,222 --> 01:27:23,934
+dan kaulah faktor itu,
+Kapten Sullenberger.
+
+1469
+01:27:24,017 --> 01:27:29,106
+Menghapusmu dari persamaan,
+dan perhitungannya gagal.
+
+1470
+01:27:30,857 --> 01:27:32,484
+Aku tidak setuju.
+
+1471
+01:27:34,153 --> 01:27:37,031
+Itu bukan hanya aku. Itu kami semua.
+
+1472
+01:27:37,114 --> 01:27:39,867
+Itu Jeff dan Donna dan Sheila
+dan Doreen...
+
+1473
+01:27:40,701 --> 01:27:44,413
+dan semua penumpang,
+para petugas penyelamat...
+
+1474
+01:27:44,497 --> 01:27:46,791
+pengontrol lalu lintas udara...
+
+1475
+01:27:46,874 --> 01:27:49,252
+para kru kapal feri dan polisi penyelam.
+
+1476
+01:27:51,379 --> 01:27:53,214
+Kami semua berhasil.
+
+1477
+01:27:54,173 --> 01:27:55,675
+Kami selamat.
+
+1478
+01:27:59,679 --> 01:28:04,434
+Ko-pilot Skiles, apa ada sesuatu
+yang ingin kau tambahkan?
+
+1479
+01:28:05,477 --> 01:28:07,562
+Apa pun yang akan kau lakukan
+dengan berbeda...
+
+1480
+01:28:08,563 --> 01:28:10,232
+andai kau harus melakukannya lagi?
+
+1481
+01:28:11,275 --> 01:28:12,484
+Ya.
+
+1482
+01:28:13,068 --> 01:28:14,695
+Aku akan melakukannya di bulan Juli.
+
+1483
+01:28:27,750 --> 01:28:29,210
+PADA TANGGAL 15 JANUARI 2009,
+
+1484
+01:28:29,293 --> 01:28:31,963
+SEKITAR 1.200 RESPONDEN PERTAMA DAN
+7 KAPAL FERI PENGANGKUT 130 ORANG,
+
+1485
+01:28:32,046 --> 01:28:34,424
+MENYELAMATKAN PARA PENUMPANG
+DAN AWAK PENERBANGAN 1549.
+
+1486
+01:28:34,507 --> 01:28:39,971
+WARGA TERBAIK NEW YORK BERKUMPUL.
+MEREKA MEMBUTUHKAN WAKTU 24 MENIT.
+
+1487
+01:28:53,402 --> 01:28:54,653
+BERDASARKAN BUKU TUGAS TERTINGGI DARI
+
+1488
+01:28:54,736 --> 01:28:57,030
+CHESLEY "SULLY" SULLENBERGER
+DAN JEFFREY ZASLOW
+
+1489
+01:29:50,544 --> 01:29:52,296
+- 7F.
+- 11F.
+
+1490
+01:29:52,380 --> 01:29:54,424
+- 9D.
+- 1C.
+
+1491
+01:29:54,507 --> 01:29:56,801
+- 25B.
+- 26B.
+
+1492
+01:29:56,884 --> 01:29:59,053
+- 10B.
+- 9A.
+
+1493
+01:29:59,137 --> 01:30:02,098
+- 13C.
+- 21A dan B.
+
+1494
+01:30:02,724 --> 01:30:04,351
+155 adalah nomor...
+
+1495
+01:30:04,934 --> 01:30:08,438
+tapi ketika kau dapat
+menempatkan wajah untuk itu...
+
+1496
+01:30:08,522 --> 01:30:10,690
+dan bukan hanya 155 wajah...
+
+1497
+01:30:10,774 --> 01:30:12,943
+tapi wajah-wajah lainnya...
+
+1498
+01:30:13,026 --> 01:30:14,903
+istri, anak perempuan,
+anak laki-laki...
+
+1499
+01:30:14,987 --> 01:30:17,030
+ayah, ibu, saudara...
+
+1500
+01:30:17,531 --> 01:30:19,658
+itu akan segera menjadi
+angka yang cukup besar.
+
+1501
+01:30:19,742 --> 01:30:21,535
+Ini kapten sedang berbicara.
+
+1502
+01:30:25,998 --> 01:30:30,711
+Kurasa ini adalah hari yang luar biasa
+bagiku, para kru dan juga kalian.
+
+1503
+01:30:31,587 --> 01:30:35,800
+Dan karena peristiwa
+15 Januari 2009...
+
+1504
+01:30:35,883 --> 01:30:41,347
+aku yakin kita akan selalu dikenang
+di hati dan pikiran kita selamanya.
+
+1505
+01:31:37,030 --> 01:31:39,199
+Aku yang mengurus surat menyurat...
+
+1506
+01:31:39,992 --> 01:31:43,412
+jadi aku membaca ketika orang-orang
+dari seluruh negeri menulis kepada kami...
+
+1507
+01:31:43,495 --> 01:31:47,291
+dan aku membuka surat yang datang
+ke rumah kami dari keluarga kalian.
+
+1508
+01:31:47,374 --> 01:31:50,753
+Dan aku membuka kartu Natal.
+Jadi, terima kasih banyak...
+
+1509
+01:31:50,836 --> 01:31:54,048
+untuk rasa syukur yang telah kalian
+sampaikan pada keluarga kami...
+
+1510
+01:31:54,131 --> 01:31:56,551
+dan surat-surat dan kartu...
+
+1511
+01:31:56,634 --> 01:32:00,263
+karena mereka juga sangat penting
+bagi kami.
+
+1512
+01:32:00,346 --> 01:32:01,681
+Jadi, terima kasih.
+
+1513
+01:35:37,405 --> 01:35:49,408
+v ip 2 1. e u. or g
+
