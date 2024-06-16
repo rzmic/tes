@@ -1,0 +1,5997 @@
+1
+00:01:18,954 --> 00:01:20,914
+USS Kelvin<i>, di sini Markas Starfleet.</i>
+
+2
+00:01:20,998 --> 00:01:23,709
+<i>Markas Starfleet,
+sudah terima transmisi kami?</i>
+
+3
+00:01:23,834 --> 00:01:25,294
+Kelvin<i>, sudah periksa ulang data?</i>
+
+4
+00:01:25,419 --> 00:01:28,172
+<i>Sensor gravitasi kami melonjak.
+Kau harus lihat ini.</i>
+
+5
+00:01:28,255 --> 00:01:29,465
+<i>Tampaknya badai petir.</i>
+
+6
+00:01:29,548 --> 00:01:31,216
+<i>Data kirimanmu tampak mustahil.</i>
+
+7
+00:01:31,341 --> 00:01:33,510
+<i>Aku mengerti. Karena itu kami kirimkan.</i>
+
+8
+00:01:34,136 --> 00:01:35,847
+- Laporkan.
+- Masih di luar jangkauan visual.
+
+9
+00:01:35,930 --> 00:01:37,765
+- Beri aku 20 detik.
+<i>- Peringatkan Kapten Robau,</i>
+
+10
+00:01:37,849 --> 00:01:40,643
+<i>Starfleet sarankan untuk waspada.</i>
+
+11
+00:01:40,894 --> 00:01:42,312
+Polarisasi layar tampil.
+
+12
+00:01:42,395 --> 00:01:43,938
+<i>Mungkinkah ini Klingon?</i>
+
+13
+00:01:44,022 --> 00:01:45,356
+Kapten, ada visual.
+
+14
+00:01:45,440 --> 00:01:48,443
+<i>- Ulangi. Mungkinkah ini Klingon?
+- Negatif, Letnan.</i>
+
+15
+00:01:48,526 --> 00:01:49,986
+<i>Jarakmu 75.000 km dari...</i>
+
+16
+00:01:50,069 --> 00:01:51,654
+Kapten, kau lihat ini?
+
+17
+00:01:54,616 --> 00:01:55,658
+Astaga.
+
+18
+00:02:16,722 --> 00:02:17,681
+Ada bacaan.
+
+19
+00:02:18,182 --> 00:02:20,142
+- Mereka arahkan senjata pada kita!
+- Siaga merah!
+
+20
+00:02:20,226 --> 00:02:22,144
+Kita dibidik torpedo di sudut 320 derajat.
+
+21
+00:02:22,228 --> 00:02:23,437
+- Titik 2.
+- Siapkan senjata!
+
+22
+00:02:25,731 --> 00:02:27,066
+Pola penghindaran D5!
+
+23
+00:02:28,984 --> 00:02:30,194
+Torpedo datang dengan cepat!
+
+24
+00:02:36,617 --> 00:02:39,203
+Tembakkan semua senjata!
+Laporkan kerusakan.
+
+25
+00:02:39,328 --> 00:02:42,164
+<i>Penggerak</i> warp <i>rusak!
+Belum pernah lihat yang seperti ini.</i>
+
+26
+00:02:43,458 --> 00:02:45,752
+Senjata tidak aktif.
+Daya mesin utama 38%.
+
+27
+00:02:45,877 --> 00:02:47,837
+- Mereka menembak lagi!
+- Pasang perisai depan!
+
+28
+00:02:56,596 --> 00:02:57,764
+Letnan!
+
+29
+00:03:03,019 --> 00:03:04,729
+Stabilisasi atmosfer musnah.
+
+30
+00:03:04,813 --> 00:03:06,856
+- Perisai terpasang?
+- Oksigen dek 7-13 turun.
+
+31
+00:03:06,940 --> 00:03:08,942
+- Korban dikonfirmasi.
+- Daya perisai 11% dan menurun.
+
+32
+00:03:09,025 --> 00:03:10,360
+10%. Perisai 9%. Menurun.
+
+33
+00:03:10,443 --> 00:03:12,404
+Gunakan sisa daya untuk perisai depan.
+
+34
+00:03:12,487 --> 00:03:14,406
+Siapkan ulang-alik untuk evakuasi.
+
+35
+00:03:16,826 --> 00:03:17,994
+<i>Halo.</i>
+
+36
+00:03:19,161 --> 00:03:21,664
+<i>Komandanku meminta
+kehadiran Kapten kalian</i>
+
+37
+00:03:22,039 --> 00:03:24,083
+<i>untuk rundingkan gencatan senjata.</i>
+
+38
+00:03:24,333 --> 00:03:26,669
+<i>Kau harus ke pesawat kami
+dengan pesawat ulang-alik.</i>
+
+39
+00:03:27,545 --> 00:03:30,089
+<i>Tidak bijak menolak.</i>
+
+40
+00:03:42,810 --> 00:03:44,103
+Ikut denganku.
+
+41
+00:03:50,193 --> 00:03:53,280
+Jika tak kukabari dalam 15 menit,
+evakuasi para awak.
+
+42
+00:03:53,697 --> 00:03:56,033
+- Pak, kita bisa...
+- Tak ada bantuan untuk kita.
+
+43
+00:03:56,366 --> 00:03:57,659
+Gunakan pilot otomatis.
+
+44
+00:03:59,244 --> 00:04:01,079
+- Tinggalkan kapal ini.
+- Baik, Kapten.
+
+45
+00:04:01,663 --> 00:04:03,457
+Sekarang kau Kaptennya, Tn. Kirk.
+
+46
+00:05:16,949 --> 00:05:18,534
+Denyut jantungnya semakin cepat.
+
+47
+00:05:41,307 --> 00:05:42,892
+Lihat pesawat ini.
+
+48
+00:05:44,728 --> 00:05:47,772
+- Kau mengenalinya?
+- Siapa komandanmu?
+
+49
+00:05:49,607 --> 00:05:52,610
+- Apakah dia?
+- Aku bicara mewakili Kapten Nero.
+
+50
+00:05:52,777 --> 00:05:57,449
+Tanyakan Kapten Nero, apa haknya
+menyerang pesawat Federasi?
+
+51
+00:06:10,880 --> 00:06:13,883
+Kau tahu lokasi Duta Besar Spock?
+
+52
+00:06:17,136 --> 00:06:19,764
+Aku tak mengenal Duta Besar Spock.
+
+53
+00:06:21,265 --> 00:06:24,185
+- Sekarang tanggal bintang berapa?
+- Tanggal bintang?
+
+54
+00:06:26,270 --> 00:06:28,189
+223304.
+
+55
+00:06:30,775 --> 00:06:32,109
+Dari mana asal kalian?
+
+56
+00:06:38,241 --> 00:06:39,743
+TERBUNUH
+
+57
+00:06:40,035 --> 00:06:41,912
+Pak, mereka membidik.
+Mereka akan menembak lagi!
+
+58
+00:06:42,204 --> 00:06:43,747
+Manuver Bravo 6! Tembakan menyebar!
+
+59
+00:06:53,632 --> 00:06:56,802
+- Daya turun 17%.
+- Aku memulai Aturan Umum 13!
+
+60
+00:06:56,885 --> 00:06:58,261
+- Tinggalkan kapal!
+- Baik, Pak!
+
+61
+00:07:03,642 --> 00:07:06,853
+Semua dek, ini Kapten.
+Evakuasi pesawat segera.
+
+62
+00:07:07,062 --> 00:07:09,147
+Pergi ke pesawat masing-masing.
+Kuulangi. Evakuasi...
+
+63
+00:07:09,231 --> 00:07:10,899
+Itu suara George. Ada apa?
+
+64
+00:07:11,024 --> 00:07:12,485
+Kau akan melahirkan di ulang-alik.
+
+65
+00:07:12,693 --> 00:07:15,321
+Lambung kapal tertembak!
+
+66
+00:07:18,366 --> 00:07:22,119
+Cepat! Jalan ini ditutup! Ayo! Bantu dia!
+
+67
+00:07:22,495 --> 00:07:23,830
+Aku segera ke sana!
+
+68
+00:07:25,498 --> 00:07:27,083
+- George.
+- <i>Kau tak apa. Syukurlah.</i>
+
+69
+00:07:27,208 --> 00:07:30,211
+Kusiapkan pesawat medis nomor 37.
+Naiklah. Kau bisa?
+
+70
+00:07:30,378 --> 00:07:32,129
+- Ya.
+<i>- Semua akan baik-baik saja.</i>
+
+71
+00:07:32,213 --> 00:07:36,133
+<i>- Lakukan kataku. Pesawat ulang-alik 37.</i>
+- George, bayinya akan lahir.
+
+72
+00:07:36,342 --> 00:07:39,554
+- Bayi kita sudah akan lahir.
+- <i>Aku segera ke sana.</i>
+
+73
+00:07:45,561 --> 00:07:47,604
+<i>Fungsi pilot otomatis rusak.</i>
+
+74
+00:07:48,355 --> 00:07:50,274
+<i>Khusus operasi manual.</i>
+
+75
+00:07:51,191 --> 00:07:53,735
+Kosongkan geladak!
+Ke pesawat ulang-alik! Cepat!
+
+76
+00:07:53,861 --> 00:07:56,405
+Ke geladak hanggar! Ayo, cepat!
+
+77
+00:07:58,824 --> 00:08:01,410
+- Kontraksi besar.
+- Tarik napas. Kau akan baik-baik saja.
+
+78
+00:08:01,535 --> 00:08:04,246
+- Bayinya juga, 'kan?
+- Bayinya juga.
+
+79
+00:08:09,543 --> 00:08:11,920
+Di sini, duduklah.
+
+80
+00:08:16,049 --> 00:08:18,176
+<i>Kapten ke pesawat 37.
+Istriku sudah naik?</i>
+
+81
+00:08:18,636 --> 00:08:21,306
+- Ya, Pak.
+- Berangkatlah sekarang. Kau dengar?
+
+82
+00:08:21,389 --> 00:08:24,100
+- Kami menunggumu, Pak.
+- Tidak, pergilah. Lepas landas segera.
+
+83
+00:08:24,350 --> 00:08:26,269
+<i>- Itu perintah.</i>
+- Baik, Pak.
+
+84
+00:08:26,519 --> 00:08:28,229
+Tunggu! Jangan berangkat dulu!
+
+85
+00:08:31,024 --> 00:08:33,401
+Tolong berhenti! Berhenti!
+
+86
+00:08:34,903 --> 00:08:38,239
+George?
+Pesawatnya berangkat. Di mana kau?
+
+87
+00:08:38,740 --> 00:08:40,033
+Sayang, dengarkan aku.
+
+88
+00:08:40,909 --> 00:08:42,160
+<i>Aku takkan bisa ke sana.</i>
+
+89
+00:08:42,702 --> 00:08:44,871
+- Tidak.
+- Hanya dengan begini kau akan selamat.
+
+90
+00:08:44,996 --> 00:08:47,540
+Kau masih di pesawat?
+Kau harus ke sini!
+
+91
+00:08:47,749 --> 00:08:49,918
+Pesawat evakuasi takkan lolos
+jika tak kulawan mereka.
+
+92
+00:08:50,001 --> 00:08:53,047
+George, aku tak bisa lalui ini tanpamu.
+
+93
+00:08:53,172 --> 00:08:55,257
+Baik, kau harus dorong, sekarang.
+
+94
+00:09:34,214 --> 00:09:36,800
+SISTEM RUSAK
+PERSENJATAAN MATI, PERISAI KRITIS
+
+95
+00:09:41,304 --> 00:09:43,014
+JALUR PENABRAKAN DIAMBIL
+
+96
+00:09:57,112 --> 00:09:59,907
+BENTURAN
+
+97
+00:10:13,129 --> 00:10:14,755
+- Apa jenis kelaminnya?
+- Laki-laki.
+
+98
+00:10:15,047 --> 00:10:16,257
+Laki-laki?
+
+99
+00:10:17,717 --> 00:10:19,051
+<i>Seperti apa dia?</i>
+
+100
+00:10:19,969 --> 00:10:21,679
+<i>Dia tampan.</i>
+
+101
+00:10:23,723 --> 00:10:25,349
+George, seharusnya kau di sini.
+
+102
+00:10:26,934 --> 00:10:28,436
+<i>Peringatan benturan.</i>
+
+103
+00:10:30,479 --> 00:10:34,026
+- Kita namai apa dia?
+- Kita namai seperti ayahmu saja.
+
+104
+00:10:34,359 --> 00:10:37,654
+"Tiberius?" Kau bercanda?
+Tidak, itu jelek sekali.
+
+105
+00:10:39,489 --> 00:10:42,242
+Kita namai seperti ayahmu saja, Jim.
+
+106
+00:10:44,578 --> 00:10:47,998
+Jim. Baiklah, namanya Jim.
+
+107
+00:10:52,544 --> 00:10:54,921
+- Sayang, bisa dengar aku?
+- Aku dengar kau!
+
+108
+00:10:55,005 --> 00:10:58,675
+Aku sangat mencintaimu.
+Aku mencintaimu...
+
+109
+00:12:16,965 --> 00:12:18,925
+<i>Hei, kau sudah gila? Itu mobil antik.</i>
+
+110
+00:12:19,008 --> 00:12:21,511
+<i>Kau pikir bisa seenaknya
+karena ibumu di luar Bumi?</i>
+
+111
+00:12:21,636 --> 00:12:24,013
+<i>Pulang sekarang juga!</i>
+
+112
+00:12:24,139 --> 00:12:27,851
+<i>Kau tinggal di rumahku. Itu mobilku.</i>
+
+113
+00:12:28,017 --> 00:12:30,895
+<i>Jika sampai lecet, akan kucambuk...</i>
+
+114
+00:12:44,033 --> 00:12:45,535
+Ya!
+
+115
+00:12:55,045 --> 00:12:56,422
+Hei, Johnny!
+
+116
+00:13:16,567 --> 00:13:18,694
+Warga kota! Menepilah.
+
+117
+00:13:45,305 --> 00:13:47,224
+Tidak!
+
+118
+00:14:13,125 --> 00:14:14,627
+Ada masalah apa, Pak Polisi?
+
+119
+00:14:15,753 --> 00:14:17,922
+Warga kota, siapa namamu?
+
+120
+00:14:18,422 --> 00:14:20,675
+Namaku James Tiberius Kirk.
+
+121
+00:14:22,885 --> 00:14:27,390
+PLANET VULCAN
+
+122
+00:14:39,027 --> 00:14:41,571
+<i>Apa rumus volume bola?</i>
+
+123
+00:14:41,655 --> 00:14:44,491
+Empat per tiga pi dikali jari-jari.
+
+124
+00:14:44,658 --> 00:14:45,659
+Hasilnya 1,26.
+
+125
+00:14:45,742 --> 00:14:46,785
+Sebuah elips.
+
+126
+00:14:46,910 --> 00:14:48,745
+<i>Berapa muatan listrik elektron jenis atas?</i>
+
+127
+00:14:48,829 --> 00:14:50,580
+Positif dua pertiga.
+
+128
+00:14:50,664 --> 00:14:55,627
+<i>Berapa akar kuadrat dari 2.396.324?</i>
+
+129
+00:14:55,752 --> 00:14:57,504
+- 1.548...
+<i>- Apa itu matra...</i>
+
+130
+00:14:57,587 --> 00:15:00,340
+Matra sama dengan logaritma
+dibagi dengan...
+
+131
+00:15:00,424 --> 00:15:02,343
+Tanpa perkecualian
+dan tanpa persaingan...
+
+132
+00:15:02,427 --> 00:15:04,220
+Empat per tiga pi
+dikali jari-jari pangkat tiga.
+
+133
+00:15:04,304 --> 00:15:07,974
+Bila terpuji secara moral,
+tapi tak wajib secara moral.
+
+134
+00:15:10,977 --> 00:15:12,186
+Spock!
+
+135
+00:15:14,272 --> 00:15:17,317
+Kurasa kau sudah siapkan
+kata-kata hinaan baru hari ini.
+
+136
+00:15:17,692 --> 00:15:19,110
+Memang.
+
+137
+00:15:27,327 --> 00:15:31,122
+Ini usaha ke-35 kalian untuk memancing
+tanggapan emosi dariku.
+
+138
+00:15:31,289 --> 00:15:34,000
+Kau bukan manusia, bukan Vulcan,
+tak ada tempat di alam semesta ini.
+
+139
+00:15:34,167 --> 00:15:36,962
+Lihat. Matanya mata manusia. Sendu, ya?
+
+140
+00:15:37,087 --> 00:15:39,798
+Mungkin tanggapan emosi
+butuh rangsangan fisik.
+
+141
+00:15:42,134 --> 00:15:47,264
+Ayahmu pengkhianat.
+Karena menikahi manusia pelacur itu.
+
+142
+00:16:15,919 --> 00:16:17,962
+Mereka bilang Ayah pengkhianat.
+
+143
+00:16:22,717 --> 00:16:25,053
+Di ras kita,
+emosi menjalar begitu dalam.
+
+144
+00:16:25,720 --> 00:16:28,014
+Dalam banyak hal,
+lebih dalam dari manusia.
+
+145
+00:16:28,765 --> 00:16:32,310
+Logika memberi kedamaian
+yang jarang dialami manusia.
+
+146
+00:16:32,811 --> 00:16:37,524
+Kendalikan perasaan,
+agar perasaan tak kendalikan kita.
+
+147
+00:16:40,693 --> 00:16:43,864
+Ayah ingin aku jadi Vulcan sepenuhnya,
+
+148
+00:16:44,448 --> 00:16:46,534
+tapi Ayah sendiri menikahi manusia.
+
+149
+00:16:46,617 --> 00:16:48,744
+Sebagai Duta Besar untuk Bumi, tugas Ayah
+
+150
+00:16:48,828 --> 00:16:51,580
+mengamati dan memahami
+perilaku manusia.
+
+151
+00:16:52,164 --> 00:16:53,958
+Menikahi ibumu adalah...
+
+152
+00:16:55,418 --> 00:16:56,794
+tindakan logis.
+
+153
+00:16:59,213 --> 00:17:04,093
+Spock. Kau mampu sepenuhnya
+menentukan takdirmu sendiri.
+
+154
+00:17:05,428 --> 00:17:10,266
+Pertanyaan untukmu adalah
+jalan mana yang akan kau tempuh?
+
+155
+00:17:11,725 --> 00:17:14,395
+Hanya kau yang bisa tentukan itu.
+
+156
+00:17:20,152 --> 00:17:22,821
+Spock, kemari, biar Ibu melihatmu.
+
+157
+00:17:24,865 --> 00:17:27,367
+- Tidak.
+- Spock.
+
+158
+00:17:35,292 --> 00:17:39,588
+Tak perlu cemas.
+Kau akan baik-baik saja.
+
+159
+00:17:39,838 --> 00:17:41,840
+Aku sama sekali tidak cemas, Bu.
+
+160
+00:17:42,090 --> 00:17:45,427
+"Baik-baik saja" memiliki banyak arti.
+Tak bisa diterima.
+
+161
+00:17:46,803 --> 00:17:47,846
+Baiklah.
+
+162
+00:17:55,521 --> 00:17:58,733
+- Boleh tanya hal pribadi?
+- Apa pun.
+
+163
+00:18:01,402 --> 00:18:04,947
+Jika aku menyelesaikan
+ilmu Vulcan, Kolinahr,
+
+164
+00:18:05,865 --> 00:18:08,075
+dan mengesampingkan semua emosi,
+
+165
+00:18:09,827 --> 00:18:13,164
+kuyakin Ibu takkan merasa dihakimi, 'kan?
+
+166
+00:18:16,209 --> 00:18:17,502
+Spock.
+
+167
+00:18:19,879 --> 00:18:23,300
+Seperti biasa, apa pun pilihanmu,
+
+168
+00:18:24,343 --> 00:18:26,595
+Ibu akan bangga padamu.
+
+169
+00:18:31,099 --> 00:18:34,811
+Kau telah melampaui
+harapan semua instrukturmu.
+
+170
+00:18:35,145 --> 00:18:39,024
+Catatan prestasi akhirmu sempurna,
+kecuali satu.
+
+171
+00:18:39,441 --> 00:18:42,945
+Kulihat kau juga telah melamar
+ke Starfleet.
+
+172
+00:18:43,237 --> 00:18:45,614
+Logis saja memiliki banyak pilihan.
+
+173
+00:18:45,697 --> 00:18:47,741
+Logis, tapi tak perlu.
+
+174
+00:18:47,824 --> 00:18:50,744
+Kau sudah diterima
+di Akademi Ilmiah Vulcan.
+
+175
+00:18:50,994 --> 00:18:52,496
+Mengagumkan, Spock,
+
+176
+00:18:52,579 --> 00:18:56,083
+kau sudah capai banyak hal
+meski punya kekurangan.
+
+177
+00:18:56,626 --> 00:18:58,086
+Semua berdiri!
+
+178
+00:19:01,631 --> 00:19:03,591
+Mohon jelaskan, Menteri,
+
+179
+00:19:04,884 --> 00:19:08,388
+- kekurangan apa yang Anda maksud?
+- Ibumu yang manusia.
+
+180
+00:19:13,643 --> 00:19:16,646
+Para anggota Dewan.
+Menteri, aku terpaksa menolak.
+
+181
+00:19:16,729 --> 00:19:19,440
+Belum pernah ada Vulcan menolak
+masuk kemari.
+
+182
+00:19:19,524 --> 00:19:22,235
+Aku setengah manusia,
+jadi rekor kalian tetap sempurna.
+
+183
+00:19:22,318 --> 00:19:26,072
+Spock, kau sudah berkomitmen
+menghormati jalan hidup Vulcan.
+
+184
+00:19:26,155 --> 00:19:28,449
+Kenapa kau menghadap kami hari ini?
+
+185
+00:19:28,533 --> 00:19:31,203
+Memuaskan hasratmu untuk berontak?
+
+186
+00:19:31,328 --> 00:19:33,789
+Aku hanya ingin ungkapkan
+rasa terima kasih.
+
+187
+00:19:35,291 --> 00:19:38,877
+Terima kasih, para Menteri,
+untuk pertimbangan kalian.
+
+188
+00:19:40,754 --> 00:19:42,423
+Semoga panjang umur dan sejahtera.
+
+189
+00:19:58,606 --> 00:19:59,898
+- Apa kabar?
+- Hei.
+
+190
+00:20:04,321 --> 00:20:06,072
+- Hai.
+- Hai.
+
+191
+00:20:11,369 --> 00:20:16,916
+Hai. Aku minta Teh Api Klabnia,
+tiga bir Klasik Budweiser,
+
+192
+00:20:17,000 --> 00:20:20,920
+- dua Mentari Pagi Cardassia, dan...
+- Coba Slusho-nya. Nikmat.
+
+193
+00:20:21,046 --> 00:20:22,631
+Slusho Campur, terima kasih.
+
+194
+00:20:22,714 --> 00:20:24,633
+Banyak sekali minumannya
+untuk satu wanita.
+
+195
+00:20:26,801 --> 00:20:29,721
+- Juga segelas Jack Daniels, tanpa es.
+- Dua gelas. Aku yang bayar.
+
+196
+00:20:29,804 --> 00:20:31,890
+Aku bayar sendiri.
+Terima kasih. Tak perlu.
+
+197
+00:20:31,973 --> 00:20:35,310
+Kau tak mau tanya dulu namaku
+sebelum menolakku?
+
+198
+00:20:35,393 --> 00:20:38,356
+- Aku tak butuh namamu.
+- Kau memang tak butuh.
+
+199
+00:20:38,856 --> 00:20:40,733
+Namaku Jim Kirk.
+
+200
+00:20:42,526 --> 00:20:45,613
+Jika tak mau bilang namamu,
+nanti kukarang sendiri.
+
+201
+00:20:46,489 --> 00:20:48,658
+- Namaku Uhura.
+- Yang benar!
+
+202
+00:20:48,741 --> 00:20:50,785
+Itu nama yang akan kukarang untukmu.
+
+203
+00:20:51,285 --> 00:20:53,663
+- Uhura apa?
+- Uhura saja.
+
+204
+00:20:53,746 --> 00:20:55,331
+Tak ada nama keluarga?
+
+205
+00:20:55,414 --> 00:20:56,832
+Uhura nama keluargaku.
+
+206
+00:20:56,916 --> 00:21:00,086
+Tak ada nama depan di duniamu?
+
+207
+00:21:01,712 --> 00:21:02,838
+Permisi, Kawan.
+
+208
+00:21:02,922 --> 00:21:06,008
+Jadi kau kadet, masih sekolah.
+Apa jurusanmu?
+
+209
+00:21:06,092 --> 00:21:08,552
+Xenolinguistik.
+Pasti kau tak tahu artinya.
+
+210
+00:21:08,636 --> 00:21:13,392
+Studi bahasa makhluk asing.
+Morfologi, fonologi, sintaksis.
+
+211
+00:21:14,101 --> 00:21:16,436
+Artinya, lidahmu berbakat.
+
+212
+00:21:17,104 --> 00:21:18,730
+Aku terkesan.
+
+213
+00:21:18,897 --> 00:21:20,941
+Tadi kupikir kau orang bodoh kampungan
+
+214
+00:21:21,108 --> 00:21:25,946
+- yang hanya bercinta dengan hewan ternak.
+- Tidak hanya dengan itu.
+
+215
+00:21:27,280 --> 00:21:29,491
+Anak kota ini tak mengganggumu, 'kan?
+
+216
+00:21:29,574 --> 00:21:32,119
+Sangat, tapi aku bisa tangani sendiri.
+
+217
+00:21:32,202 --> 00:21:34,246
+Kau bisa tangani aku. Itu sebuah undangan.
+
+218
+00:21:34,413 --> 00:21:38,583
+- Hei, jaga sikapmu.
+- Tenang, Sayang. Aku hanya bercanda.
+
+219
+00:21:38,667 --> 00:21:43,380
+Anak kampung, tak bisa berhitung?
+Kami berempat, kau sendiri.
+
+220
+00:21:43,463 --> 00:21:46,843
+Carilah lebih banyak teman,
+baru kita seimbang.
+
+221
+00:21:50,221 --> 00:21:51,931
+Teman-teman, hentikan.
+
+222
+00:21:54,392 --> 00:21:55,643
+Hentikan!
+
+223
+00:22:17,290 --> 00:22:18,417
+Cukup!
+
+224
+00:22:26,175 --> 00:22:27,634
+Teman-teman, cukup!
+
+225
+00:22:32,890 --> 00:22:34,725
+Keluar, kalian semua!
+
+226
+00:22:35,642 --> 00:22:37,227
+- Sekarang!
+- Baik, Pak!
+
+227
+00:22:37,770 --> 00:22:39,646
+- Dia tak mau dengar.
+- Aku baru minum.
+
+228
+00:22:39,730 --> 00:22:41,440
+- Kau percaya ini?
+- Ini tak adil.
+
+229
+00:22:41,565 --> 00:22:44,067
+- Ayo.
+- Kau tak apa-apa, Nak?
+
+230
+00:22:44,151 --> 00:22:46,862
+Siulanmu keras juga.
+
+231
+00:22:48,071 --> 00:22:50,491
+Aku hampir tak percaya
+saat bartender bilang kau siapa.
+
+232
+00:22:50,574 --> 00:22:53,703
+- Siapa aku, Kapten Pike?
+- Putra ayahmu.
+
+233
+00:22:57,207 --> 00:22:58,875
+Boleh minta segelas lagi?
+
+234
+00:22:58,958 --> 00:23:01,711
+Untuk disertasiku,
+aku menulis tentang USS Kelvin.
+
+235
+00:23:01,795 --> 00:23:05,507
+Kukagumi ayahmu,
+dia tak percaya akan kekalahan.
+
+236
+00:23:06,007 --> 00:23:07,592
+Dia memetik pelajaran yang mahal.
+
+237
+00:23:07,675 --> 00:23:09,219
+Tergantung caramu artikan kemenangan.
+
+238
+00:23:09,302 --> 00:23:11,304
+- Karena dia, kau hidup.
+- Terima kasih.
+
+239
+00:23:11,596 --> 00:23:14,682
+Dia juga selalu bertindak
+tanpa terlalu memikirkan akibatnya.
+
+240
+00:23:14,766 --> 00:23:17,060
+Menurutku, itu yang hilang di Starfleet.
+
+241
+00:23:17,143 --> 00:23:20,063
+- Kenapa kau bicara kepadaku?
+- Kulihat arsipmu,
+
+242
+00:23:20,146 --> 00:23:21,940
+saat kau terbaring di lantai.
+
+243
+00:23:22,857 --> 00:23:25,986
+Nilai tes bakatmu sangat tinggi.
+Jadi kenapa?
+
+244
+00:23:26,695 --> 00:23:29,490
+Kau senang jadi berandalan genius
+di kawasan Midwest?
+
+245
+00:23:29,573 --> 00:23:31,033
+Mungkin aku memang suka.
+
+246
+00:23:31,408 --> 00:23:34,578
+Jadi ayahmu mati. Kau bisa puas
+dengan hidup biasa saja.
+
+247
+00:23:35,120 --> 00:23:37,456
+Apa kau merasa ditakdirkan
+untuk hal yang lebih baik?
+
+248
+00:23:39,083 --> 00:23:40,751
+Sesuatu yang istimewa.
+
+249
+00:23:42,795 --> 00:23:45,339
+- Mendaftarlah di Starfleet.
+- Mendaftar?
+
+250
+00:23:46,841 --> 00:23:49,552
+Kalian pasti kekurangan peserta bulan ini.
+
+251
+00:23:49,635 --> 00:23:53,180
+Jika kau setengah saja sehebat ayahmu,
+Starfleet butuh kau.
+
+252
+00:23:54,056 --> 00:23:57,726
+Kau bisa jadi perwira dalam empat tahun,
+kapten pesawat dalam delapan tahun.
+
+253
+00:23:59,187 --> 00:24:02,232
+Kau memahami arti Federasi, 'kan?
+Itu sangat penting.
+
+254
+00:24:02,399 --> 00:24:04,234
+Armada penjaga perdamaian
+dan kemanusiaan...
+
+255
+00:24:04,317 --> 00:24:07,279
+- Kau sudah selesai bicara?
+- Sudah.
+
+256
+00:24:12,284 --> 00:24:16,037
+Galangan pesawat Riverside. Besok,
+pesawat anggota baru bertolak pukul 8:00.
+
+257
+00:24:20,292 --> 00:24:23,461
+Ayahmu sempat jadi kapten pesawat
+selama 12 menit.
+
+258
+00:24:24,462 --> 00:24:29,259
+Dia selamatkan 800 nyawa,
+termasuk ibumu, dan kau.
+
+259
+00:24:30,468 --> 00:24:32,346
+Kutantang kau berbuat lebih hebat.
+
+260
+00:25:35,494 --> 00:25:36,578
+GALANGAN PESAWAT STARLEET
+
+261
+00:25:57,392 --> 00:25:58,851
+Motormu bagus, Bung.
+
+262
+00:26:02,605 --> 00:26:04,065
+Untukmu saja.
+
+263
+00:26:04,691 --> 00:26:07,402
+Empat tahun? Aku bisa jadi perwira
+dalam tiga tahun.
+
+264
+00:26:17,037 --> 00:26:20,541
+RUANGAN RENDAH
+
+265
+00:26:23,085 --> 00:26:24,670
+Tenang, Tuan-tuan.
+
+266
+00:26:43,564 --> 00:26:47,027
+- Belum dapat nama depanmu.
+- Kau perlu dokter.
+
+267
+00:26:47,110 --> 00:26:49,237
+Aku tak perlu dokter.
+Aku sendiri dokter!
+
+268
+00:26:49,320 --> 00:26:50,321
+Kau harus duduk.
+
+269
+00:26:50,405 --> 00:26:52,615
+- Duduk.
+- Sudah, di kamar mandi, tanpa jendela.
+
+270
+00:26:52,741 --> 00:26:53,658
+Aku fobia terbang.
+
+271
+00:26:53,742 --> 00:26:55,535
+Takut mati
+di dalam sesuatu yang terbang,
+
+272
+00:26:55,618 --> 00:26:58,371
+Demi keamananmu,
+duduk, atau kupaksa duduk!
+
+273
+00:27:01,666 --> 00:27:04,127
+- Baik.
+- Terima kasih.
+
+274
+00:27:04,794 --> 00:27:07,047
+<i>Ini Kapten Pike.
+Kita dapat izin lepas landas.</i>
+
+275
+00:27:08,423 --> 00:27:09,924
+Mungkin nanti aku muntah di bajumu.
+
+276
+00:27:10,133 --> 00:27:12,427
+Kurasa pesawat ini aman.
+
+277
+00:27:12,594 --> 00:27:14,888
+Jangan sok pintar.
+Sedikit retakan di dinding pesawat,
+
+278
+00:27:14,971 --> 00:27:17,182
+darah kita mendidih dalam 13 detik.
+
+279
+00:27:17,265 --> 00:27:20,019
+Letupan matahari bisa terjadi,
+menggoreng kita di kursi kita.
+
+280
+00:27:20,352 --> 00:27:23,272
+Tunggu saja saat kau duduk
+dengan infeksi kulit Andorian.
+
+281
+00:27:23,397 --> 00:27:26,358
+Lihat apa kau bisa tenang
+saat bola matamu berdarah.
+
+282
+00:27:26,734 --> 00:27:30,321
+Luar angkasa itu penyakit dan bahaya,
+terbungkus kegelapan dan kesunyian.
+
+283
+00:27:30,404 --> 00:27:33,991
+Mungkin kau belum tahu,
+Starfleet beroperasi di luar angkasa.
+
+284
+00:27:34,325 --> 00:27:36,410
+Aku tak bisa ke mana-mana lagi.
+
+285
+00:27:36,494 --> 00:27:39,538
+Mantan istriku merampas semua hartaku.
+
+286
+00:27:39,914 --> 00:27:41,999
+Aku hanya punya tulang-belulang.
+
+287
+00:27:47,505 --> 00:27:51,342
+- Jim Kirk.
+- McCoy, Leonard McCoy.
+
+288
+00:28:10,862 --> 00:28:14,699
+TIGA TAHUN KEMUDIAN
+
+289
+00:28:38,558 --> 00:28:42,019
+Kapten Nero! Kau diminta ke Anjungan.
+
+290
+00:28:42,311 --> 00:28:44,105
+Ayel bilang sudah waktunya.
+
+291
+00:28:49,235 --> 00:28:54,031
+Pak, kita tiba di koordinat
+yang kau hitung. Tak ada apa-apa di sini.
+
+292
+00:28:54,657 --> 00:28:56,951
+- Apa perintahmu?
+- Kita tunggu.
+
+293
+00:28:57,743 --> 00:29:00,789
+Kita tunggu orang
+yang membuat rumah kita hancur,
+
+294
+00:29:01,540 --> 00:29:03,959
+kita sudah menunggunya 25 tahun.
+
+295
+00:29:05,169 --> 00:29:07,963
+- Lalu setelah kita bunuh dia?
+- Bunuh dia?
+
+296
+00:29:08,380 --> 00:29:11,925
+Aku takkan bunuh dia.
+Akan kupaksa dia menyaksikan.
+
+297
+00:29:26,356 --> 00:29:27,733
+Tangkap pesawat itu!
+
+298
+00:29:29,401 --> 00:29:31,153
+Selamat datang kembali, Spock.
+
+299
+00:29:35,200 --> 00:29:36,409
+Kenapa kau begitu senang?
+
+300
+00:29:36,492 --> 00:29:38,870
+- Aku tak tahu maksudmu.
+- Kau tak mengerti rupanya.
+
+301
+00:29:38,953 --> 00:29:40,538
+Halo, Nona-nona!
+
+302
+00:29:41,039 --> 00:29:42,707
+- Aku mau ikut tes lagi.
+- Kau bercanda.
+
+303
+00:29:42,790 --> 00:29:44,542
+Besok, dan kau harus datang juga.
+
+304
+00:29:44,626 --> 00:29:45,919
+Aku ada urusan lebih penting
+
+305
+00:29:46,044 --> 00:29:49,464
+daripada melihatmu permalukan diri
+ketiga kalinya. Aku dokter, aku sibuk.
+
+306
+00:29:49,547 --> 00:29:51,841
+Kau tak heran
+tak ada yang lulus tes itu?
+
+307
+00:29:51,925 --> 00:29:54,552
+Itu tes Kobayashi Maru.
+Tak ada yang bisa lulus.
+
+308
+00:29:54,677 --> 00:29:57,347
+Tak ada yang ikut untuk kedua kali.
+Apalagi ketiga kali.
+
+309
+00:29:57,764 --> 00:29:59,349
+Aku harus belajar.
+
+310
+00:30:00,099 --> 00:30:01,809
+Belajar? Yang benar saja.
+
+311
+00:30:04,979 --> 00:30:09,485
+- Jim, kurasa aku mencintaimu.
+- Aneh sekali.
+
+312
+00:30:10,110 --> 00:30:11,820
+- Lampu.
+- <i>Lampu menyala.</i>
+
+313
+00:30:12,655 --> 00:30:14,198
+Kau bilang "aneh sekali?"
+
+314
+00:30:14,281 --> 00:30:16,367
+- Ya, tetapi...
+- Kau tak mencintaiku?
+
+315
+00:30:16,450 --> 00:30:17,660
+Teman sekamarku!
+
+316
+00:30:17,743 --> 00:30:19,161
+Kau bilang dia pergi semalaman.
+
+317
+00:30:19,286 --> 00:30:21,038
+Rupanya tidak.
+Sembunyi di bawah ranjang!
+
+318
+00:30:21,121 --> 00:30:22,748
+- Ke bawah...
+- Ke bawah ranjang.
+
+319
+00:30:22,831 --> 00:30:24,500
+Dia tak boleh lihat kau di sini.
+
+320
+00:30:24,583 --> 00:30:26,001
+- Kenapa begitu?
+- Aku sudah janji
+
+321
+00:30:26,085 --> 00:30:27,461
+- tak bawa pria lagi.
+- Sungguh?
+
+322
+00:30:27,544 --> 00:30:29,964
+- Berapa pria yang sudah kau...
+- Turun!
+
+323
+00:30:32,508 --> 00:30:33,509
+- Hei.
+- Hei.
+
+324
+00:30:33,592 --> 00:30:35,010
+- Apa kabar?
+- Baik.
+
+325
+00:30:35,094 --> 00:30:38,180
+Aneh, tadi aku ada
+di laboratorium sensor jarak jauh...
+
+326
+00:30:38,264 --> 00:30:40,057
+Ya, kupikir kau di sana semalaman.
+
+327
+00:30:40,140 --> 00:30:44,521
+Tadi aku melacak sistem surya,
+lalu aku dapat transmisi darurat.
+
+328
+00:30:44,688 --> 00:30:48,275
+- Sungguh?
+- Dari sebuah planet penjara Klingon.
+
+329
+00:30:48,858 --> 00:30:49,901
+- Tidak.
+- Ya.
+
+330
+00:30:49,985 --> 00:30:52,529
+Armada Klingon dihancurkan.
+Sebanyak 47 pesawat.
+
+331
+00:30:52,654 --> 00:30:55,156
+Jadi, kau takkan kembali
+ke laboratorium malam ini?
+
+332
+00:30:59,619 --> 00:31:01,288
+- Gaila, siapa dia?
+- Siapa?
+
+333
+00:31:01,371 --> 00:31:03,456
+Orang yang bernapas di bawah ranjangmu?
+
+334
+00:31:03,748 --> 00:31:05,208
+Kau dengar aku bernapas?
+
+335
+00:31:05,375 --> 00:31:06,960
+- Kau!
+- Besok hari penting.
+
+336
+00:31:07,043 --> 00:31:09,754
+- Kau pasti tak lulus. Keluar.
+- Sampai jumpa, Gaila.
+
+337
+00:31:09,838 --> 00:31:11,298
+Jika aku lulus,
+beri tahu nama depanmu.
+
+338
+00:31:11,381 --> 00:31:12,424
+Tidak! Selamat malam.
+
+339
+00:31:12,507 --> 00:31:16,012
+Kurasa menarik kau bisa terima transmisi.
+
+340
+00:31:17,930 --> 00:31:21,267
+Kita menerima panggilan darurat
+dari <i>USS Kobayashi Maru.</i>
+
+341
+00:31:21,475 --> 00:31:23,352
+Pesawat itu kehilangan daya dan terdampar.
+
+342
+00:31:23,436 --> 00:31:25,479
+Komando Starfleet perintahkan kita
+selamatkan mereka.
+
+343
+00:31:25,563 --> 00:31:28,524
+"Komando Starfleet perintahkan kita
+selamatkan mereka,
+
+344
+00:31:29,650 --> 00:31:30,901
+Kapten."
+
+345
+00:31:31,861 --> 00:31:33,738
+Dua pesawat Klingon
+masuk Zona Netral
+
+346
+00:31:33,821 --> 00:31:36,490
+- dan bidikkan senjata pada kita.
+- Tak apa-apa.
+
+347
+00:31:36,907 --> 00:31:39,410
+- Tak apa-apa?
+- <i>Ya, tak perlu khawatir.</i>
+
+348
+00:31:39,744 --> 00:31:41,620
+Dia bilang, "tak perlu khawatir?"
+
+349
+00:31:42,038 --> 00:31:43,873
+Dia pikir simulasi ini main-main?
+
+350
+00:31:44,123 --> 00:31:47,084
+Tiga lagi pesawat perang Klingon
+membidik kita.
+
+351
+00:31:47,209 --> 00:31:50,088
+- Pasti itu bukan masalah juga.
+- Mereka menembak, Kapten.
+
+352
+00:31:50,172 --> 00:31:54,092
+Siapkan ruang perawatan
+untuk terima awak dari kapal yang rusak.
+
+353
+00:31:54,176 --> 00:31:55,927
+Bagaimana selamatkan mereka?
+
+354
+00:31:56,053 --> 00:31:58,722
+Kita dikepung Klingon, Kapten.
+
+355
+00:31:58,889 --> 00:32:00,265
+Siagakan bagian medis.
+
+356
+00:32:02,601 --> 00:32:05,103
+Pesawat kita tertembak.
+Daya perisai 60%.
+
+357
+00:32:05,187 --> 00:32:07,272
+- Aku paham.
+- Bukankah seharusnya kita
+
+358
+00:32:07,356 --> 00:32:08,857
+balas menembak?
+
+359
+00:32:09,191 --> 00:32:11,109
+- Tidak.
+- Tentu saja tidak.
+
+360
+00:32:18,283 --> 00:32:20,202
+Apa ini? Apa yang terjadi?
+
+361
+00:32:24,123 --> 00:32:26,376
+Siapkan senjata foton
+untuk menembaki pasukan Klingon.
+
+362
+00:32:26,542 --> 00:32:28,628
+- Baik, Pak.
+- Jim, perisai mereka masih terpasang.
+
+363
+00:32:28,711 --> 00:32:29,962
+Benarkah?
+
+364
+00:32:31,672 --> 00:32:33,383
+Tidak, sudah tidak lagi.
+
+365
+00:32:33,925 --> 00:32:35,468
+Tembaki semua pesawat musuh.
+
+366
+00:32:35,551 --> 00:32:38,221
+Satu foton tiap kapal,
+jangan buang-buang amunisi.
+
+367
+00:32:38,304 --> 00:32:41,224
+Membidik sasaran semua pesawat musuh.
+Tembak.
+
+368
+00:32:46,312 --> 00:32:47,522
+Semua musuh hancur, Kapten.
+
+369
+00:32:47,647 --> 00:32:48,856
+Selamatkan awak yang terdampar.
+
+370
+00:32:49,023 --> 00:32:52,527
+Kita berhasil hancurkan semua kapal musuh,
+
+371
+00:32:52,693 --> 00:32:54,278
+tak ada awak kita yang terluka,
+
+372
+00:32:54,404 --> 00:32:59,785
+dan penyelamatan awak
+Kobayashi Maru tengah berlangsung.
+
+373
+00:33:04,206 --> 00:33:07,042
+Bagaimana pemuda itu
+bisa kalahkan tesmu?
+
+374
+00:33:09,711 --> 00:33:11,213
+Aku tak tahu.
+
+375
+00:33:12,297 --> 00:33:15,467
+Sesi ini diadakan
+untuk menyelesaikan masalah serius.
+
+376
+00:33:15,843 --> 00:33:17,970
+James T. Kirk, maju ke depan.
+
+377
+00:33:19,847 --> 00:33:22,683
+Dewan telah menerima bukti
+
+378
+00:33:22,766 --> 00:33:25,477
+bahwa kau melanggar
+kode etik perilaku
+
+379
+00:33:25,602 --> 00:33:29,022
+berdasarkan Peraturan 17.43
+Kode Etik Starfleet.
+
+380
+00:33:30,150 --> 00:33:32,986
+Kau mau katakan sesuatu
+sebelum sidang dimulai?
+
+381
+00:33:34,404 --> 00:33:37,657
+Ya, kuyakin aku berhak
+berhadapan langsung dengan penuduhku.
+
+382
+00:33:42,287 --> 00:33:43,872
+Silakan maju ke depan.
+
+383
+00:33:44,456 --> 00:33:48,501
+Ini Komandan Spock,
+salah satu lulusan terbaik kami.
+
+384
+00:33:48,710 --> 00:33:52,714
+Dia telah memprogram
+ujian Kobayashi Maru empat tahun terakhir.
+
+385
+00:33:54,382 --> 00:33:57,427
+- Komandan.
+- Kadet Kirk, kau telah memasang
+
+386
+00:33:57,510 --> 00:33:59,888
+sebuah sub-rutin
+dalam kode pemrograman
+
+387
+00:33:59,971 --> 00:34:02,432
+hingga mengubah situasi-situasi
+dalam ujian itu.
+
+388
+00:34:03,642 --> 00:34:07,229
+- Maksudmu?
+- Dalam bahasa akademik, kau curang.
+
+389
+00:34:09,023 --> 00:34:12,776
+Aku ingin tanya.
+Kurasa kita tahu jawabannya.
+
+390
+00:34:13,360 --> 00:34:15,821
+Ujian itu sendiri curang, 'kan?
+
+391
+00:34:15,905 --> 00:34:17,823
+Kau memprogramnya
+agar tak ada yang bisa menang.
+
+392
+00:34:17,907 --> 00:34:20,493
+Argumenmu cegah kemungkinan
+skenario tanpa kemenangan.
+
+393
+00:34:20,576 --> 00:34:22,411
+Aku tak percaya
+skenario tanpa kemenangan.
+
+394
+00:34:22,495 --> 00:34:26,248
+Jadi kau bukan hanya melanggar aturan,
+tapi juga gagal memahami pelajaran utama.
+
+395
+00:34:26,332 --> 00:34:27,833
+Jelaskan padaku.
+
+396
+00:34:27,917 --> 00:34:30,127
+Kau seharusnya lebih tahu, Kadet Kirk,
+
+397
+00:34:30,211 --> 00:34:32,296
+seorang kapten tak boleh
+menghindari kematian.
+
+398
+00:34:35,591 --> 00:34:36,843
+Aku seharusnya tahu?
+
+399
+00:34:36,927 --> 00:34:42,015
+Ayahmu, George Kirk, mengambil alih
+komando kapalnya sebelum gugur.
+
+400
+00:34:42,098 --> 00:34:43,892
+Kurasa kau tak senang
+aku kalahkan ujianmu.
+
+401
+00:34:44,017 --> 00:34:46,102
+Kau gagal memahami tujuan ujian itu.
+
+402
+00:34:46,186 --> 00:34:49,564
+- Jelaskan lagi padaku.
+- Tujuannya untuk mengalami rasa takut.
+
+403
+00:34:50,607 --> 00:34:52,567
+Rasa takut dalam menghadapi maut.
+
+404
+00:34:52,651 --> 00:34:56,446
+Untuk ikhlas menerima rasa takut,
+dan tetap mengendalikan diri dan awaknya.
+
+405
+00:34:56,905 --> 00:34:59,908
+Ini kepribadian yang harus dimiliki
+setiap kapten Starfleet.
+
+406
+00:35:03,036 --> 00:35:04,371
+Permisi, Pak.
+
+407
+00:35:10,920 --> 00:35:13,464
+Kita menerima panggilan darurat
+dari Vulcan.
+
+408
+00:35:13,548 --> 00:35:16,634
+Karena armada utama kita sedang bertugas
+di Sistem Planet Laurentia,
+
+409
+00:35:16,717 --> 00:35:21,138
+dengan ini kuperintahkan semua kadet
+melapor ke Hanggar Satu segera. Bubar.
+
+410
+00:35:27,603 --> 00:35:31,691
+- Siapa bajingan bertelinga runcing tadi?
+- Tak tahu, tapi aku suka padanya.
+
+411
+00:35:33,484 --> 00:35:35,319
+Blake, USS Newton!
+Counter, USS Odyssey!
+
+412
+00:35:35,987 --> 00:35:39,198
+Fugerman, Regula Satu!
+Gerace, USS Farragut!
+
+413
+00:35:39,282 --> 00:35:42,577
+McCoy, USS Enterprise!
+McGrath, USS Wolcott!
+
+414
+00:35:42,660 --> 00:35:46,456
+Rader, USS Hood. Selamat datang
+di Starfleet dan semoga berhasil.
+
+415
+00:35:48,458 --> 00:35:50,210
+Dia tak panggil namaku.
+
+416
+00:35:51,211 --> 00:35:55,924
+Komandan? Pak, kau tak panggil namaku.
+Kirk. James T.
+
+417
+00:35:56,174 --> 00:35:57,676
+Kau dapat skors akademik.
+
+418
+00:35:57,759 --> 00:36:00,596
+Kau dihukum sampai ada
+keputusan Dewan.
+
+419
+00:36:00,679 --> 00:36:03,473
+Dengar! Aku akan baca
+daftar ini hanya sekali!
+
+420
+00:36:04,224 --> 00:36:08,353
+Jim, Dewan pasti mendukungmu.
+Kemungkinan besar begitu.
+
+421
+00:36:10,105 --> 00:36:13,692
+- Jim, aku harus berangkat.
+- Ya.
+
+422
+00:36:13,859 --> 00:36:15,819
+Ya, pergilah. Hati-hati.
+
+423
+00:36:23,369 --> 00:36:25,580
+- Permisi.
+- Ya, tentu.
+
+424
+00:36:30,460 --> 00:36:31,711
+Sial!
+
+425
+00:36:34,380 --> 00:36:37,759
+- Ikut aku.
+- Uhura, USS Farragut!
+
+426
+00:36:37,842 --> 00:36:39,677
+Petrovsky, USS Antares!
+
+427
+00:36:39,761 --> 00:36:41,679
+Pergi ke stasiun masing-masing,
+semoga berhasil.
+
+428
+00:36:45,058 --> 00:36:47,769
+- Bones, mau ke mana kita?
+- Lihat nanti.
+
+429
+00:36:50,021 --> 00:36:51,607
+- Komandan, boleh bicara?
+- Ya, Letnan?
+
+430
+00:36:51,690 --> 00:36:54,068
+- Bukankah aku salah satu murid terbaik?
+- Benar.
+
+431
+00:36:54,151 --> 00:36:56,320
+Tidakkah dalam beberapa kesempatan
+aku selalu perlihatkan
+
+432
+00:36:56,403 --> 00:36:59,406
+kepekaan pendengaran istimewa,
+dan kukutip,
+
+433
+00:36:59,490 --> 00:37:01,909
+"kemampuan tak tertandingi
+dalam mengenali anomali sonik"
+
+434
+00:37:02,117 --> 00:37:05,287
+- di transmisi sub-angkasa?
+- Benar, dan secara konsisten.
+
+435
+00:37:05,454 --> 00:37:07,456
+Kau tahu aku ingin bertugas
+
+436
+00:37:07,539 --> 00:37:10,584
+di USS Enterprise,
+tapi aku ditugaskan di Farragut?
+
+437
+00:37:10,709 --> 00:37:13,879
+Agar tak ada kesan pilih kasih.
+
+438
+00:37:14,088 --> 00:37:16,090
+Tidak. Aku ditugaskan di Enterprise.
+
+439
+00:37:20,636 --> 00:37:22,763
+- Ya, kuyakin begitu.
+- Terima kasih.
+
+440
+00:37:23,722 --> 00:37:25,934
+- Apa yang kau lakukan?
+- Membantumu.
+
+441
+00:37:26,101 --> 00:37:27,727
+Tak bisa kutinggalkan kau bermurung diri.
+
+442
+00:37:27,894 --> 00:37:31,022
+Duduk. Akan kuberi kau vaksin
+terhadap infeksi viral
+
+443
+00:37:31,106 --> 00:37:34,943
+- lalat lumpur Melvaran.
+- Untuk apa?
+
+444
+00:37:35,026 --> 00:37:37,278
+- Agar gejalanya muncul.
+- Apa maksudmu?
+
+445
+00:37:37,404 --> 00:37:39,614
+Mata kirimu akan mulai tak bisa melihat.
+
+446
+00:37:39,781 --> 00:37:40,865
+Sudah.
+
+447
+00:37:40,949 --> 00:37:43,660
+Lalu kau sakit kepala dan berkeringat.
+
+448
+00:37:43,743 --> 00:37:46,246
+- Begini cara membantuku?
+- Ya, kau berutang budi.
+
+449
+00:37:48,248 --> 00:37:52,919
+Kirk, James T.
+Dia tak diizinkan bertugas di Enterprise.
+
+450
+00:37:53,086 --> 00:37:56,506
+Aturan medis menyatakan,
+perawatan dan pengangkutan pasien
+
+451
+00:37:56,631 --> 00:37:59,719
+ditentukan dokternya, yaitu aku.
+
+452
+00:37:59,802 --> 00:38:01,721
+Jadi, akan kubawa Tn. Kirk naik.
+
+453
+00:38:01,804 --> 00:38:04,181
+Atau kau mau jelaskan pada Kapten Pike
+
+454
+00:38:04,265 --> 00:38:06,142
+kenapa Enterprise berangkat
+menuju bahaya
+
+455
+00:38:06,308 --> 00:38:08,602
+tanpa salah satu
+perwira medis seniornya?
+
+456
+00:38:09,145 --> 00:38:12,648
+- Silakan.
+- Silakan. Ayo.
+
+457
+00:38:30,499 --> 00:38:34,254
+- Mungkin aku akan muntah di bajumu.
+- Jim, kau harus lihat ini.
+
+458
+00:38:35,297 --> 00:38:36,590
+- Jim, lihat.
+- Apa?
+
+459
+00:38:36,673 --> 00:38:37,674
+Lihat.
+
+460
+00:39:03,408 --> 00:39:04,659
+Wah.
+
+461
+00:39:34,023 --> 00:39:38,319
+- Kita harus ganti bajumu.
+- Aku tak enak badan. Aku serasa bocor.
+
+462
+00:39:38,402 --> 00:39:40,572
+Sial, si berengsek bertelinga runcing.
+
+463
+00:39:58,048 --> 00:40:00,801
+- Tn. Spock.
+- Kapten.
+
+464
+00:40:00,926 --> 00:40:03,762
+- Awak teknik melapor, siap berangkat.
+- Terima kasih.
+
+465
+00:40:04,054 --> 00:40:06,306
+Semuanya, perjalanan perdana
+pesawat terbaru kita
+
+466
+00:40:06,390 --> 00:40:09,810
+seharusnya dirayakan
+lebih meriah dari ini.
+
+467
+00:40:09,893 --> 00:40:13,815
+Peresmiannya akan kita lakukan
+dengan kembali dengan selamat. Lanjutkan.
+
+468
+00:40:14,774 --> 00:40:17,026
+Ini Kapten Pike. Siapkan keberangkatan.
+
+469
+00:40:17,151 --> 00:40:18,486
+Kendali, jet pendorong.
+
+470
+00:40:18,570 --> 00:40:20,947
+Penambat telah ditarik.
+Kendali Dermaga bilang sudah siap.
+
+471
+00:40:21,072 --> 00:40:23,283
+Jet ditembakkan.
+Memisahkan diri dari galangan.
+
+472
+00:40:33,042 --> 00:40:36,254
+Armada meninggalkan galangan.
+Semua kapal siap untuk warp.
+
+473
+00:40:36,421 --> 00:40:40,466
+- Arahkan ke Vulcan.
+- Siap, Kapten. Arah telah ditentukan.
+
+474
+00:40:41,676 --> 00:40:44,137
+Warp maksimum. Jalankan.
+
+475
+00:41:01,155 --> 00:41:02,990
+Di mana Juru mudi McKenna?
+
+476
+00:41:03,073 --> 00:41:06,160
+Dia sakit cacing paru, tak bisa bertugas.
+
+477
+00:41:06,285 --> 00:41:07,703
+Aku Hikaru Sulu.
+
+478
+00:41:07,786 --> 00:41:11,081
+- Kau pilot, bukan?
+- Benar sekali, Pak.
+
+479
+00:41:11,206 --> 00:41:14,627
+Aku tak mengerti apa masalahnya.
+
+480
+00:41:14,710 --> 00:41:18,672
+- Rem tangannya sudah dilepas?
+- Tidak. Coba kupikirkan...
+
+481
+00:41:18,797 --> 00:41:21,968
+Sudah kau lepaskan
+peredam guncangan eksternal?
+
+482
+00:41:26,014 --> 00:41:28,141
+- Siap untuk warp, Pak.
+- Jalankan.
+
+483
+00:41:35,690 --> 00:41:37,067
+- Di mana kita?
+- Ruang perawatan.
+
+484
+00:41:37,150 --> 00:41:39,152
+- Ini tak sepadan.
+- Penderitaan bagus untukmu.
+
+485
+00:41:39,235 --> 00:41:40,946
+- Hai! Apa kabar?
+- Kemarilah.
+
+486
+00:41:41,029 --> 00:41:44,574
+- Mulutku gatal. Itu normal?
+- Gejala-gejala itu takkan lama.
+
+487
+00:41:44,658 --> 00:41:47,786
+- Akan kuberi kau obat penenang ringan.
+- Andai aku tak kenal kau.
+
+488
+00:41:47,869 --> 00:41:49,412
+Jangan seperti bayi begitu.
+
+489
+00:41:51,039 --> 00:41:52,666
+Berapa lama sampai...
+
+490
+00:41:53,292 --> 00:41:54,710
+Bukan main.
+
+491
+00:41:56,087 --> 00:41:58,464
+- Mesin pada warp maksimum.
+- Anak Rusia genius, namamu?
+
+492
+00:41:58,547 --> 00:42:02,385
+- Chanko? Cherpov?
+- Letnan Dua Chekov, Pavel Andreievich.
+
+493
+00:42:02,551 --> 00:42:05,972
+Chekov, Pavel Andreievich,
+lakukan siaran misi ke seluruh kapal.
+
+494
+00:42:06,097 --> 00:42:07,807
+Baik, Pak, dengan senang hati.
+
+495
+00:42:08,599 --> 00:42:12,395
+Kode otorisasi 95-Wiktor-Wiktor-2
+
+496
+00:42:12,478 --> 00:42:14,438
+<i>Otorisasi tak dikenal.</i>
+
+497
+00:42:14,522 --> 00:42:16,732
+Kode otorisasi
+
+498
+00:42:16,857 --> 00:42:21,070
+sembilan-lima-Victor-Victor-dua.
+
+499
+00:42:21,320 --> 00:42:22,780
+<i>Akses diberikan.</i>
+
+500
+00:42:23,531 --> 00:42:25,950
+Mohon perhatian, Semuanya.
+
+501
+00:42:26,743 --> 00:42:31,999
+Pukul 22:00, alat pembaca data
+mendeteksi keanehan di Zona Netral.
+
+502
+00:42:32,249 --> 00:42:35,627
+Yang terkesan
+seperti badai petir di angkasa.
+
+503
+00:42:35,919 --> 00:42:37,671
+<i>Segera setelah itu, Starfleet menerima</i>
+
+504
+00:42:37,754 --> 00:42:40,590
+<i>panggilan darurat
+dari Komando Tinggi Vulcan</i>
+
+505
+00:42:40,799 --> 00:42:44,344
+<i>bahwa planet mereka
+alami guncangan gempa.</i>
+
+506
+00:42:44,845 --> 00:42:48,640
+<i>Misi kita meneliti kondisi Vulcan</i>
+
+507
+00:42:48,724 --> 00:42:52,019
+<i>dan membantu evakuasi, jika diperlukan.</i>
+
+508
+00:42:52,602 --> 00:42:57,315
+<i>Kita akan tiba di Vulcan dalam tiga menit.
+Terima kasih atas perhatian Anda.</i>
+
+509
+00:42:58,942 --> 00:43:03,698
+- Badai petir.
+- Jim, kau bangun. Bagaimana rasanya?
+
+510
+00:43:05,074 --> 00:43:07,326
+- Astaga.
+- Apa?
+
+511
+00:43:09,579 --> 00:43:12,498
+- Kenapa ini?
+- Reaksi vaksin, sial!
+
+512
+00:43:12,582 --> 00:43:14,792
+Suster Chapel,
+aku butuh 50 cc cortisone!
+
+513
+00:43:15,209 --> 00:43:16,627
+Baik, Pak!
+
+514
+00:43:18,796 --> 00:43:21,674
+<i>...terkesan seperti
+badai petir di angkasa.</i>
+
+515
+00:43:21,799 --> 00:43:23,968
+- Hei!
+- Kita harus hentikan kapal ini.
+
+516
+00:43:24,510 --> 00:43:28,264
+Jim, aku serius!
+Denyut jantungmu perlu diturunkan!
+
+517
+00:43:28,514 --> 00:43:29,974
+Cari awak kapal, Uhura.
+
+518
+00:43:30,099 --> 00:43:32,185
+Baru kulihat reaksi ini
+sejak sekolah kedokteran.
+
+519
+00:43:32,268 --> 00:43:35,439
+- Kita terbang menuju jebakan!
+- Sial, Jim, diamlah!
+
+520
+00:43:36,857 --> 00:43:38,317
+Hentikan!
+
+521
+00:43:47,076 --> 00:43:49,036
+- Uhura!
+- Kirk, sedang apa di sini?
+
+522
+00:43:49,119 --> 00:43:50,954
+Transmisi dari planet
+penjara Klingon itu...
+
+523
+00:43:51,038 --> 00:43:52,873
+Astaga, kenapa tanganmu?
+
+524
+00:43:52,956 --> 00:43:55,167
+Siapa bertanggung jawab
+atas penyerangan Klingon itu?
+
+525
+00:43:55,334 --> 00:43:56,668
+- Apa?
+- Apakah pesawatnya...
+
+526
+00:43:56,752 --> 00:43:57,878
+Apakah apa?
+
+527
+00:43:58,045 --> 00:44:00,297
+- Apa yang terjadi?
+- Lidahmu kelu?
+
+528
+00:44:00,380 --> 00:44:02,382
+- Lidah kelu?
+- Bisa kuobati.
+
+529
+00:44:02,466 --> 00:44:04,301
+- Pesawatnya kenapa?
+- Romulan.
+
+530
+00:44:04,510 --> 00:44:06,303
+- Apa?
+- Romulan.
+
+531
+00:44:06,386 --> 00:44:07,555
+- Romulan?
+- Ya.
+
+532
+00:44:07,680 --> 00:44:08,932
+- Ya.
+- Ya?
+
+533
+00:44:09,015 --> 00:44:10,100
+Sial!
+
+534
+00:44:43,884 --> 00:44:47,221
+Prod Nero. Tujuh kapal Federasi
+menuju kemari.
+
+535
+00:44:49,473 --> 00:44:50,558
+- Jim!
+- Ada apa ini?
+
+536
+00:44:50,641 --> 00:44:51,642
+- Jim, kembali!
+- Kirk!
+
+537
+00:44:51,725 --> 00:44:53,060
+- Kapten Pike!
+- Jim, kembali!
+
+538
+00:44:53,185 --> 00:44:55,229
+- Kita harus hentikan kapal ini!
+- Kirk, bagaimana kau
+
+539
+00:44:55,354 --> 00:44:56,730
+bisa naik ke Enterprise?
+
+540
+00:44:56,814 --> 00:45:00,151
+Kapten, dia berada
+dalam reaksi parah terhadap vaksin.
+
+541
+00:45:00,234 --> 00:45:01,944
+Dia berkhayal,
+aku bertanggung jawab penuh.
+
+542
+00:45:02,027 --> 00:45:03,487
+Vulcan tak alami bencana alam.
+
+543
+00:45:03,571 --> 00:45:05,030
+Planet itu diserang bangsa Romulan.
+
+544
+00:45:05,156 --> 00:45:08,325
+Romulan? Kadet Kirk,
+cukup sudah kau mencari perhatian.
+
+545
+00:45:08,409 --> 00:45:11,287
+- Bawa ke ruang medis. Nanti kita bicara.
+- Baik, Kapten.
+
+546
+00:45:11,370 --> 00:45:13,122
+Keanehan sama yang kita lihat hari ini...
+
+547
+00:45:13,205 --> 00:45:14,791
+Tn. Kirk tak ada izin naik pesawat ini.
+
+548
+00:45:14,875 --> 00:45:16,877
+- Aku paham. Kau pendebat ulung.
+- Sesuai peraturan,
+
+549
+00:45:16,960 --> 00:45:19,379
+- aku bisa usir kadet ini...
+- Coba saja!
+
+550
+00:45:19,504 --> 00:45:20,964
+Kadet ini berusaha selamatkan pesawat.
+
+551
+00:45:21,047 --> 00:45:24,009
+Dengan hentikan kami di tengah warp
+saat misi penyelamatan?
+
+552
+00:45:24,092 --> 00:45:25,886
+Ini bukan misi penyelamatan.
+Ini serangan.
+
+553
+00:45:25,969 --> 00:45:27,637
+Berdasarkan fakta apa?
+
+554
+00:45:29,598 --> 00:45:32,392
+Keanehan yang sama,
+badai petir di angkasa,
+
+555
+00:45:32,517 --> 00:45:34,519
+juga terjadi di hari kelahiranku,
+
+556
+00:45:34,603 --> 00:45:37,439
+sebelum pesawat Romulan
+menyerang USS Kelvin.
+
+557
+00:45:37,522 --> 00:45:39,566
+Kau tahu itu, Pak.
+Kubaca disertasimu.
+
+558
+00:45:39,649 --> 00:45:42,277
+Pesawat itu bersenjata berat dan canggih
+
+559
+00:45:42,360 --> 00:45:43,945
+dan tak pernah terlihat lagi.
+
+560
+00:45:44,029 --> 00:45:46,156
+Serangan pada Kelvin terjadi
+di batas angkasa Klingon.
+
+561
+00:45:46,239 --> 00:45:49,035
+Pukul 23:00 tadi malam, ada serangan.
+
+562
+00:45:49,118 --> 00:45:52,538
+Sebanyak 47 pesawat perang Klingon
+dihancurkan Romulan.
+
+563
+00:45:52,622 --> 00:45:55,958
+Menurut laporan, pasukan Romulan itu
+naik sebuah kapal sangat besar.
+
+564
+00:45:56,042 --> 00:45:58,878
+Bagaimana kau tahu
+soal serbuan Klingon ini?
+
+565
+00:46:01,214 --> 00:46:04,592
+Aku menerima
+dan menerjemahkan pesan itu.
+
+566
+00:46:04,842 --> 00:46:07,303
+- Laporan Kirk akurat.
+- Kita melompat menuju jebakan.
+
+567
+00:46:07,386 --> 00:46:10,264
+Bangsa Romulan menanti kita.
+Aku pastikan itu.
+
+568
+00:46:11,265 --> 00:46:13,434
+Logika kadet ini kuat.
+
+569
+00:46:13,976 --> 00:46:17,897
+Letnan Uhura ahli xenolinguistik.
+Akan sangat bijak menerima kesimpulannya.
+
+570
+00:46:18,022 --> 00:46:20,983
+Amati angkasa Vulcan.
+Periksa apa ada transmisi Romulan.
+
+571
+00:46:21,067 --> 00:46:24,363
+Pak, aku tak bisa bedakan
+bahasa Romulan dan Vulcan.
+
+572
+00:46:24,488 --> 00:46:26,490
+Kau bagaimana?
+Bisa bahasa Romulan, Kadet...
+
+573
+00:46:26,573 --> 00:46:28,158
+Uhura. Aku bisa ketiga dialeknya.
+
+574
+00:46:28,242 --> 00:46:31,328
+- Uhura, gantikan letnan itu.
+- Baik, Pak.
+
+575
+00:46:31,620 --> 00:46:32,996
+Hannity, panggil USS Truman.
+
+576
+00:46:33,080 --> 00:46:35,832
+Semua kapal lain telah selesaikan warp
+dan tiba di Vulcan,
+
+577
+00:46:35,916 --> 00:46:38,001
+tapi putus kontak.
+
+578
+00:46:38,085 --> 00:46:40,671
+Pak, aku tak menangkap
+transmisi Romulan
+
+579
+00:46:40,879 --> 00:46:44,424
+- atau transmisi apa pun.
+- Karena mereka sedang diserang.
+
+580
+00:46:49,179 --> 00:46:51,056
+Pasang perisai. Siaga merah.
+
+581
+00:46:53,058 --> 00:46:55,061
+Tiba di Vulcan dalam lima detik.
+
+582
+00:46:55,728 --> 00:46:58,564
+Empat. Tiga. Dua...
+
+583
+00:47:00,358 --> 00:47:02,527
+- Pengelakan darurat!
+- Baik, Pak!
+
+584
+00:47:10,410 --> 00:47:12,036
+- Laporan kerusakan.
+- Perisai bertahan.
+
+585
+00:47:12,120 --> 00:47:14,330
+Semua stasiun. Teknisi Olson, lapor!
+
+586
+00:47:24,382 --> 00:47:26,134
+Mundur penuh. Belok kanan 90 derajat.
+
+587
+00:47:26,217 --> 00:47:27,802
+Bawa kita
+ke bawah kapal-kapal itu, Sulu.
+
+588
+00:47:46,905 --> 00:47:48,991
+Satu lagi kapal Federasi!
+
+589
+00:47:49,074 --> 00:47:51,160
+- Hancurkan juga.
+- Tembakkan torpedo.
+
+590
+00:47:51,243 --> 00:47:52,453
+Mereka bidikkan torpedo.
+
+591
+00:47:52,536 --> 00:47:54,997
+Alihkan daya cadangan
+ke perisai depan.
+
+592
+00:48:02,839 --> 00:48:05,383
+- Sulu, laporan status.
+- Daya perisai 32%.
+
+593
+00:48:05,467 --> 00:48:07,677
+Kapal kita takkan tahan tembakan
+seperti itu lagi.
+
+594
+00:48:07,802 --> 00:48:09,262
+Hubungkan Markas Komando Starfleet.
+
+595
+00:48:09,387 --> 00:48:12,265
+Kapten, pesawat Romulan
+menurunkan alat pelepas energi
+
+596
+00:48:12,349 --> 00:48:13,641
+ke atmosfer Vulcan.
+
+597
+00:48:13,767 --> 00:48:16,353
+Alat itu halangi kemampuan komunikasi
+dan alat teleportasi kita.
+
+598
+00:48:16,436 --> 00:48:18,897
+Semua daya ke perisai depan.
+Bersiap tembakkan semua senjata.
+
+599
+00:48:18,980 --> 00:48:21,691
+- B-9 siap!
+- Peluncur siap pada sasaran!
+
+600
+00:48:23,526 --> 00:48:26,112
+- Senjata siap.
+- Tunggu!
+
+601
+00:48:26,571 --> 00:48:29,282
+- Lambung kapal itu. Perbesar gambarnya.
+- Baik, Pak.
+
+602
+00:48:34,079 --> 00:48:36,207
+Pak, kita dihubungi.
+
+603
+00:48:37,249 --> 00:48:38,459
+<i>Halo.</i>
+
+604
+00:48:40,336 --> 00:48:43,089
+Aku Kapten Christopher Pike.
+Siapa kau?
+
+605
+00:48:43,297 --> 00:48:45,341
+<i>Hai, Christopher. Aku Nero.</i>
+
+606
+00:48:45,466 --> 00:48:47,343
+Kau menyatakan perang
+terhadap Federasi.
+
+607
+00:48:47,426 --> 00:48:50,513
+Mundurlah, dan akan kuatur
+konferensi dengan pimpinan Romulan
+
+608
+00:48:50,638 --> 00:48:53,724
+- di lokasi netral.
+<i>- Aku tak mewakili Kekaisaran Romulan.</i>
+
+609
+00:48:53,974 --> 00:48:55,810
+<i>Kami berdiri sendiri.</i>
+
+610
+00:48:57,019 --> 00:49:00,815
+<i>Seperti halnya awak Vulcanmu.
+Benar, Spock?</i>
+
+611
+00:49:03,484 --> 00:49:06,237
+Maaf, setahuku kita tak saling kenal.
+
+612
+00:49:06,320 --> 00:49:09,073
+<i>Memang tidak. Belum.</i>
+
+613
+00:49:10,075 --> 00:49:13,328
+<i>Spock, aku ingin perlihatkan sesuatu.</i>
+
+614
+00:49:14,830 --> 00:49:18,375
+<i>Kapten Pike,
+alat teleportasimu telah dilumpuhkan.</i>
+
+615
+00:49:19,000 --> 00:49:22,879
+<i>Lihatlah sisa armadamu,
+kau tak punya pilihan.</i>
+
+616
+00:49:23,338 --> 00:49:27,467
+<i>Naiklah pesawat ulang-alik ke</i> Narada
+<i>untuk berunding.</i>
+
+617
+00:49:28,051 --> 00:49:29,302
+<i>Sekian.</i>
+
+618
+00:49:38,520 --> 00:49:40,439
+- Dia akan membunuhmu.
+- Kau tak mungkin selamat.
+
+619
+00:49:40,522 --> 00:49:43,484
+Kapten, tak ada untungnya berunding.
+Pergi ke sana adalah kesalahan.
+
+620
+00:49:43,568 --> 00:49:45,361
+Ya, pikirkan kembali strategimu.
+
+621
+00:49:45,445 --> 00:49:46,946
+Aku mengerti itu.
+
+622
+00:49:47,864 --> 00:49:51,117
+Aku perlu perwira terlatih
+pertarungan jarak dekat tingkat tinggi.
+
+623
+00:49:51,200 --> 00:49:54,495
+- Aku terlatih, Pak.
+- Ikut denganku.
+
+624
+00:49:55,371 --> 00:49:57,540
+Kirk, kau juga.
+Lagi pula kau tak seharusnya di sini.
+
+625
+00:49:57,748 --> 00:50:00,501
+- Chekov, kau pegang kendali.
+- Siap, Kapten.
+
+626
+00:50:21,565 --> 00:50:23,567
+Siapkan zat merah.
+
+627
+00:50:24,985 --> 00:50:26,195
+Baik, Pak.
+
+628
+00:51:04,734 --> 00:51:07,070
+Tanpa alat teleportasi,
+kita tak bisa turun dari pesawat,
+
+629
+00:51:07,195 --> 00:51:09,197
+tak bisa bantu Vulcan,
+tak bisa melakukan tugas kita.
+
+630
+00:51:09,280 --> 00:51:14,202
+Tn. Kirk, Tn. Sulu dan Teknisi Olson
+akan terjun dari pesawat ulang-alik.
+
+631
+00:51:14,619 --> 00:51:17,288
+Mendaratlah di mesin di atmosfer
+
+632
+00:51:17,372 --> 00:51:20,542
+yang kacaukan peralatan kita.
+Masuk, lumpuhkan,
+
+633
+00:51:20,625 --> 00:51:21,960
+lalu naik kembali ke pesawat.
+
+634
+00:51:22,043 --> 00:51:25,548
+Tn. Spock, komando Enterprise
+kuserahkan padamu.
+
+635
+00:51:25,714 --> 00:51:28,133
+Begitu transpor dan komunikasi pulih,
+
+636
+00:51:28,217 --> 00:51:31,136
+kontak Starfleet
+dan laporkan kejadian ini.
+
+637
+00:51:31,220 --> 00:51:33,055
+Jika semua gagal, mundurlah,
+
+638
+00:51:33,138 --> 00:51:35,099
+temui Armada di Sistem Laurentia.
+
+639
+00:51:35,182 --> 00:51:36,850
+Kirk, kau naik jadi Perwira Pertama.
+
+640
+00:51:36,934 --> 00:51:38,185
+- Apa?
+- Kapten?
+
+641
+00:51:38,269 --> 00:51:41,313
+Aku tak paham cara manusia bercanda.
+
+642
+00:51:41,397 --> 00:51:46,068
+Ini bukan bercanda, Spock.
+Bukan aku Kaptennya, tapi kau.
+
+643
+00:51:47,027 --> 00:51:48,362
+Ayo.
+
+644
+00:51:51,365 --> 00:51:53,701
+Setelah kita rusak bor itu,
+apa yang terjadi padamu?
+
+645
+00:51:53,784 --> 00:51:55,536
+Jemputlah aku.
+
+646
+00:51:56,203 --> 00:51:58,290
+Jaga pesawatnya, Spock,
+ini pesawat baru.
+
+647
+00:52:10,176 --> 00:52:11,678
+Dr. Puri, lapor.
+
+648
+00:52:11,761 --> 00:52:14,681
+Ini McCoy.
+Dokter Puri tadi di geladak 6. Dia tewas.
+
+649
+00:52:16,516 --> 00:52:19,686
+Kalau begitu
+sekarang kau Perwira Kepala Medis.
+
+650
+00:52:19,894 --> 00:52:21,563
+Itu bukan hal baru.
+
+651
+00:52:22,606 --> 00:52:24,608
+Pesawat 37, kau aman untuk berangkat!
+
+652
+00:52:25,108 --> 00:52:28,403
+<i>Pesawat 89, USS Enterprise,
+jalur kalian lancar.</i>
+
+653
+00:52:28,486 --> 00:52:31,032
+<i>Pemeriksaan interval positif dan stabil.</i>
+
+654
+00:52:31,532 --> 00:52:33,618
+- Sudah bawa peledaknya?
+- Ya.
+
+655
+00:52:33,701 --> 00:52:36,495
+Tak sabar untuk menghajar Romulan.
+Benar, 'kan?
+
+656
+00:52:36,579 --> 00:52:38,497
+- Ya.
+- Ya.
+
+657
+00:52:42,335 --> 00:52:45,880
+<i>Komando pesawat, kami sarankan
+aktifkan perisai sekarang.</i>
+
+658
+00:52:58,184 --> 00:52:59,977
+Pernah berlatih tarung apa?
+
+659
+00:53:00,227 --> 00:53:01,604
+Anggar.
+
+660
+00:53:04,858 --> 00:53:06,026
+Siap terjun.
+
+661
+00:53:10,405 --> 00:53:13,950
+<i>Komandan pesawat, kau meninggalkan
+ruang angkasa USS Enterprise.</i>
+
+662
+00:53:20,415 --> 00:53:22,376
+<i>Kita mendekati zona terjun.</i>
+
+663
+00:53:22,542 --> 00:53:25,295
+<i>Cuma ada satu kesempatan
+untuk mendarat di landasan itu.</i>
+
+664
+00:53:25,587 --> 00:53:28,757
+<i>Mungkin ada sistem pertahanan,
+jangan cepat kembangkan parasut.</i>
+
+665
+00:53:28,840 --> 00:53:31,802
+Tiga, dua, satu.
+
+666
+00:53:33,512 --> 00:53:35,764
+<i>Ingat, Enterprise tidak bisa
+menarik kalian ke pesawat</i>
+
+667
+00:53:35,847 --> 00:53:37,349
+<i>sebelum bor itu dirusak.</i>
+
+668
+00:53:39,310 --> 00:53:40,395
+Semoga berhasil
+
+669
+00:54:02,333 --> 00:54:04,877
+Tim terjun memasuki atmosfer, Pak.
+
+670
+00:54:04,961 --> 00:54:06,421
+Dua puluh ribu meter.
+
+671
+00:54:31,029 --> 00:54:33,323
+Mendekati landasan di 5.800 meter.
+
+672
+00:54:33,449 --> 00:54:37,369
+Kirk ke Enterprise.
+Jarak ke sasaran, 5.000 meter.
+
+673
+00:54:40,164 --> 00:54:42,082
+Empat ribu enam ratus meter dari landasan.
+
+674
+00:54:42,166 --> 00:54:43,709
+Empat ribu lima ratus menuju sasaran.
+
+675
+00:54:45,587 --> 00:54:47,046
+Empat ribu meter.
+
+676
+00:54:47,130 --> 00:54:49,257
+<i>- Tiga ribu meter.</i>
+- Tiga ribu meter.
+
+677
+00:54:49,340 --> 00:54:51,551
+- Dua ribu meter.
+- Kembangkan parasut.
+
+678
+00:54:57,307 --> 00:55:00,643
+- Dua ribu.
+- Kembangkan parasutmu, Olson!
+
+679
+00:55:00,977 --> 00:55:03,813
+Belum, belum 1.500 meter.
+
+680
+00:55:03,897 --> 00:55:07,484
+- Olson, buka parasutmu!
+- Olson, kembangkan parasutmu!
+
+681
+00:55:07,567 --> 00:55:09,319
+Seribu meter!
+
+682
+00:55:14,741 --> 00:55:15,784
+Tidak!
+
+683
+00:55:21,749 --> 00:55:23,000
+Olson!
+
+684
+00:55:24,210 --> 00:55:25,628
+Olson tewas, Pak!
+
+685
+00:55:45,773 --> 00:55:47,525
+Kirk telah mendarat, Pak.
+
+686
+00:57:51,235 --> 00:57:53,905
+Berikan tanganmu! Ayo.
+
+687
+00:58:00,119 --> 00:58:01,996
+Olson yang bawa peledaknya.
+
+688
+00:58:02,830 --> 00:58:04,040
+Aku tahu.
+
+689
+00:58:06,293 --> 00:58:08,545
+- Apa yang bisa kita perbuat?
+- Ini.
+
+690
+00:58:21,308 --> 00:58:24,645
+Sinyal pengacau hilang.
+Kemampuan transportasi pulih.
+
+691
+00:58:24,728 --> 00:58:28,023
+- Kendali teleportasi terhubung.
+- Gunakan sensor gravitasi.
+
+692
+00:58:28,107 --> 00:58:29,775
+Cari tahu tindakan mereka pada Vulcan.
+
+693
+00:58:29,858 --> 00:58:31,986
+Siap, Komandan. Maaf, Kapten.
+
+694
+00:58:37,241 --> 00:58:40,662
+Mesin bor disabotase, Pak,
+tetapi kita telah mencapai inti planet.
+
+695
+00:58:40,745 --> 00:58:41,955
+Luncurkan zat merah.
+
+696
+00:58:56,970 --> 00:59:00,098
+Kirk ke <i>Enterprise.</i>
+Mereka meluncurkan sesuatu
+
+697
+00:59:00,181 --> 00:59:01,558
+ke dalam lubang di Vulcan.
+
+698
+00:59:01,891 --> 00:59:03,935
+<i>- Kau dengar,</i> Enterprise<i>?</i>
+- Ya, Pak.
+
+699
+00:59:04,102 --> 00:59:05,603
+Analisis data sekarang.
+
+700
+00:59:05,687 --> 00:59:08,523
+Kapten, sensor gravitasi meningkat tinggi.
+
+701
+00:59:08,606 --> 00:59:10,650
+Jika kalkulasiku benar,
+
+702
+00:59:10,775 --> 00:59:13,278
+mereka sedang menciptakan daya gravitasi
+
+703
+00:59:13,487 --> 00:59:15,865
+yang akan mengisap seluruh planet.
+
+704
+00:59:18,242 --> 00:59:21,078
+Mereka menciptakan lubang hitam
+di pusat Vulcan?
+
+705
+00:59:21,704 --> 00:59:24,415
+- Ya, Pak.
+- Berapa lama waktu yang dimiliki Vulcan?
+
+706
+00:59:26,542 --> 00:59:28,461
+Hitungan menit, Pak.
+
+707
+00:59:29,754 --> 00:59:31,964
+Beri tahu Pusat Komando Vulcan
+untuk evakuasi planet,
+
+708
+00:59:32,089 --> 00:59:33,591
+- ke semua saluran.
+- Spock, tunggu.
+
+709
+00:59:33,674 --> 00:59:35,134
+- Jaga orbit standar.
+- Baik, Pak.
+
+710
+00:59:35,342 --> 00:59:37,470
+- Kau mau ke mana?
+- Mengevakuasi Dewan Vulcan.
+
+711
+00:59:37,636 --> 00:59:39,430
+Mereka penjaga sejarah budaya kami.
+
+712
+00:59:39,513 --> 00:59:41,766
+- Orang tuaku bersama mereka.
+- Mereka tak bisa diangkut?
+
+713
+00:59:41,891 --> 00:59:44,226
+Tidak. Mereka di Katric Ark.
+
+714
+00:59:44,351 --> 00:59:46,062
+Aku harus ke sana sendiri.
+
+715
+00:59:46,145 --> 00:59:48,482
+- Chekov, kau pegang kendali.
+- Baiklah.
+
+716
+00:59:51,860 --> 00:59:56,073
+- Kirk ke <i>Enterprise</i>. Angkat kami!
+- Mencari sinyalmu.
+
+717
+00:59:56,656 --> 00:59:59,993
+- Tarik bornya. Kita pergi.
+- Ya, Pak. Tarik!
+
+718
+01:00:03,413 --> 01:00:06,083
+<i>Lokasimu tak bisa dikunci.
+Jangan bergerak!</i>
+
+719
+01:00:06,208 --> 01:00:07,918
+- Kirk!
+- Sulu!
+
+720
+01:00:15,550 --> 01:00:16,676
+Sulu!
+
+721
+01:00:19,846 --> 01:00:21,182
+Bertahanlah!
+
+722
+01:00:23,643 --> 01:00:25,645
+Aku memegangmu. Tarik parasutku!
+
+723
+01:00:32,443 --> 01:00:37,615
+Kirk ke <i>Enterprise</i>! Kami terjatuh
+tanpa parasut! Angkat kami!
+
+724
+01:00:37,698 --> 01:00:39,784
+- Aku berusaha. Tak bisa kunci sinyalmu.
+<i>- Angkat kami!</i>
+
+725
+01:00:39,867 --> 01:00:41,369
+Kalian bergerak terlalu cepat.
+
+726
+01:00:41,452 --> 01:00:43,746
+Aku bisa!
+
+727
+01:00:44,455 --> 01:00:46,124
+- Ambil alih kendali!
+- Baik.
+
+728
+01:00:46,207 --> 01:00:47,333
+Lubang hitam melebar.
+
+729
+01:00:47,416 --> 01:00:49,794
+Kita harus segera pergi
+untuk mencapai jarak aman.
+
+730
+01:00:51,546 --> 01:00:53,131
+Minggir!
+
+731
+01:00:53,214 --> 01:00:55,050
+Aku bisa! Minggir!
+
+732
+01:00:55,676 --> 01:00:57,845
+Beri aku kendali manual!
+Aku bisa kunci sinyalnya!
+
+733
+01:00:57,928 --> 01:00:59,304
+<i>Angkat kami!</i>
+
+734
+01:01:01,390 --> 01:01:02,850
+<i>Enterprise</i>, di mana kalian?
+
+735
+01:01:02,933 --> 01:01:04,643
+Bertahanlah!
+
+736
+01:01:04,726 --> 01:01:07,938
+Sekarang! Lakukan sekarang!
+
+737
+01:01:08,105 --> 01:01:12,540
+Baik! Tunggu,
+mengimbangi tarikan gravitasi, dan...
+
+738
+01:01:12,715 --> 01:01:13,819
+TERKUNCI
+
+739
+01:01:18,615 --> 01:01:20,159
+Dapat!
+
+740
+01:01:29,460 --> 01:01:32,505
+- Terima kasih.
+- Tak masalah.
+
+741
+01:01:34,591 --> 01:01:37,385
+Menyingkirlah.
+Aku akan ke permukaan.
+
+742
+01:01:38,136 --> 01:01:39,762
+Permukaan apa?
+
+743
+01:01:40,513 --> 01:01:42,473
+Kau mau turun ke sana?
+Kau sudah gila?
+
+744
+01:01:43,266 --> 01:01:44,642
+Spock, jangan!
+
+745
+01:01:44,726 --> 01:01:46,352
+- Nyalakan.
+- Spock!
+
+746
+01:02:25,059 --> 01:02:27,019
+- Spock!
+- Beberapa detik lagi planet hancur.
+
+747
+01:02:27,102 --> 01:02:28,312
+Kita harus pergi.
+
+748
+01:02:29,104 --> 01:02:30,481
+Ibu, sekarang!
+
+749
+01:02:52,754 --> 01:02:55,131
+- Spock ke Enterprise. Bawa kami pergi.
+- Mengunci volume.
+
+750
+01:02:55,257 --> 01:02:57,342
+<i>Jangan bergerak, diam di tempat.</i>
+
+751
+01:03:03,848 --> 01:03:07,852
+Berpindah dalam lima, empat, tiga, dua...
+
+752
+01:03:10,773 --> 01:03:14,110
+- Ibu!
+- Aku kehilangan dia!
+
+753
+01:03:14,652 --> 01:03:16,821
+Tidak, aku kehilangan dia.
+
+754
+01:04:13,128 --> 01:04:17,383
+<i>Catatan Kapten Ad interim,
+tanggal bintang 2258.42.</i>
+
+755
+01:04:18,509 --> 01:04:20,845
+<i>Kami belum dapat kabar
+dari Kapten Pike.</i>
+
+756
+01:04:22,388 --> 01:04:23,598
+<i>Kami menggolongkannya</i>
+
+757
+01:04:23,681 --> 01:04:26,601
+<i>sebagai sandera
+penjahat perang bernama Nero.</i>
+
+758
+01:04:27,060 --> 01:04:28,895
+<i>Nero, yang hancurkan planet asalku,</i>
+
+759
+01:04:28,978 --> 01:04:31,689
+<i>dan sebagian besar
+dari enam miliar penghuninya.</i>
+
+760
+01:04:33,316 --> 01:04:35,693
+<i>Meski esensi budaya kami selamat,</i>
+
+761
+01:04:35,777 --> 01:04:38,154
+<i>bersama para tetua yang ada
+di kapal ini,</i>
+
+762
+01:04:40,490 --> 01:04:43,368
+<i>kuperkirakan tak lebih
+dari 10 ribu yang selamat.</i>
+
+763
+01:04:46,954 --> 01:04:49,792
+<i>Sekarang aku bagian dari spesies
+yang terancam punah.</i>
+
+764
+01:05:17,444 --> 01:05:18,821
+Aku turut berduka.
+
+765
+01:05:21,198 --> 01:05:22,533
+Aku turut berduka.
+
+766
+01:05:24,369 --> 01:05:25,870
+Aku turut berduka.
+
+767
+01:05:39,884 --> 01:05:41,970
+Kau butuh apa? Katakan.
+
+768
+01:05:42,887 --> 01:05:44,180
+Katakanlah.
+
+769
+01:05:52,689 --> 01:05:57,736
+Aku ingin semua orang untuk bekerja
+dengan baik.
+
+770
+01:06:05,661 --> 01:06:06,745
+Baik.
+
+771
+01:06:25,639 --> 01:06:28,350
+Tentu kau punya
+banyak pertanyaan untukku.
+
+772
+01:06:28,976 --> 01:06:31,104
+Aku hanya ingin tanya satu hal.
+
+773
+01:06:32,606 --> 01:06:36,985
+Aku perlu frekuensi sub-angkasa
+dari kisi pelindung perbatasan Starfleet.
+
+774
+01:06:37,068 --> 01:06:39,654
+Khususnya yang mengitari Bumi.
+
+775
+01:06:41,364 --> 01:06:44,618
+Christopher, jawab pertanyaanku.
+
+776
+01:06:44,701 --> 01:06:46,786
+Tidak, kau bertanggung jawab
+atas pembantaian
+
+777
+01:06:46,870 --> 01:06:50,081
+- di sebuah planet damai.
+- Aku justru mencegah pembantaian.
+
+778
+01:06:53,418 --> 01:06:58,423
+Di masaku, di tempat asalku,
+kapal ini kapal penambang biasa.
+
+779
+01:06:58,632 --> 01:07:01,468
+Kupilih hidup sebagai buruh yang jujur,
+
+780
+01:07:01,635 --> 01:07:05,848
+menghidupi diriku dan istriku
+yang sedang mengandung anakku.
+
+781
+01:07:05,932 --> 01:07:07,225
+Aku sedang di luar planet,
+
+782
+01:07:07,433 --> 01:07:10,645
+bekerja, sementara Federasi
+tak berbuat apa-apa,
+
+783
+01:07:10,728 --> 01:07:14,190
+membiarkan bangsaku tewas terbakar,
+dan planet kami terbelah dua.
+
+784
+01:07:14,273 --> 01:07:17,109
+Spock tak menolong kami.
+Dia mengkhianati kami.
+
+785
+01:07:17,193 --> 01:07:18,986
+Kau rupanya bingung.
+
+786
+01:07:19,278 --> 01:07:22,657
+Romulus tak hancur,
+masih ada di luar sana.
+
+787
+01:07:22,823 --> 01:07:24,992
+Kau salahkan Federasi atas sesuatu
+yang belum terjadi.
+
+788
+01:07:25,076 --> 01:07:26,953
+Sudah terjadi! Aku melihatnya!
+
+789
+01:07:27,036 --> 01:07:29,956
+Kusaksikan sendiri!
+Jangan bilang itu belum terjadi!
+
+790
+01:07:34,210 --> 01:07:38,549
+Saat aku kehilangan istriku,
+aku bersumpah akan membalas dendam.
+
+791
+01:07:39,424 --> 01:07:43,470
+Selama 25 tahun, kurencanakan
+pembalasanku terhadap Federasi,
+
+792
+01:07:43,679 --> 01:07:46,515
+dan kulupakan apa rasanya hidup normal.
+
+793
+01:07:47,391 --> 01:07:49,643
+Tapi tak kulupakan rasa sakitku.
+
+794
+01:07:51,061 --> 01:07:54,523
+Rasa perih yang sekarang dirasakan
+semua orang Vulcan.
+
+795
+01:07:56,108 --> 01:07:58,443
+Tujuanku, Christopher,
+
+796
+01:07:58,527 --> 01:08:02,197
+bukan hanya menghindarkan
+kehancuran rumahku yang kucintai,
+
+797
+01:08:03,865 --> 01:08:08,412
+tapi menciptakan Romulus
+yang bebas dari Federasi.
+
+798
+01:08:11,457 --> 01:08:14,252
+Hanya dengan cara itu
+Romulus benar-benar selamat.
+
+799
+01:08:15,503 --> 01:08:19,924
+Karena itu akan kuhancurkan
+semua planet anggota Federasi,
+
+800
+01:08:20,008 --> 01:08:21,926
+dimulai dengan planetmu.
+
+801
+01:08:22,719 --> 01:08:25,346
+Kalau begitu
+tak ada yang bisa didiskusikan.
+
+802
+01:08:29,392 --> 01:08:32,645
+Kau harus berikan frekuensi
+untuk lumpuhkan pertahanan Bumi.
+
+803
+01:08:35,481 --> 01:08:37,108
+Siput Centaurian.
+
+804
+01:08:38,234 --> 01:08:40,612
+Mereka bisa menempel
+di batang otakmu,
+
+805
+01:08:41,654 --> 01:08:44,867
+dan melepaskan racun
+yang akan memaksamu menjawab.
+
+806
+01:08:45,701 --> 01:08:47,703
+Tolong frekuensinya, Tuan.
+
+807
+01:08:48,495 --> 01:08:50,539
+Christopher Pike,
+Kapten, USS Enterprise.
+
+808
+01:08:50,706 --> 01:08:52,166
+Terserah kau.
+
+809
+01:08:59,798 --> 01:09:01,717
+Kau sudah pastikan Nero menuju Bumi?
+
+810
+01:09:01,842 --> 01:09:04,845
+Dari arah kapalnya,
+tak ada tujuan lain, Kapten.
+
+811
+01:09:04,928 --> 01:09:07,640
+- Terima kasih, Letnan.
+- Bumi mungkin sasaran berikut,
+
+812
+01:09:07,723 --> 01:09:10,517
+tapi mungkin juga semua planet Federasi.
+
+813
+01:09:10,643 --> 01:09:12,144
+Menyingkir dari kursi itu.
+
+814
+01:09:12,227 --> 01:09:16,440
+Jika Federasi jadi sasaran,
+kenapa mereka tak hancurkan kita?
+
+815
+01:09:16,523 --> 01:09:19,152
+Untuk apa? Untuk apa buang senjata?
+Kita bukan ancaman.
+
+816
+01:09:19,277 --> 01:09:20,904
+Bukan itu masalahnya.
+
+817
+01:09:20,987 --> 01:09:22,447
+Dia bilang ingin aku menyaksikan
+
+818
+01:09:22,530 --> 01:09:23,907
+kehancuran planet asalku.
+
+819
+01:09:23,990 --> 01:09:28,161
+Bagaimana mereka melakukannya?
+Dari mana Romulan dapat persenjataan itu?
+
+820
+01:09:28,244 --> 01:09:30,080
+Pengetahuan teknis
+
+821
+01:09:30,163 --> 01:09:33,541
+untuk menciptakan lubang hitam,
+mungkin itu jawabannya.
+
+822
+01:09:33,750 --> 01:09:36,086
+Secara teori,
+teknologi itu bisa dimanipulasi
+
+823
+01:09:36,169 --> 01:09:38,296
+untuk menciptakan lorong waktu.
+
+824
+01:09:38,380 --> 01:09:40,423
+Aku dokter, bukan ahli fisika.
+
+825
+01:09:40,507 --> 01:09:42,175
+Menurutmu mereka dari masa depan?
+
+826
+01:09:42,258 --> 01:09:45,261
+Jika kita hilangkan yang mustahil,
+yang tersisa,
+
+827
+01:09:45,345 --> 01:09:47,472
+- pastilah kebenaran.
+- Puitis sekali.
+
+828
+01:09:47,555 --> 01:09:51,352
+Apa urusan seorang Romulan pemarah
+dari masa depan dengan Kapten Pike?
+
+829
+01:09:51,435 --> 01:09:53,938
+Pike tahu rincian pertahanan Starfleet.
+
+830
+01:09:54,021 --> 01:09:55,731
+Kita harus kejar kapal itu,
+
+831
+01:09:55,898 --> 01:09:57,775
+rebut kendalinya, dan selamatkan Pike.
+
+832
+01:09:57,858 --> 01:09:59,985
+Teknologi kita kalah.
+
+833
+01:10:00,069 --> 01:10:02,238
+Upaya penyelamatan itu tak logis.
+
+834
+01:10:02,363 --> 01:10:05,116
+Kapal Nero harus ke luar
+dari warp, baru bisa terkejar.
+
+835
+01:10:05,241 --> 01:10:07,159
+Bagaimana jika teknisi kita
+
+836
+01:10:07,243 --> 01:10:09,912
+- mencoba menambah daya warp kita?
+- Awak yang tersisa sedang perbaiki
+
+837
+01:10:10,037 --> 01:10:11,706
+- kebocoran radiasi dek bawah
+- Baik.
+
+838
+01:10:11,789 --> 01:10:13,833
+- dan kerusakan komunikasi sub-angkasa...
+- Baiklah.
+
+839
+01:10:13,916 --> 01:10:15,376
+Pasti ada caranya!
+
+840
+01:10:15,459 --> 01:10:17,712
+Kita harus bergabung dengan Starfleet
+
+841
+01:10:17,795 --> 01:10:19,839
+untuk menyeimbangkan diri
+di pertempuran berikutnya.
+
+842
+01:10:19,964 --> 01:10:21,298
+Takkan ada kesempatan lain.
+
+843
+01:10:21,382 --> 01:10:24,301
+Begitu kita bergabung, sudah terlambat.
+
+844
+01:10:24,385 --> 01:10:26,805
+Katamu dia dari masa depan
+dan tahu apa yang akan terjadi?
+
+845
+01:10:26,888 --> 01:10:29,057
+Maka tindakan logisnya
+lakukan hal yang tak terprediksi.
+
+846
+01:10:29,141 --> 01:10:32,394
+Kau berpikir Nero tahu
+apa yang akan terjadi.
+
+847
+01:10:32,811 --> 01:10:35,564
+Sebaliknya,
+kehadiran Nero yang mengubah sejarah
+
+848
+01:10:35,647 --> 01:10:37,274
+dimulai dengan serangan
+terhadap Kelvin,
+
+849
+01:10:37,357 --> 01:10:38,525
+memuncak di kejadian hari ini,
+
+850
+01:10:38,608 --> 01:10:40,902
+dan menciptakan
+rangkaian peristiwa baru
+
+851
+01:10:40,986 --> 01:10:43,739
+yang tak mungkin diantisipasi
+pihak mana pun.
+
+852
+01:10:43,822 --> 01:10:45,407
+Sebuah realita alternatif.
+
+853
+01:10:46,324 --> 01:10:47,576
+Tepat sekali.
+
+854
+01:10:48,160 --> 01:10:52,164
+Apa pun hidup kita semestinya,
+jika ruang waktu telah dilanggar,
+
+855
+01:10:52,748 --> 01:10:54,833
+takdir kita berubah.
+
+856
+01:10:54,916 --> 01:10:57,419
+Siapkan jalur menuju
+Sistem Planet Laurentia. Warp sistem 3.
+
+857
+01:10:57,502 --> 01:10:58,880
+Spock, jangan lakukan itu.
+
+858
+01:10:58,963 --> 01:11:02,592
+Berkumpul dengan seluruh Armada
+untuk bicara, hanya membuang waktu.
+
+859
+01:11:02,717 --> 01:11:04,927
+Ini perintah Kapten Pike
+saat meninggalkan pesawat.
+
+860
+01:11:05,011 --> 01:11:06,763
+Dia juga perintahkan kita menjemputnya.
+
+861
+01:11:06,888 --> 01:11:08,389
+Spock, kau Kapten sekarang!
+
+862
+01:11:08,473 --> 01:11:09,932
+Aku tahu tanggung jawabku.
+
+863
+01:11:10,016 --> 01:11:12,393
+Tiap waktu yang terbuang,
+Nero makin dekat sasaran berikutnya!
+
+864
+01:11:12,477 --> 01:11:14,437
+Benar, karena itu aku memintamu
+menerima kenyataan
+
+865
+00:00:04,000 --> 00:00:22,000
+v ip 2 1. e u. or g
+
+866
+01:11:14,520 --> 01:11:17,106
+- bahwa aku komandannya.
+- Takkan kubiarkan kita mundur
+
+867
+01:11:17,190 --> 01:11:18,775
+- Jim, dia kaptennya.
+- dari masalah,
+
+868
+01:11:18,858 --> 01:11:21,944
+- dan bukannya memburu Nero!
+- Keamanan, bawa dia ke luar.
+
+869
+01:11:28,951 --> 01:11:32,247
+- Hei!
+- Cukup, Jim!
+
+870
+01:11:38,003 --> 01:11:39,713
+Keluarkan dia dari pesawat ini.
+
+871
+01:12:00,108 --> 01:12:02,903
+- Komputer, di mana aku?
+- <i>Lokasi: Delta Vega.</i>
+
+872
+01:12:02,986 --> 01:12:05,113
+<i>Planet kelas M. Tidak aman.</i>
+
+873
+01:12:05,197 --> 01:12:08,493
+<i>Ada stasiun Starfleet
+14 kilometer arah barat laut.</i>
+
+874
+01:12:08,743 --> 01:12:09,786
+<i>Tetap di kapsulmu</i>
+
+875
+01:12:09,869 --> 01:12:12,497
+<i>- hingga dijemput oleh petugas Starfleet.</i>
+- Yang benar saja.
+
+876
+01:12:55,040 --> 01:12:58,335
+Tanggal bintang: 2258.42.
+
+877
+01:12:59,044 --> 01:13:02,923
+Atau 44, masa bodoh.
+
+878
+01:13:03,007 --> 01:13:06,677
+Kapten Ad Interim Spock
+telah membuatku terdampar di Delta Vega,
+
+879
+01:13:06,760 --> 01:13:11,348
+kurasa ini pelanggaran
+protokol keamanan 49.09
+
+880
+01:13:11,432 --> 01:13:13,685
+soal perlakuan terhadap tawanan
+di dalam pesawat.
+
+881
+01:15:24,527 --> 01:15:26,029
+James T. Kirk.
+
+882
+01:15:28,449 --> 01:15:30,826
+- Maaf?
+- Bagaimana kau menemukanku?
+
+883
+01:15:32,828 --> 01:15:34,413
+Bagaimana kau tahu namaku?
+
+884
+01:15:35,914 --> 01:15:39,585
+Sejak dulu dan selamanya, aku temanmu.
+
+885
+01:15:43,964 --> 01:15:47,968
+- Begini, aku tak kenal kau.
+- Aku Spock.
+
+886
+01:15:52,848 --> 01:15:53,891
+Omong kosong.
+
+887
+01:15:54,516 --> 01:15:57,603
+Senang sekali bertemu kau lagi,
+sobat lamaku.
+
+888
+01:15:57,853 --> 01:16:00,481
+Khususnya
+setelah peristiwa-peristiwa hari ini.
+
+889
+01:16:02,317 --> 01:16:04,402
+Pak, aku berterima kasih atas bantuanmu,
+
+890
+01:16:04,486 --> 01:16:08,364
+tapi jika kau Spock,
+kau tahu kita tidak berteman.
+
+891
+01:16:08,448 --> 01:16:10,909
+Kau benci aku. Kau lempar aku
+kemari karena memberontak.
+
+892
+01:16:11,034 --> 01:16:12,952
+- Memberontak?
+- Ya.
+
+893
+01:16:13,036 --> 01:16:14,996
+Kau bukan kaptennya?
+
+894
+01:16:17,832 --> 01:16:23,463
+Bukan. Kaulah kaptennya. Pike disandera.
+
+895
+01:16:24,881 --> 01:16:26,132
+Oleh Nero.
+
+896
+01:16:32,055 --> 01:16:33,848
+Apa yang kau tahu soal dia?
+
+897
+01:16:34,600 --> 01:16:37,186
+Dia orang Romulan yang bermasalah.
+
+898
+01:16:38,521 --> 01:16:43,984
+- Maaf, sebentar. Akan lebih mudah begini.
+- Apa yang kau lakukan?
+
+899
+01:16:44,068 --> 01:16:46,737
+Pikiran kita jadi satu.
+
+900
+01:16:49,406 --> 01:16:51,867
+Seratus dua puluh sembilan tahun
+dari sekarang,
+
+901
+01:16:51,951 --> 01:16:56,038
+sebuah bintang meledak
+dan jadi ancaman bagi seluruh galaksi.
+
+902
+01:16:57,164 --> 01:17:00,793
+<i>Dari situlah asalku, Jim, masa depan.</i>
+
+903
+01:17:05,214 --> 01:17:11,388
+<i>Sebuah bintang menjadi supernova,
+menelan semua yang ada di jalurnya.</i>
+
+904
+01:17:12,055 --> 01:17:15,559
+<i>Aku berjanji pada para Romulan
+akan selamatkan planet mereka.</i>
+
+905
+01:17:20,856 --> 01:17:23,066
+<i>Kami perlengkapi kapal tercepat kami.</i>
+
+906
+01:17:24,484 --> 01:17:26,945
+<i>Dengan zat merah,
+akan kubuat lubang hitam</i>
+
+907
+01:17:27,028 --> 01:17:28,989
+<i>yang akan menghisap bintang itu.</i>
+
+908
+01:17:30,782 --> 01:17:34,035
+<i>Aku sedang dalam perjalanan
+ketika yang ditakutkan terjadi.</i>
+
+909
+01:17:35,078 --> 01:17:38,165
+<i>Supernova itu menghancurkan Romulus.</i>
+
+910
+01:17:43,963 --> 01:17:45,631
+<i>Waktuku hanya sedikit.</i>
+
+911
+01:17:48,301 --> 01:17:52,221
+<i>Aku harus menembakkan zat merah
+ke dalam supernova.</i>
+
+912
+01:18:08,988 --> 01:18:11,449
+<i>Dalam perjalanan pulang, aku ditangkap.</i>
+
+913
+01:18:11,782 --> 01:18:15,704
+<i>Namanya Nero,
+orang terakhir dari Kekaisaran Romulan.</i>
+
+914
+01:18:16,246 --> 01:18:20,375
+<i>Saat aku melarikan diri, kami berdua
+terisap ke dalam lubang hitam.</i>
+
+915
+01:18:28,300 --> 01:18:31,803
+<i>Nero terisap lebih dulu.
+Dia tiba di zaman ini lebih dulu.</i>
+
+916
+01:18:37,809 --> 01:18:42,439
+<i>Selama 25 tahun, Nero dan awaknya
+menunggu kedatanganku.</i>
+
+917
+01:18:42,522 --> 01:18:45,067
+<i>Tapi yang terasa bertahun-tahun
+bagi Nero,</i>
+
+918
+01:18:46,151 --> 01:18:48,237
+<i>hanyalah hitungan detik bagiku.</i>
+
+919
+01:18:49,155 --> 01:18:51,324
+<i>Aku masuk ke dalam lubang hitam.</i>
+
+920
+01:18:53,493 --> 01:18:55,828
+<i>Nero menungguku.</i>
+
+921
+01:19:01,668 --> 01:19:05,004
+<i>Dia menganggap aku bertanggung jawab
+atas kemusnahan planetnya.</i>
+
+922
+01:19:06,673 --> 01:19:09,384
+<i>Dia menangkap pesawatku
+dan membiarkanku hidup,</i>
+
+923
+01:19:10,677 --> 01:19:12,178
+<i>karena satu alasan.</i>
+
+924
+01:19:13,221 --> 01:19:15,556
+<i>Agar aku merasakan rasa sakitnya.</i>
+
+925
+01:19:17,558 --> 01:19:21,479
+<i>Dia mengirimku ke sini agar bisa
+menyaksikan pembalasan dendamnya.</i>
+
+926
+01:19:23,107 --> 01:19:26,151
+<i>Seperti saat dia tak berdaya
+menyelamatkan planetnya,</i>
+
+927
+01:19:26,527 --> 01:19:29,321
+<i>aku juga tak berdaya
+menyelamatkan planetku.</i>
+
+928
+01:19:32,449 --> 01:19:36,453
+<i>Miliaran nyawa hilang karena aku, Jim.</i>
+
+929
+01:19:37,162 --> 01:19:39,331
+<i>Karena aku gagal.</i>
+
+930
+01:19:41,875 --> 01:19:45,879
+Maaf. Perpindahan emosi
+adalah efek perpaduan pikiran.
+
+931
+01:19:53,429 --> 01:19:56,057
+- Ternyata kau punya perasaan.
+- Ya.
+
+932
+01:19:56,891 --> 01:19:59,936
+Kau menembus waktu
+dan ubah semua kehidupan kita.
+
+933
+01:20:00,270 --> 01:20:03,231
+Jim, kita harus pergi.
+
+934
+01:20:03,898 --> 01:20:06,901
+Ada stasiun Starfleet tak jauh dari sini.
+
+935
+01:20:07,819 --> 01:20:11,740
+Tunggu. Di zamanmu,
+
+936
+01:20:14,367 --> 01:20:16,119
+apa aku kenal ayahku?
+
+937
+01:20:17,287 --> 01:20:18,371
+Ya.
+
+938
+01:20:19,164 --> 01:20:23,335
+Kau selalu cerita, dia inspirasimu
+bergabung dengan Starfleet.
+
+939
+01:20:23,418 --> 01:20:27,172
+Dengan bangga dia menyaksikanmu
+menjadi Kapten Enterprise.
+
+940
+01:20:27,797 --> 01:20:29,091
+Kapten?
+
+941
+01:20:29,175 --> 01:20:32,345
+Kau harus kembali
+ke pesawat itu sesegera mungkin.
+
+942
+01:20:40,603 --> 01:20:42,980
+- Warp tiga, Pak.
+- Jalur 151, titik 3.
+
+943
+01:20:43,147 --> 01:20:45,691
+- Sistem Planet Laurentia.
+- Terima kasih, Tuan-tuan.
+
+944
+01:20:45,775 --> 01:20:49,236
+- Kau memanggilku?
+- Ya, Dokter.
+
+945
+01:20:50,613 --> 01:20:52,907
+Aku tahu James Kirk temanmu.
+
+946
+01:20:52,990 --> 01:20:55,910
+Pasti sulit bagimu mendukungku.
+
+947
+01:20:56,035 --> 01:20:57,620
+Kau berterima kasih?
+
+948
+01:20:57,703 --> 01:21:00,373
+Aku hanya memahami kesulitanmu.
+
+949
+01:21:00,456 --> 01:21:02,458
+Mohon izin berbicara bebas, Pak.
+
+950
+01:21:03,752 --> 01:21:07,214
+- Silakan.
+- Bolehkah? Baik.
+
+951
+01:21:07,506 --> 01:21:09,549
+Apa otak Vulcan-mu sudah tidak beres?
+
+952
+01:21:10,008 --> 01:21:12,511
+Apakah membuang Kirk pilihan logis?
+
+953
+01:21:12,594 --> 01:21:14,388
+Mungkin. Tapi tepatkah?
+
+954
+01:21:14,471 --> 01:21:15,889
+Di planet asal kami, ada peribahasa,
+
+955
+01:21:15,972 --> 01:21:17,391
+"Jika ingin ikut balapan kuda,
+
+956
+01:21:17,474 --> 01:21:19,810
+jangan kurung kuda juaramu di istal."
+
+957
+01:21:19,893 --> 01:21:21,186
+Perumpamaan unik, Dokter,
+
+958
+01:21:21,269 --> 01:21:25,607
+karena kuda harus dijinakkan dulu
+sebelum bisa berprestasi.
+
+959
+01:21:25,690 --> 01:21:28,026
+Setidaknya kau bisa bersikap
+bahwa itu keputusan sulit!
+
+960
+01:21:28,110 --> 01:21:29,403
+Aku sedang berupaya
+
+961
+01:21:29,486 --> 01:21:32,072
+membangun komunikasi kembali
+dengan Starfleet.
+
+962
+01:21:32,197 --> 01:21:36,034
+Namun, jika para awak lebih suka
+jika aku menangis di lorong,
+
+963
+01:21:36,118 --> 01:21:39,122
+akan kuikuti saran medismu.
+
+964
+01:21:40,331 --> 01:21:41,666
+Permisi.
+
+965
+01:21:46,087 --> 01:21:47,672
+Dasar jin berdarah hijau.
+
+966
+01:22:25,127 --> 01:22:26,336
+Halo?
+
+967
+01:23:08,963 --> 01:23:10,089
+Apa?
+
+968
+01:23:14,219 --> 01:23:16,054
+Kau sadar betapa keterlaluannya ini?
+
+969
+01:23:16,137 --> 01:23:17,556
+- Menakjubkan.
+- Apa?
+
+970
+01:23:17,640 --> 01:23:21,018
+Kuyakin kalian hanya laksanakan tugas.
+Kenapa kalian tak datang lebih awal?
+
+971
+01:23:21,101 --> 01:23:22,353
+Aku sudah enam bulan di sini,
+
+972
+01:23:22,436 --> 01:23:25,564
+memakan kudapan protein,
+memimpikan makanan enak!
+
+973
+01:23:25,731 --> 01:23:28,359
+Aku paham apa yang terjadi di sini.
+
+974
+01:23:28,442 --> 01:23:30,319
+Hukuman berkelanjutan.
+
+975
+01:23:30,402 --> 01:23:32,279
+Padahal itu hanya kecelakaan.
+
+976
+01:23:32,363 --> 01:23:35,199
+- Kau Montgomery Scott.
+- Kau kenal dia?
+
+977
+01:23:35,282 --> 01:23:37,201
+Itulah aku. Kau di tempat yang tepat.
+
+978
+01:23:37,284 --> 01:23:40,704
+Kecuali ada perwira Starfleet lain di sini
+yang juga kerja keras dan kelaparan.
+
+979
+01:23:40,788 --> 01:23:43,207
+- Aku!
+- Diamlah!
+
+980
+01:23:43,290 --> 01:23:45,918
+Kau tak perlu makan!
+Makan sebiji kacang polong saja
+
+981
+01:23:46,001 --> 01:23:49,380
+kau sudah kenyang!
+Maksudku makanan sungguhan!
+
+982
+01:23:49,463 --> 01:23:51,883
+Tapi kalian sudah tiba, terima kasih.
+Di mana makanannya?
+
+983
+01:23:51,967 --> 01:23:53,885
+Kau Tn. Scott
+
+984
+01:23:53,969 --> 01:23:56,179
+yang usulkan teori transportasi warp.
+
+985
+01:23:56,263 --> 01:23:59,391
+Benar. Itu maksudku.
+Pikir kalian kenapa aku di sini?
+
+986
+01:23:59,474 --> 01:24:01,101
+Aku sedikit berdebat
+dengan instrukturku
+
+987
+01:24:01,184 --> 01:24:05,313
+soal pertalian fisika relativistik
+dengan perjalanan sub-angkasa.
+
+988
+01:24:05,397 --> 01:24:09,317
+Dia pikir buah jeruk bali
+bisa ditransportasi
+
+989
+01:24:09,401 --> 01:24:10,902
+paling jauh 160 kilometer.
+
+990
+01:24:10,986 --> 01:24:13,572
+Kubilang, aku bukan hanya bisa
+pindahkan sebuah jeruk
+
+991
+01:24:13,655 --> 01:24:17,409
+dari satu planet ke planet lain
+di sistem yang sama, itu mudah,
+
+992
+01:24:17,492 --> 01:24:19,077
+aku juga bisa pindahkan makhluk hidup.
+
+993
+01:24:19,160 --> 01:24:22,205
+Jadi aku uji pada anjing Laksamana Archer.
+
+994
+01:24:22,289 --> 01:24:26,085
+- Aku tahu anjing itu. Apa yang terjadi?
+- Saat dia kembali, akan kuberi tahu.
+
+995
+01:24:26,168 --> 01:24:28,045
+Aku merasa bersalah.
+
+996
+01:24:28,129 --> 01:24:31,007
+Tapi teori transportasi lompatanmu benar.
+
+997
+01:24:31,090 --> 01:24:34,343
+Berpindah ke kapal yang sedang
+melompati waktu itu sangat mungkin.
+
+998
+01:24:34,427 --> 01:24:36,929
+Aku tak pernah dengar itu.
+
+999
+01:24:37,013 --> 01:24:38,931
+Kau belum dengar, Tn. Scott,
+
+1000
+01:24:39,015 --> 01:24:41,851
+karena kau belum menemukannya.
+
+1001
+01:24:46,814 --> 01:24:50,192
+- Kau dari masa depan?
+- Dia dari masa depan. Aku bukan.
+
+1002
+01:24:50,943 --> 01:24:53,571
+Hebat. Masih adakah roti lapis
+di masa depan?
+
+1003
+01:24:53,696 --> 01:24:55,364
+Pesawat ini agak labil.
+
+1004
+01:24:55,448 --> 01:24:59,328
+Alat perisainya benar-benar rusak,
+begitu juga beberapa hal lainnya.
+
+1005
+01:24:59,411 --> 01:25:00,537
+Silakan naik.
+
+1006
+01:25:00,621 --> 01:25:03,665
+Jadi, Enterprise sudah berlayar perdana?
+
+1007
+01:25:03,749 --> 01:25:05,459
+Pesawat itu sangat hebat.
+
+1008
+01:25:05,542 --> 01:25:10,422
+Aku ingin menyentuh nacelles besarnya
+jika kau tahu istilah teknisi.
+
+1009
+01:25:11,381 --> 01:25:14,092
+Tapi, meski aku percaya kalian,
+
+1010
+01:25:14,176 --> 01:25:17,679
+asal kalian, apa yang kubuat,
+yang mana belum kulakukan,
+
+1011
+01:25:17,763 --> 01:25:20,265
+kalian masih membicarakan
+bahwa kita bisa naik ke Enterprise
+
+1012
+01:25:20,349 --> 01:25:23,185
+saat dia terbang lebih cepat dari cahaya.
+
+1013
+01:25:23,268 --> 01:25:26,104
+Turun dari sana!
+Itu bukan untuk dipanjat!
+
+1014
+01:25:26,188 --> 01:25:28,482
+Transportasi lompatan itu bagai
+
+1015
+01:25:28,565 --> 01:25:30,817
+menembak sebutir peluru
+dengan peluru yang lebih kecil
+
+1016
+01:25:30,901 --> 01:25:33,821
+dengan mata tertutup
+sambil naik kuda.
+
+1017
+01:25:33,905 --> 01:25:34,906
+Apa itu?
+
+1018
+01:25:34,989 --> 01:25:38,076
+Hitunganmu untuk transportasi lompatan.
+
+1019
+01:25:40,370 --> 01:25:41,913
+Bukan main.
+
+1020
+01:25:45,833 --> 01:25:50,213
+Bayangkan itu. Aku tak pernah bayangkan
+angkasa sebagai benda bergerak.
+
+1021
+01:25:50,296 --> 01:25:52,632
+Kau ikut dengan kami, 'kan?
+
+1022
+01:25:54,258 --> 01:25:57,929
+- Tidak, Jim. Itu bukan takdirku.
+- Takdir...
+
+1023
+01:25:58,930 --> 01:26:01,057
+Spock satunya takkan percaya aku.
+
+1024
+01:26:01,140 --> 01:26:02,392
+Kau bisa jelaskan yang terjadi.
+
+1025
+01:26:02,475 --> 01:26:05,062
+Dia tak boleh tahu keberadaanku.
+
+1026
+01:26:05,145 --> 01:26:09,525
+- Kau harus janji.
+- Aku tak boleh bilang ikuti perintahmu?
+
+1027
+01:26:09,608 --> 01:26:13,195
+- Kenapa?
+- Aturan yang satu ini jangan kau langgar.
+
+1028
+01:26:13,278 --> 01:26:16,782
+Untuk hentikan Nero,
+kau harus ambil komando kapalmu sendiri.
+
+1029
+01:26:16,907 --> 01:26:19,952
+- Bagaimana? Dengan membunuhmu?
+- Kuharap tidak.
+
+1030
+01:26:20,035 --> 01:26:23,038
+Tapi ada Peraturan Starfleet 619.
+
+1031
+01:26:23,122 --> 01:26:26,333
+Menurut Peraturan itu, komandan
+
+1032
+01:26:26,417 --> 01:26:29,503
+yang secara emosi terganggu
+oleh sebuah misi
+
+1033
+01:26:29,586 --> 01:26:31,588
+harus melepaskan jabatannya.
+
+1034
+01:26:33,799 --> 01:26:37,886
+Jadi, harus kubuat Spock
+terganggu emosinya.
+
+1035
+01:26:37,970 --> 01:26:41,015
+Jim, aku baru kehilangan planetku,
+
+1036
+01:26:42,183 --> 01:26:45,145
+emosiku jelas terganggu.
+
+1037
+01:26:46,062 --> 01:26:48,857
+Kau harus buat "aku" perlihatkan itu.
+
+1038
+01:26:48,940 --> 01:26:52,485
+Baiklah, Nak, hidup atau mati,
+mari kita bereskan ini.
+
+1039
+01:26:56,906 --> 01:26:59,951
+Pergilah, kau tak boleh ikut, pergilah.
+
+1040
+01:27:01,661 --> 01:27:04,497
+Menembus waktu, mengubah sejarah,
+
+1041
+01:27:04,998 --> 01:27:06,458
+itu curang.
+
+1042
+01:27:08,668 --> 01:27:10,962
+Aku belajar itu dari seorang teman lama.
+
+1043
+01:27:19,847 --> 01:27:22,558
+Semoga panjang umur, dan sejahtera.
+
+1044
+01:27:42,703 --> 01:27:44,163
+Tn. Scott!
+
+1045
+01:27:49,294 --> 01:27:51,546
+Tn. Scott, bisa dengar aku?
+
+1046
+01:27:59,179 --> 01:28:00,847
+Tunggu!
+
+1047
+01:28:01,681 --> 01:28:02,724
+Tidak.
+
+1048
+01:28:06,311 --> 01:28:08,063
+Jangan khawatir, aku...
+
+1049
+01:28:18,782 --> 01:28:19,826
+Tidak!
+
+1050
+01:28:30,586 --> 01:28:31,629
+PINTU DARURAT
+
+1051
+01:28:39,595 --> 01:28:42,139
+<i>Katup pelepas turbin diaktifkan.</i>
+
+1052
+01:28:48,813 --> 01:28:51,440
+Kau baik-baik saja?
+
+1053
+01:28:53,402 --> 01:28:55,863
+Kepalaku pusing dan aku basah kuyup,
+tetapi aku baik-baik saja.
+
+1054
+01:28:56,071 --> 01:29:01,952
+Kapten Spock! Ada yang masuk
+tanpa izin ke Papan Kendali Turbin Air.
+
+1055
+01:29:02,035 --> 01:29:03,287
+Tampilkan video.
+
+1056
+01:29:03,412 --> 01:29:04,329
+PERBESAR VISUAL
+
+1057
+01:29:07,457 --> 01:29:09,084
+Keamanan, tutup Dek Permesinan.
+
+1058
+01:29:09,167 --> 01:29:12,087
+Ada penyusup di Turbin Seksi 3.
+
+1059
+01:29:12,212 --> 01:29:13,630
+Siapkan <i>phaser</i> untuk melumpuhkan.
+
+1060
+01:29:25,309 --> 01:29:26,853
+- Berhenti!
+- Tidak!
+
+1061
+01:29:30,773 --> 01:29:33,610
+Ikut denganku, Sayang!
+
+1062
+01:29:41,868 --> 01:29:43,036
+- Siapa kau?
+- Aku bersamanya.
+
+1063
+01:29:43,119 --> 01:29:45,371
+- Dia bersamaku.
+- Kita bergerak dengan kecepatan cahaya.
+
+1064
+01:29:45,580 --> 01:29:47,040
+Bagaimana cara kau naik?
+
+1065
+01:29:47,123 --> 01:29:48,333
+Kau genius, pikirkan sendiri.
+
+1066
+01:29:48,416 --> 01:29:51,586
+Sebagai Kapten <i>Ad Interim</i> kapal ini,
+kuperintahkan kau menjawab.
+
+1067
+01:29:51,669 --> 01:29:54,130
+Aku tak mau bilang, Kapten <i>Ad Interim.</i>
+
+1068
+01:29:55,256 --> 01:29:56,257
+Apa...
+
+1069
+01:29:56,341 --> 01:29:59,427
+Kau tak frustrasi, 'kan?
+Karena aku tak bekerja sama?
+
+1070
+01:29:59,510 --> 01:30:02,056
+- Kau tidak marah.
+- Kau anggota Starfleet?
+
+1071
+01:30:02,181 --> 01:30:04,558
+Ya, boleh aku minta handuk?
+
+1072
+01:30:04,642 --> 01:30:06,810
+Di bawah hukuman pengadilan,
+kuperintah kau jelaskan
+
+1073
+01:30:06,894 --> 01:30:09,271
+bagaimana kau bisa naik ke pesawat ini.
+
+1074
+01:30:09,355 --> 01:30:10,773
+- Ya...
+- Jangan jawab.
+
+1075
+01:30:10,856 --> 01:30:12,691
+Kau harus jawab.
+
+1076
+01:30:14,360 --> 01:30:17,321
+- Aku tak mau berpihak.
+- Kenapa kau ini, Spock?
+
+1077
+01:30:19,740 --> 01:30:22,117
+Planetmu hancur, ibumu tewas,
+
+1078
+01:30:22,201 --> 01:30:25,454
+- kau sama sekali tak sedih.
+- Jika kau anggap
+
+1079
+01:30:25,579 --> 01:30:28,415
+kejadian ini memengaruhi
+kemampuanku memimpin pesawat ini,
+
+1080
+01:30:28,499 --> 01:30:30,334
+- kau salah.
+- Kau yang bilang
+
+1081
+01:30:30,417 --> 01:30:33,128
+rasa takut itu dibutuhkan untuk memimpin.
+
+1082
+01:30:33,212 --> 01:30:36,466
+Kau lihat pesawat Nero?
+Kau lihat perbuatannya?
+
+1083
+01:30:37,175 --> 01:30:39,260
+- Tentu saja.
+- Jadi, kau takut atau tidak?
+
+1084
+01:30:39,344 --> 01:30:41,596
+Jangan kuliahi aku
+soal pentingnya emosi.
+
+1085
+01:30:41,680 --> 01:30:43,848
+- Hentikanlah aku.
+- Menjauhlah dariku, Tn. Kirk.
+
+1086
+01:30:43,932 --> 01:30:47,268
+Seperti apa rasanya tak punya amarah?
+Atau sedih?
+
+1087
+01:30:47,894 --> 01:30:49,020
+Atau rasa ingin
+
+1088
+01:30:49,104 --> 01:30:51,147
+membalas kematian ibu
+yang melahirkanmu?
+
+1089
+01:30:51,231 --> 01:30:53,149
+- Mundur.
+- Kau tak merasakan apa pun!
+
+1090
+01:30:53,233 --> 01:30:55,443
+Pasti tak masuk akal bagimu.
+
+1091
+01:30:56,194 --> 01:30:57,654
+Kau tak pernah menyayanginya!
+
+1092
+01:31:22,304 --> 01:31:23,472
+Spock!
+
+1093
+01:32:01,011 --> 01:32:03,555
+Dokter, aku tak lagi layak bertugas.
+
+1094
+01:32:03,889 --> 01:32:05,432
+Dengan ini kuserahkan jabatanku,
+
+1095
+01:32:05,515 --> 01:32:09,561
+karena terbukti emosiku terganggu.
+
+1096
+01:32:09,644 --> 01:32:12,773
+Tolong catat waktu dan tanggalnya
+di catatan pesawat.
+
+1097
+01:32:38,674 --> 01:32:42,261
+Aku suka pesawat ini!
+Membuatku semangat!
+
+1098
+01:32:45,014 --> 01:32:46,516
+Selamat, Jim.
+
+1099
+01:32:46,599 --> 01:32:50,437
+Sekarang tak ada Kapten
+dan Perwira Pertama untuk menggantikannya.
+
+1100
+01:32:51,980 --> 01:32:53,148
+Ya, ada.
+
+1101
+01:32:54,566 --> 01:32:56,318
+- Apa?
+- Pike menunjuknya jadi Perwira Pertama.
+
+1102
+01:32:56,401 --> 01:32:59,530
+- Yang benar saja!
+- Terima kasih atas dukunganmu.
+
+1103
+01:33:02,449 --> 01:33:06,036
+Kuharap kau tahu
+apa yang harus diperbuat, Kapten.
+
+1104
+01:33:07,704 --> 01:33:09,164
+Kuharap juga begitu.
+
+1105
+01:33:13,752 --> 01:33:16,171
+Perhatian, awak Enterprise.
+Ini James Kirk.
+
+1106
+01:33:17,798 --> 01:33:21,970
+<i>Tn Spock telah serahkan jabatannya,
+dan aku naik jadi Kapten Ad Interim.</i>
+
+1107
+01:33:22,428 --> 01:33:25,807
+<i>Aku tahu kalian menanti
+saat bergabung dengan Armada,</i>
+
+1108
+01:33:25,890 --> 01:33:28,268
+<i>tapi kuperintahkan pengejaran
+terhadap pesawat musuh ke Bumi.</i>
+
+1109
+01:33:28,351 --> 01:33:31,604
+<i>Semua departemen bersiap
+di pos tempur dalam 10 menit.</i>
+
+1110
+01:33:32,021 --> 01:33:35,733
+Entah kita, atau mereka yang hancur.
+
+1111
+01:33:37,318 --> 01:33:38,570
+Sekian, Kirk.
+
+1112
+01:33:46,035 --> 01:33:47,912
+Ungkapkan pikiranmu, Spock.
+
+1113
+01:33:50,832 --> 01:33:52,542
+Itu tidaklah bijaksana.
+
+1114
+01:33:53,209 --> 01:33:56,630
+Tindakan penting selalu bijaksana.
+
+1115
+01:33:57,923 --> 01:34:01,177
+Aku mengalami konflik
+seperti ketika kecil.
+
+1116
+01:34:03,095 --> 01:34:05,931
+Kau selalu akan jadi anak
+dari dua dunia.
+
+1117
+01:34:07,683 --> 01:34:09,602
+Aku bersyukur untuk itu.
+
+1118
+01:34:11,604 --> 01:34:13,189
+Bersyukur untuk dirimu.
+
+1119
+01:34:14,940 --> 01:34:18,194
+Kurasakan amarah
+pada orang yang membunuh Ibu.
+
+1120
+01:34:19,570 --> 01:34:21,780
+Amarah yang tak bisa kukendalikan.
+
+1121
+01:34:25,993 --> 01:34:30,999
+Aku yakin Ibumu tentu akan berkata,
+
+1122
+01:34:32,542 --> 01:34:34,294
+"jangan coba mengendalikannya."
+
+1123
+01:34:35,462 --> 01:34:40,383
+Kau pernah tanya kepadaku
+alasan aku menikahi ibumu.
+
+1124
+01:34:44,387 --> 01:34:46,598
+Kunikahi dia karena aku mencintainya.
+
+1125
+01:34:54,773 --> 01:34:57,525
+Kita harus naik ke kapal Nero
+tanpa ketahuan.
+
+1126
+01:34:57,609 --> 01:35:00,028
+Kita tak bisa naik sambil menembak,
+mengingat teknologi mereka.
+
+1127
+01:35:00,111 --> 01:35:02,240
+Rencana ini kurang kuat.
+
+1128
+01:35:02,323 --> 01:35:04,492
+- Kapten Kirk!
+- Ya, Tn. Chekov. Ada apa?
+
+1129
+01:35:04,575 --> 01:35:06,702
+Berdasarkan jalur Narada dari Vulcan,
+
+1130
+01:35:06,786 --> 01:35:10,039
+kuperkirakan Nero akan melewati Saturnus.
+
+1131
+01:35:10,122 --> 01:35:13,417
+Kau bilang kita tak boleh terlihat Nero
+atau kita dihancurkan.
+
+1132
+01:35:13,501 --> 01:35:15,836
+Kalau Tn. Scott bisa bawa kita
+ke lompatan 4,
+
+1133
+01:35:15,920 --> 01:35:18,172
+dan jika kita ke luar luar
+dari lompatan di belakang
+
+1134
+01:35:18,297 --> 01:35:20,591
+salah satu bulan Saturnus,
+misalnya Titan,
+
+1135
+01:35:20,675 --> 01:35:23,261
+distorsi magnetik dari cincin planet
+
+1136
+01:35:23,344 --> 01:35:25,596
+akan menyamarkan kita
+dari sensor Nero.
+
+1137
+01:35:25,680 --> 01:35:28,057
+Selama bornya tidak menyala,
+
+1138
+01:35:28,140 --> 01:35:31,352
+- kita bisa naik ke kapalnya
+- Ya, itu bisa berhasil.
+
+1139
+01:35:32,019 --> 01:35:33,604
+Tunggu. Berapa usiamu, Nak?
+
+1140
+01:35:33,688 --> 01:35:36,441
+- Usiaku 17, Pak.
+- Bagus, usianya baru 17.
+
+1141
+01:35:36,525 --> 01:35:38,151
+Dokter.
+
+1142
+01:35:38,235 --> 01:35:41,697
+Tn. Chekov benar.
+Bacaan datanya tepat.
+
+1143
+01:35:42,030 --> 01:35:43,991
+Jika Tn. Sulu bisa tetapkan posisi kita,
+
+1144
+01:35:44,074 --> 01:35:46,952
+aku bisa naik ke kapal Nero,
+mencuri alat pembuat lubang hitam,
+
+1145
+01:35:47,035 --> 01:35:49,705
+dan selamatkan Kapten Pike.
+
+1146
+01:35:49,788 --> 01:35:52,457
+Takkan kuizinkan
+kau melakukan itu, Tn. Spock.
+
+1147
+01:35:52,541 --> 01:35:55,419
+Nenek moyang Romulan
+dan Vulcan sama.
+
+1148
+01:35:55,711 --> 01:35:57,754
+Kesamaan budaya kami akan memudahkanku
+
+1149
+01:35:57,838 --> 01:36:01,008
+mengakses ke komputer pesawat
+dan temukan alat itu.
+
+1150
+01:36:02,342 --> 01:36:04,303
+Ibuku juga manusia,
+
+1151
+01:36:04,386 --> 01:36:06,930
+jadi hanya Bumi planetku yang tersisa.
+
+1152
+01:36:13,646 --> 01:36:15,356
+Kalau begitu aku ikut denganmu.
+
+1153
+01:36:15,857 --> 01:36:19,569
+Bisa kusebutkan sebuah Peraturan,
+tapi pasti kau tak peduli.
+
+1154
+01:36:21,654 --> 01:36:24,449
+Benar, 'kan? Kita mulai saling mengenal.
+
+1155
+01:36:40,423 --> 01:36:41,716
+Siapkan bornya.
+
+1156
+01:36:57,775 --> 01:37:03,322
+Semua berhenti dalam tiga, dua, satu.
+
+1157
+01:37:08,869 --> 01:37:11,330
+Berikan ¼ letupan selama 5 detik.
+
+1158
+01:37:11,413 --> 01:37:13,457
+Sisanya kupakai jet pendorong,
+ikuti aba-abaku.
+
+1159
+01:37:13,624 --> 01:37:15,751
+- Baik.
+- Tembakkan jet.
+
+1160
+01:37:42,987 --> 01:37:45,740
+Ruang teleportasi, kami di atas Titan.
+
+1161
+01:37:45,824 --> 01:37:48,368
+Begitu? Bagus, Tn. Sulu. Bagus sekali.
+
+1162
+01:37:49,452 --> 01:37:53,249
+- Bagaimana, Scotty?
+- Luar biasa, Pak, posisi kita tepat.
+
+1163
+01:37:56,419 --> 01:37:58,546
+Apa pun yang terjadi, Tn. Sulu,
+
+1164
+01:37:58,629 --> 01:38:00,339
+jika kau miliki kelebihan taktis,
+
+1165
+01:38:00,423 --> 01:38:04,009
+tembak kapal itu
+meskipun kami masih di dalamnya.
+
+1166
+01:38:05,553 --> 01:38:06,720
+Baik, Pak.
+
+1167
+01:38:06,804 --> 01:38:10,850
+<i>Kami akan mengontakmu
+saat kami siap kembali ke pesawat.</i>
+
+1168
+01:38:10,933 --> 01:38:12,143
+Semoga berhasil.
+
+1169
+01:38:25,073 --> 01:38:28,034
+- Aku akan kembali.
+- Sebaiknya begitu.
+
+1170
+01:38:29,786 --> 01:38:32,873
+- Akan kupantau frekuensimu.
+- Terima kasih, Nyota.
+
+1171
+01:38:49,598 --> 01:38:52,392
+- Nama depannya Nyota?
+- Aku tak mau berkomentar.
+
+1172
+01:38:52,476 --> 01:38:55,729
+Baiklah. Jika desain pesawat Narada
+sesuai standar,
+
+1173
+01:38:55,812 --> 01:38:57,773
+kalian kukirim ke Ruang Muatan Barang.
+
+1174
+01:38:57,857 --> 01:39:00,568
+- Pasti tak ada orang.
+- Nyalakan.
+
+1175
+01:39:43,862 --> 01:39:46,281
+Kapten, perwira Starfleet
+naik ke pesawat kita.
+
+1176
+01:39:46,615 --> 01:39:48,742
+<i>- Salah satunya bangsa Vulcan.</i>
+- Tidak.
+
+1177
+01:39:53,497 --> 01:39:54,623
+Ayel!
+
+1178
+01:40:09,347 --> 01:40:10,640
+Kulindungi kau.
+
+1179
+01:40:11,015 --> 01:40:12,976
+- Yakin?
+- Ya, kulindungi kau.
+
+1180
+01:40:32,787 --> 01:40:36,082
+Kau tahu di mana?
+Alat pembuat lubang hitamnya?
+
+1181
+01:40:38,002 --> 01:40:39,628
+Juga Kapten Pike.
+
+1182
+01:41:02,359 --> 01:41:03,569
+Minggir!
+
+1183
+01:41:04,069 --> 01:41:06,196
+Mereka telah aktifkan bornya.
+
+1184
+01:41:07,364 --> 01:41:08,824
+Komunikasi dan transpor tak aktif.
+
+1185
+01:41:08,907 --> 01:41:12,287
+Sulu, temukan mereka,
+agar bisa ditarik pulang.
+
+1186
+01:41:12,370 --> 01:41:13,955
+Kirk dan Spock tak bisa kita tolong.
+
+1187
+01:41:33,183 --> 01:41:34,559
+Kulihat kerumitan.
+
+1188
+01:41:34,643 --> 01:41:37,270
+Pesawat ini lebih canggih
+dari perkiraanku.
+
+1189
+01:41:37,354 --> 01:41:40,357
+<i>Sidik suara dan analisis wajah berlaku.</i>
+
+1190
+01:41:40,440 --> 01:41:42,567
+<i>Selamat datang kembali,
+Duta Besar Spock.</i>
+
+1191
+01:41:42,651 --> 01:41:44,194
+Wah, aneh sekali.
+
+1192
+01:41:45,279 --> 01:41:48,157
+Komputer, dari mana asal pembuatanmu?
+
+1193
+01:41:48,240 --> 01:41:52,703
+<i>Tanggal bintang 2387
+Ditugaskan oleh Akademi Ilmiah Vulcan.</i>
+
+1194
+01:41:55,623 --> 01:41:58,209
+Rupanya kau rahasiakan
+informasi penting dariku.
+
+1195
+01:41:58,292 --> 01:42:00,336
+Kau bisa terbangkan pesawat ini, 'kan?
+
+1196
+01:42:00,419 --> 01:42:02,880
+Firasatku aku sudah pernah melakukannya.
+
+1197
+01:42:03,464 --> 01:42:05,049
+- Semoga berhasil.
+- Jim!
+
+1198
+01:42:06,217 --> 01:42:09,553
+Kemungkinan statistik
+keberhasilan kita kurang dari 4,3%.
+
+1199
+01:42:09,637 --> 01:42:11,681
+- Pasti berhasil.
+- Jika aku tak kembali,
+
+1200
+01:42:11,764 --> 01:42:13,808
+- katakan pada Letnan Uhura...
+- Spock!
+
+1201
+01:42:13,891 --> 01:42:15,601
+Pasti berhasil.
+
+1202
+01:42:25,404 --> 01:42:26,905
+Menakjubkan.
+
+1203
+01:42:35,497 --> 01:42:37,541
+<i>Tahap awal penerbangan dimulai.</i>
+
+1204
+01:43:21,836 --> 01:43:23,963
+Perintahkan awakmu mematikan bor,
+atau aku...
+
+1205
+01:43:34,641 --> 01:43:37,644
+Kukenali wajahmu dari sejarah Bumi.
+
+1206
+01:44:22,607 --> 01:44:26,152
+James T. Kirk dipandang
+sebagai tokoh terhormat.
+
+1207
+01:44:26,236 --> 01:44:28,613
+Dia menjadi kapten USS Enterprise.
+
+1208
+01:44:28,696 --> 01:44:30,073
+Tapi itu di kehidupan lain.
+
+1209
+01:44:30,907 --> 01:44:33,994
+Akan kuhabisi hidupmu,
+seperti halnya ayahmu.
+
+1210
+01:45:06,570 --> 01:45:10,782
+<i>Kapten Nero, pesawat Vulcan telah dicuri.
+Bor dihancurkan.</i>
+
+1211
+01:45:11,199 --> 01:45:12,200
+Spock!
+
+1212
+01:45:13,994 --> 01:45:15,579
+Spock!
+
+1213
+01:45:33,179 --> 01:45:34,639
+- Buka saluran.
+- Baik, Pak!
+
+1214
+01:45:36,391 --> 01:45:39,352
+Spock, seharusnya kubunuh kau
+saat ada kesempatan.
+
+1215
+01:45:39,603 --> 01:45:41,522
+Kusita pesawat ini,
+
+1216
+01:45:41,606 --> 01:45:43,941
+dan kuperintahkan kau
+serahkan pesawatmu. Tanpa syarat.
+
+1217
+01:45:44,025 --> 01:45:45,109
+Hancurkan pesawat itu.
+
+1218
+01:45:45,192 --> 01:45:46,402
+Jika zat merah terkena api,
+
+1219
+01:45:46,485 --> 01:45:48,613
+- kau akan hancurkan...
+- Aku ingin Spock mati sekarang!
+
+1220
+01:46:03,920 --> 01:46:05,755
+- Dia masuk ke lompatan waktu.
+- Kejar dia!
+
+1221
+01:46:05,838 --> 01:46:07,089
+Baik, Pak!
+
+1222
+01:46:37,245 --> 01:46:40,332
+Spesiesmu lebih lemah dari yang kukira.
+
+1223
+01:46:41,750 --> 01:46:43,460
+- Aku tak bisa...
+- Tak bisa apa?
+
+1224
+01:46:43,919 --> 01:46:45,671
+Kau bahkan tak bisa bicara.
+
+1225
+01:46:48,049 --> 01:46:50,843
+- Apa?
+- Kuambil senjatamu.
+
+1226
+01:47:17,537 --> 01:47:18,997
+Apa yang dia lakukan?
+
+1227
+01:47:19,080 --> 01:47:21,959
+<i>Duta Besar Spock,
+kau akan mengalami tabrakan.</i>
+
+1228
+01:47:22,751 --> 01:47:23,752
+Tembakkan semua senjata!
+
+1229
+01:47:31,093 --> 01:47:35,347
+<i>Rudal datang. Jika pesawat tertembak,
+zat merah akan terbakar.</i>
+
+1230
+01:47:35,431 --> 01:47:36,849
+Aku paham.
+
+1231
+01:47:43,147 --> 01:47:44,690
+Kapten, ada pesawat lain!
+
+1232
+01:48:06,463 --> 01:48:09,632
+- Sedang apa kau di sini?
+- Menuruti perintah.
+
+1233
+01:48:29,487 --> 01:48:30,654
+Enterprise, sekarang!
+
+1234
+01:48:54,011 --> 01:48:55,805
+Tepat waktu, Scotty!
+
+1235
+01:48:56,680 --> 01:49:00,643
+Tak pernah kupindahkan tiga orang
+dari dua tempat ke satu landasan!
+
+1236
+01:49:00,726 --> 01:49:02,604
+- Jim!
+- Bones!
+
+1237
+01:49:02,687 --> 01:49:04,356
+Sudah kupegang dia.
+
+1238
+01:49:06,525 --> 01:49:07,567
+Kerjaku bagus juga!
+
+1239
+01:49:08,860 --> 01:49:12,114
+Pesawat musuh kehilangan daya!
+Perisai mereka lumpuh.
+
+1240
+01:49:12,197 --> 01:49:13,615
+- Panggil mereka sekarang.
+- Baik.
+
+1241
+01:49:48,776 --> 01:49:51,821
+Ini Kapten James T. Kirk
+dari USS Enterprise.
+
+1242
+01:49:52,071 --> 01:49:53,447
+Pesawatmu telah dilumpuhkan.
+
+1243
+01:49:53,531 --> 01:49:56,033
+Kalian terlalu dekat ke lubang hitam,
+
+1244
+01:49:56,117 --> 01:49:58,286
+tapi kami akan selamatkan kalian.
+
+1245
+01:50:01,289 --> 01:50:03,708
+- Kapten, apa yang kau lakukan?
+- Perlihatkan rasa kasihan.
+
+1246
+01:50:03,791 --> 01:50:05,626
+Mungkin bisa jadi cara berdamai
+dengan Romulus.
+
+1247
+01:50:05,793 --> 01:50:08,630
+Logis saja, Spock. Kukira kau suka.
+
+1248
+01:50:08,714 --> 01:50:11,383
+Tidak juga. Kali ini tidak.
+
+1249
+01:50:11,466 --> 01:50:16,013
+<i>Lebih baik kualami derita
+kehancuran Romulus 1000 kali.</i>
+
+1250
+01:50:16,096 --> 01:50:20,350
+<i>Lebih baik aku mati sengsara
+daripada terima pertolonganmu.</i>
+
+1251
+01:50:20,434 --> 01:50:22,227
+Baiklah.
+
+1252
+01:50:22,311 --> 01:50:25,439
+- Siapkan phaser. Tembakkan semuanya.
+- Baik, Pak.
+
+1253
+01:51:10,360 --> 01:51:12,654
+- Sulu, mari kita pulang.
+- Baik, Pak!
+
+1254
+01:51:23,999 --> 01:51:26,043
+- Kenapa kita tak masuk lompatan waktu?
+- Sudah, Pak.
+
+1255
+01:51:26,126 --> 01:51:28,337
+Teknisi.
+Bawa kita pergi dari sini, Scotty.
+
+1256
+01:51:28,420 --> 01:51:29,797
+Tentu, Kapten!
+
+1257
+01:51:33,425 --> 01:51:35,469
+Kita tersangkut di sumur gravitasi!
+
+1258
+01:51:35,552 --> 01:51:39,056
+- Masuk ke lompatan maksimum!
+- Sudah kukerahkan semua daya!
+
+1259
+01:51:48,399 --> 01:51:49,859
+Semua daya tak cukup!
+
+1260
+01:51:49,943 --> 01:51:53,196
+<i>- Bisa apa lagi?</i>
+- Jika lontarkan reaktor dan ledakkan,
+
+1261
+01:51:53,280 --> 01:51:56,283
+letusannya bisa dorong kita ke luar!
+Tapi, aku tak janji.
+
+1262
+01:51:59,577 --> 01:52:01,037
+Lakukan!
+
+1263
+01:52:02,247 --> 01:52:04,165
+- Kosongkan ruangan!
+- Baik, Pak!
+
+1264
+01:52:06,876 --> 01:52:07,877
+SANGAT BERBAHAYA
+
+1265
+01:53:31,631 --> 01:53:33,007
+Ayah!
+
+1266
+01:53:41,599 --> 01:53:43,351
+Aku bukan ayah kita.
+
+1267
+01:53:50,983 --> 01:53:55,655
+Tinggal tersisa sedikit Vulcan,
+kita tak boleh saling mengabaikan.
+
+1268
+01:53:58,825 --> 01:53:59,951
+Kenapa kau kirim Kirk,
+
+1269
+01:54:00,034 --> 01:54:01,953
+dan tidak kau jelaskan sendiri?
+
+1270
+01:54:02,036 --> 01:54:05,499
+Karena kalian saling membutuhkan.
+Aku tak bisa merenggutmu
+
+1271
+01:54:05,582 --> 01:54:08,252
+dari pencapaian
+yang kalian raih bersama,
+
+1272
+01:54:08,377 --> 01:54:12,047
+dari persahabatan
+yang akan menetapkan diri kalian
+
+1273
+01:54:12,131 --> 01:54:13,715
+dengan cara
+yang kau belum bisa bayangkan.
+
+1274
+01:54:15,426 --> 01:54:17,553
+Bagaimana caramu
+membuatnya menjaga rahasia?
+
+1275
+01:54:17,636 --> 01:54:21,014
+Dia mengira jagad raya akan musnah
+
+1276
+01:54:21,098 --> 01:54:23,725
+- jika dia melanggar janjinya.
+- Kau bohongi dia.
+
+1277
+01:54:24,977 --> 01:54:27,104
+Aku hanya memberi kesan begitu.
+
+1278
+01:54:27,646 --> 01:54:30,441
+- Pertaruhan.
+- Wujud kepercayaanku.
+
+1279
+01:54:30,732 --> 01:54:33,944
+Semoga kau ulangi di masa depan
+dengan Starfleet.
+
+1280
+01:54:34,027 --> 01:54:35,529
+Di ujung kepunahan,
+akan lebih logis
+
+1281
+01:54:35,612 --> 01:54:38,616
+jika aku mengundurkan diri dari Starfleet
+dan bangun ras kita agar tak punah.
+
+1282
+01:54:38,700 --> 01:54:41,286
+Kau bisa berada di dua tempat
+di saat yang sama.
+
+1283
+01:54:42,162 --> 01:54:44,873
+Kau harus tetap di Starfleet.
+
+1284
+01:54:45,331 --> 01:54:49,627
+Sudah kutemukan planet yang cocok
+untuk koloni Vulcan.
+
+1285
+01:54:49,711 --> 01:54:53,465
+Spock, dalam hal ini,
+bantulah dirimu sendiri.
+
+1286
+01:54:55,008 --> 01:54:58,344
+Kesampingkan logika.
+Lakukan yang kau rasa benar.
+
+1287
+01:55:04,100 --> 01:55:07,812
+Salamku yang biasanya
+akan membuatku berumur panjang,
+
+1288
+01:55:07,896 --> 01:55:09,606
+jadi kukatakan saja,
+
+1289
+01:55:10,231 --> 01:55:11,650
+semoga berhasil.
+
+1290
+01:55:22,578 --> 01:55:26,248
+Sidang memanggil
+Kapten James Tiberius Kirk.
+
+1291
+01:55:26,916 --> 01:55:30,294
+Keberanianmu yang penuh inspirasi
+dan dedikasimu terhadap rekan-rekanmu
+
+1292
+01:55:30,377 --> 01:55:33,047
+sejalan dengan tradisi tinggi kita,
+
+1293
+01:55:33,130 --> 01:55:37,885
+dan mengangkat harkat dirimu,
+awakmu, dan Federasi.
+
+1294
+01:55:39,011 --> 01:55:41,972
+Suatu kehormatan,
+menganugerahkan medali ini padamu.
+
+1295
+01:55:46,645 --> 01:55:48,730
+Dengan Perintah Starfleet 28455,
+
+1296
+01:55:48,813 --> 01:55:52,817
+harap kau melapor ke Laksamana Pike,
+<i>USS Enterprise</i>,
+
+1297
+01:55:52,901 --> 01:55:54,986
+dan bertugas menggantikannya.
+
+1298
+01:56:03,537 --> 01:56:04,913
+Kau bebas tugas, Pak.
+
+1299
+01:56:05,664 --> 01:56:07,123
+Aku lega.
+
+1300
+01:56:09,292 --> 01:56:11,878
+- Terima kasih, Pak.
+- Selamat, Kapten.
+
+1301
+01:56:13,797 --> 01:56:15,674
+Ayahmu pasti bangga.
+
+1302
+01:56:45,162 --> 01:56:46,831
+Jet pendorong maksimum.
+
+1303
+01:56:47,373 --> 01:56:50,167
+Manuver jet pendorong
+menanti perintahmu, Pak.
+
+1304
+01:56:50,334 --> 01:56:52,921
+Senjata dan perisai siap.
+
+1305
+01:56:53,005 --> 01:56:55,716
+Laporan Kendali Galangan siap, Kapten.
+
+1306
+01:57:00,178 --> 01:57:03,015
+Bones! Bersiaplah.
+
+1307
+01:57:07,519 --> 01:57:09,021
+Scotty, bagaimana kondisi kita?
+
+1308
+01:57:09,104 --> 01:57:11,815
+Ruang dilitium terisi maksimum, Kapten.
+
+1309
+01:57:12,858 --> 01:57:14,026
+Turun kau!
+
+1310
+01:57:16,278 --> 01:57:19,197
+Tn. Sulu, siapkan jet pendorong.
+
+1311
+01:57:22,200 --> 01:57:23,785
+Mohon izin untuk masuk, Kapten.
+
+1312
+01:57:25,038 --> 01:57:26,122
+Izin diberikan.
+
+1313
+01:57:27,540 --> 01:57:29,626
+Karena kau belum menunjuk
+Perwira Pertama,
+
+1314
+01:57:29,709 --> 01:57:32,295
+dengan hormat, kucalonkan diriku.
+
+1315
+01:57:33,338 --> 01:57:35,840
+Jika diperlukan, ada rekomendasi
+dari orang-orang yang mengenalku.
+
+1316
+01:57:37,216 --> 01:57:38,635
+Suatu kehormatan menerimamu, Komandan.
+
+1317
+01:57:43,181 --> 01:57:45,308
+Manuver jet pendorong, Tn. Sulu.
+
+1318
+01:57:47,352 --> 01:57:48,936
+Jet pendorong siap.
+
+1319
+01:57:49,312 --> 01:57:51,648
+- Berangkat.
+- Siap, Kapten.
+
+1320
+01:57:56,569 --> 01:57:59,907
+<i>Ruang angkasa, perbatasan terakhir.</i>
+
+1321
+01:58:01,659 --> 01:58:05,162
+<i>Inilah rangkaian pelayaran
+Pesawat Bintang</i> Enterprise.
+
+1322
+01:58:06,163 --> 01:58:10,000
+<i>Misinya yang berkelanjutan,
+menjelajahi dunia-dunia baru yang asing,</i>
+
+1323
+01:58:10,751 --> 01:58:14,588
+<i>mencari bentuk kehidupan hidup
+dan peradaban baru,</i>
+
+1324
+01:58:15,005 --> 01:58:19,677
+<i>dengan berani, pergi ke tempat-tempat
+yang belum pernah didatangi siapa pun.</i>
+
+1325
+01:58:34,943 --> 01:58:38,113
+BERDASARKAN "STAR TREK"
+KARYA GENE RODDENBERRY
+
+1326
+02:06:20,713 --> 02:06:24,676
+MENGENANG GENE RODDENBERRY
+DAN MAJEL BARRETT RODDENBERRY
+
