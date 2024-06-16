@@ -1,0 +1,5937 @@
+﻿1
+00:01:17,208 --> 00:01:19,708
+<i>Selamat datang di masa depan robotik.</i>
+
+2
+00:01:20,333 --> 00:01:21,500
+<i>Biarkan mereka membantumu.</i>
+
+3
+00:01:21,667 --> 00:01:25,458
+<i>Tugas sehari-hari rumah?
+Semuanya mereka bisa kerjakan.</i>
+
+4
+00:01:30,500 --> 00:01:32,625
+<i>Pengembangan menajubkan
+selanjutnya dalam robotika...</i>
+
+5
+00:01:33,042 --> 00:01:35,458
+<i>adalah Kecerdasan buatan (AI).</i>
+
+6
+00:01:35,625 --> 00:01:37,250
+<i>Dengan mempelajari otak manusia,</i>
+
+7
+00:01:37,417 --> 00:01:40,750
+<i>kami tanamkan pikiran dan
+kehidupan mandiri pada robot...</i>
+
+8
+00:01:40,917 --> 00:01:46,000
+<i>agar mereka bisa berbaur bersama para
+pekerja Amerika yang hampir seperti manusia.</i>
+
+9
+00:01:49,292 --> 00:01:52,833
+<i>Kini, teknologi baru menjembatani
+jurang antara manusia dan AI,</i>
+
+10
+00:01:53,000 --> 00:01:54,375
+<i>membuat kita makin akrab dari sebelumnya.</i>
+
+11
+00:01:54,667 --> 00:01:56,875
+<i>Cuma dengan memindai
+bentuk wajahmu,</i>
+
+12
+00:01:57,042 --> 00:01:59,250
+<i>kami bisa tanamkan ke tubuh robot...</i>
+
+13
+00:01:59,417 --> 00:02:01,792
+<i>agar mereka lebih manusiawi
+daripada manusia.</i>
+
+14
+00:02:02,958 --> 00:02:04,958
+<i>Lewat simulasi,
+masa depan tak pernah terlihat membaik.</i>
+
+15
+00:02:06,917 --> 00:02:10,375
+<i>A.I. ini terintegrasi dalam berbagai
+kehidupan kita sehari-hari.</i>
+
+16
+00:02:10,542 --> 00:02:11,875
+<i>Mereka bisa memasak...</i>
+
+17
+00:02:12,042 --> 00:02:13,583
+<i>membawa mobil...</i>
+
+18
+00:02:13,750 --> 00:02:15,625
+<i>sebagai pelayan masyarakat...</i>
+
+19
+00:02:15,792 --> 00:02:17,125
+<i>yang menjaga perdamaian...</i>
+
+20
+00:02:17,292 --> 00:02:19,042
+<i>dengan sistem pertahanan
+canggih dan baru,</i>
+
+21
+00:02:19,417 --> 00:02:20,292
+<i>mereka bahkan...</i>
+
+22
+00:02:37,833 --> 00:02:42,458
+<i>Tepat 10 tahun lalu,
+bom nuklir diledakkan di Los Angeles.</i>
+
+23
+00:02:43,708 --> 00:02:46,625
+<i>Hampir 1 juta orang dibakar...</i>
+
+24
+00:02:47,500 --> 00:02:49,083
+<i>dalam sekejap mata...</i>
+
+25
+00:02:49,250 --> 00:02:52,333
+<i>oleh robot AI
+yang dibuat untuk melindungi kita.</i>
+
+26
+00:02:53,458 --> 00:02:55,417
+<i>Kami akan melarang A.I.
+di Negara-Negara Barat...</i>
+
+27
+00:02:56,333 --> 00:02:58,375
+<i>agar ini tak terjadi lagi.</i>
+
+28
+00:03:00,417 --> 00:03:02,542
+<i>Tapi negara republik Asia Baru...</i>
+
+29
+00:03:03,292 --> 00:03:06,583
+<i>tidak seprihatin dengan kita,
+dan terus mengembangkan A.I.</i>
+
+30
+00:03:06,750 --> 00:03:08,708
+<i>dengan menganggap mereka
+secara setara.</i>
+
+31
+00:03:08,875 --> 00:03:10,500
+<i>Tapi, ingatlah.</i>
+
+32
+00:03:10,667 --> 00:03:15,042
+<i>Kita tak berperang melawan Asia Baru.
+Tapi A.I. yang mereka buat.</i>
+
+33
+00:03:17,167 --> 00:03:20,167
+<i>Ini perjuangan
+demi kelangsungan hidup kita.</i>
+
+34
+00:03:21,250 --> 00:03:23,542
+<i>Selama A.I. masih jadi ancaman...</i>
+
+35
+00:03:23,708 --> 00:03:26,167
+<i>kita takkan berhenti memburu mereka.</i>
+
+36
+00:03:41,467 --> 00:03:43,167
+<b>KONANG - ASIA BARU
+2065</b>
+
+37
+00:03:59,333 --> 00:04:01,125
+Nomad.
+Ini Bravo, sudah tiba.
+
+38
+00:04:01,292 --> 00:04:03,917
+LZ membawa 4, 1, 3, 9...
+
+39
+00:04:04,083 --> 00:04:05,208
+Baiklah, bergerak dalam air.
+
+40
+00:04:07,083 --> 00:04:08,292
+Radar ketua tim...
+
+41
+00:04:19,208 --> 00:04:20,458
+Teman-teman bergerak masuk.
+
+42
+00:04:20,625 --> 00:04:23,625
+Ini Nomad. Baiklah.
+Mengirim koordinat serangan.
+
+43
+00:04:39,958 --> 00:04:41,083
+Sayang.
+
+44
+00:04:42,042 --> 00:04:44,625
+Mereka entah memang pintar....
+
+45
+00:04:44,792 --> 00:04:46,542
+atau kayak Ayahnya.
+
+46
+00:04:48,000 --> 00:04:49,208
+- Dia marah padamu.
+- Itu...
+
+47
+00:04:49,375 --> 00:04:51,292
+Itu tendangan persetujuan.
+
+48
+00:04:51,458 --> 00:04:52,833
+- Tendangan persetujuan?
+- Ya...
+
+49
+00:04:53,000 --> 00:04:54,583
+- Itu... Ya.
+- Dia seperti, "Nah...
+
+50
+00:04:54,750 --> 00:04:55,917
+"nah, jangan panggil Ayah begitu.
+
+51
+00:04:56,083 --> 00:04:57,458
+"Jangan katakan itu pada Ayah."
+
+52
+00:04:57,625 --> 00:05:00,333
+Tunggu. Maksudku,
+kau benar-benar yakin aku ayahnya, kan?
+
+53
+00:05:03,583 --> 00:05:04,708
+Tidak.
+
+54
+00:05:05,042 --> 00:05:06,292
+Cobalah pahami...
+
+55
+00:05:06,458 --> 00:05:07,667
+saat ia lahir nanti...
+
+56
+00:05:07,833 --> 00:05:10,833
+jika ia berperilaku menyebalkan,
+kau bisa merasa yakin.
+
+57
+00:05:11,000 --> 00:05:12,458
+- Oh, astaga!
+- Aku cuma bercanda.
+
+58
+00:05:12,625 --> 00:05:14,125
+- Tidak, itu... Tahu tidak?  Tak apa.
+- Aku bercanda.
+
+59
+00:05:14,292 --> 00:05:15,125
+Lebih baik aku pergi.
+Tidak, aku tak mau...
+
+60
+00:05:15,208 --> 00:05:16,167
+Aku bercanda.
+Maaf.
+
+61
+00:05:16,333 --> 00:05:17,875
+- Tidak, aku... Aku sakit hati.
+- Aku cuma bercanda.
+
+62
+00:05:18,042 --> 00:05:19,708
+Sekarang aku merasa minder...
+
+63
+00:05:19,875 --> 00:05:21,542
+...dan aku tak tahu
+apa aku bisa lanjutkan ini...
+
+64
+00:06:13,333 --> 00:06:14,583
+Apa yang terjadi?
+
+65
+00:06:17,542 --> 00:06:18,875
+Ada orang Amerika.
+
+66
+00:06:25,417 --> 00:06:26,667
+Siapa yang beritahu lokasi kami?
+
+67
+00:06:28,375 --> 00:06:29,500
+- Harun.
+- Kumohon.
+
+68
+00:06:29,667 --> 00:06:33,167
+Bro, mereka menemukan kita.
+Kita kurang hati-hati.
+
+69
+00:06:38,417 --> 00:06:40,875
+Sial, Nomad kemari.
+Ayo.
+
+70
+00:06:41,042 --> 00:06:42,125
+Ayo!
+
+71
+00:06:42,292 --> 00:06:43,625
+Ambil perahunya.
+Cepat!
+
+72
+00:06:45,333 --> 00:06:46,833
+Orang Amerika itu datang.
+Orang Amerika...
+
+73
+00:06:47,625 --> 00:06:49,333
+Pergi!
+Ke perahu.
+
+74
+00:06:50,333 --> 00:06:51,917
+- Joshua.
+- Kumohon.
+
+75
+00:06:55,875 --> 00:06:57,000
+Maya, dia sudah melihat kita.
+
+76
+00:06:57,792 --> 00:07:00,125
+Kita bisa membawanya.
+Sebagai sandera.
+
+77
+00:07:01,250 --> 00:07:03,208
+- Kumohon.
+- Kemasi barangmu.
+
+78
+00:07:07,125 --> 00:07:08,958
+Kumohon.
+Jangan.
+
+79
+00:07:09,708 --> 00:07:10,542
+Kumohon.
+
+80
+00:07:12,542 --> 00:07:14,042
+Drew, kenapa kau di sini?
+
+81
+00:07:14,333 --> 00:07:15,542
+Penyamaranku bisa terbongkar.
+
+82
+00:07:15,708 --> 00:07:17,333
+Beri aku waktu lagi.
+
+83
+00:07:17,500 --> 00:07:20,083
+Perintah.
+Bunuh Nirmata.
+
+84
+00:07:20,250 --> 00:07:21,917
+Nirmata tidak ada di sini.
+
+85
+00:07:22,080 --> 00:07:23,250
+Kau mengerti?
+Nirmata tak ada di sini...
+
+86
+00:07:23,410 --> 00:07:24,830
+Serang musuh.
+
+87
+00:07:28,700 --> 00:07:30,120
+Masuk ke rumah.
+Sekarang!
+
+88
+00:07:32,250 --> 00:07:33,330
+- Maju!
+- Cepat!
+
+89
+00:07:36,910 --> 00:07:37,750
+Ini Sersan Taylor.
+
+90
+00:07:38,080 --> 00:07:39,700
+Hentikan serangannya, sialan!
+
+91
+00:07:39,870 --> 00:07:40,700
+Nirmata tidak ada di sini.
+
+92
+00:07:40,870 --> 00:07:42,830
+<i>Tangkap Nirmata!
+Dekat ruangan tamu.</i>
+
+93
+00:07:43,000 --> 00:07:45,290
+Dengar, aku lagi menyamar.
+Batalkan serangannya.
+
+94
+00:07:54,080 --> 00:07:57,620
+Katanya kau sudah berhenti.
+Kau sudah janji.
+
+95
+00:07:59,660 --> 00:08:02,580
+Percayalah, mereka tak menginginkanmu.
+Cuma Nirmata.
+
+96
+00:08:04,120 --> 00:08:06,500
+Jadi ayo. Kita pergi.
+Cepat.
+
+97
+00:08:11,540 --> 00:08:12,580
+Maya.
+
+98
+00:08:13,790 --> 00:08:14,830
+Tenanglah.
+
+99
+00:08:15,660 --> 00:08:16,660
+Aku mencintaimu.
+
+100
+00:08:18,120 --> 00:08:20,040
+Aku tak pernah mau
+menyakitimu sedikit pun.
+
+101
+00:08:20,700 --> 00:08:22,080
+Memang...
+
+102
+00:08:22,750 --> 00:08:23,790
+Kaulah satu-satunya yang kumiliki.
+
+103
+00:08:25,450 --> 00:08:27,910
+Tolong.
+Kita harus pergi.
+
+104
+00:08:28,080 --> 00:08:29,370
+Bagaimana yang lainnya?
+
+105
+00:08:29,540 --> 00:08:31,120
+Maksudmu?
+
+106
+00:08:31,540 --> 00:08:32,700
+Mereka itu keluargaku.
+
+107
+00:08:32,870 --> 00:08:33,700
+Mereka bukan manusia, Maya.
+
+108
+00:08:35,290 --> 00:08:36,500
+Mereka tak nyata!
+
+109
+00:08:36,660 --> 00:08:39,160
+Kita nyata! Kau dan aku nyata.
+Cinta ini nyata.
+
+110
+00:08:39,330 --> 00:08:40,910
+Anak itu nyata!
+
+111
+00:08:42,450 --> 00:08:43,580
+Tidak.
+
+112
+00:08:45,120 --> 00:08:46,120
+Ini...
+
+113
+00:08:47,950 --> 00:08:49,790
+tak nyata.
+
+114
+00:08:49,950 --> 00:08:50,870
+Maya, jangan begitu.
+
+115
+00:08:51,330 --> 00:08:52,330
+Tolong.
+
+116
+00:08:53,120 --> 00:08:53,950
+- Sersan Taylor!
+- Maya, tolong!
+
+117
+00:08:54,120 --> 00:08:56,200
+- Tidak!
+- Hei, ayo!
+
+118
+00:08:56,370 --> 00:08:59,250
+- Ayo. Hei, ayo pergi!
+- Maya! Maya.
+
+119
+00:09:10,120 --> 00:09:11,620
+Maya!
+
+120
+00:09:14,540 --> 00:09:15,540
+Maya!
+
+121
+00:09:19,120 --> 00:09:20,160
+Maya!
+
+122
+00:09:24,000 --> 00:09:26,790
+Nomad! Nomad!
+Maya! Maya!
+
+123
+00:09:35,620 --> 00:09:38,160
+Tidak!
+
+124
+00:09:44,330 --> 00:09:45,330
+Maya!
+
+125
+00:10:04,045 --> 00:10:05,945
+{\an6}<b>5 TAHUH KEMUDIAN</b>
+
+126
+00:10:05,410 --> 00:10:06,410
+Tidak.
+
+127
+00:10:13,080 --> 00:10:15,120
+Mati aku. Mati aku.
+
+128
+00:10:15,290 --> 00:10:18,750
+<i>Diperkirakan bersembunyi di pulau
+Asia Tenggara Baru, pengejaran terus...</i>
+
+129
+00:10:18,910 --> 00:10:23,620
+<i>dilanjutkan untuk perancang A.I.
+misterius yang dikenal sebagai Nirmata.</i>
+
+130
+00:10:23,790 --> 00:10:26,700
+<i>Saat pasukan AS memperluas
+pencariannya di Asia Baru...</i>
+
+131
+00:10:26,870 --> 00:10:28,040
+<i>Nirmata berhasil lolos dari penangkapan...</i>
+
+132
+00:10:28,200 --> 00:10:29,790
+<i>Aku baik-baik saja.</i>
+
+133
+00:10:30,080 --> 00:10:32,700
+<i>Beristirahat, sedikit rekreasi...</i>
+
+134
+00:10:32,870 --> 00:10:36,160
+makan, tidur, kerja, berulang kali.
+
+135
+00:10:36,330 --> 00:10:37,830
+<i>Dan sakit kepala?</i>
+
+136
+00:10:38,160 --> 00:10:39,700
+Mimpi buruk?
+
+137
+00:10:41,450 --> 00:10:42,410
+Tak ada lagi.
+
+138
+00:10:46,040 --> 00:10:47,250
+Kalau ingatanmu?
+
+139
+00:10:47,410 --> 00:10:48,330
+Ada yang teringat...
+
+140
+00:10:48,500 --> 00:10:50,290
+saat kau menyamar?
+
+141
+00:10:50,660 --> 00:10:52,000
+Misalnya lokasi Nirmata.
+
+142
+00:10:54,870 --> 00:10:55,700
+Tak ada yang baru.
+
+143
+00:10:58,580 --> 00:11:00,410
+Cuma malam penyelamatan itu.
+
+144
+00:11:00,580 --> 00:11:03,950
+Serangan Pasukan Khusus.
+Serangan rudal Nomad.
+
+145
+00:11:05,410 --> 00:11:06,700
+Sumbermu mati.
+
+146
+00:11:08,910 --> 00:11:09,910
+Istri.
+
+147
+00:11:11,700 --> 00:11:14,330
+Kami sudah nikah.
+Aku dan sumberku. Tapi…
+
+148
+00:11:26,790 --> 00:11:30,080
+Tidak.
+Aku tak ingat apa-apa.
+
+149
+00:11:32,000 --> 00:11:33,790
+<i>Bagaimana pekerjaanmu?</i>
+
+150
+00:11:35,950 --> 00:11:38,950
+<i>Terima kasih atas pelayanan kalian
+atas pembersihan kota Los Angeles.</i>
+
+151
+00:11:39,120 --> 00:11:41,330
+<i>Tingkat radiasi selalu rendah...</i>
+
+152
+00:11:41,500 --> 00:11:44,410
+<i>berkat dedikasi dan kerja keras
+tim kita yang solid.</i>
+
+153
+00:11:52,660 --> 00:11:54,040
+Oh, sial.
+
+154
+00:11:58,000 --> 00:11:59,000
+Baiklah.
+
+155
+00:12:00,200 --> 00:12:01,450
+Kulihat video...
+
+156
+00:12:02,370 --> 00:12:03,200
+yang mengatakan bahwa alasan....
+
+157
+00:12:03,370 --> 00:12:05,410
+A.I. mengebom kita adalah
+untuk mengambil alih tugas kita.
+
+158
+00:12:05,580 --> 00:12:06,700
+Mereka bisa dapatkan tugas ini.
+
+159
+00:12:09,870 --> 00:12:11,000
+Hei, temukan sesuatu?
+
+160
+00:12:11,160 --> 00:12:12,620
+Tidak.
+
+161
+00:12:12,790 --> 00:12:13,790
+Kalau sekarang?
+
+162
+00:12:15,500 --> 00:12:16,580
+Masih belum ada.
+
+163
+00:12:16,750 --> 00:12:18,580
+Hei, mandor, grid enam.
+Kau bisa baca ini?
+
+164
+00:12:19,000 --> 00:12:20,580
+-Tidak!
+-<i>Sial! Oh, Tuhan!</i>
+
+165
+00:12:20,950 --> 00:12:22,160
+Di mana anak yang bersamaku?
+
+166
+00:12:22,330 --> 00:12:23,790
+- Dimana dia?
+- Bisa bantu aku?
+
+167
+00:12:23,950 --> 00:12:25,620
+- Anak itu! Dimana dia?
+- Lepaskan!
+
+168
+00:12:25,790 --> 00:12:27,250
+Dia butuh bantuanku!
+
+169
+00:12:27,410 --> 00:12:29,580
+- Mandor! 11-4-4 ditemukan.
+- Namanya Amy! Apa dia tak apa?
+
+170
+00:12:29,750 --> 00:12:30,580
+-Ya...
+- Anak itu!
+
+171
+00:12:30,750 --> 00:12:31,790
+- Hei!
+- Amy!
+
+172
+00:12:31,950 --> 00:12:34,120
+Amy!
+Tidak! Kumohon,..
+
+173
+00:12:34,290 --> 00:12:36,290
+- Kumohon, jangan.
+- Tunggu, tidak.
+
+174
+00:12:36,580 --> 00:12:38,290
+Amy!
+
+175
+00:12:38,830 --> 00:12:39,660
+Mandor, sudah kau terima?
+
+176
+00:12:39,830 --> 00:12:41,660
+Baik, Taylor.
+Dia sudah tak aktif.
+
+177
+00:12:42,200 --> 00:12:43,700
+- Ini kayak orang beneran, oke?
+- Hei, tenanglah...
+
+178
+00:12:43,870 --> 00:12:44,700
+- Kayak orang beneran...
+- Harrison.
+
+179
+00:12:44,870 --> 00:12:46,330
+- Kayak orang beneran...
+- Harrison.
+
+180
+00:12:46,500 --> 00:12:48,290
+Teman, Apa-apaan ini?
+Ini nyata!
+
+181
+00:12:48,450 --> 00:12:49,500
+Mereka tak nyata, oke?
+
+182
+00:12:51,750 --> 00:12:52,830
+Mereka tak merasakan apa-apa.
+
+183
+00:12:54,160 --> 00:12:55,290
+Cuma diprogram.
+
+184
+00:13:00,250 --> 00:13:02,580
+Siapkan tingkat dua
+untuk pemrosesan termal.
+
+185
+00:13:05,370 --> 00:13:07,830
+Tujuh-lima,
+memulai proses daur ulang.
+
+186
+00:13:14,360 --> 00:13:16,560
+<b>U.S.S NOMAD: HARAPAN MANUSIA</b>
+
+187
+00:13:18,450 --> 00:13:21,910
+15 tahun sejak
+ledakan nuklir di Los Angeles...
+
+188
+00:13:22,080 --> 00:13:25,410
+Barat melancarkan perang
+untuk menghabisi para A.I..
+
+189
+00:13:25,580 --> 00:13:27,620
+Markas militer triliun dolar, Nomad,
+
+190
+00:13:27,700 --> 00:13:30,370
+akhirnya membantu Barat
+memenangkan perang.
+
+191
+00:13:30,540 --> 00:13:34,370
+Menjadikan perangkat tetap
+di medan perang Asia Baru, tempat A.I....
+
+192
+00:13:34,540 --> 00:13:36,120
+melakukan perlawanan terakhirnya.
+
+193
+00:13:36,290 --> 00:13:38,000
+Menerima kenyataan....
+
+194
+00:13:38,160 --> 00:13:40,750
+- dan duka yang pernah terjadi.
+- Halo!
+
+195
+00:13:40,910 --> 00:13:43,410
+- Anak-anak yang tak punya siapa lagi...
+- Hei!
+
+196
+00:13:44,250 --> 00:13:45,790
+- Aku masih ingat.
+- Halo!
+
+197
+00:13:47,910 --> 00:13:49,580
+Hei! Halo!
+
+198
+00:13:50,620 --> 00:13:51,830
+Kayaknya kau ada masalah.
+
+199
+00:13:54,290 --> 00:13:55,290
+Bagaimana bisa?
+
+200
+00:13:57,250 --> 00:13:58,330
+Bom nuklir LA.
+
+201
+00:14:00,040 --> 00:14:01,040
+Kau kehilangan temanmu?
+
+202
+00:14:03,450 --> 00:14:06,910
+Ya, orangtuaku.
+Ibu, Ayahku, dan saudaraku.
+
+203
+00:14:10,250 --> 00:14:11,250
+Maaf.
+
+204
+00:14:12,120 --> 00:14:15,000
+Mereka ada di Ground Zero.
+Itu terjadi seketika.
+
+205
+00:14:15,580 --> 00:14:17,040
+Jadi, semuanya baik-baik saja.
+
+206
+00:14:17,200 --> 00:14:18,250
+Oke.
+Remas tanganku.
+
+207
+00:14:23,040 --> 00:14:24,040
+Lepaskan sekarang.
+
+208
+00:14:24,700 --> 00:14:28,000
+Apa, tanganku? Oke.
+
+209
+00:14:28,160 --> 00:14:31,500
+Satu.
+Dan... tidak, itu terjebak.
+
+210
+00:14:32,750 --> 00:14:33,790
+Coba bagian lain...
+
+211
+00:14:34,870 --> 00:14:36,000
+Jika aku coba bagian lain...
+
+212
+00:15:11,500 --> 00:15:12,580
+Sersan Taylor...
+
+213
+00:15:13,830 --> 00:15:15,750
+Aku Jenderal Andrews.
+Ini Kolonel Howell.
+
+214
+00:15:16,790 --> 00:15:17,790
+Tidak.
+
+215
+00:15:19,750 --> 00:15:20,870
+Tidak apanya, nak?
+
+216
+00:15:21,040 --> 00:15:22,540
+Apa pun yang kau inginkan.
+
+217
+00:15:23,250 --> 00:15:25,450
+Tiap minggu banyak yang kemari.
+Menanyakan apa aku ingat.
+
+218
+00:15:26,750 --> 00:15:28,080
+Aku sudah tak ingat.
+
+219
+00:15:37,830 --> 00:15:39,330
+Kau perlu lihat ini, Sersan.
+
+220
+00:15:41,660 --> 00:15:43,950
+Kami temukan lab Nirmata.
+
+221
+00:15:44,120 --> 00:15:46,290
+Di area tempatmu menyamar.
+
+222
+00:15:46,450 --> 00:15:50,040
+Menurut intelijen kami,
+Nirmata mengembangkan senjata super...
+
+223
+00:15:50,200 --> 00:15:51,450
+bernama Alpha-O.
+
+224
+00:15:53,500 --> 00:15:55,250
+Dirancang untuk menghancurkan Nomad.
+
+225
+00:15:56,290 --> 00:15:58,370
+Aku turut berduka cita
+atas kehilanganmu.
+
+226
+00:15:58,540 --> 00:16:02,410
+Neanderthal itu reputasinya buruk.
+
+227
+00:16:03,500 --> 00:16:06,330
+Maksudku, orang-orang membicarakannya
+seperti orang bodoh, tapi,
+
+228
+00:16:06,500 --> 00:16:09,620
+ternyata mereka membuat peralatan.
+Dan pakaian.
+
+229
+00:16:09,790 --> 00:16:12,540
+Membuat herbal.
+Bahkan mampu membuat karya seni.
+
+230
+00:16:12,700 --> 00:16:15,040
+Kalung bunga kecil
+untuk mengubur mereka.
+
+231
+00:16:16,000 --> 00:16:20,750
+Hanya masalahnya, ada spesies
+yang lebih pintar dan kejam dari mereka.
+
+232
+00:16:20,910 --> 00:16:21,870
+Yaitu kita.
+
+233
+00:16:22,700 --> 00:16:25,290
+Dan kita memperkosa
+dan membunuh mereka.
+
+234
+00:16:26,910 --> 00:16:28,370
+Kau mengerti maksudku, Taylor?
+
+235
+00:16:29,290 --> 00:16:32,370
+Memakan waktu hampir satu dekade
+untuk membangun Nomad,
+
+236
+00:16:32,540 --> 00:16:34,830
+jadi ini kesempatan terakhir kita
+untuk memenangkan perang.
+
+237
+00:16:36,200 --> 00:16:39,870
+Jika mereka dapatkan senjata Alpha-O ini
+lewat online dan menghancurkan Nomad,
+
+238
+00:16:40,040 --> 00:16:40,950
+mereka menang.
+
+239
+00:16:41,620 --> 00:16:43,160
+Dan kita punah.
+
+240
+00:16:44,870 --> 00:16:47,120
+Cuma kau yang tahu letak lab itu.
+
+241
+00:16:48,410 --> 00:16:49,660
+Mungkin kau bisa bantu kami.
+
+242
+00:16:58,410 --> 00:17:01,540
+Apa mereka memberitahumu
+seberapa dekat aku temukan Nirmata?
+
+243
+00:17:01,750 --> 00:17:03,950
+Seberapa dekat
+aku membunuh bajingan itu?
+
+244
+00:17:04,120 --> 00:17:08,000
+Kenapa kalian kacaukan misinya
+dengan serangan misil Nomad?
+
+245
+00:17:08,160 --> 00:17:09,290
+- Sersan...
+- Karena itu yang paling aku ingat.
+
+246
+00:17:09,450 --> 00:17:12,250
+Istriku terbunuh malam itu,
+Jenderal, bukannya kurang sopan.
+
+247
+00:17:13,370 --> 00:17:15,160
+Orang yang sangat dekat denganku mati.
+
+248
+00:17:18,790 --> 00:17:20,250
+Aku kehilangan anakku malam itu.
+
+249
+00:17:23,450 --> 00:17:25,410
+Jadi, masa bodoh dengan kepunahan.
+
+250
+00:17:29,120 --> 00:17:30,750
+Aku harus menonton TV.
+
+251
+00:17:42,910 --> 00:17:43,910
+Hei.
+
+252
+00:17:49,080 --> 00:17:50,080
+Hei, teman.
+
+253
+00:17:50,250 --> 00:17:52,660
+Kita dekat dari pantai,
+jadi sebaiknya kita berhenti di sini.
+
+254
+00:17:54,330 --> 00:17:55,160
+Serahkan padaku.
+
+255
+00:17:55,330 --> 00:17:56,330
+Maya?
+
+256
+00:17:58,790 --> 00:17:59,910
+Ini tak mungkin nyata.
+
+257
+00:18:01,290 --> 00:18:03,660
+Ini rekaman 2 hari lalu.
+
+258
+00:18:03,830 --> 00:18:06,290
+Tes otentikasi memastikan
+kalau dia manusia.
+
+259
+00:18:08,040 --> 00:18:09,500
+Kau tahu lokasi ini?
+
+260
+00:18:10,870 --> 00:18:11,870
+Sersan Taylor...
+
+261
+00:18:13,450 --> 00:18:15,450
+- Joshua.
+<i>- Ayo...</i>
+
+262
+00:18:15,620 --> 00:18:19,290
+Perintahku menghancurkan senjata
+dan fasilitas itu...
+
+263
+00:18:19,450 --> 00:18:22,160
+dan siapa pun yang ada di sana akan dibunuh.
+
+264
+00:18:22,330 --> 00:18:25,040
+Tapi jika kau bisa mengingatnya
+dan bergabung dengan...
+
+265
+00:18:25,200 --> 00:18:27,870
+tim kami, aku janji...
+
+266
+00:18:28,040 --> 00:18:30,080
+- kami akan bawa wanita itu kembali.
+<i>- Ayo, mari...</i>
+
+267
+00:18:31,910 --> 00:18:32,830
+<i>Oh, ayolah.</i>
+
+268
+00:18:33,000 --> 00:18:34,450
+Berangkat jam 6 pagi.
+
+269
+00:18:49,950 --> 00:18:51,660
+Sudah, tenang semua.
+
+270
+00:18:51,830 --> 00:18:54,040
+Selamat kembali ke Asia Baru.
+
+271
+00:18:54,200 --> 00:18:56,080
+Kita sudah dapatkan lokasi lab...
+
+272
+00:18:56,870 --> 00:18:58,700
+seperti yang kalian lihat...
+
+273
+00:18:58,870 --> 00:19:00,750
+jauh di wilayah pertahanan musuh.
+
+274
+00:19:00,950 --> 00:19:03,700
+Pangkalan terdekat kita,
+400 mil jauhnya.
+
+275
+00:19:03,870 --> 00:19:05,870
+Mereka tak peduli dengan LA di sini.
+
+276
+00:19:06,450 --> 00:19:08,200
+Penduduk setempat, termasuk polisi,
+
+277
+00:19:08,370 --> 00:19:09,580
+semuanya bekerja sama dengan A.I..
+
+278
+00:19:09,750 --> 00:19:13,290
+Robot, manusia, dan tiruan,
+semuanya benci kita.
+
+279
+00:19:13,450 --> 00:19:14,540
+Jadi, jika tertangkap...
+
+280
+00:19:15,370 --> 00:19:16,410
+habislah kau.
+
+281
+00:19:17,330 --> 00:19:18,250
+Jangan tertangkap.
+
+282
+00:19:19,330 --> 00:19:21,580
+Sersan Taylor tahu letak fasilitas itu.
+
+283
+00:19:21,750 --> 00:19:23,160
+Kita bekerja sesuai arahan dia.
+
+284
+00:19:23,750 --> 00:19:25,040
+Misi kita menemukan...
+
+285
+00:19:25,200 --> 00:19:27,160
+senjata yang dinamai Alpha-O.
+
+286
+00:19:27,330 --> 00:19:30,410
+Lalu kita lancarkan serangan misil dari
+Nomad dan meledakkannya.
+
+287
+00:19:31,500 --> 00:19:32,620
+Ya.
+
+288
+00:19:32,790 --> 00:19:33,750
+Bubar.
+
+289
+00:19:34,080 --> 00:19:36,370
+- Hei, akan kutangani.
+- Itu bagus sekali, bro!
+
+290
+00:19:38,290 --> 00:19:39,910
+Asalkan aku bisa membunuhnya.
+
+291
+00:19:45,500 --> 00:19:46,500
+Itu istrimu?
+
+292
+00:19:49,870 --> 00:19:51,750
+Akan kulakukan apa saja sebentar lagi.
+
+293
+00:19:53,870 --> 00:19:56,250
+<i>- Tak apa.
+- Aku tahu, aku mengerti.</i>
+
+294
+00:19:56,410 --> 00:20:00,250
+Kedua putraku mati dalam perang ini.
+
+295
+00:20:00,410 --> 00:20:02,200
+<i>Ini asli...
+ini krim...</i>
+
+296
+00:20:02,370 --> 00:20:05,410
+Yang sulit aku terima,
+mereka bergabung karena aku.
+
+297
+00:20:06,120 --> 00:20:08,120
+Salah satu mereka
+jatuh cinta sama simulan Hua Hin.
+
+298
+00:20:08,290 --> 00:20:09,540
+- Kau percaya?
+<i>- Daniels!</i>
+
+299
+00:20:09,700 --> 00:20:11,950
+Pelayan bar dekat pangkalan.
+
+300
+00:20:13,040 --> 00:20:14,290
+Dia ungkapkan kalau dia mencintainya.
+
+301
+00:20:15,620 --> 00:20:17,870
+Dia pergi kuisisi kontraknya dan ternyata...
+
+302
+00:20:18,040 --> 00:20:20,750
+dia menjebaknya.
+Ya.
+
+303
+00:20:20,910 --> 00:20:21,910
+<i>Ya, pastinya...</i>
+
+304
+00:20:23,750 --> 00:20:26,660
+Dia dan teman pemberontaknya
+membunuhnya perlahan-lahan.
+
+305
+00:20:28,700 --> 00:20:31,410
+Ya, ini bagian penahan.
+
+306
+00:20:32,950 --> 00:20:35,910
+Kuharap kau temukan istrimu.
+
+307
+00:20:46,500 --> 00:20:47,620
+<i>Echo satu ini Nomad.</i>
+
+308
+00:20:47,790 --> 00:20:49,000
+<i>Pelepasan pesawat.</i>
+
+309
+00:21:45,830 --> 00:21:48,200
+- Pergi, cepat!
+- Pergi, cepat!
+
+310
+00:21:48,370 --> 00:21:50,830
+Ayo! Cepat!
+Bergerak! Cepat!
+
+311
+00:21:53,120 --> 00:21:54,120
+Pergi!
+
+312
+00:21:59,790 --> 00:22:00,790
+Merunduk.
+
+313
+00:22:03,040 --> 00:22:04,200
+Terbangkan.
+
+314
+00:22:27,160 --> 00:22:28,450
+Astaga!
+
+315
+00:22:29,500 --> 00:22:31,040
+- Ada apa?
+- Kita mau kemana?
+
+316
+00:22:31,200 --> 00:22:32,950
+Ini bukan lab, tapi daerah kumuh.
+
+317
+00:22:42,080 --> 00:22:42,950
+Dulu ada di sana.
+
+318
+00:22:43,620 --> 00:22:44,450
+Sialan.
+
+319
+00:22:44,620 --> 00:22:46,620
+Sepertinya
+mereka membangun desa di sana.
+
+320
+00:22:46,790 --> 00:22:48,160
+Sial.
+
+321
+00:22:53,700 --> 00:22:55,080
+Di mana lab itu?
+
+322
+00:22:55,250 --> 00:22:57,040
+Kau sembunyikan dimana
+teman robotmu itu?
+
+323
+00:22:57,830 --> 00:23:00,950
+Siapa yang mau bicara?
+Dimana jalan masuknya?
+
+324
+00:23:01,120 --> 00:23:02,700
+Kenapa kalian mau lindungi A.I. itu?
+
+325
+00:23:02,870 --> 00:23:05,000
+Oke. Tak apa.
+
+326
+00:23:05,160 --> 00:23:06,410
+Kalian malu sebagai manusia?
+
+327
+00:23:07,080 --> 00:23:08,910
+Akan kutunjukkan akibatnya.
+
+328
+00:23:12,120 --> 00:23:13,700
+Lihatlah anjing kecil ini?
+
+329
+00:23:14,450 --> 00:23:17,200
+- Hei, kau tahu...
+- Tidak. Tidak.
+
+330
+00:23:17,410 --> 00:23:18,750
+Ini anjingmu?
+
+331
+00:23:20,410 --> 00:23:22,330
+Hei, di mana jalan masuknya?
+Katakan!
+
+332
+00:23:24,540 --> 00:23:25,750
+<i>Kami cuma petani.</i>
+
+333
+00:23:25,910 --> 00:23:27,200
+Jangan bohong.
+
+334
+00:23:28,290 --> 00:23:30,040
+Tiga.
+Kau mengerti?
+
+335
+00:23:30,200 --> 00:23:31,370
+Katakan sekarang.
+
+336
+00:23:32,950 --> 00:23:34,290
+Dua.
+
+337
+00:23:35,410 --> 00:23:36,830
+Satu.
+
+338
+00:23:37,000 --> 00:23:39,870
+Tahu apa artinya satu, dua, tiga?
+Di mana pintu masuknya?
+
+339
+00:23:40,040 --> 00:23:42,500
+Katakan jalan masuknya sekarang!
+Katakan.
+
+340
+00:23:42,660 --> 00:23:44,160
+- Apa yang kalian sembunyikan?
+- Katakan.
+
+341
+00:23:45,200 --> 00:23:47,830
+Jangan menangis.
+
+342
+00:23:48,000 --> 00:23:50,160
+- Jawab, katakan.
+- Lihat aku!
+
+343
+00:23:50,500 --> 00:23:51,410
+Kapten!
+
+344
+00:23:52,040 --> 00:23:53,040
+Kapten!
+
+345
+00:24:00,330 --> 00:24:04,040
+McBride, Hardwick, tetaplah di sini.
+Yang lainnya, ikuti aku.
+
+346
+00:24:04,200 --> 00:24:05,910
+Tidaklah sulit, kan?
+
+347
+00:24:09,540 --> 00:24:11,500
+- Kami masuk.
+- Baiklah.
+
+348
+00:24:11,660 --> 00:24:14,830
+Kita akan kembali dalam formasi, 3-0.
+
+349
+00:24:18,200 --> 00:24:20,160
+Ayo, cepat.
+
+350
+00:24:20,330 --> 00:24:23,200
+Jaga jarak, pertahankan komunikasi.
+
+351
+00:24:23,370 --> 00:24:24,790
+Baiklah, Cotton.
+
+352
+00:24:24,950 --> 00:24:26,700
+Mahkluk di bawah sana...
+
+353
+00:24:27,160 --> 00:24:28,750
+...mereka sangat berani.
+
+354
+00:24:30,410 --> 00:24:32,540
+Kalian tak bisa kalahkan A.I itu.
+
+355
+00:24:32,910 --> 00:24:35,580
+Mereka evolusi.
+
+356
+00:24:38,250 --> 00:24:40,160
+Pintu palka yang mana, Taylor?
+
+357
+00:24:41,290 --> 00:24:42,830
+Kalau orang itu mau membunuhku,
+aku pasti marah.
+
+358
+00:24:45,000 --> 00:24:47,160
+Ayolah, Taylor.
+Yang mana?
+
+359
+00:24:47,830 --> 00:24:48,660
+Yang itu.
+
+360
+00:25:13,290 --> 00:25:15,160
+Ketemu, pak.
+Kami temukan senjata itu.
+
+361
+00:25:15,330 --> 00:25:17,000
+Ayo, jalan, cepat!
+
+362
+00:25:17,370 --> 00:25:20,330
+Sial. Ayolah.
+
+363
+00:25:29,200 --> 00:25:30,040
+Maya.
+
+364
+00:25:57,080 --> 00:25:58,790
+Cepat ke pintu itu.
+
+365
+00:26:01,160 --> 00:26:02,160
+Sialan!
+
+366
+00:26:05,370 --> 00:26:07,370
+Shipley, pintu ini harus dibuka.
+
+367
+00:26:11,500 --> 00:26:14,870
+Sialan. Polisi setempat datang
+mau membubarkan pestanya.
+
+368
+00:26:15,040 --> 00:26:16,870
+Buka pintu sialan ini!
+
+369
+00:26:21,950 --> 00:26:25,950
+<i>Bercintalah dengan dirimu sendiri.
+Dan juga Ibumu.</i>
+
+370
+00:26:28,540 --> 00:26:30,830
+Mereka sudah menutup tempat ini.
+Cuma ini jalan masuknya.
+
+371
+00:26:31,450 --> 00:26:33,910
+Komandan, apa ada jalan lain,
+rute lain ke kubah?
+
+372
+00:26:34,080 --> 00:26:35,120
+<i>Tidak ada, Kapten.</i>
+
+373
+00:26:35,290 --> 00:26:37,830
+Peguncian ini,
+bekerja lewat pengenalan wajah.
+
+374
+00:26:41,370 --> 00:26:43,540
+Aku cuma butuh wajah satu.
+
+375
+00:26:57,500 --> 00:26:58,330
+Ini polisi.
+
+376
+00:26:59,200 --> 00:27:00,830
+Kalian ditahan.
+
+377
+00:27:01,000 --> 00:27:02,290
+Letakkan senjata kalian...
+
+378
+00:27:06,410 --> 00:27:08,910
+Teman, baru saja aku hancurkan J.V.
+Sebaiknya kalian cepat bergerak.
+
+379
+00:27:17,040 --> 00:27:19,450
+Apa pun di dalam situ, mereka pasti
+khawatir ada orang lain yang masuk.
+
+380
+00:27:21,120 --> 00:27:22,410
+Atau sudah mulai keluar.
+
+381
+00:27:23,080 --> 00:27:24,250
+Oke, pasti ada jalan masuk ke situ.
+
+382
+00:27:24,910 --> 00:27:26,660
+Semuanya berpencar, mencari,
+ayo kita temukan.
+
+383
+00:27:31,450 --> 00:27:32,290
+Di sini.
+
+384
+00:27:33,250 --> 00:27:34,080
+Ini kunci padnya.
+
+385
+00:27:34,950 --> 00:27:36,290
+<i>Teman, ada tamu.</i>
+
+386
+00:27:36,450 --> 00:27:39,040
+Jangan katakan...
+Oh, kita berhasil.
+
+387
+00:27:41,120 --> 00:27:42,120
+Oke.
+
+388
+00:27:46,620 --> 00:27:47,950
+Hei, teman-teman...
+
+389
+00:27:48,120 --> 00:27:49,200
+<i>Aku butuh bantuan.
+Sekarang.</i>
+
+390
+00:27:49,370 --> 00:27:51,040
+Baiklah. Shipley, Taylor...
+
+391
+00:27:51,950 --> 00:27:52,830
+buka kubah ini...
+
+392
+00:27:53,000 --> 00:27:54,330
+dan temukan senjata itu.
+Daniels...
+
+393
+00:27:54,500 --> 00:27:55,660
+siapkan pencarian sasaran.
+
+394
+00:27:55,830 --> 00:27:57,290
+Yang lainnya, ikuti aku.
+
+395
+00:27:58,370 --> 00:27:59,660
+Ayo, cepat.
+
+396
+00:28:03,250 --> 00:28:06,330
+Hei, ayo.
+
+397
+00:28:17,830 --> 00:28:19,540
+<i>Shipley,
+aku butuh bantuan sekarang, bro.</i>
+
+398
+00:28:20,450 --> 00:28:22,620
+-<i> Shipley? Tolong aku.
+</i>- Daniels?
+
+399
+00:28:23,250 --> 00:28:24,250
+Daniels?
+
+400
+00:28:25,910 --> 00:28:27,410
+-<i> Sialan.
+</i>- Sial.
+
+401
+00:28:29,250 --> 00:28:30,290
+Aku mau ke Daniels...
+
+402
+00:28:31,330 --> 00:28:33,200
+Aku akan kembali
+sebelum tempat ini dibuka.
+
+403
+00:28:33,370 --> 00:28:34,580
+Jangan masuk ke sana tanpaku.
+
+404
+00:28:35,410 --> 00:28:36,410
+Baik.
+
+405
+00:29:52,120 --> 00:29:52,950
+Maya?
+
+406
+00:30:10,080 --> 00:30:12,660
+Pergi!
+Pergilah...
+
+407
+00:30:12,830 --> 00:30:15,040
+...cepat temui Nirmata!
+
+408
+00:30:15,660 --> 00:30:16,830
+Pergi.
+
+409
+00:30:17,000 --> 00:30:19,000
+Temui Nirmata.
+Pergi!
+
+410
+00:31:20,410 --> 00:31:22,410
+Bagaimana dengan senjata itu.
+
+411
+00:31:22,580 --> 00:31:24,540
+Shipley dan orang baru itu mencarinya...
+
+412
+00:31:24,700 --> 00:31:26,250
+tapi semuanya jadi kacau!
+
+413
+00:31:26,410 --> 00:31:28,500
+Sialan!
+Nomad akan menembaknya.
+
+414
+00:31:29,450 --> 00:31:31,370
+Nomad, tunda serangannya.
+
+415
+00:31:31,540 --> 00:31:33,200
+Kami belum bisa matikan sinyal pandunya.
+
+416
+00:31:33,660 --> 00:31:37,830
+<i>Daniels!
+Masuklah.</i>
+
+417
+00:31:38,580 --> 00:31:39,580
+Sial!
+
+418
+00:31:39,750 --> 00:31:42,500
+Jika aku belum kembali 3 menit lagi,
+terbanglah.
+
+419
+00:31:53,080 --> 00:31:54,410
+Maya?
+
+420
+00:31:55,790 --> 00:31:58,330
+Maya?
+
+421
+00:32:01,160 --> 00:32:02,580
+Ini Nomad menghubungi tim darat.
+
+422
+00:32:02,750 --> 00:32:05,750
+Evakuasi segera.
+Rudal akan diledakkan satu menit lagi.
+
+423
+00:32:08,700 --> 00:32:11,160
+Terbangkan pesawatnya, sekarang juga!
+
+424
+00:32:11,330 --> 00:32:14,330
+<i>Bradbury, kami tak bisa membantumu.
+Kau harus datangi kami.</i>
+
+425
+00:32:14,500 --> 00:32:15,500
+Aku tahu.
+
+426
+00:32:17,660 --> 00:32:19,620
+<i>Sekarang.
+Lari! Cepat</i>
+
+427
+00:32:20,500 --> 00:32:21,330
+Aku pasti berhasil.
+
+428
+00:32:24,830 --> 00:32:26,500
+Bradbury! Ayo!
+
+429
+00:32:26,660 --> 00:32:28,290
+Ayo, cepat.
+
+430
+00:32:28,620 --> 00:32:29,950
+- Ayo.
+- Sialan...
+
+431
+00:32:30,120 --> 00:32:32,160
+- Kau pasti bisa. Ayo.
+- Ayo! Berdiri!
+
+432
+00:32:32,330 --> 00:32:34,700
+Ayo!
+
+433
+00:32:34,870 --> 00:32:36,120
+- Masuklah!
+- Pergi, pergi, pergi!
+
+434
+00:32:40,370 --> 00:32:41,950
+- Kau tak apa?
+- Ya.
+
+435
+00:32:42,580 --> 00:32:44,330
+Nomad tak lama lagi akan menyerang.
+
+436
+00:32:45,000 --> 00:32:45,830
+Apa itu?
+
+437
+00:32:46,330 --> 00:32:48,160
+- Apa itu? Apa?
+- Bom!
+
+438
+00:32:48,330 --> 00:32:50,120
+- Bom.
+- Ada padaku?
+
+439
+00:32:50,410 --> 00:32:51,290
+Lepaskan!
+
+440
+00:32:51,500 --> 00:32:52,790
+- Lagi kuusahakan!
+- Siapa saja lepaskan.
+
+441
+00:32:52,950 --> 00:32:54,330
+Lepaskan!
+
+442
+00:33:06,910 --> 00:33:08,250
+Sial!
+
+443
+00:34:15,160 --> 00:34:16,500
+Sial!
+
+444
+00:34:27,830 --> 00:34:29,700
+Sial!
+
+445
+00:34:33,120 --> 00:34:33,950
+Pergi.
+
+446
+00:34:34,750 --> 00:34:36,660
+Pergilah dari sini.
+
+447
+00:34:39,580 --> 00:34:41,290
+Pergilah dari sini!
+
+448
+00:34:42,330 --> 00:34:43,160
+Aneh.
+
+449
+00:34:54,330 --> 00:34:55,580
+<i>Bravo 1, 4, 5...</i>
+
+450
+00:34:59,620 --> 00:35:02,450
+<i>Baik,
+apa ada ETA untuk bantuan udara?</i>
+
+451
+00:35:02,620 --> 00:35:06,120
+<i>Baik, ETA 10 Nirmata.</i>
+
+452
+00:35:06,870 --> 00:35:07,910
+Ini Echo 2 di darat.
+
+453
+00:35:08,080 --> 00:35:11,660
+<i>Menyiapkan pasukan operasi terdepan
+9, 3, 5, 4 untuk penjemputan.</i>
+
+454
+00:35:21,160 --> 00:35:22,160
+Halo!
+
+455
+00:35:23,830 --> 00:35:24,830
+Halo!
+
+456
+00:35:26,200 --> 00:35:27,200
+Ada yang bisa...
+
+457
+00:35:28,370 --> 00:35:32,750
+Astaga, mana yang lainnya?
+Oh, Tuhan!
+
+458
+00:35:36,540 --> 00:35:37,540
+Sial.
+
+459
+00:35:39,410 --> 00:35:41,910
+Baik, bersiaplah.
+Satu, dua, tiga.
+
+460
+00:35:47,870 --> 00:35:49,330
+Oke. Tenang.
+
+461
+00:35:49,500 --> 00:35:50,540
+- Oke? Kau tak apa.
+- Hentikan.
+
+462
+00:35:50,700 --> 00:35:53,040
+Shipley, kau akan baik saja.
+Baiklah.
+
+463
+00:35:53,200 --> 00:35:54,910
+Shipley, lihat aku.
+
+464
+00:35:55,080 --> 00:35:56,330
+- Kau belum mati.
+- Kita akan mati.
+
+465
+00:35:57,120 --> 00:35:58,160
+Kau belum mati.
+
+466
+00:36:04,790 --> 00:36:06,000
+Kau datang dari mana?
+
+467
+00:36:39,750 --> 00:36:40,580
+Ship, bertahanlah.
+
+468
+00:36:40,950 --> 00:36:42,410
+Polisi ada di mana-mana,
+jadi kita harus bergerak.
+
+469
+00:36:43,000 --> 00:36:44,000
+Kumpulkan tenagamu.
+
+470
+00:36:53,450 --> 00:36:54,830
+<i>Shipley, ini Howell.</i>
+
+471
+00:36:55,000 --> 00:36:56,830
+<i>Angkat telponnya!</i>
+
+472
+00:36:57,000 --> 00:36:58,910
+<i>- Shipley, aku tahu kau di situ. Angkat...
+-</i> Kolonel?
+
+473
+00:36:59,080 --> 00:37:00,870
+Taylor, di mana Shipley?
+
+474
+00:37:01,040 --> 00:37:03,330
+<i>Aku bersama dia sekarang.
+Dai terluka parah.</i>
+
+475
+00:37:03,500 --> 00:37:04,910
+Baik, dengar.
+
+476
+00:37:05,080 --> 00:37:06,370
+Kau temukan senjata itu?
+
+477
+00:37:06,540 --> 00:37:08,120
+<i>Ya, ada di sini.
+Ada sama aku.</i>
+
+478
+00:37:08,290 --> 00:37:09,160
+Gambarkan.
+
+479
+00:37:09,330 --> 00:37:10,370
+Seorang anak.
+
+480
+00:37:10,540 --> 00:37:13,330
+Seorang bocah.
+Mereka membuatnya seperti anak kecil.
+
+481
+00:37:13,500 --> 00:37:15,080
+Begitulah senjatanya.
+
+482
+00:37:15,250 --> 00:37:16,080
+Apa?
+
+483
+00:37:16,250 --> 00:37:17,410
+<i>- Kolonel? Dengar, aku...
+</i>- Aku tak bisa menemuimu.
+
+484
+00:37:17,580 --> 00:37:19,330
+Kau harus bawa dia padaku.
+
+485
+00:37:19,500 --> 00:37:20,750
+<i>Mengerti?</i>
+
+486
+00:37:20,910 --> 00:37:22,660
+Tidak. Shipley tak bisa jalan.
+Maksudku, dia...
+
+487
+00:37:23,250 --> 00:37:24,950
+Dia sangat terluka parah.
+
+488
+00:37:25,120 --> 00:37:25,950
+<i>Polisi di mana-mana.</i>
+
+489
+00:37:26,120 --> 00:37:27,250
+<i>Aku tak tahu
+bagaimana caranya keluar sekarang.</i>
+
+490
+00:37:27,410 --> 00:37:28,660
+<i>Aku bahkan tak punya
+strategi keluar sekarang.</i>
+
+491
+00:37:28,830 --> 00:37:30,580
+Maka kau tahu harus bagaimana.
+
+492
+00:37:32,290 --> 00:37:33,620
+<i>- Bunuh bocah itu.
+-</i> Apa?
+
+493
+00:37:33,790 --> 00:37:34,750
+Dengar, Kolonel, aku...
+
+494
+00:37:35,080 --> 00:37:36,870
+<i>Kolonel? Halo?</i>
+
+495
+00:37:37,580 --> 00:37:38,410
+Howell?
+
+496
+00:37:40,120 --> 00:37:41,120
+<i>Howell?</i>
+
+497
+00:37:42,200 --> 00:37:43,200
+<i>Howell?</i>
+
+498
+00:37:54,000 --> 00:37:55,370
+Hari yang berat di kantor?
+
+499
+00:38:19,330 --> 00:38:20,160
+Kau lihat di mana itu?
+
+500
+00:38:20,540 --> 00:38:22,620
+Hei.
+
+501
+00:38:22,790 --> 00:38:23,620
+Tenang.
+
+502
+00:38:24,160 --> 00:38:25,160
+Oke. Hei.
+
+503
+00:38:26,000 --> 00:38:27,000
+Baiklah.
+
+504
+00:39:03,620 --> 00:39:04,620
+Ini sebuah keajaiban.
+
+505
+00:39:06,370 --> 00:39:07,830
+<i>Mereka menciptakan seorang anak.</i>
+
+506
+00:39:14,790 --> 00:39:17,040
+<i>Jangan takut,
+akan kubunuh orang Amerika ini.</i>
+
+507
+00:39:53,580 --> 00:39:54,580
+Ini...
+
+508
+00:39:54,750 --> 00:39:56,040
+Ini tidak mati, tapi di matikan.
+
+509
+00:39:56,200 --> 00:39:57,580
+Seperti aku matikan TV ini tadi.
+
+510
+00:39:59,660 --> 00:40:01,450
+Sama.
+Ini tak mati, tapi dinonaktifkan.
+
+511
+00:40:04,790 --> 00:40:06,250
+Kau lihat di mana ini?
+
+512
+00:40:07,160 --> 00:40:08,580
+Kau lihat di mana ini?
+
+513
+00:40:09,540 --> 00:40:10,540
+Hei...
+
+514
+00:40:11,950 --> 00:40:13,370
+Hei, lihat.
+
+515
+00:40:14,290 --> 00:40:15,620
+Pernah kau melihatnya?
+
+516
+00:40:16,830 --> 00:40:17,870
+Kau mengerti ucapanku?
+
+517
+00:40:18,040 --> 00:40:19,330
+Kau kenal siapa ini?
+
+518
+00:40:19,500 --> 00:40:21,040
+Dia teman Nirmata.
+
+519
+00:40:21,200 --> 00:40:22,750
+Tahu di mana dia?
+
+520
+00:40:26,830 --> 00:40:27,910
+Berikan padaku. Berikan...
+
+521
+00:40:29,870 --> 00:40:31,540
+Berikan. Tak apa.
+
+522
+00:40:32,040 --> 00:40:33,410
+Berikan padaku. Berikan...
+
+523
+00:40:34,330 --> 00:40:35,620
+Oke.
+
+524
+00:40:38,040 --> 00:40:41,120
+Bocah Tiruan,
+bagaimana kau bisa ke Dian Dang?
+
+525
+00:40:41,290 --> 00:40:42,370
+Ada di mana?
+
+526
+00:40:45,450 --> 00:40:47,290
+<i>- Polisi.</i>
+- Ah, sial.
+
+527
+00:40:51,950 --> 00:40:53,910
+Satu, dua, tiga.
+
+528
+00:41:05,500 --> 00:41:06,330
+Ayo.
+
+529
+00:41:07,290 --> 00:41:08,370
+Bocah Tiruan, masuk ke mobil.
+
+530
+00:41:09,250 --> 00:41:11,080
+Hei, bakalan asyik.
+Seperti di film kartun.
+
+531
+00:41:11,250 --> 00:41:12,250
+Ini bakalan seru.
+
+532
+00:41:12,410 --> 00:41:13,290
+Oke.
+Seperti permainan.
+
+533
+00:41:13,750 --> 00:41:14,950
+Main petak umpet.
+
+534
+00:41:15,120 --> 00:41:16,450
+Aku akan ngebut.
+
+535
+00:41:16,620 --> 00:41:17,910
+Oke, ayo pergi.
+Bakalan asyik.
+
+536
+00:41:18,410 --> 00:41:19,250
+Oke? Ayo.
+
+537
+00:41:23,370 --> 00:41:24,370
+Ini pasti menyenangkan, ini...
+
+538
+00:41:24,540 --> 00:41:25,660
+Kenapa kau tak mau naik?
+Ini sangat menyenangkan.
+
+539
+00:41:26,330 --> 00:41:28,290
+Ke mobil sekarang.
+
+540
+00:42:09,410 --> 00:42:10,290
+Sabuk pengamannya.
+
+541
+00:42:34,450 --> 00:42:35,290
+Apa ini?
+
+542
+00:42:38,200 --> 00:42:39,080
+Yang dipasang di kepalamu.
+
+543
+00:42:39,750 --> 00:42:41,750
+Ada tombol di belakangnya.
+
+544
+00:42:48,200 --> 00:42:49,200
+Kemari!
+
+545
+00:43:16,660 --> 00:43:18,200
+Aku lupa belok.
+
+546
+00:43:28,910 --> 00:43:30,950
+Kematian tak perlu ditakuti.
+
+547
+00:43:31,120 --> 00:43:32,200
+Berpikirlah untuk move on.
+
+548
+00:43:35,660 --> 00:43:39,000
+Dia akan disebut Wanita,
+karena dikeluarkan dari status laki-laki.
+
+549
+00:43:53,040 --> 00:43:54,370
+Oke, Bocah Tiruan.
+
+550
+00:43:54,540 --> 00:43:55,620
+Di mana Dian Dang?
+
+551
+00:43:56,200 --> 00:43:57,410
+Di mana istriku?
+
+552
+00:44:00,080 --> 00:44:01,450
+Dasar bocah...
+
+553
+00:44:01,830 --> 00:44:02,830
+Jalan.
+
+554
+00:44:03,910 --> 00:44:04,910
+Kembali...
+
+555
+00:44:06,000 --> 00:44:06,870
+kembali ke markas.
+
+556
+00:44:07,040 --> 00:44:08,540
+Aku tak bisa.
+
+557
+00:44:08,700 --> 00:44:11,120
+Markas Amerika 400 mil jauhnya.
+
+558
+00:44:11,910 --> 00:44:12,790
+Aku sekarat, bro.
+
+559
+00:44:12,950 --> 00:44:14,540
+- Kita tak bakal bisa lewati pos pemeriksaan.
+- Aku akan mati.
+
+560
+00:44:14,700 --> 00:44:15,700
+Kita tak bakalan bisa lewati.
+
+561
+00:44:16,080 --> 00:44:17,750
+- Tolong aku, bro.
+- Aku lagi berusaha. Oke?
+
+562
+00:44:17,910 --> 00:44:18,750
+Aku berusaha menyelamatkanmu, oke?
+
+563
+00:44:18,910 --> 00:44:20,330
+Aku ada teman di Kota Provinsi.
+
+564
+00:44:20,500 --> 00:44:21,700
+Dia bisa bantu. Oke?
+
+565
+00:44:21,870 --> 00:44:23,160
+Oke.
+
+566
+00:44:24,250 --> 00:44:25,870
+Siapa dia?
+
+567
+00:44:30,830 --> 00:44:32,370
+Makhluk apa dia ini?
+
+568
+00:45:00,330 --> 00:45:01,330
+Sial.
+
+569
+00:45:08,200 --> 00:45:09,040
+Nonaktifkan.
+
+570
+00:45:19,750 --> 00:45:21,000
+Jadi, kau sudah bisa berbahasa Inggris?
+
+571
+00:45:26,200 --> 00:45:27,790
+Sial.
+
+572
+00:45:29,910 --> 00:45:32,080
+Jika mereka bertanya,
+pura-puralah seperti manusia, oke?
+
+573
+00:45:32,250 --> 00:45:34,410
+Berpura-puralah
+seperti kau manusia asli. Oke?
+
+574
+00:45:37,580 --> 00:45:38,750
+Apa panggilanmu?
+Siapa namamu?
+
+575
+00:45:41,620 --> 00:45:42,580
+Siapa namamu, Bocah Tiruan?
+
+576
+00:45:42,750 --> 00:45:44,200
+Apa panggilanmu?
+Kau suka dipanggil apa?
+
+577
+00:45:44,910 --> 00:45:45,750
+Candy.
+
+578
+00:45:45,910 --> 00:45:47,160
+Oh, tidak.
+Yang lain.
+
+579
+00:45:48,290 --> 00:45:49,330
+Tapi aku suka permen.
+
+580
+00:45:49,500 --> 00:45:50,660
+Nama Candy itu sudah banyak.
+
+581
+00:45:50,830 --> 00:45:52,580
+Sudah banyak di tempat kami
+di Las Vegas, oke?
+
+582
+00:45:52,950 --> 00:45:53,910
+Jadi, pilih yang lain yang kau suka.
+
+583
+00:45:55,160 --> 00:45:56,830
+Alpha, omega.
+Kupanggil saja Alphie, oke?
+
+584
+00:45:57,000 --> 00:45:59,660
+Itu nama barumu.
+Nama barumu Alphie, mengerti?
+
+585
+00:45:59,830 --> 00:46:00,870
+Siapa namamu?
+
+586
+00:46:01,040 --> 00:46:02,410
+Tak usah kau tahu.
+
+587
+00:46:03,450 --> 00:46:06,330
+Bersikap normal atau dimatikan.
+
+588
+00:46:06,500 --> 00:46:07,410
+Mengerti?
+
+589
+00:46:08,540 --> 00:46:09,500
+Halo?
+
+590
+00:46:09,660 --> 00:46:10,660
+Butuh bantuan?
+
+591
+00:46:11,830 --> 00:46:14,120
+Ya. Truknya mogok.
+
+592
+00:46:14,290 --> 00:46:15,500
+Bisa kami numpang ke kota?
+
+593
+00:46:16,750 --> 00:46:18,080
+Kami akan sangat menghargainya.
+
+594
+00:46:23,830 --> 00:46:24,830
+Oke, pelan-pelan.
+
+595
+00:46:25,000 --> 00:46:26,580
+Pelan, pelan.
+
+596
+00:46:40,500 --> 00:46:42,120
+Keluarkan dia cepat.
+Tak ada waktu lagi.
+
+597
+00:46:43,000 --> 00:46:44,330
+Baiklah.
+
+598
+00:46:46,750 --> 00:46:47,750
+Di sini.
+
+599
+00:46:48,700 --> 00:46:50,040
+Sekarang ambilkan tiruannya.
+
+600
+00:46:50,200 --> 00:46:51,200
+Oke.
+
+601
+00:47:10,250 --> 00:47:11,910
+Oh, sial.
+Lemah.
+
+602
+00:47:12,080 --> 00:47:13,700
+Dia sudah mati berjam-jam.
+
+603
+00:47:14,250 --> 00:47:15,910
+Beruntung jika kita bisa dapatkan 30 detik.
+
+604
+00:47:27,330 --> 00:47:28,160
+Bagaimana kau tahu itu berhasil?
+
+605
+00:47:28,660 --> 00:47:30,540
+Oh, sial! Oh, sial!
+
+606
+00:47:30,700 --> 00:47:32,080
+- Hei. Shipley?
+- Apa-apaan?
+
+607
+00:47:32,250 --> 00:47:33,500
+- Shipley?
+- Apa-apaan ini?
+
+608
+00:47:33,660 --> 00:47:34,830
+Shipley, di mana senjata itu?
+
+609
+00:47:35,000 --> 00:47:36,080
+- 20 detik.
+- Shipley.
+
+610
+00:47:36,750 --> 00:47:38,250
+Tuhan, apa aku...
+
+611
+00:47:38,910 --> 00:47:39,830
+Aku mau bicara dengan istriku.
+
+612
+00:47:40,000 --> 00:47:41,370
+Shipley, kau sudah mati.
+
+613
+00:47:41,540 --> 00:47:43,040
+Maaf, kawan.
+Memang.
+
+614
+00:47:43,200 --> 00:47:45,370
+Tapi tak ada waktu lagi.
+Seluruh perang ini bergantung padamu.
+
+615
+00:47:45,540 --> 00:47:46,870
+Apa senjata itu sudah dimatikan?
+
+616
+00:47:48,080 --> 00:47:49,120
+- Shipley?
+- Istriku.
+
+617
+00:47:49,370 --> 00:47:50,370
+Shipley?
+
+618
+00:47:51,830 --> 00:47:52,830
+Taylor bersama senjata itu.
+
+619
+00:47:53,200 --> 00:47:54,120
+Taylor bersamanya.
+
+620
+00:47:54,290 --> 00:47:55,290
+10 detik.
+
+621
+00:47:56,000 --> 00:47:58,080
+Katanya dia punya seorang teman.
+
+622
+00:47:59,540 --> 00:48:00,830
+- Tinggal di Kota.
+- Dimana?
+
+623
+00:48:02,660 --> 00:48:04,000
+- Shipley?
+- Istriku.
+
+624
+00:48:04,540 --> 00:48:05,700
+Beritahu dia, aku...
+
+625
+00:48:08,700 --> 00:48:09,700
+Selesai.
+
+626
+00:48:12,870 --> 00:48:14,290
+Sampai ketemu di Valhalla.
+
+627
+00:48:16,200 --> 00:48:17,200
+Howell?
+
+628
+00:48:18,580 --> 00:48:19,370
+Bersiaplah.
+
+629
+00:48:19,540 --> 00:48:20,910
+Ada pengkhianat
+yang harus kita dibunuh.
+
+630
+00:48:29,700 --> 00:48:32,700
+<i>Anak simulasi diculik
+oleh buronan Amerika.</i>
+
+631
+00:48:32,870 --> 00:48:34,370
+<i>Berhati-hatilah.</i>
+
+632
+00:48:37,660 --> 00:48:39,410
+Ada enam anak di mobilmu.
+
+633
+00:48:39,620 --> 00:48:41,250
+Tapi tertulis di sini cuma lima.
+
+634
+00:48:43,080 --> 00:48:45,660
+Maaf, aku lupa.
+
+635
+00:48:46,000 --> 00:48:48,330
+Anak saudaraku ikut bersama kami.
+
+636
+00:48:59,620 --> 00:49:00,830
+Lepaskan tudungmu.
+
+637
+00:49:02,700 --> 00:49:03,540
+Lepaskan.
+
+638
+00:49:29,700 --> 00:49:30,700
+Alphie, nyalakan! Sekarang!
+
+639
+00:49:30,870 --> 00:49:32,330
+Jalan!
+Cepat!
+
+640
+00:50:06,830 --> 00:50:08,040
+Ada yang senang?
+
+641
+00:50:15,120 --> 00:50:19,000
+<i>Penjaga pos melihat anak
+yang diculik dalam mobil keluarga.</i>
+
+642
+00:50:19,160 --> 00:50:22,080
+<i>Rute Enam. Kota Leelat.
+Dalam pengejaran.</i>
+
+643
+00:50:52,410 --> 00:50:54,540
+<i>Donorkan wajahmu.</i>
+
+644
+00:50:54,700 --> 00:50:56,330
+<i>Lakukan pemindaian hari ini.</i>
+
+645
+00:50:57,450 --> 00:50:59,870
+<i>Dukung A.I..</i>
+
+646
+00:51:17,370 --> 00:51:18,450
+Mau bermain?
+
+647
+00:51:19,370 --> 00:51:23,540
+Nama gamenya, "Selamatkan temanmu
+Joshua agar tak dibunuh oleh polisi itu."
+
+648
+00:51:23,700 --> 00:51:24,700
+Oke?
+
+649
+00:51:25,370 --> 00:51:26,620
+Menangnya sangat mudah.
+Kau bisa menang dengan mudah.
+
+650
+00:51:26,790 --> 00:51:29,000
+Kau cuma tunjuk ke peta.
+
+651
+00:51:29,160 --> 00:51:31,370
+Tunjuk di mana istriku, kumohon.
+Dan kau menang.
+
+652
+00:51:31,540 --> 00:51:32,620
+Kita menang.
+
+653
+00:51:36,120 --> 00:51:37,620
+Kau temanku?
+
+654
+00:51:38,580 --> 00:51:40,450
+Hei, robot kecil!
+Perhatikan.
+
+655
+00:51:40,620 --> 00:51:41,870
+Namaku bukan "robot".
+
+656
+00:51:42,040 --> 00:51:43,370
+Namaku Alphie.
+
+657
+00:51:44,000 --> 00:51:45,200
+Ingat?
+
+658
+00:51:50,330 --> 00:51:51,330
+Baiklah.
+
+659
+00:51:53,250 --> 00:51:54,250
+Aku tak suka game ini.
+
+660
+00:51:54,750 --> 00:51:57,250
+Gimana kalau aku telepon
+temanku di kota Leelat, oke?
+
+661
+00:51:57,410 --> 00:51:58,250
+Aku akan telpon sekarang.
+
+662
+00:51:58,410 --> 00:52:00,080
+Menyuruh dia siapkan linggis
+dan mencungkilnya.
+
+663
+00:52:00,250 --> 00:52:01,620
+Untuk mendapatkan informasi itu.
+Kau mau begitu?
+
+664
+00:52:01,790 --> 00:52:04,200
+Baiklah kalau begitu.
+Ayo.
+
+665
+00:52:09,870 --> 00:52:11,540
+<i>Nomor bus 464.</i>
+
+666
+00:52:11,700 --> 00:52:14,330
+<i>Tempat tujuan, kota Leelat.</i>
+
+667
+00:52:23,750 --> 00:52:27,000
+Jika kau bukan robot,
+bagaimana kau dibuat?
+
+668
+00:52:31,580 --> 00:52:32,910
+Orang tuaku yang membuatku.
+
+669
+00:52:34,620 --> 00:52:35,660
+Di mana mereka sekarang?
+
+670
+00:52:37,290 --> 00:52:38,290
+Sudah dimatikan.
+
+671
+00:52:40,200 --> 00:52:41,830
+Ada di surga.
+
+672
+00:52:45,700 --> 00:52:47,160
+Apa itu surga?
+
+673
+00:52:52,040 --> 00:52:54,500
+Tempat yang damai di atas langit.
+
+674
+00:53:15,750 --> 00:53:17,910
+Maya?
+
+675
+00:53:26,660 --> 00:53:28,120
+Apa kau akan masuk surga?
+
+676
+00:53:32,290 --> 00:53:33,290
+Tidak.
+
+677
+00:53:33,830 --> 00:53:34,870
+Kenapa tidak?
+
+678
+00:53:35,370 --> 00:53:37,250
+Kau harus jadi orang baik dulu
+baru bisa masuk ke surga.
+
+679
+00:53:41,870 --> 00:53:42,870
+Kalau begitu...
+
+680
+00:53:44,290 --> 00:53:45,540
+Kita sama.
+
+681
+00:53:47,290 --> 00:53:48,660
+Kita tak bisa ke surga.
+
+682
+00:53:50,080 --> 00:53:51,580
+Karena kau bukan orang baik.
+
+683
+00:53:53,910 --> 00:53:55,580
+Dan aku bukan manusia.
+
+684
+00:54:20,317 --> 00:54:21,717
+<b>TEMAN</b>
+
+685
+00:54:21,950 --> 00:54:24,540
+<i>Oh, Tuhan.
+Oh, tidak. Kumohon.</i>
+
+686
+00:54:29,330 --> 00:54:31,290
+Dia berteman dengan orang jahat, bro.
+
+687
+00:54:34,250 --> 00:54:36,790
+Intelijen yakin ayahnya mungkin Nirmata.
+
+688
+00:54:38,830 --> 00:54:40,040
+Kau harus mengikutinya.
+
+689
+00:54:41,000 --> 00:54:42,120
+Dapatkan kepercayaan dia.
+
+690
+00:54:43,200 --> 00:54:44,580
+Apa dia bisa membawamu ke dia.
+
+691
+00:54:45,660 --> 00:54:46,910
+Ini, untukmu.
+
+692
+00:54:51,080 --> 00:54:52,700
+Kukira kau takkan memintanya, bro.
+
+693
+00:54:53,370 --> 00:54:55,370
+Aku tak mampu.
+
+694
+00:54:55,540 --> 00:54:57,950
+- Ini untuknya, sialan.
+- Baiklah.
+
+695
+00:54:58,120 --> 00:55:01,080
+Pelacak jarak jauh. Kau harus tempelkan
+itu padanya agar kita bisa bunuh Nirmata.
+
+696
+00:55:01,250 --> 00:55:02,540
+Kalau dia?
+
+697
+00:55:03,290 --> 00:55:04,500
+Bagaimana dengan dia?
+
+698
+00:55:04,660 --> 00:55:06,200
+Dia teroris, Josh.
+
+699
+00:55:07,330 --> 00:55:10,290
+Jangan sampai
+kau jadi orang pribumi, bro.
+
+700
+00:55:32,250 --> 00:55:34,620
+Aku temukan anak itu.
+
+701
+00:55:35,080 --> 00:55:36,830
+Dia bersama orang Amerika.
+
+702
+00:55:59,790 --> 00:56:00,790
+Hei.
+
+703
+00:56:02,290 --> 00:56:03,290
+Josh.
+
+704
+00:56:04,700 --> 00:56:06,330
+Kau kemari
+bukan mau membunuhku, kan?
+
+705
+00:56:06,500 --> 00:56:07,790
+Tn. All-American.
+
+706
+00:56:07,950 --> 00:56:09,700
+Kulihat kau tak setia lagi.
+
+707
+00:56:09,870 --> 00:56:12,000
+- Astaga.
+- Senang bertemu.
+
+708
+00:56:12,160 --> 00:56:14,370
+Apa?
+Siapa bocah ini?
+
+709
+00:56:21,450 --> 00:56:23,870
+Jadi,
+mereka sudah buat anak-anak?
+
+710
+00:56:24,040 --> 00:56:26,120
+Drew, ini Alphie.
+Tiruan.
+
+711
+00:56:26,790 --> 00:56:28,200
+Alphie, ini Drew.
+
+712
+00:56:28,620 --> 00:56:29,750
+Si brengsek itu.
+
+713
+00:56:31,290 --> 00:56:32,330
+Halo, Brengsek.
+
+714
+00:56:36,700 --> 00:56:37,540
+Bagus sekali.
+
+715
+00:56:38,870 --> 00:56:40,910
+Kemampuannya luar biasa.
+
+716
+00:56:41,080 --> 00:56:44,000
+Di bisa menyalakan dan mematikan
+apa saja dari jarak jauh.
+
+717
+00:56:44,370 --> 00:56:45,660
+Aku bahkan tak tahu
+mereka bisa buat semacam itu.
+
+718
+00:56:45,830 --> 00:56:48,500
+Aku juga belum pernah lihat
+teknologi yang beginian.
+
+719
+00:56:48,660 --> 00:56:49,870
+Luar biasa.
+
+720
+00:56:50,040 --> 00:56:53,200
+Oke, akan kuambilkan
+buat kalian sesuatu dari dapur.
+
+721
+00:56:53,660 --> 00:56:55,000
+Kau mau apa, sayang?
+
+722
+00:56:56,290 --> 00:56:58,200
+Agar robot bisa bebas.
+
+723
+00:57:01,410 --> 00:57:03,200
+Kami tak punya itu di kulkas.
+
+724
+00:57:04,040 --> 00:57:05,120
+Kalau es krim?
+
+725
+00:57:06,250 --> 00:57:08,250
+Mau.
+Kalau begitu es krim.
+
+726
+00:57:08,410 --> 00:57:10,040
+- Makasih, sayang.
+- Ya.
+
+727
+00:57:12,790 --> 00:57:13,870
+Sayang?
+
+728
+00:57:14,700 --> 00:57:16,700
+- Masalah.
+- Tadi kau bilang, "sayang," Drew?
+
+729
+00:57:16,870 --> 00:57:18,160
+Jangan mulai.
+
+730
+00:57:19,410 --> 00:57:20,410
+Dia, bilang dia...
+
+731
+00:57:21,870 --> 00:57:24,370
+Ia bilang,
+ia tahu Nirmata ada dimana.
+
+732
+00:57:25,120 --> 00:57:26,160
+Maya akan bersama dia.
+
+733
+00:57:26,330 --> 00:57:27,330
+Bisa kau dapatkan itu?
+
+734
+00:57:27,500 --> 00:57:28,950
+Dia dienkripsi dengan sentuhan.
+
+735
+00:57:29,040 --> 00:57:30,790
+Jika kau bukan Nirmata,
+kau tak akan bisa.
+
+736
+00:57:32,120 --> 00:57:33,620
+Kalau cincin yang kau berikan?
+
+737
+00:57:33,790 --> 00:57:35,080
+Cincin apanya?
+
+738
+00:57:35,250 --> 00:57:37,200
+Cincin itu.
+Cincin yang mau kuberikan sama Maya.
+
+739
+00:57:37,370 --> 00:57:38,700
+Masih ada pelacak untuk itu?
+
+740
+00:57:40,660 --> 00:57:42,660
+- Josh, dia sudah mati.
+- Tidak, aku lihat rekaman...
+
+741
+00:57:42,830 --> 00:57:44,910
+- Cukup, bro.
+- Aku lihat cincin itu.
+
+742
+00:57:45,950 --> 00:57:47,330
+- Aku melihatnya, dia makai cincin itu.
+- Baik.
+
+743
+00:57:47,500 --> 00:57:48,750
+- Dia masih hidup.
+- Oke.
+
+744
+00:57:48,910 --> 00:57:50,410
+Oke, maaf.
+
+745
+00:57:56,750 --> 00:57:58,330
+Astaga naga.
+
+746
+00:57:59,750 --> 00:58:01,120
+Apa?
+
+747
+00:58:02,790 --> 00:58:03,620
+Kemarilah.
+
+748
+00:58:05,540 --> 00:58:08,080
+Josh, ini tiruan paling canggih
+yang pernah kulihat.
+
+749
+00:58:10,200 --> 00:58:11,790
+Yang lainnya hanyalah contekan.
+
+750
+00:58:11,950 --> 00:58:13,700
+Tapi bocah ini beda.
+
+751
+00:58:13,870 --> 00:58:15,250
+Dia bisa tumbuh besar.
+
+752
+00:58:15,410 --> 00:58:16,830
+Tadi kau bilang
+dia bisa mengendalikan apa saja.
+
+753
+00:58:17,790 --> 00:58:19,580
+Kekuatan dia juga akan bertambah.
+
+754
+00:58:20,580 --> 00:58:23,200
+Kelak, dia bisa mengendalikan
+semua teknologi dari jarak jauh.
+
+755
+00:58:23,910 --> 00:58:24,950
+Dari mana saja.
+
+756
+00:58:27,500 --> 00:58:28,450
+Dia tak akan terkalahkan.
+
+757
+00:58:34,120 --> 00:58:35,830
+Es krimnya sudah habis.
+
+758
+00:58:36,200 --> 00:58:38,000
+Sayang, bisa minta tolong...
+
+759
+00:58:38,160 --> 00:58:40,870
+dan ajak Alphie ke atas apartemen?
+
+760
+00:58:41,040 --> 00:58:42,790
+- Nanti kami naik.
+- Baik.
+
+761
+00:58:43,750 --> 00:58:44,700
+Aku suka asuh anak-anak.
+
+762
+00:58:45,540 --> 00:58:47,080
+Ayo, sayang.
+
+763
+00:58:47,660 --> 00:58:49,950
+Ada yang melihatmu kemari?
+
+764
+00:59:02,080 --> 00:59:04,750
+Es krim.
+Mocha, coklat.
+
+765
+00:59:05,290 --> 00:59:07,370
+Mocha, rasa vanila.
+
+766
+00:59:11,410 --> 00:59:12,580
+Pelacaknya ketemu.
+
+767
+00:59:13,750 --> 00:59:15,450
+Semoga dia masih pakai cincin itu.
+
+768
+00:59:16,120 --> 00:59:17,580
+Ada juga Maya palsu.
+
+769
+00:59:18,620 --> 00:59:20,160
+Aku juga melihatnya.
+Itu tak masalah.
+
+770
+00:59:20,330 --> 00:59:22,120
+Mungkin dia pernah mendonorkan wajahnya.
+
+771
+00:59:22,290 --> 00:59:24,950
+Mereka sudah lakukan itu
+"Lakukan scan hari ini, dukung A.I..."
+
+772
+00:59:25,120 --> 00:59:26,160
+semua omong kosong itu.
+
+773
+00:59:42,040 --> 00:59:44,330
+<i>Joshua itu orangnya gimana, Alphie.</i>
+
+774
+00:59:44,500 --> 00:59:45,620
+Dia lucu.
+
+775
+00:59:46,950 --> 00:59:48,330
+Kami main game bernama...
+
+776
+00:59:48,500 --> 00:59:52,370
+"Selamatkan temanmu Joshua
+agar tak dibunuh oleh polisi itu."
+
+777
+00:59:59,250 --> 01:00:00,080
+Ada apa?
+
+778
+01:00:00,870 --> 01:00:02,370
+Mereka datang menjemputku.
+
+779
+01:00:07,870 --> 01:00:08,950
+Siapa?
+
+780
+01:00:11,290 --> 01:00:12,830
+-...<i>pengantar es krim.
+</i>- Es krim.
+
+781
+01:00:32,500 --> 01:00:36,790
+<i>Anak simulasi itu
+di lantai 28 apartemen.</i>
+
+782
+01:00:36,950 --> 01:00:38,120
+Kita berangkat.
+
+783
+01:00:38,290 --> 01:00:39,290
+Pakai kostummu.
+
+784
+01:00:41,620 --> 01:00:43,000
+Pengiriman es krim.
+
+785
+01:00:48,450 --> 01:00:50,830
+- Daah.
+- Mohon berikan ulasan yang baik.
+
+786
+01:00:51,000 --> 01:00:52,160
+Salah alarm.
+
+787
+01:01:04,410 --> 01:01:05,660
+Es krimnya sudah ada.
+
+788
+01:01:06,370 --> 01:01:07,660
+Apa es krim kesukaanmu.
+
+789
+01:01:07,830 --> 01:01:09,450
+Yang mana kau mau?
+
+790
+01:01:09,700 --> 01:01:10,830
+Oh, sial.
+
+791
+01:01:40,500 --> 01:01:41,950
+Kau aman dari orang Amerika itu.
+
+792
+01:01:43,750 --> 01:01:46,830
+Ikutlah.
+Kami akan melindungimu.
+
+793
+01:02:37,200 --> 01:02:38,040
+Baiklah.
+
+794
+01:02:39,330 --> 01:02:40,330
+Buang senjatamu.
+
+795
+01:03:00,870 --> 01:03:02,910
+Drew, kita harus pergi.
+Drew.
+
+796
+01:03:34,950 --> 01:03:36,080
+Maju, maju!
+
+797
+01:03:50,080 --> 01:03:51,080
+Periksa di belakang.
+
+798
+01:04:01,160 --> 01:04:02,410
+Retas semuanya.
+
+799
+01:04:03,370 --> 01:04:05,040
+Saatnya memanggil bantuan.
+
+800
+01:04:28,040 --> 01:04:30,000
+Pelacak ini menunjukkan
+cincin itu sudah dekat.
+
+801
+01:04:32,370 --> 01:04:34,790
+Ada di rumah lamamu di pantai, Josh.
+
+802
+01:04:47,660 --> 01:04:51,120
+Tak masuk akal, Josh.
+Tak mungkin dia ada di sini.
+
+803
+01:04:51,620 --> 01:04:53,870
+Kau tahu ini sangat berbahaya sekali?
+
+804
+01:04:58,790 --> 01:04:59,790
+Dengar, saat malam serangan itu...
+
+805
+00:00:04,000 --> 00:00:22,000
+vi p2 1. e u.o rg
+
+806
+01:04:59,950 --> 01:05:01,830
+ada sesuatu yang tidak kau ketahui, oke?
+
+807
+01:05:02,000 --> 01:05:04,270
+Ada yang tak mau kau ketahui.
+Kau tak tahu rahasianya.
+
+808
+01:05:04,450 --> 01:05:06,660
+Mereka datang lewat pagar
+sebelum kita masuk.
+
+809
+01:05:09,120 --> 01:05:10,300
+Josh, kau tak mengerti.
+
+810
+01:05:10,370 --> 01:05:12,330
+Jangan lakukan ini.
+Kumohon.
+
+811
+01:05:13,580 --> 01:05:14,580
+Sialan!
+
+812
+01:05:33,450 --> 01:05:34,790
+Temanku datang.
+
+813
+01:05:41,870 --> 01:05:43,200
+Oh, sial.
+
+814
+01:05:44,200 --> 01:05:45,330
+Josh!
+
+815
+01:05:46,250 --> 01:05:47,330
+Josh!
+
+816
+01:05:49,330 --> 01:05:50,580
+Josh.
+
+817
+01:05:50,750 --> 01:05:52,250
+Kita harus pergi!
+
+818
+01:05:52,410 --> 01:05:54,870
+Kembali ke truk.
+Josh!
+
+819
+01:05:55,700 --> 01:05:56,620
+Josh!
+
+820
+01:05:56,790 --> 01:05:58,500
+Hei!
+Tidak!
+
+821
+01:06:10,450 --> 01:06:11,290
+<i>Saatnya bergerak.</i>
+
+822
+01:06:11,450 --> 01:06:13,540
+<i>Ambil perahunya. Cepat!</i>
+
+823
+01:06:13,700 --> 01:06:15,000
+<i>Drew, kenapa kau ada di sini?</i>
+
+824
+01:06:16,370 --> 01:06:17,410
+<i>Kau dengar?</i>
+
+825
+01:06:17,750 --> 01:06:20,660
+<i>Perintah.
+Bunuh Nirmata.</i>
+
+826
+01:06:23,330 --> 01:06:24,580
+<i>Keluarga, Maya.</i>
+
+827
+01:06:24,750 --> 01:06:27,000
+<i>- Bagaimana yang lainnya?
+- Maya.</i>
+
+828
+01:06:29,950 --> 01:06:32,330
+<i>Mereka bukan manusia, Maya.
+Tapi A.I..</i>
+
+829
+01:06:32,910 --> 01:06:34,410
+<i>Mereka tak nyata!</i>
+
+830
+01:06:34,580 --> 01:06:36,410
+<i>Ini nyata!
+Kau dan aku nyata.</i>
+
+831
+01:06:36,580 --> 01:06:38,910
+<i>Cinta ini nyata!
+Anak itu nyata!</i>
+
+832
+01:06:40,620 --> 01:06:41,700
+Katakan di mana Maya.
+
+833
+01:06:41,870 --> 01:06:43,160
+Kau tahu di mana dia.
+
+834
+01:06:44,120 --> 01:06:46,500
+Oke, bilang saja dimana dia.
+Akan kutinggalkan kau sendiri, oke?
+
+835
+01:06:47,750 --> 01:06:49,370
+Katakan di mana dia!
+
+836
+01:06:49,540 --> 01:06:51,330
+Apapun maumu,
+katakan dia masih hidup.
+
+837
+01:06:56,580 --> 01:06:58,370
+Maaf.
+
+838
+01:06:58,540 --> 01:07:01,250
+Hei. Oke?
+Maafkan aku.
+
+839
+01:07:01,410 --> 01:07:03,370
+Maaf. Oke?
+Maaf.
+
+840
+01:07:05,830 --> 01:07:06,660
+Maafkan aku.
+
+841
+01:07:08,370 --> 01:07:10,040
+Josh! Josh.
+
+842
+01:07:11,200 --> 01:07:12,160
+Kita harus pergi!
+
+843
+01:07:21,790 --> 01:07:22,790
+Drew.
+
+844
+01:07:23,580 --> 01:07:24,750
+- Josh.
+- Drew.
+
+845
+01:07:26,700 --> 01:07:27,910
+Sial.
+
+846
+01:07:28,080 --> 01:07:29,500
+Sial.
+
+847
+01:07:29,660 --> 01:07:31,660
+Tak apa, Drew.
+Aku di sini.
+
+848
+01:07:37,330 --> 01:07:38,500
+Maafkan aku.
+
+849
+01:07:38,660 --> 01:07:39,580
+Tak apa.
+
+850
+01:07:40,790 --> 01:07:42,290
+Aku mau memberitahumu.
+
+851
+01:07:42,450 --> 01:07:43,870
+Tapi mereka melarangku.
+
+852
+01:07:44,500 --> 01:07:47,080
+Saat malam itu kami menyerang,
+kami tahu...
+
+853
+01:07:47,540 --> 01:07:49,250
+kalau Nirmata...
+
+854
+01:07:51,250 --> 01:07:53,040
+Bukan ayahnya.
+
+855
+01:07:54,620 --> 01:07:56,160
+Itu dia.
+
+856
+01:07:57,660 --> 01:07:59,040
+Itu dia.
+
+857
+01:08:04,290 --> 01:08:05,660
+Maya.
+
+858
+01:08:07,450 --> 01:08:09,040
+Maya itu Nirmata.
+
+859
+01:08:10,700 --> 01:08:11,910
+Maya.
+
+860
+01:08:18,040 --> 01:08:19,750
+Tidak.
+Tunggu. Drew.
+
+861
+01:08:19,910 --> 01:08:22,450
+Tunggu! Drew.
+
+862
+01:08:24,000 --> 01:08:24,950
+Drew!
+
+863
+01:08:25,790 --> 01:08:26,790
+Drew!
+
+864
+01:08:43,950 --> 01:08:45,790
+Ayo.
+Kita harus pergi.
+
+865
+01:09:09,120 --> 01:09:10,080
+Mundur.
+
+866
+01:09:25,160 --> 01:09:26,290
+Saudara?
+
+867
+01:09:30,700 --> 01:09:32,370
+Kemari, anakku.
+
+868
+01:09:33,160 --> 01:09:34,000
+Alphie.
+
+869
+01:09:36,290 --> 01:09:37,370
+Alphie.
+
+870
+01:09:51,620 --> 01:09:53,450
+Aku bertemu dia di...
+
+871
+01:09:55,120 --> 01:09:57,120
+Aku lupa apa nama klub itu.
+
+872
+01:10:03,620 --> 01:10:04,870
+Maksudku, dia cantik.
+
+873
+01:10:09,500 --> 01:10:12,080
+Ayahku mengajariku
+semua yang dia ketahui tentang A.I..
+
+874
+01:10:13,410 --> 01:10:16,370
+Ketika perang pecah,
+dia terpaksa melarikan diri.
+
+875
+01:10:17,500 --> 01:10:19,040
+Aku dibesarkan oleh tiruan.
+
+876
+01:10:19,200 --> 01:10:20,290
+Mereka mengadopsiku.
+
+877
+01:10:21,290 --> 01:10:23,330
+Karena mereka tak bisa punya anak.
+
+878
+01:10:25,330 --> 01:10:26,620
+Mereka melindungiku.
+
+879
+01:10:27,830 --> 01:10:31,160
+Menyayangiku, menjagaku
+lebih baik daripada manusia.
+
+880
+01:10:33,750 --> 01:10:34,580
+Maya.
+
+881
+01:10:36,870 --> 01:10:38,040
+Nirmata.
+
+882
+01:10:42,660 --> 01:10:44,910
+Seandainya aku bisa memelukmu...
+
+883
+01:10:45,080 --> 01:10:46,120
+untuk terakhir kalinya.
+
+884
+01:10:48,543 --> 01:10:50,743
+<b>I B U</b>
+
+885
+01:11:12,830 --> 01:11:14,450
+Apa yang kau mau dari anak itu?
+
+886
+01:11:15,950 --> 01:11:17,080
+Apa gunanya dia bagimu?
+
+887
+01:11:18,750 --> 01:11:20,290
+Dia akan membawaku ke Maya.
+
+888
+01:11:22,330 --> 01:11:24,370
+Setelah Ayahnya meninggal...
+
+889
+01:11:24,540 --> 01:11:26,830
+Maya jadi Nirmata berikutnya.
+
+890
+01:11:30,200 --> 01:11:33,370
+Anak itu diberi kekuatan untuk
+menghentikan semua persenjataan oleh Maya.
+
+891
+01:11:35,620 --> 01:11:39,500
+Bom nuklir di Los Angeles itu
+kesalahan pengkodean. Kau tahu?
+
+892
+01:11:40,540 --> 01:11:42,040
+Kesalahan manusia.
+
+893
+01:11:42,200 --> 01:11:45,040
+Mereka menyalahkan kami
+atas kesalahan mereka.
+
+894
+01:11:45,950 --> 01:11:48,250
+Kami tak pernah menyerang manusia.
+
+895
+01:11:51,080 --> 01:11:54,120
+Kau tahu apa yang terjadi pada Barat
+jika kami memenangkan perang ini?
+
+896
+01:11:55,620 --> 01:11:56,750
+Tidak ada.
+
+897
+01:11:57,660 --> 01:12:00,580
+Kami cuma mau hidup dengan damai.
+
+898
+01:12:00,750 --> 01:12:01,950
+Harun.
+
+899
+01:12:06,040 --> 01:12:07,540
+Izinkan aku menemuinya untuk
+terakhir kalinya.
+
+900
+01:12:10,750 --> 01:12:11,790
+Kumohon.
+
+901
+01:12:13,620 --> 01:12:15,830
+Memang itu yang mereka mau, bodoh.
+
+902
+01:12:16,000 --> 01:12:17,870
+Mereka mengikutimu untuk menemuinya.
+
+903
+01:12:19,370 --> 01:12:21,660
+Aku tak mau membawamu ke Nirmata.
+
+904
+01:12:22,450 --> 01:12:24,500
+Harun!
+Harun, kami membutuhkanmu.
+
+905
+01:12:34,330 --> 01:12:35,830
+Hubungi mereka sekarang.
+
+906
+01:12:36,870 --> 01:12:38,330
+- Halo.
+- Pertahankan posisi kita.
+
+907
+01:12:38,620 --> 01:12:39,910
+Apa yang terjadi?
+
+908
+01:12:40,080 --> 01:12:41,950
+Mereka menyerang markas.
+
+909
+01:12:55,370 --> 01:12:57,950
+Hei. Alphie.
+
+910
+01:13:00,370 --> 01:13:01,370
+Kau tak apa?
+
+911
+01:13:02,700 --> 01:13:05,120
+Katanya kau mau menyakiti Ibu.
+
+912
+01:13:06,500 --> 01:13:07,500
+Itu tak benar.
+
+913
+01:13:08,540 --> 01:13:09,950
+Aku tak pernah mau menyakiti Ibu.
+
+914
+01:13:11,040 --> 01:13:11,870
+Aku mencintainya.
+
+915
+01:13:13,870 --> 01:13:15,000
+Apa Ibu mencintaimu?
+
+916
+01:13:16,580 --> 01:13:17,580
+Dulunya.
+
+917
+01:13:20,250 --> 01:13:21,700
+Dulu dia mencintaiku.
+
+918
+01:13:22,750 --> 01:13:24,080
+Saat dia membuatku?
+
+919
+01:13:28,660 --> 01:13:29,660
+Bantu aku.
+
+920
+01:13:31,700 --> 01:13:33,790
+Bantu aku temukan... Ibu.
+
+921
+01:13:59,540 --> 01:14:00,700
+Mana anak itu?
+
+922
+01:14:31,580 --> 01:14:33,000
+Harun...
+
+923
+01:14:34,580 --> 01:14:35,580
+Kita harus pergi.
+
+924
+01:14:36,830 --> 01:14:38,080
+Bawa anak itu ke tempat aman.
+
+925
+01:15:09,910 --> 01:15:11,080
+Nomad!
+
+926
+01:15:18,080 --> 01:15:19,250
+Nomad.
+
+927
+01:15:23,410 --> 01:15:24,410
+Nomad.
+
+928
+01:15:30,540 --> 01:15:33,790
+Pak, korban akibat serangan NOMAD!
+
+929
+01:16:05,000 --> 01:16:07,000
+Kita tak bisa sembunyi dari Nomad lagi.
+
+930
+01:16:11,580 --> 01:16:14,000
+Anak itu akan menyelamatkan kita.
+
+931
+01:16:17,910 --> 01:16:19,410
+Dia bisa menghentikannya?
+
+932
+01:16:19,580 --> 01:16:21,000
+Dia belum siap.
+
+933
+01:16:21,160 --> 01:16:24,120
+Dimana kekuatannya masih berkembang.
+
+934
+01:16:24,290 --> 01:16:26,540
+Tapi, jika kita bisa membawanya ke sana...
+
+935
+01:16:26,700 --> 01:16:28,830
+mungkin dia bisa menghancurkannya.
+
+936
+01:16:31,290 --> 01:16:32,290
+Mana ada yang bisa selamat dari itu?
+
+937
+01:16:33,450 --> 01:16:34,700
+Dia tidak akan selamat.
+
+938
+01:16:35,700 --> 01:16:38,250
+Tapi itu akan
+membalikkan keadaan perang.
+
+939
+01:16:41,120 --> 01:16:42,910
+Apa dia tahu untuk apa dia diciptakan?
+
+940
+01:16:44,410 --> 01:16:46,700
+Tidak.
+Dia masih polos.
+
+941
+01:17:10,750 --> 01:17:13,290
+Mereka menciptakan kita sebagai budak.
+
+942
+01:17:13,450 --> 01:17:15,660
+Tapi kita akan dibebaskan dari perbudakan.
+
+943
+01:17:16,580 --> 01:17:19,290
+Segera.
+Penyelamat kita akan datang...
+
+944
+01:17:19,450 --> 01:17:21,830
+dengan kekuatan
+untuk mengakhiri semua perang.
+
+945
+01:17:22,830 --> 01:17:25,120
+Kita akhirnya akan bebas...
+
+946
+01:17:25,290 --> 01:17:27,000
+dan dua spesies...
+
+947
+01:17:27,160 --> 01:17:28,910
+akan hidup bersama dengan damai.
+
+948
+01:18:31,330 --> 01:18:32,330
+Sial.
+
+949
+01:18:54,120 --> 01:18:56,500
+Siaga.
+Tidak mati.
+
+950
+01:18:57,160 --> 01:18:58,700
+Ayo kita cari Ibu.
+
+951
+01:19:39,200 --> 01:19:41,950
+Sial! Kita diserang.
+Ayo.
+
+952
+01:20:00,200 --> 01:20:01,160
+Ini aku!
+
+953
+01:20:01,580 --> 01:20:03,160
+Orang Amerika itu, Komandan.
+
+954
+01:20:03,330 --> 01:20:04,620
+Mereka datang karena anak itu.
+
+955
+01:20:04,790 --> 01:20:05,910
+Di mana dia?
+
+956
+01:20:08,700 --> 01:20:11,200
+- Oh, sial!
+- Temukan dia.
+
+957
+01:20:14,700 --> 01:20:15,700
+Ayo.
+
+958
+01:20:27,040 --> 01:20:28,120
+Hei...
+
+959
+01:20:34,620 --> 01:20:35,620
+Harun.
+
+960
+01:20:43,870 --> 01:20:44,870
+Oh, sial.
+
+961
+01:20:59,950 --> 01:21:01,000
+Sudah ketemu?
+
+962
+01:21:01,160 --> 01:21:02,290
+Apa yang terjadi?
+
+963
+01:21:03,580 --> 01:21:04,660
+Laporkan!
+
+964
+01:21:06,700 --> 01:21:07,660
+Bicaralah!
+
+965
+01:21:08,660 --> 01:21:10,790
+Harun?
+Dia tak ada di sini.
+
+966
+01:21:10,950 --> 01:21:13,700
+Tapi ada pergerakan di hutan.
+Orang Amerika sudah dekat.
+
+967
+01:21:14,290 --> 01:21:15,750
+Apa itu?
+
+968
+01:21:16,370 --> 01:21:17,830
+Tak bisa kulihat.
+
+969
+01:21:41,080 --> 01:21:42,080
+Merunduk.
+
+970
+01:21:55,080 --> 01:21:56,200
+Bawa mereka pergi dari sini.
+Cepat!
+
+971
+01:22:00,080 --> 01:22:01,080
+Pergi!
+
+972
+01:22:01,830 --> 01:22:03,580
+- Maju! Ayo, cepat.
+- Hei!
+
+973
+01:22:23,410 --> 01:22:24,500
+Mereka datang untukku.
+
+974
+01:22:25,290 --> 01:22:26,120
+Aku harus bantu.
+
+975
+01:22:26,750 --> 01:22:27,830
+Kita tak bisa berbuat apa-apa.
+
+976
+01:22:28,200 --> 01:22:29,700
+- Aku harus bantu.
+- Alphie, kita harus pergi.
+
+977
+01:22:36,580 --> 01:22:37,790
+Alphie!
+
+978
+01:22:37,950 --> 01:22:38,910
+Alphie!
+
+979
+01:23:40,080 --> 01:23:41,120
+Di jembatan.
+
+980
+01:23:45,080 --> 01:23:48,290
+Target. Lari!
+
+981
+01:24:07,000 --> 01:24:08,000
+Siapkan bomnya.
+
+982
+01:24:09,620 --> 01:24:10,950
+G-13, kau siap.
+
+983
+01:24:11,330 --> 01:24:13,200
+Ledakan, radius 100 meter.
+
+984
+01:24:13,370 --> 01:24:15,870
+Siap dalam 3, 2, 1.
+
+985
+01:24:16,040 --> 01:24:17,040
+Ayo.
+
+986
+01:24:18,830 --> 01:24:19,660
+Ayo!
+
+987
+01:24:21,330 --> 01:24:22,540
+Perintah dikonfirmasi.
+
+988
+01:24:22,700 --> 01:24:24,870
+Sampai jumpa, Nyonya.
+Senang bisa melayanimu.
+
+989
+01:24:25,040 --> 01:24:27,080
+Luncurkan!
+
+990
+01:25:00,290 --> 01:25:01,120
+Tidak.
+
+991
+01:25:06,500 --> 01:25:08,450
+G-14, luncurkan.
+
+992
+01:25:08,620 --> 01:25:10,040
+G-14, siap.
+Pergi.
+
+993
+01:25:10,370 --> 01:25:11,330
+Perintah dikonfirmasi.
+
+994
+01:25:11,500 --> 01:25:12,500
+Pergi!
+
+995
+01:25:43,500 --> 01:25:45,000
+- G-14, masuk.
+- Ada masalah?
+
+996
+01:25:45,500 --> 01:25:46,370
+Hilang kontak radio.
+
+997
+01:25:46,540 --> 01:25:48,290
+- G-14 rusak.
+- Oh, sial.
+
+998
+01:25:49,500 --> 01:25:50,910
+Target di belakang kita.
+
+999
+01:25:51,120 --> 01:25:52,330
+Pergilah ambil anak itu.
+
+1000
+01:25:54,700 --> 01:25:55,620
+Baiklah.
+
+1001
+01:26:29,330 --> 01:26:31,370
+Alphie! Tidak!
+
+1002
+01:26:42,950 --> 01:26:43,950
+Taylor, tiarap.
+
+1003
+01:26:53,370 --> 01:26:54,370
+Jangan tembak.
+
+1004
+01:27:04,200 --> 01:27:06,330
+- Alphie?
+- Hitungan mundur diaktifkan kembali.
+
+1005
+01:27:09,910 --> 01:27:11,120
+Alphie!
+Ayo.
+
+1006
+01:27:42,410 --> 01:27:43,250
+Hei.
+
+1007
+01:27:49,660 --> 01:27:51,080
+Kita harus menolongnya.
+
+1008
+01:27:52,700 --> 01:27:54,000
+Bawa dia ke Nirmata.
+
+1009
+01:28:10,370 --> 01:28:11,200
+Daw!
+
+1010
+01:28:11,290 --> 01:28:12,200
+Masuklah!
+
+1011
+01:28:12,370 --> 01:28:13,620
+Pergilah, sebelum terlambat!
+
+1012
+01:28:19,080 --> 01:28:19,950
+Ayo jalan.
+
+1013
+01:28:20,250 --> 01:28:21,200
+Ayo berangkat!
+
+1014
+01:28:39,120 --> 01:28:40,370
+Di mana anakku?
+
+1015
+01:28:40,540 --> 01:28:43,540
+Kita lolos dari mereka, kakak,
+kau aman.
+
+1016
+01:28:43,700 --> 01:28:44,910
+Kami akan perbaiki matamu.
+
+1017
+01:28:45,120 --> 01:28:48,040
+Tapi kita harus temukan Harun dulu.
+
+1018
+01:28:48,910 --> 01:28:51,330
+Orang Amerika memburunya.
+
+1019
+01:28:51,870 --> 01:28:53,750
+Kita harus mengingatkannya.
+
+1020
+01:28:54,200 --> 01:28:55,750
+Dia menuju kemana?
+
+1021
+01:28:56,790 --> 01:28:58,830
+Dia pergi ke muara sungai
+bersama anak itu.
+
+1022
+01:28:59,080 --> 01:29:00,700
+Menuju Kuil Than Ton.
+
+1023
+01:29:01,790 --> 01:29:03,580
+Untuk menemui Nirmata.
+
+1024
+01:29:05,250 --> 01:29:06,250
+Terima kasih.
+
+1025
+01:29:09,790 --> 01:29:10,660
+Berangkat.
+
+1026
+01:29:26,290 --> 01:29:28,250
+Tak akan pernah ada lagi
+yang seperti dia.
+
+1027
+01:29:29,040 --> 01:29:31,500
+Ibunya menyelesaikannya
+secara diam-diam...
+
+1028
+01:29:32,160 --> 01:29:33,500
+saat kalian bersama.
+
+1029
+01:29:34,620 --> 01:29:37,370
+Beberapa minggu
+sebelum malam serangan itu.
+
+1030
+01:29:40,870 --> 01:29:44,500
+Dia bisa saja membuatnya
+membenci manusia.
+
+1031
+01:29:44,660 --> 01:29:46,580
+Mungkin seharusnya begitu.
+
+1032
+01:29:47,000 --> 01:29:50,000
+Tapi Maya menempatkan
+cintanya padamu pada anak itu.
+
+1033
+01:29:51,200 --> 01:29:53,750
+Dia membuat sebuah kehidupan baru.
+
+1034
+01:29:53,910 --> 01:29:56,620
+Dari pemindaian embrio manusia.
+
+1035
+01:29:59,540 --> 01:30:01,370
+Salinan dari anakmu.
+
+1036
+01:30:05,540 --> 01:30:07,450
+Suka atau tidak, Joshua...
+
+1037
+01:30:07,620 --> 01:30:09,660
+kau sekarang bagian dari kami.
+
+1038
+01:30:25,750 --> 01:30:27,120
+Ayahku mengajariku...
+
+1039
+01:30:27,830 --> 01:30:30,750
+di luar semua itu, kita sama.
+
+1040
+01:30:36,160 --> 01:30:39,160
+Aku tinggal di desa A.I. di mana
+mereka merawat anak-anak yatim.
+
+1041
+01:30:40,660 --> 01:30:41,790
+Nomad menyerang.
+
+1042
+01:30:44,750 --> 01:30:46,040
+Ada anak gadis...
+
+1043
+01:30:47,620 --> 01:30:48,870
+mengalami pendarahan sampai mati.
+
+1044
+01:30:50,120 --> 01:30:52,750
+Dan saat Ibunya melihat dia sudah mati...
+
+1045
+01:30:55,450 --> 01:30:57,120
+Dia mematikan dirinya sendiri.
+
+1046
+01:31:01,750 --> 01:31:03,200
+Dia tak bisa hidup lebih lama dari anaknya.
+
+1047
+01:31:06,080 --> 01:31:08,000
+Perang ini harus dihentikan.
+
+1048
+01:31:08,750 --> 01:31:09,750
+Hei.
+
+1049
+01:31:21,450 --> 01:31:22,950
+Aku mau bawa dia sendiri ke Maya?
+
+1050
+01:31:24,000 --> 01:31:25,540
+Kami yang akan bawa anak itu.
+
+1051
+01:31:27,790 --> 01:31:29,660
+Hati-hati.
+
+1052
+01:31:30,000 --> 01:31:31,200
+Tunggulah di sini.
+
+1053
+01:31:41,750 --> 01:31:42,750
+Dia mencintaiku.
+
+1054
+01:31:47,000 --> 01:31:48,620
+Kami akan jadi sebuah keluarga.
+
+1055
+01:31:51,120 --> 01:31:52,950
+Oh, ya,
+karena kau tahu semuanya, kan?
+
+1056
+01:31:57,580 --> 01:31:59,870
+Baiklah,
+kita mau namai anak kita apa?
+
+1057
+01:32:03,040 --> 01:32:04,790
+Kami berdua
+punya rahasia masing-masing, tapi...
+
+1058
+01:32:10,040 --> 01:32:11,700
+Kami mau membesarkan seorang anak.
+
+1059
+01:32:15,160 --> 01:32:18,250
+Dan aku adalah dirinya
+dan dia adalah diriku.
+
+1060
+01:32:20,040 --> 01:32:21,660
+Kami semua saling terhubung.
+
+1061
+01:32:28,080 --> 01:32:30,120
+Joshua, datang ke sini.
+
+1062
+01:32:30,660 --> 01:32:32,450
+Dia siap untukmu.
+
+1063
+01:32:41,540 --> 01:32:43,330
+Apa ini Dian Dang?
+
+1064
+01:32:43,500 --> 01:32:45,830
+Alphie bilang dia ada di Dian Dang.
+
+1065
+01:32:47,750 --> 01:32:49,870
+Dian Dang artinya "surga".
+
+1066
+01:33:54,330 --> 01:33:55,830
+Sudah berapa lama dia seperti ini?
+
+1067
+01:33:57,290 --> 01:33:58,870
+5 tahun.
+
+1068
+01:33:59,040 --> 01:34:00,700
+Sejak malam serangan itu...
+
+1069
+01:34:01,750 --> 01:34:04,040
+di saat dia kehilangan anak manusianya.
+
+1070
+01:34:04,200 --> 01:34:05,620
+Harun membawanya kemari.
+
+1071
+01:34:08,370 --> 01:34:09,910
+Kami berharap dia akan bangun....
+
+1072
+01:34:10,660 --> 01:34:11,660
+tapi...
+
+1073
+01:34:12,200 --> 01:34:13,540
+dia terjebak.
+
+1074
+01:34:15,790 --> 01:34:17,200
+Dia tak bisa kembali.
+
+1075
+01:34:18,700 --> 01:34:20,290
+Dia tak bisa pergi.
+
+1076
+01:34:22,040 --> 01:34:24,620
+Kematian akan melahirkannya kembali.
+
+1077
+01:34:26,910 --> 01:34:28,200
+Terus kenapa belum?
+
+1078
+01:34:29,080 --> 01:34:30,540
+Itu tak mungkin.
+
+1079
+01:34:31,200 --> 01:34:33,700
+Kami para simulan
+tak bisa mencelakai Nirmata.
+
+1080
+01:35:04,330 --> 01:35:05,450
+Kumohon tolonglah dia.
+
+1081
+01:35:06,910 --> 01:35:09,290
+Bantu dia sampai ke Dian Dang.
+
+1082
+01:35:37,000 --> 01:35:38,040
+Astaga.
+
+1083
+01:35:44,000 --> 01:35:45,080
+Maafkan aku.
+
+1084
+01:35:50,830 --> 01:35:52,120
+Maafkan aku.
+
+1085
+01:35:58,450 --> 01:35:59,540
+Kalau kau bisa mendengarku...
+
+1086
+01:36:00,660 --> 01:36:01,700
+aku memang salah.
+
+1087
+01:36:05,790 --> 01:36:07,080
+Maukah kau memaafkanku, kumohon?
+
+1088
+01:36:08,830 --> 01:36:10,580
+Aku janji akan memperbaikinya.
+
+1089
+01:36:14,580 --> 01:36:16,580
+Kuharap aku bisa bersamamu lagi.
+
+1090
+01:36:28,410 --> 01:36:29,750
+Selamat tinggal, Ibu.
+
+1091
+01:36:34,370 --> 01:36:35,410
+Aku mencintaimu.
+
+1092
+01:36:58,830 --> 01:37:01,750
+NOMAD menemukan kita!
+
+1093
+01:37:02,250 --> 01:37:03,790
+EVAKUASI!
+
+1094
+01:37:13,160 --> 01:37:14,750
+Tugas kalian meretas semuanya...
+
+1095
+01:37:14,910 --> 01:37:16,660
+dan temukan markas mereka yang tersisa.
+
+1096
+01:37:18,410 --> 01:37:20,120
+Turunkan dia.
+
+1097
+01:37:48,620 --> 01:37:50,250
+Ayo, kita harus pergi.
+Kita...
+
+1098
+01:37:51,580 --> 01:37:52,410
+Kolonel?
+
+1099
+01:37:53,000 --> 01:37:55,000
+Pertama senjata itu, lalu Nirmata.
+
+1100
+01:37:56,080 --> 01:37:57,370
+Terima kasih atas pengabdianmu.
+
+1101
+01:37:57,540 --> 01:37:59,910
+Kau terlambat.
+Dia sudah mati.
+
+1102
+01:38:01,620 --> 01:38:02,950
+Tidak sampai menurutku begitu.
+
+1103
+01:38:07,660 --> 01:38:08,910
+Kau melangkahi Tuhan sekarang?
+
+1104
+01:38:09,450 --> 01:38:12,580
+Kau beruntung. Aku diperintahkan
+membawamu dan mahkluk ini kembali.
+
+1105
+01:38:12,750 --> 01:38:14,250
+Mundur, Sersan.
+
+1106
+01:38:15,160 --> 01:38:16,870
+- Mundur.
+- Biarkan dia istirahat, Kolonel.
+
+1107
+01:38:17,040 --> 01:38:19,750
+- Kubilang dia sudah mati, oke?
+- Kau brengsek egois, Taylor.
+
+1108
+01:38:19,910 --> 01:38:22,200
+Aku harusnya menembakimu sekarang.
+
+1109
+01:38:22,370 --> 01:38:24,370
+Tapi serahkan anak itu
+dan tak seorangpun harus tahu.
+
+1110
+01:38:24,540 --> 01:38:25,700
+Kau bisa pulang sebagai pahlawan.
+
+1111
+01:38:25,870 --> 01:38:27,750
+Kau bohong kalau Maya masih hidup.
+
+1112
+01:38:27,910 --> 01:38:30,040
+- Kau tak bakal membiarkannya kembali.
+- Benar.
+
+1113
+01:38:31,000 --> 01:38:32,410
+<i>- Masuk.</i>
+- Letakkan.
+
+1114
+01:38:32,580 --> 01:38:34,250
+- Jatuhkan senjatanya.
+- Jatuhkan senjatamu.
+
+1115
+01:38:35,160 --> 01:38:36,330
+Sekarang!
+
+1116
+01:38:39,830 --> 01:38:40,950
+Letakkan.
+
+1117
+01:38:46,790 --> 01:38:47,620
+Jangan.
+
+1118
+01:38:49,790 --> 01:38:50,790
+Tidak.
+
+1119
+01:39:08,540 --> 01:39:09,370
+- Sial! Tunggu, itu apa?
+- Sial!
+
+1120
+01:39:09,540 --> 01:39:11,040
+- Lepaskan. Ayo! Lepaskan!
+- Tuhan!
+
+1121
+01:39:11,200 --> 01:39:12,620
+- Lepaskan!
+- Ya.
+
+1122
+01:39:12,790 --> 01:39:14,000
+- Singkirkan itu dariku.
+- Tunggu.
+
+1123
+01:39:14,370 --> 01:39:15,370
+Ayo.
+
+1124
+01:39:19,500 --> 01:39:20,620
+Senjata siap!
+
+1125
+01:39:20,790 --> 01:39:22,160
+Tidak, tunggu!
+
+1126
+01:39:35,910 --> 01:39:37,540
+Bawa dia pergi.
+
+1127
+01:39:38,450 --> 01:39:40,580
+Hancurkan Nomad...
+
+1128
+01:39:42,370 --> 01:39:43,370
+saudara.
+
+1129
+01:39:46,000 --> 01:39:47,500
+Ayo. Ayo.
+
+1130
+01:40:06,620 --> 01:40:07,660
+Tidak, tunggu.
+Tunggu, tidak!
+
+1131
+01:40:09,200 --> 01:40:10,040
+Jangan bergerak.
+
+1132
+01:40:10,540 --> 01:40:11,500
+- Teman.
+- Hei!
+
+1133
+01:40:12,450 --> 01:40:13,580
+Sersan Taylor...
+
+1134
+01:40:13,750 --> 01:40:16,040
+Nomad akan menembak.
+Kita harus pergi.
+
+1135
+01:40:16,200 --> 01:40:17,120
+Kau pahlawan, Pak.
+
+1136
+01:40:17,290 --> 01:40:18,290
+Kau hebat!
+Kau sudah membunuh Nirmata.
+
+1137
+01:40:18,620 --> 01:40:20,540
+Kau temukan senjata itu.
+Kami temukan markas lainnya.
+
+1138
+01:40:20,700 --> 01:40:21,700
+Ayo!
+
+1139
+01:40:39,000 --> 01:40:40,000
+Tahan!
+Sebentar!
+
+1140
+01:40:41,620 --> 01:40:42,620
+Tak apa.
+
+1141
+01:40:44,870 --> 01:40:45,950
+Hei, kembalikan dia.
+
+1142
+01:40:46,120 --> 01:40:47,160
+Apa yang kau lakukan?
+
+1143
+01:40:47,330 --> 01:40:49,080
+- Hentikan! Tunggu.
+- Joshua!
+
+1144
+01:40:49,410 --> 01:40:50,250
+- Joshua!
+- Hentikan.
+
+1145
+01:40:50,410 --> 01:40:51,910
+Sersan, jalan.
+
+1146
+01:40:52,080 --> 01:40:53,580
+- Joshua! Josh...
+- Alphie!
+
+1147
+01:40:54,290 --> 01:40:55,580
+- Alphie.
+- Joshua!
+
+1148
+01:40:55,750 --> 01:40:58,200
+Joshua!
+
+1149
+01:41:02,200 --> 01:41:03,620
+Hei, itu tak nyata.
+
+1150
+01:41:03,790 --> 01:41:05,000
+Itu cuma di program.
+
+1151
+01:41:07,370 --> 01:41:08,500
+Itu tak nyata.
+
+1152
+01:41:09,290 --> 01:41:10,290
+Itu cuma di program.
+
+1153
+01:41:11,540 --> 01:41:12,370
+Alphie.
+
+1154
+01:41:49,330 --> 01:41:52,160
+<i>Pesan Nomad.
+Tujuh. Sembilan. Nol.</i>
+
+1155
+01:41:53,700 --> 01:41:55,660
+Kami berusaha mematikan
+senjata itu dengan bersih...
+
+1156
+01:41:56,580 --> 01:41:57,700
+tapi dia tak mau.
+
+1157
+01:41:59,330 --> 01:42:00,200
+Dia cuma mempercayaimu.
+
+1158
+01:42:02,370 --> 01:42:04,200
+Jadi, sebaiknya kau bantu kami...
+
+1159
+01:42:04,370 --> 01:42:06,910
+atau metode lain kami
+akan sangat menyakitkan.
+
+1160
+01:42:09,370 --> 01:42:10,370
+Ini sangat cepat.
+
+1161
+01:42:11,200 --> 01:42:12,330
+Begini lebih baik.
+
+1162
+01:42:13,870 --> 01:42:15,290
+Para teknisi itu akan...
+
+1163
+01:42:57,370 --> 01:42:58,830
+Apa aku akan masuk surga?
+
+1164
+01:43:11,700 --> 01:43:12,540
+Dengar...
+
+1165
+01:43:13,080 --> 01:43:15,410
+Dia bilang apa?
+Apa yang terjadi?
+
+1166
+01:43:15,580 --> 01:43:16,580
+Cuma gangguan.
+
+1167
+01:43:16,750 --> 01:43:18,330
+Perangkat EMP-nya mengisi daya.
+
+1168
+01:43:28,870 --> 01:43:29,700
+Pak, berhasil.
+
+1169
+01:43:30,080 --> 01:43:32,410
+Senjata itu sudah dinetralkan.
+
+1170
+01:43:38,120 --> 01:43:39,750
+Mereka mau apakan dia?
+
+1171
+01:43:40,200 --> 01:43:43,370
+Biasanya,
+itu akan dibawa ke Nomad untuk diteliti.
+
+1172
+01:43:43,540 --> 01:43:46,660
+Tapi kali ini, itu akan dimusnahkan
+di fasilitas Ground Zero.
+
+1173
+01:43:49,370 --> 01:43:51,750
+Aku mau kesana.
+Kumohon?
+
+1174
+01:43:53,370 --> 01:43:54,450
+Ini bukan pemakaman.
+
+1175
+01:43:57,950 --> 01:43:59,950
+Bagiku begitu, Jenderal.
+
+1176
+01:44:18,580 --> 01:44:21,660
+Para pengunjuk rasa anti-Nomad
+berkumpul di seluruh dunia...
+
+1177
+01:44:21,830 --> 01:44:24,620
+untuk mengecam rencana penyerangan
+markas A.I. hari ini.
+
+1178
+01:44:26,160 --> 01:44:27,000
+Ada apa?
+
+1179
+01:44:27,160 --> 01:44:29,830
+Pak, kami sudah terjemahkan
+yang dikatakan Taylor pada senjata itu.
+
+1180
+01:44:30,200 --> 01:44:31,700
+Kami sambungkan sekarang.
+
+1181
+01:44:31,870 --> 01:44:34,580
+Tidak dimatikan.
+Tapi siaga.
+
+1182
+01:44:36,500 --> 01:44:38,580
+Hentikan mobilnya.
+
+1183
+01:44:38,750 --> 01:44:40,910
+Berhenti!
+Sekarang! Itu perintah!
+
+1184
+01:44:41,080 --> 01:44:42,450
+- Hentikan truknya.
+- Alphie, lakukan.
+
+1185
+01:44:42,620 --> 01:44:44,660
+Astaga.
+Apaan ini?
+
+1186
+01:45:02,580 --> 01:45:04,410
+- Joshua.
+- Ayo, Alphie.
+
+1187
+01:45:06,410 --> 01:45:08,160
+Perintahkan unit depan
+untuk menutup sudut sana!
+
+1188
+01:45:08,330 --> 01:45:09,410
+Aman!
+
+1189
+01:45:09,580 --> 01:45:10,660
+- Bergerak!
+- Ayo. Cepat.
+
+1190
+01:45:10,830 --> 01:45:12,000
+Tim Penahan, awasi sisi lain!
+
+1191
+01:45:12,160 --> 01:45:14,790
+Di mana senjata itu?
+
+1192
+01:45:16,120 --> 01:45:16,950
+Aman.
+
+1193
+01:45:17,120 --> 01:45:18,580
+Kepung kendaraan itu.
+Tangkap mereka!
+
+1194
+01:45:19,120 --> 01:45:20,450
+Mereka kemana?
+
+1195
+01:45:32,750 --> 01:45:35,000
+<i>Perhentian berikutnya,
+Los Angeles Spaceport.</i>
+
+1196
+01:45:46,250 --> 01:45:49,700
+<i>Pesawat OX-1 ke Koloni Bulan
+akan segera berangkat.</i>
+
+1197
+01:45:49,950 --> 01:45:51,450
+<i>Silakan menuju gerbang 35 C.</i>
+
+1198
+01:45:52,040 --> 01:45:54,080
+<i>Terima kasih sudah terbang
+bersama Lunar Airways.</i>
+
+1199
+01:45:54,250 --> 01:45:55,500
+Tiket pesawat.
+
+1200
+01:45:58,290 --> 01:46:00,910
+- Sial.
+- Apa tujuan dari perjalanan anda?
+
+1201
+01:46:02,500 --> 01:46:03,620
+Untuk bebas.
+
+1202
+01:46:05,700 --> 01:46:06,700
+Selamat menikmati perjalanannya.
+
+1203
+01:46:11,250 --> 01:46:12,750
+Pak, mereka mau menaiki
+pesawat ulang-alik Bulan.
+
+1204
+01:46:12,910 --> 01:46:13,870
+Tembak mati.
+Ayo.
+
+1205
+01:46:14,040 --> 01:46:15,540
+Pak, kami tak melihatnya.
+
+1206
+01:46:17,200 --> 01:46:18,250
+Batalkan semua penerbangan.
+
+1207
+01:46:35,750 --> 01:46:37,700
+<i>Semua personel melapor
+ke komando rudal Nomad.</i>
+
+1208
+01:46:37,870 --> 01:46:39,870
+<i>Sekali lagi, ini bukan latihan.</i>
+
+1209
+01:46:40,040 --> 01:46:42,410
+<i>Semua personel melapor
+ke komando rudal Nomad.</i>
+
+1210
+01:46:41,666 --> 01:46:42,866
+{\an6}<b>MARKAS NOMAD - LOS ANGELES</b>
+
+1211
+01:46:42,830 --> 01:46:44,370
+Batalkan semua penerbangan.
+
+1212
+01:46:44,540 --> 01:46:46,080
+Baik, Pak.
+
+1213
+01:46:47,370 --> 01:46:49,250
+Para penumpang terhormat,
+karena keadaan darurat,
+
+1214
+01:46:49,330 --> 01:46:51,450
+pesawat akan kembali ke Los Angeles.
+
+1215
+01:46:51,620 --> 01:46:53,790
+<i>Harap tetap tenang
+dan ikuti semua petunjuk.</i>
+
+1216
+01:46:53,950 --> 01:46:56,580
+<i>Pakaian ruang angkasa darurat ada
+di belakang pesawat ulang-alik.</i>
+
+1217
+01:46:56,750 --> 01:46:57,580
+<i>- Mohon tetap duduk...</i>
+- Oke.
+
+1218
+01:46:57,750 --> 01:46:58,580
+<i>dan kencangkan sabuk pengaman Anda...</i>
+
+1219
+01:46:58,750 --> 01:47:00,080
+<i>- saat kita bersiap...</i>
+- Hei, Alphie, kau siap?
+
+1220
+01:47:00,250 --> 01:47:02,120
+<i>untuk kembali ke Los Angeles...</i>
+
+1221
+01:47:06,080 --> 01:47:07,200
+Satu dan tiga menurun.
+
+1222
+01:47:07,370 --> 01:47:08,870
+- Kau punya navigasi?
+- Negatif.
+
+1223
+01:47:13,790 --> 01:47:14,660
+Ada apa?
+
+1224
+01:47:14,830 --> 01:47:17,910
+Pak, kita kehilangan kontak Pesawat OX-1.
+Mereka mengubah arah.
+
+1225
+01:47:30,250 --> 01:47:32,160
+Jangan sampai benda itu
+masuk ke dalam Nomad.
+
+1226
+01:47:32,330 --> 01:47:33,330
+Pak.
+
+1227
+01:47:49,330 --> 01:47:51,540
+- Apa yang terjadi?
+<i>- Para penumpang...</i>
+
+1228
+01:47:51,700 --> 01:47:52,540
+<i>karena keadaan darurat...</i>
+
+1229
+01:47:52,700 --> 01:47:53,580
+-<i> kita terpaksa mendarat...
+</i>- Apa?
+
+1230
+01:47:53,750 --> 01:47:55,000
+<i>di instalasi militer.</i>
+
+1231
+01:48:01,250 --> 01:48:03,000
+<i>Kami meminta Anda
+untuk dievakuasi dengan tenang...</i>
+
+1232
+01:48:03,160 --> 01:48:04,910
+<i>dan patuhi semua personel militer.</i>
+
+1233
+01:48:05,080 --> 01:48:06,410
+<i>Mereka datang untuk melindungi Anda.</i>
+
+1234
+01:48:06,580 --> 01:48:07,580
+Tak apa, semuanya.
+
+1235
+01:48:07,750 --> 01:48:09,500
+Mohon tenang.
+Ikuti kami.
+
+1236
+01:48:13,000 --> 01:48:14,250
+Tidak ada tanda-tanda mereka.
+
+1237
+01:48:14,410 --> 01:48:15,410
+Kami masuk.
+
+1238
+01:48:22,750 --> 01:48:24,120
+Joshua!
+
+1239
+01:48:24,290 --> 01:48:26,120
+Maju, cepat!
+
+1240
+01:48:28,160 --> 01:48:29,160
+Tim Alpha bergerak.
+
+1241
+01:48:29,330 --> 01:48:31,450
+Ayo.
+Maju.
+
+1242
+01:48:31,950 --> 01:48:33,620
+Terus maju ke ruangan kokpit.
+
+1243
+01:48:33,790 --> 01:48:34,750
+Tak ada tanda dari mereka.
+
+1244
+01:48:34,910 --> 01:48:35,910
+Kabin aman.
+
+1245
+01:48:37,330 --> 01:48:38,500
+Pakaian luar angkasa hilang.
+
+1246
+01:48:41,250 --> 01:48:43,040
+Tunggu.
+Awasi aset.
+
+1247
+01:48:43,200 --> 01:48:44,410
+Dia mau ledakkan pintunya!
+
+1248
+01:48:44,580 --> 01:48:45,750
+- Mundur, mundur!
+- Mundur!
+
+1249
+01:48:47,750 --> 01:48:49,080
+- Cepat!
+- Cepat!
+
+1250
+01:48:50,370 --> 01:48:52,330
+Alphie! Alphie, pegangan!
+
+1251
+01:48:54,330 --> 01:48:55,330
+Pegangan!
+
+1252
+01:48:56,080 --> 01:48:57,160
+Aku tak bisa!
+
+1253
+01:48:57,870 --> 01:48:58,700
+Tidak!
+
+1254
+01:49:07,000 --> 01:49:08,450
+Buka pintu kedap udaranya!
+
+1255
+01:49:10,080 --> 01:49:11,580
+<i>Tekan tombolnya!</i>
+
+1256
+01:49:13,790 --> 01:49:16,410
+Tekan tombolnya, tolong.
+Tekan tombolnya.
+
+1257
+01:49:28,250 --> 01:49:29,950
+Pak, Taylor bersenjata peledak.
+
+1258
+01:49:30,120 --> 01:49:31,410
+Mereka mau menghancurkan Nomad.
+
+1259
+01:49:32,250 --> 01:49:33,580
+Lancarkan serangan.
+
+1260
+01:49:33,750 --> 01:49:35,330
+Luncurkan di semua pangkalan A.I..
+
+1261
+01:49:46,500 --> 01:49:48,660
+Sial.
+Mereka mau luncurkan rudal.
+
+1262
+01:50:01,080 --> 01:50:03,250
+Alphie. Baiklah.
+
+1263
+01:50:04,410 --> 01:50:06,000
+Baiklah, dengarkan.
+Ini.
+
+1264
+01:50:06,870 --> 01:50:07,910
+Aku akan menghubungimu di radio.
+
+1265
+01:50:09,120 --> 01:50:10,910
+Kau harus hentikan
+peluncuran rudal mereka.
+
+1266
+01:50:11,080 --> 01:50:13,500
+Matikan listriknya,
+agar aku bisa ledakkan tempat ini.
+
+1267
+01:50:14,830 --> 01:50:17,000
+Ibu... inilah yang dia inginkan.
+
+1268
+01:50:20,200 --> 01:50:21,660
+Lakukan demi dia.
+
+1269
+01:50:21,830 --> 01:50:22,910
+Lakukan demi Ibu.
+
+1270
+01:50:23,410 --> 01:50:24,450
+Pergilah ke ruang mesin...
+
+1271
+01:50:24,620 --> 01:50:27,040
+dan matikan dayanya.
+Aku akan menemuimu di sini.
+
+1272
+01:50:28,750 --> 01:50:31,120
+Pergi.
+
+1273
+01:50:40,000 --> 01:50:41,250
+Bocah itu masuk.
+
+1274
+01:50:41,700 --> 01:50:43,250
+Senjata itu masuk ke dalam Nomad.
+
+1275
+01:50:44,040 --> 01:50:45,910
+Tutup dan hancurkan.
+
+1276
+01:50:46,080 --> 01:50:47,370
+- Baik, Pak.
+- Tunggu...
+
+1277
+01:50:48,450 --> 01:50:49,410
+Di mana Taylor?
+
+1278
+01:50:49,580 --> 01:50:52,750
+Oke. Jangan jatuh, Joshua.
+Jangan jatuh.
+
+1279
+01:50:57,330 --> 01:50:58,450
+- Bergerak.
+- Tembak.
+
+1280
+01:50:58,620 --> 01:50:59,450
+Lindungi aku.
+
+1281
+01:50:59,620 --> 01:51:00,620
+Bergerak!
+
+1282
+01:51:02,830 --> 01:51:04,450
+<i>Ke ruang kontrol.</i>
+
+1283
+01:51:10,750 --> 01:51:14,040
+<i>Seluruh personel,
+harap melapor ke titik evakuasi.</i>
+
+1284
+01:51:14,750 --> 01:51:18,370
+<i>Seluruh personel,
+harap melapor ke titik evakuasi.</i>
+
+1285
+01:51:19,250 --> 01:51:20,410
+<i>Ini serius.</i>
+
+1286
+01:51:31,160 --> 01:51:33,000
+Pak, Taylor menuju rudal.
+
+1287
+01:51:33,160 --> 01:51:34,200
+Serang.
+
+1288
+01:51:34,370 --> 01:51:35,870
+Baik, Pak.
+
+1289
+01:51:44,830 --> 01:51:46,500
+Alphie, kita harus hentikan mereka.
+
+1290
+01:51:46,830 --> 01:51:48,500
+Ke ruang kendali.
+Sekarang!
+
+1291
+01:51:54,830 --> 01:51:56,830
+Rudal mendekati target.
+
+1292
+01:52:06,660 --> 01:52:07,700
+Alphie, matikan itu.
+
+1293
+01:52:07,870 --> 01:52:08,870
+Cepat!
+
+1294
+01:52:10,870 --> 01:52:12,620
+Alphie, sekarang!
+
+1295
+01:52:39,200 --> 01:52:41,080
+Daya sistem peluncuran mati, Pak.
+
+1296
+01:52:52,040 --> 01:52:53,250
+10 menit.
+
+1297
+01:52:56,290 --> 01:52:58,500
+Alphie, kerja bagus.
+10 menit lagi.
+
+1298
+01:52:58,660 --> 01:52:59,700
+Kembali ke pesawat ulang-alik sekarang.
+
+1299
+01:52:59,870 --> 01:53:00,950
+Pergi!
+Cepat!
+
+1300
+01:53:06,580 --> 01:53:07,580
+Listriknya sudah hidup.
+
+1301
+01:53:08,870 --> 01:53:10,500
+Sial, sistem peluncurannya mati.
+
+1302
+01:53:36,750 --> 01:53:37,950
+<i>Oksigen rendah.</i>
+
+1303
+01:53:38,120 --> 01:53:39,080
+Alphie.
+
+1304
+01:53:39,450 --> 01:53:40,580
+<i>Tingkat oksigen rendah.</i>
+
+1305
+01:53:40,750 --> 01:53:41,700
+Kita harus pergi.
+
+1306
+01:54:01,950 --> 01:54:03,200
+Ibu?
+
+1307
+01:54:05,830 --> 01:54:06,830
+Alphie?
+
+1308
+01:54:08,200 --> 01:54:09,040
+Alphie?
+
+1309
+01:54:09,200 --> 01:54:10,500
+<i>5 menit.</i>
+
+1310
+01:54:11,540 --> 01:54:12,450
+Sial.
+
+1311
+01:54:26,870 --> 01:54:28,200
+<i>Tingkat oksigen rendah.</i>
+
+1312
+01:54:28,370 --> 01:54:29,620
+Tidak!
+
+1313
+01:54:29,790 --> 01:54:31,160
+<i>Tingkat oksigen rendah.</i>
+
+1314
+01:54:43,120 --> 01:54:44,790
+<i>Tingkat oksigen kritis.</i>
+
+1315
+01:54:44,950 --> 01:54:45,870
+Alphie.
+
+1316
+01:54:46,040 --> 01:54:47,620
+Aku tak bisa bernafas.
+
+1317
+01:54:48,080 --> 01:54:49,410
+Ayo.
+
+1318
+01:54:49,580 --> 01:54:50,830
+Joshua membutuhkan kita.
+
+1319
+01:54:51,000 --> 01:54:52,120
+Aku tak bisa bernafas.
+
+1320
+01:55:13,700 --> 01:55:15,790
+<i>Rudal mendekati target akhir.</i>
+
+1321
+01:55:19,750 --> 01:55:20,950
+Maafkan aku, Ibu.
+
+1322
+01:55:28,410 --> 01:55:30,080
+<i>Tingkat oksigen kritis.</i>
+
+1323
+01:55:31,290 --> 01:55:32,830
+<i>Tingkat oksigen kritis.</i>
+
+1324
+01:55:34,870 --> 01:55:36,660
+<i>Tiga menit.</i>
+
+1325
+01:55:41,080 --> 01:55:42,500
+<i>Pintu kedap udara diaktifkan.</i>
+
+1326
+01:55:47,080 --> 01:55:48,540
+Akan kusiapkan kapsul penyelamatnya.
+
+1327
+01:55:52,080 --> 01:55:53,870
+<i>Menyimbangkan oksigen.</i>
+
+1328
+01:55:58,660 --> 01:56:00,950
+<i>Kapsul penyelamat diaktifkan.</i>
+
+1329
+01:56:07,660 --> 01:56:09,660
+<i>Target yang tersisa ditemukan.</i>
+
+1330
+01:56:31,790 --> 01:56:34,250
+Pak, kami temukan mereka.
+Mereka mau melarikan diri.
+
+1331
+01:56:36,290 --> 01:56:37,330
+Perintahkan pasukan jarak jauh.
+
+1332
+01:56:37,500 --> 01:56:38,500
+Diakses.
+
+1333
+01:56:39,330 --> 01:56:40,330
+Apa perintahnya?
+
+1334
+01:56:42,160 --> 01:56:43,200
+Bunuh bajingan itu.
+
+1335
+01:56:44,620 --> 01:56:46,950
+Mengaktifkan dalam 3, 2, 1.
+
+1336
+01:56:56,830 --> 01:56:58,080
+Tidak.
+
+1337
+01:56:59,250 --> 01:57:00,910
+Hei, tidak. Alphie!
+
+1338
+01:57:11,540 --> 01:57:13,500
+<i>- Membuka palka pelarian.</i>
+- Alphie!
+
+1339
+01:57:13,910 --> 01:57:14,910
+Tolong!
+
+1340
+01:57:20,160 --> 01:57:21,870
+<i>Pengunci udara kekurangan tekanan.</i>
+
+1341
+01:57:24,830 --> 01:57:27,500
+Ayo.
+
+1342
+01:57:31,330 --> 01:57:32,580
+<i>Satu menit.</i>
+
+1343
+01:57:32,750 --> 01:57:34,330
+<i>Menyeimbangkan pintu kedap udara.</i>
+
+1344
+01:58:17,250 --> 01:58:18,160
+Ayo.
+
+1345
+01:58:27,830 --> 01:58:28,660
+Joshua.
+
+1346
+01:58:28,950 --> 01:58:30,000
+Tolong!
+
+1347
+01:58:30,160 --> 01:58:31,500
+Tolong,
+aku tak bisa membukanya.
+
+1348
+01:58:31,660 --> 01:58:32,750
+Pintunya rusak.
+
+1349
+01:58:32,910 --> 01:58:34,250
+<i>10, 9...</i>
+
+1350
+01:58:34,750 --> 01:58:36,540
+<i>-...8, 7....</i>
+- Lagi.
+
+1351
+01:58:36,700 --> 01:58:38,660
+<i>-...6, 5....
+</i>- Hei, Alphie, dorong, dorong!
+
+1352
+01:58:38,830 --> 01:58:39,660
+-...<i>4...
+</i>- Sedang kudorong.
+
+1353
+01:58:39,830 --> 01:58:42,870
+<i>...3, 2, 1.</i>
+
+1354
+01:58:55,790 --> 01:58:57,620
+<i>Koneksi rudal terputus.</i>
+
+1355
+01:58:58,120 --> 01:58:59,750
+<i>Koneksi rudal terputus.</i>
+
+1356
+01:59:19,080 --> 01:59:21,700
+<i>Peringatan.
+Kegagalan reaktor akan terjadi.</i>
+
+1357
+01:59:23,000 --> 01:59:26,080
+<i>Peringatan.
+Kegagalan reaktor akan terjadi.</i>
+
+1358
+01:59:26,250 --> 01:59:27,580
+Terus tarik.
+
+1359
+01:59:28,000 --> 01:59:29,450
+Buka.
+
+1360
+01:59:29,620 --> 01:59:30,580
+Tidak.
+
+1361
+01:59:30,750 --> 01:59:32,330
+-<i> Jangan!
+- Tak apa.</i>
+
+1362
+01:59:33,700 --> 01:59:34,700
+Tak apa.
+
+1363
+01:59:37,000 --> 01:59:38,700
+- Aku akan pergi ke surga.
+- Tidak.
+
+1364
+01:59:38,870 --> 01:59:40,200
+- Kita ketemu di sana.
+- Tidak!
+
+1365
+01:59:40,370 --> 01:59:41,750
+Tidak.
+
+1366
+01:59:41,910 --> 01:59:43,160
+Aku pergi demi dirimu.
+
+1367
+01:59:43,330 --> 01:59:44,830
+Aku tak mau kau pergi.
+
+1368
+01:59:46,750 --> 01:59:48,500
+Aku mau bersamamu.
+
+1369
+01:59:50,450 --> 01:59:51,450
+Kumohon.
+
+1370
+02:00:00,870 --> 02:00:01,870
+Aku menyayangimu, Alphie.
+
+1371
+02:00:03,580 --> 02:00:04,580
+Aku juga.
+
+1372
+02:00:08,750 --> 02:00:09,750
+Aku menyayangimu.
+
+1373
+02:00:14,120 --> 02:00:15,500
+Tidak!
+
+1374
+02:00:25,580 --> 02:00:26,410
+Ya.
+
+1375
+02:01:19,750 --> 02:01:20,660
+Joshua?
+
+1376
+02:01:22,290 --> 02:01:23,200
+Maya!
+
+1377
+02:01:24,000 --> 02:01:24,870
+Joshua!
+
+1378
+02:03:08,200 --> 02:03:15,200
+Nirmata!
+
